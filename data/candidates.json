@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-08-18T22:44:41.875Z",
+  "updatedAt": "2026-08-18T23:40:31.670Z",
   "candidates": {
     "01virex-dsh-foxy-jumpscare": {
       "id": "01virex-dsh-foxy-jumpscare",
@@ -66763,7 +66763,7 @@
         "fullName": "EternalNight996/dsh-ui-agents-pixe",
         "url": "https://github.com/EternalNight996/dsh-ui-agents-pixe"
       },
-      "summary": "🧑‍💼为 DeepSeek Harness Web 主窗口添加「工作角色」页签 + 「像素办公室」浮层：内置 508 张完整角色卡（The Agency 255 + agency-agents-zh 253），支持搜索 / 中英切换 / 分部分类选人；Canvas 2D 像素小人可站立、打字、踱步，浮层可拖动折叠缩放，选人即入列；闲聊台词可接 AI（内置或外部接口，20 字内中文）。npm 双面包 + cordis 组合补丁层（dsh.bundle.patch），一条命令安装，不改 dsh 源码，重启不丢。",
+      "summary": "EternalNight996/dsh-ui-agents-pixe",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -66775,7 +66775,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-18T22:44:41.875Z",
-      "lastSeenAt": "2026-08-18T22:44:41.875Z",
+      "lastSeenAt": "2026-08-18T23:40:31.670Z",
       "checks": {
         "checkedAt": "2026-08-18T22:44:41.875Z",
         "publicRepository": true,
@@ -66800,40 +66800,6 @@
         "lastPushAt": "2026-08-18T17:55:48Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-18T22:44:41.875Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "agent",
-          "browser",
-          "chat",
-          "cli",
-          "context",
-          "data",
-          "desktop",
-          "file",
-          "knowledge",
-          "search",
-          "terminal",
-          "testing",
-          "theme",
-          "tool",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:cordis",
-          "text:testing-debugging:日志",
-          "text:orchestration:编排",
-          "text:memory-context:会话",
-          "text:search-browsing:搜索",
-          "text:knowledge-management:rag",
-          "text:document-processing:office",
-          "text:themes-layout:color"
-        ],
-        "needsReview": true
       }
     },
     "ethan0084-dsh-cockpit": {
@@ -167676,7 +167642,7 @@
         "fullName": "mux9056-bot/dsh-theme",
         "url": "https://github.com/mux9056-bot/dsh-theme"
       },
-      "summary": "DeepSeek Harness 主题插件 · 30 款即插即用主题（零依赖 DSH 客户端插件 + 独立 CSS）/ 30-theme pack for DeepSeek Harness web UI",
+      "summary": "mux9056-bot/dsh-theme",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -167688,7 +167654,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-18T22:44:41.875Z",
-      "lastSeenAt": "2026-08-18T22:44:41.875Z",
+      "lastSeenAt": "2026-08-18T23:40:31.670Z",
       "checks": {
         "checkedAt": "2026-08-18T22:44:41.875Z",
         "publicRepository": true,
@@ -167713,41 +167679,6 @@
         "lastPushAt": "2026-08-18T07:03:07Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-18T22:44:41.875Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "agent",
-          "api",
-          "browser",
-          "data",
-          "document",
-          "file",
-          "integration",
-          "knowledge",
-          "layout",
-          "project-analysis",
-          "terminal",
-          "testing",
-          "theme",
-          "tool",
-          "ui",
-          "visualization"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:testing-debugging:测试",
-          "text:project-analysis:dependency",
-          "text:planning-execution:执行",
-          "text:search-browsing:浏览器",
-          "text:knowledge-management:rag",
-          "text:document-processing:document",
-          "text:themes-layout:theme"
-        ],
-        "needsReview": true
       }
     },
     "muyangplus-dsh-oi-workbench": {
@@ -290265,6 +290196,10 @@
         {
           "at": "2026-08-18T16:51:58.260Z",
           "reason": "https://api.github.com/repos/zjl1989-li/dsh-harness-zh: 404"
+        },
+        {
+          "at": "2026-08-18T23:40:31.670Z",
+          "reason": "https://api.github.com/repos/zjl1989-li/dsh-harness-zh: 404"
         }
       ]
     },
@@ -295632,8 +295567,8 @@
   },
   "failures": [
     {
-      "at": "2026-08-18T22:44:41.875Z",
-      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T16%3A42%3A39Z..2026-08-14T03%3A12%3A49Z&sort=updated&order=desc&per_page=100&page=2: 403"
+      "at": "2026-08-18T23:40:31.670Z",
+      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T17%3A38%3A27Z..2026-08-14T04%3A08%3A37Z&sort=updated&order=desc&per_page=100&page=1: 403"
     }
   ]
 }
