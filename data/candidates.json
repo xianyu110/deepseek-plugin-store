@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-08-18T17:47:06.887Z",
+  "updatedAt": "2026-08-18T19:00:06.213Z",
   "candidates": {
     "01virex-dsh-foxy-jumpscare": {
       "id": "01virex-dsh-foxy-jumpscare",
@@ -29596,7 +29596,7 @@
         "fullName": "bitxeno/dsh-github-picker",
         "url": "https://github.com/bitxeno/dsh-github-picker"
       },
-      "summary": "GitHub issue and pull request references for the DeepSeek Harness web GUI",
+      "summary": "bitxeno/dsh-github-picker",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -29608,7 +29608,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-18T17:47:06.887Z",
-      "lastSeenAt": "2026-08-18T17:47:06.887Z",
+      "lastSeenAt": "2026-08-18T19:00:06.213Z",
       "checks": {
         "checkedAt": "2026-08-18T17:47:06.887Z",
         "publicRepository": true,
@@ -29633,46 +29633,6 @@
         "lastPushAt": "2026-08-18T03:48:11Z",
         "latestReleaseAt": "2026-08-18T03:32:56Z",
         "capturedAt": "2026-08-18T17:47:06.887Z"
-      },
-      "classificationSuggestion": {
-        "group": "agents-workflows",
-        "category": "automation",
-        "tags": [
-          "agent",
-          "api",
-          "automation",
-          "browser",
-          "chat",
-          "cli",
-          "data",
-          "education",
-          "file",
-          "image",
-          "integration",
-          "knowledge",
-          "monitoring",
-          "planning",
-          "project-analysis",
-          "search",
-          "skill",
-          "terminal",
-          "testing",
-          "theme",
-          "tool"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:automation:automat",
-          "text:planning-execution:task",
-          "text:memory-context:token",
-          "text:search-browsing:search",
-          "text:knowledge-management:rag",
-          "text:themes-layout:color",
-          "text:visualization:render"
-        ],
-        "needsReview": true
       }
     },
     "bkmoon1024-dsh-ci-cd-bot": {
@@ -47010,7 +46970,7 @@
         "fullName": "Coprexist/dsh-session-recovery",
         "url": "https://github.com/Coprexist/dsh-session-recovery"
       },
-      "summary": "从原始磁盘恢复被删除/损坏的 dsh 会话记录与记忆库——DeepSeek Harness 实战验证的恢复工具集。Recover deleted or corrupted dsh session logs (session.jsonl.zstd) and memory (memory.db) from the raw disk — battle-tested recovery toolkit for DeepSeek Harness.",
+      "summary": "Coprexist/dsh-session-recovery",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -47022,7 +46982,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-18T17:47:06.887Z",
-      "lastSeenAt": "2026-08-18T17:47:06.887Z",
+      "lastSeenAt": "2026-08-18T19:00:06.213Z",
       "checks": {
         "checkedAt": "2026-08-18T17:47:06.887Z",
         "publicRepository": true,
@@ -47047,38 +47007,6 @@
         "lastPushAt": "2026-08-18T15:20:29Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-18T17:47:06.887Z"
-      },
-      "classificationSuggestion": {
-        "group": "agents-workflows",
-        "category": "automation",
-        "tags": [
-          "automation",
-          "chat",
-          "cli",
-          "data",
-          "file",
-          "knowledge",
-          "layout",
-          "memory",
-          "project-analysis",
-          "testing",
-          "theme",
-          "tool",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:test",
-          "text:automation:automat",
-          "text:memory-context:session",
-          "text:knowledge-management:rag",
-          "text:themes-layout:background",
-          "text:desktop-mobile:web ui",
-          "text:files-terminal:git"
-        ],
-        "needsReview": true
       }
     },
     "cora093-dsh-web-search-codex": {
@@ -181618,7 +181546,7 @@
         "fullName": "ParticleLight/dsh-all-usage",
         "url": "https://github.com/ParticleLight/dsh-all-usage"
       },
-      "summary": "DeepSeek Harness 用量看板 / Usage dashboard: tokens, cache, model/provider/workspace analytics, DeepSeek balance, heatmap, and CSV export.",
+      "summary": "ParticleLight/dsh-all-usage",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -181630,7 +181558,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-18T17:47:06.887Z",
-      "lastSeenAt": "2026-08-18T17:47:06.887Z",
+      "lastSeenAt": "2026-08-18T19:00:06.213Z",
       "checks": {
         "checkedAt": "2026-08-18T17:47:06.887Z",
         "publicRepository": true,
@@ -181655,35 +181583,6 @@
         "lastPushAt": "2026-08-18T15:59:56Z",
         "latestReleaseAt": "2026-08-18T15:59:56Z",
         "capturedAt": "2026-08-18T17:47:06.887Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "api",
-          "browser",
-          "context",
-          "data",
-          "file",
-          "knowledge",
-          "layout",
-          "project-analysis",
-          "terminal",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:日志",
-          "text:memory-context:token",
-          "text:search-browsing:浏览器",
-          "text:knowledge-management:rag",
-          "text:navigation-panels:dashboard",
-          "text:files-terminal:git",
-          "text:data-processing:analytics"
-        ],
-        "needsReview": true
       }
     },
     "pastsheep-dsh-soln-panel": {
@@ -209996,7 +209895,7 @@
         "fullName": "siberiah2o/dsh-plugin-remote",
         "url": "https://github.com/siberiah2o/dsh-plugin-remote"
       },
-      "summary": "Remote access gateway for the DeepSeek Harness Web GUI: login auth + HTTP/WebSocket reverse proxy to the loopback DSH server.",
+      "summary": "siberiah2o/dsh-plugin-remote",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -210008,7 +209907,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-18T17:47:06.887Z",
-      "lastSeenAt": "2026-08-18T17:47:06.887Z",
+      "lastSeenAt": "2026-08-18T19:00:06.213Z",
       "checks": {
         "checkedAt": "2026-08-18T17:47:06.887Z",
         "publicRepository": true,
@@ -210033,30 +209932,6 @@
         "lastPushAt": "2026-08-18T10:46:51Z",
         "latestReleaseAt": "2026-08-18T10:46:52Z",
         "capturedAt": "2026-08-18T17:47:06.887Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "data",
-          "layout",
-          "mobile",
-          "theme",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:memory-context:session",
-          "text:themes-layout:theme",
-          "text:navigation-panels:panel",
-          "text:desktop-mobile:mobile",
-          "text:files-terminal:git",
-          "text:data-processing:json",
-          "text:media-tools:media"
-        ],
-        "needsReview": true
       }
     },
     "siberiah2o-dsh-plugin-terminal": {
@@ -295548,8 +295423,8 @@
   },
   "failures": [
     {
-      "at": "2026-08-18T17:47:06.887Z",
-      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T11%3A45%3A18Z..2026-08-13T22%3A15%3A26Z&sort=updated&order=desc&per_page=100&page=5: 403"
+      "at": "2026-08-18T19:00:06.213Z",
+      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T12%3A58%3A14Z..2026-08-13T23%3A28%3A23Z&sort=updated&order=desc&per_page=100&page=5: 403"
     }
   ]
 }
