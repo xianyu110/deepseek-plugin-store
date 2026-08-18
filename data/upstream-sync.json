@@ -1,81 +1,81 @@
 {
   "schemaVersion": 2,
-  "checkedAt": "2026-08-18T21:42:50.524Z",
+  "checkedAt": "2026-08-18T22:45:28.359Z",
   "status": "partial",
   "sources": [
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/README.md",
-      "checkedAt": "2026-08-18T21:42:50.524Z",
+      "checkedAt": "2026-08-18T22:45:28.359Z",
       "status": "ok"
     },
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/README.zh.md",
-      "checkedAt": "2026-08-18T21:42:50.524Z",
+      "checkedAt": "2026-08-18T22:45:28.359Z",
       "status": "ok"
     },
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/index.html",
-      "checkedAt": "2026-08-18T21:42:50.524Z",
+      "checkedAt": "2026-08-18T22:45:28.359Z",
       "status": "failed"
     },
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/zh/index.html",
-      "checkedAt": "2026-08-18T21:42:50.524Z",
+      "checkedAt": "2026-08-18T22:45:28.359Z",
       "status": "failed"
     },
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/sitemap.xml",
-      "checkedAt": "2026-08-18T21:42:50.524Z",
+      "checkedAt": "2026-08-18T22:45:28.359Z",
       "status": "failed"
     },
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/feed.xml",
-      "checkedAt": "2026-08-18T21:42:50.524Z",
+      "checkedAt": "2026-08-18T22:45:28.359Z",
       "status": "failed"
     },
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/zh/feed.xml",
-      "checkedAt": "2026-08-18T21:42:50.524Z",
+      "checkedAt": "2026-08-18T22:45:28.359Z",
       "status": "failed"
     },
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/plugins.json",
-      "checkedAt": "2026-08-18T21:42:50.524Z",
+      "checkedAt": "2026-08-18T22:45:28.359Z",
       "status": "failed"
     },
     {
       "url": "https://api.github.com/repos/awesome-dsh-plugin/awesome-dsh-plugin",
-      "checkedAt": "2026-08-18T21:42:50.524Z",
+      "checkedAt": "2026-08-18T22:45:28.359Z",
       "status": "ok"
     },
     {
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "checkedAt": "2026-08-18T21:42:50.524Z",
+      "checkedAt": "2026-08-18T22:45:28.359Z",
       "status": "ok"
     },
     {
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pulls?q=is%3Apr+is%3Aopen",
-      "checkedAt": "2026-08-18T21:42:50.524Z",
+      "checkedAt": "2026-08-18T22:45:28.359Z",
       "status": "ok"
     },
     {
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/issues?q=is%3Aissue+is%3Aopen",
-      "checkedAt": "2026-08-18T21:42:50.524Z",
+      "checkedAt": "2026-08-18T22:45:28.359Z",
       "status": "ok"
     },
     {
       "url": "https://awesome-dsh-plugin.com/",
-      "checkedAt": "2026-08-18T21:42:50.524Z",
+      "checkedAt": "2026-08-18T22:45:28.359Z",
       "status": "ok"
     },
     {
       "url": "https://awesome-dsh-plugin.com/sitemap.xml",
-      "checkedAt": "2026-08-18T21:42:50.524Z",
+      "checkedAt": "2026-08-18T22:45:28.359Z",
       "status": "ok"
     },
     {
       "url": "https://awesome-dsh-plugin.com/feed.xml",
-      "checkedAt": "2026-08-18T21:42:50.524Z",
+      "checkedAt": "2026-08-18T22:45:28.359Z",
       "status": "ok"
     }
   ],
@@ -84,11 +84,12 @@
     "website": "https://awesome-dsh-plugin.com/",
     "repositoryReachable": true,
     "websiteReachable": true,
-    "stars": 8827,
-    "forks": 1290,
+    "stars": 8848,
+    "forks": 1292,
     "commitCount": 1751,
     "openPullRequests": 25,
     "openPullRequestNumbers": [
+      1796,
       1795,
       1794,
       1793,
@@ -112,8 +113,7 @@
       1750,
       1748,
       1743,
-      1740,
-      1738
+      1740
     ],
     "openIssues": 6,
     "openIssueNumbers": [
@@ -267,260 +267,8 @@
         "kind": "content/data"
       }
     ],
-    "newCommits": [
-      {
-        "sha": "2a827b982c9be2be2961ba0aae85a959ba0c91ef",
-        "date": "2026-08-19T05:32:44+08:00",
-        "title": "Add dsh-roleplay (#1739)",
-        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/2a827b982c9be2be2961ba0aae85a959ba0c91ef",
-        "files": [
-          "M\tREADME.md",
-          "M\tREADME.zh.md",
-          "A\tdata/plugins/chinosk6__dsh-roleplay.yml",
-          "M\tdata/screenshots.json"
-        ]
-      },
-      {
-        "sha": "ea4e54c06f1397558e1a9484f0e84503887910bc",
-        "date": "2026-08-19T05:30:23+08:00",
-        "title": "add dsh-theme: 30-theme pack with light/dark variants for DSH Web UI (#1624)",
-        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/ea4e54c06f1397558e1a9484f0e84503887910bc",
-        "files": [
-          "M\tREADME.md",
-          "M\tREADME.zh.md",
-          "A\tdata/plugins/mux9056-bot__dsh-theme.yml",
-          "M\tdata/screenshots.json"
-        ]
-      },
-      {
-        "sha": "b23167429871897e9577e6ffcdfe18b5ce0fe8ea",
-        "date": "2026-08-19T05:26:29+08:00",
-        "title": "Add dingyi580/dsh-conversation-rail (ui) (#1488)",
-        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/b23167429871897e9577e6ffcdfe18b5ce0fe8ea",
-        "files": [
-          "M\tREADME.md",
-          "M\tREADME.zh.md",
-          "A\tdata/plugins/dingyi580__dsh-conversation-rail.yml"
-        ]
-      },
-      {
-        "sha": "157751fac4d6d1beaf0313fc8c84160c8ba9130a",
-        "date": "2026-08-19T05:26:07+08:00",
-        "title": "Add maddogfinance/dsh-trading (Tools & Capabilities) (#1700)",
-        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/157751fac4d6d1beaf0313fc8c84160c8ba9130a",
-        "files": [
-          "M\tREADME.md",
-          "M\tREADME.zh.md",
-          "A\tdata/plugins/maddogfinance__dsh-trading.yml",
-          "M\tdata/screenshots.json"
-        ]
-      },
-      {
-        "sha": "09dde712f8addd5f533e14668315cc495ca2db18",
-        "date": "2026-08-19T05:21:35+08:00",
-        "title": "add cheshireez/dsh-skill-hub (skill category) (#1746)",
-        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/09dde712f8addd5f533e14668315cc495ca2db18",
-        "files": [
-          "M\tREADME.md",
-          "M\tREADME.zh.md",
-          "A\tdata/plugins/cheshireez__dsh-skill-hub.yml",
-          "M\tdata/screenshots.json"
-        ]
-      },
-      {
-        "sha": "39da28c8b6f9a919ecccce15c9aad73887ab9e42",
-        "date": "2026-08-19T05:21:21+08:00",
-        "title": "Add linhut/dsh-stock-terminal (stock market skin + real-time ticker) (#1766)",
-        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/39da28c8b6f9a919ecccce15c9aad73887ab9e42",
-        "files": [
-          "M\tREADME.md",
-          "M\tREADME.zh.md",
-          "A\tdata/plugins/linhut__dsh-stock-terminal.yml"
-        ]
-      },
-      {
-        "sha": "035ab0483d7f93ee1ba8518525f581682b921a71",
-        "date": "2026-08-19T05:20:43+08:00",
-        "title": "Add Aik358/dsh-anchored-monitor (#1761)",
-        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/035ab0483d7f93ee1ba8518525f581682b921a71",
-        "files": [
-          "M\tREADME.md",
-          "M\tREADME.zh.md",
-          "A\tdata/plugins/Aik358__dsh-anchored-monitor.yml"
-        ]
-      },
-      {
-        "sha": "623fb26c1b2799b5eb22f76b25063bc02f17f137",
-        "date": "2026-08-19T05:20:28+08:00",
-        "title": "Add pzc2004/dsh-frostfin (dev) (#1789)",
-        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/623fb26c1b2799b5eb22f76b25063bc02f17f137",
-        "files": [
-          "M\tREADME.md",
-          "M\tREADME.zh.md",
-          "A\tdata/plugins/pzc2004__dsh-frostfin.yml"
-        ]
-      },
-      {
-        "sha": "3af76b5bd73b524ddccbdad7ca04b1ed6dded818",
-        "date": "2026-08-19T05:20:13+08:00",
-        "title": "add sashankh/dsh-taintguard (#1790)",
-        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/3af76b5bd73b524ddccbdad7ca04b1ed6dded818",
-        "files": [
-          "M\tREADME.md",
-          "M\tREADME.zh.md",
-          "A\tdata/plugins/sashankh__dsh-taintguard.yml"
-        ]
-      },
-      {
-        "sha": "83eea16f3dae95b037ec0d07bcd076baa3eefb7a",
-        "date": "2026-08-19T05:19:59+08:00",
-        "title": "Add EternalNight996/dsh-ui-agents-pixe (UI: work roles tab + pixel office overlay) (#1791)",
-        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/83eea16f3dae95b037ec0d07bcd076baa3eefb7a",
-        "files": [
-          "M\tREADME.md",
-          "M\tREADME.zh.md",
-          "A\tdata/plugins/EternalNight996__dsh-ui-agents-pixe.yml"
-        ]
-      }
-    ],
-    "changedFiles": [
-      {
-        "commitSha": "2a827b982c9be2be2961ba0aae85a959ba0c91ef",
-        "value": "M\tREADME.md"
-      },
-      {
-        "commitSha": "2a827b982c9be2be2961ba0aae85a959ba0c91ef",
-        "value": "M\tREADME.zh.md"
-      },
-      {
-        "commitSha": "2a827b982c9be2be2961ba0aae85a959ba0c91ef",
-        "value": "A\tdata/plugins/chinosk6__dsh-roleplay.yml"
-      },
-      {
-        "commitSha": "2a827b982c9be2be2961ba0aae85a959ba0c91ef",
-        "value": "M\tdata/screenshots.json"
-      },
-      {
-        "commitSha": "ea4e54c06f1397558e1a9484f0e84503887910bc",
-        "value": "M\tREADME.md"
-      },
-      {
-        "commitSha": "ea4e54c06f1397558e1a9484f0e84503887910bc",
-        "value": "M\tREADME.zh.md"
-      },
-      {
-        "commitSha": "ea4e54c06f1397558e1a9484f0e84503887910bc",
-        "value": "A\tdata/plugins/mux9056-bot__dsh-theme.yml"
-      },
-      {
-        "commitSha": "ea4e54c06f1397558e1a9484f0e84503887910bc",
-        "value": "M\tdata/screenshots.json"
-      },
-      {
-        "commitSha": "b23167429871897e9577e6ffcdfe18b5ce0fe8ea",
-        "value": "M\tREADME.md"
-      },
-      {
-        "commitSha": "b23167429871897e9577e6ffcdfe18b5ce0fe8ea",
-        "value": "M\tREADME.zh.md"
-      },
-      {
-        "commitSha": "b23167429871897e9577e6ffcdfe18b5ce0fe8ea",
-        "value": "A\tdata/plugins/dingyi580__dsh-conversation-rail.yml"
-      },
-      {
-        "commitSha": "157751fac4d6d1beaf0313fc8c84160c8ba9130a",
-        "value": "M\tREADME.md"
-      },
-      {
-        "commitSha": "157751fac4d6d1beaf0313fc8c84160c8ba9130a",
-        "value": "M\tREADME.zh.md"
-      },
-      {
-        "commitSha": "157751fac4d6d1beaf0313fc8c84160c8ba9130a",
-        "value": "A\tdata/plugins/maddogfinance__dsh-trading.yml"
-      },
-      {
-        "commitSha": "157751fac4d6d1beaf0313fc8c84160c8ba9130a",
-        "value": "M\tdata/screenshots.json"
-      },
-      {
-        "commitSha": "09dde712f8addd5f533e14668315cc495ca2db18",
-        "value": "M\tREADME.md"
-      },
-      {
-        "commitSha": "09dde712f8addd5f533e14668315cc495ca2db18",
-        "value": "M\tREADME.zh.md"
-      },
-      {
-        "commitSha": "09dde712f8addd5f533e14668315cc495ca2db18",
-        "value": "A\tdata/plugins/cheshireez__dsh-skill-hub.yml"
-      },
-      {
-        "commitSha": "09dde712f8addd5f533e14668315cc495ca2db18",
-        "value": "M\tdata/screenshots.json"
-      },
-      {
-        "commitSha": "39da28c8b6f9a919ecccce15c9aad73887ab9e42",
-        "value": "M\tREADME.md"
-      },
-      {
-        "commitSha": "39da28c8b6f9a919ecccce15c9aad73887ab9e42",
-        "value": "M\tREADME.zh.md"
-      },
-      {
-        "commitSha": "39da28c8b6f9a919ecccce15c9aad73887ab9e42",
-        "value": "A\tdata/plugins/linhut__dsh-stock-terminal.yml"
-      },
-      {
-        "commitSha": "035ab0483d7f93ee1ba8518525f581682b921a71",
-        "value": "M\tREADME.md"
-      },
-      {
-        "commitSha": "035ab0483d7f93ee1ba8518525f581682b921a71",
-        "value": "M\tREADME.zh.md"
-      },
-      {
-        "commitSha": "035ab0483d7f93ee1ba8518525f581682b921a71",
-        "value": "A\tdata/plugins/Aik358__dsh-anchored-monitor.yml"
-      },
-      {
-        "commitSha": "623fb26c1b2799b5eb22f76b25063bc02f17f137",
-        "value": "M\tREADME.md"
-      },
-      {
-        "commitSha": "623fb26c1b2799b5eb22f76b25063bc02f17f137",
-        "value": "M\tREADME.zh.md"
-      },
-      {
-        "commitSha": "623fb26c1b2799b5eb22f76b25063bc02f17f137",
-        "value": "A\tdata/plugins/pzc2004__dsh-frostfin.yml"
-      },
-      {
-        "commitSha": "3af76b5bd73b524ddccbdad7ca04b1ed6dded818",
-        "value": "M\tREADME.md"
-      },
-      {
-        "commitSha": "3af76b5bd73b524ddccbdad7ca04b1ed6dded818",
-        "value": "M\tREADME.zh.md"
-      },
-      {
-        "commitSha": "3af76b5bd73b524ddccbdad7ca04b1ed6dded818",
-        "value": "A\tdata/plugins/sashankh__dsh-taintguard.yml"
-      },
-      {
-        "commitSha": "83eea16f3dae95b037ec0d07bcd076baa3eefb7a",
-        "value": "M\tREADME.md"
-      },
-      {
-        "commitSha": "83eea16f3dae95b037ec0d07bcd076baa3eefb7a",
-        "value": "M\tREADME.zh.md"
-      },
-      {
-        "commitSha": "83eea16f3dae95b037ec0d07bcd076baa3eefb7a",
-        "value": "A\tdata/plugins/EternalNight996__dsh-ui-agents-pixe.yml"
-      }
-    ],
+    "newCommits": [],
+    "changedFiles": [],
     "historyRewritten": false,
     "recoveredFromHistory": false,
     "recoveryCompletedAt": "2026-08-14T05:57:52.118Z",
@@ -42988,7 +42736,7 @@
     "rawFingerprints": {
       "raw:README.md": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/README.md",
-        "checkedAt": "2026-08-18T21:42:50.524Z",
+        "checkedAt": "2026-08-18T22:45:28.359Z",
         "status": "ok",
         "length": 390245,
         "fingerprint": "3bb2fd4c8470da27135f950207e101c0c5ef8bde0b12eca347f767a7fbc532cc",
@@ -42997,7 +42745,7 @@
       },
       "raw:README.zh.md": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/README.zh.md",
-        "checkedAt": "2026-08-18T21:42:50.524Z",
+        "checkedAt": "2026-08-18T22:45:28.359Z",
         "status": "ok",
         "length": 237416,
         "fingerprint": "c7ad3b4c94b6c926c12a82d9696b22ac5951e57f0aa29d5a18f00c5dc446fa55",
@@ -43006,7 +42754,7 @@
       },
       "raw:docs/index.html": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/index.html",
-        "checkedAt": "2026-08-18T21:42:50.524Z",
+        "checkedAt": "2026-08-18T22:45:28.359Z",
         "status": "failed",
         "length": 14,
         "fingerprint": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
@@ -43015,7 +42763,7 @@
       },
       "raw:docs/zh/index.html": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/zh/index.html",
-        "checkedAt": "2026-08-18T21:42:50.524Z",
+        "checkedAt": "2026-08-18T22:45:28.359Z",
         "status": "failed",
         "length": 14,
         "fingerprint": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
@@ -43024,7 +42772,7 @@
       },
       "raw:docs/sitemap.xml": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/sitemap.xml",
-        "checkedAt": "2026-08-18T21:42:50.524Z",
+        "checkedAt": "2026-08-18T22:45:28.359Z",
         "status": "failed",
         "length": 14,
         "fingerprint": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
@@ -43033,7 +42781,7 @@
       },
       "raw:docs/feed.xml": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/feed.xml",
-        "checkedAt": "2026-08-18T21:42:50.524Z",
+        "checkedAt": "2026-08-18T22:45:28.359Z",
         "status": "failed",
         "length": 14,
         "fingerprint": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
@@ -43042,7 +42790,7 @@
       },
       "raw:docs/zh/feed.xml": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/zh/feed.xml",
-        "checkedAt": "2026-08-18T21:42:50.524Z",
+        "checkedAt": "2026-08-18T22:45:28.359Z",
         "status": "failed",
         "length": 14,
         "fingerprint": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
@@ -43051,7 +42799,7 @@
       },
       "raw:docs/plugins.json": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/plugins.json",
-        "checkedAt": "2026-08-18T21:42:50.524Z",
+        "checkedAt": "2026-08-18T22:45:28.359Z",
         "status": "failed",
         "length": 14,
         "fingerprint": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
@@ -46158,9 +45906,9 @@
     "historicalSnapshotCount": 24,
     "source": {
       "catalog": "data/catalog-v2.json",
-      "checkedAt": "2026-08-18T21:42:50.524Z",
-      "updatedAt": "2026-08-18T21:42:06.845Z",
-      "sourceCommit": "9aa9cf0aa3dbdcfb4444e7b0e032587306a213f79e8b629b55cdd1845fa75d16",
+      "checkedAt": "2026-08-18T22:45:28.359Z",
+      "updatedAt": "2026-08-18T22:44:41.875Z",
+      "sourceCommit": "2e2e5daf2a0c889a45009c20056f9339a99cb133d48b90e3b99c2ad5dd56760e",
       "siteRoot": "/Users/wangyidong/project/deepseek-plugin-store-site",
       "siteSourceAvailable": false,
       "siteCatalogPluginCount": null
@@ -46189,16 +45937,13 @@
     }
   ],
   "change": {
-    "commitChanged": true,
-    "websiteChanged": true,
-    "contentChanged": true,
-    "previousCommit": "7079fb4ca7dfba6b8a0f8e1845118b41c9e080d4",
-    "previousContentFingerprint": "6400fd938a27ab475f1bd574971e4642afd6d893642c00f0634c19e236fc767e",
+    "commitChanged": false,
+    "websiteChanged": false,
+    "contentChanged": false,
+    "previousCommit": "2a827b982c9be2be2961ba0aae85a959ba0c91ef",
+    "previousContentFingerprint": "31cd44408c799c1420d8175503d3dd326b759bfe549a20406fd46042ec449578",
     "summary": [
-      "10 new upstream commits",
-      "website home fingerprint changed",
-      "raw or website content fingerprint changed",
-      "metrics changed: stars 8812 -> 8827, forks 1287 -> 1290, pluginEntries 1449 -> 1459, websiteAdvertisedPluginEntries 1449 -> 1459, indexedPages 2942 -> 2962"
+      "metrics changed: stars 8827 -> 8848, forks 1290 -> 1292"
     ]
   },
   "processing": {
@@ -50820,13 +50565,6 @@
   ],
   "history": [
     {
-      "checkedAt": "2026-08-17T21:45:27.666Z",
-      "contentFingerprint": "1f71fff9cf4d0ca6d41d366f219bdcf5d536841db0419b7c115f0276af095ae0",
-      "upstreamCommit": "536a89ca76a38faaa69f7512c91cccea9a553f72",
-      "status": "partial",
-      "summary": "metrics changed: stars 7533 -> 7544, forks 1084 -> 1085"
-    },
-    {
       "checkedAt": "2026-08-17T22:45:22.734Z",
       "contentFingerprint": "1f71fff9cf4d0ca6d41d366f219bdcf5d536841db0419b7c115f0276af095ae0",
       "upstreamCommit": "536a89ca76a38faaa69f7512c91cccea9a553f72",
@@ -50986,6 +50724,13 @@
       "upstreamCommit": "2a827b982c9be2be2961ba0aae85a959ba0c91ef",
       "status": "partial",
       "summary": "10 new upstream commits; website home fingerprint changed; raw or website content fingerprint changed; metrics changed: stars 8812 -> 8827, forks 1287 -> 1290, pluginEntries 1449 -> 1459, websiteAdvertisedPluginEntries 1449 -> 1459, indexedPages 2942 -> 2962"
+    },
+    {
+      "checkedAt": "2026-08-18T22:45:28.359Z",
+      "contentFingerprint": "31cd44408c799c1420d8175503d3dd326b759bfe549a20406fd46042ec449578",
+      "upstreamCommit": "2a827b982c9be2be2961ba0aae85a959ba0c91ef",
+      "status": "partial",
+      "summary": "metrics changed: stars 8827 -> 8848, forks 1290 -> 1292"
     }
   ]
 }
