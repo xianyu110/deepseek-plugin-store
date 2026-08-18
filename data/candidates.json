@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-08-18T04:55:01.081Z",
+  "updatedAt": "2026-08-18T05:48:32.452Z",
   "candidates": {
     "01virex-dsh-foxy-jumpscare": {
       "id": "01virex-dsh-foxy-jumpscare",
@@ -138003,6 +138003,10 @@
         {
           "at": "2026-08-17T23:41:18.312Z",
           "reason": "https://api.github.com/repos/LeslieWylie/dsh-evidence-memory: 404"
+        },
+        {
+          "at": "2026-08-18T05:48:32.452Z",
+          "reason": "https://api.github.com/repos/LeslieWylie/dsh-evidence-memory: 404"
         }
       ],
       "github": {
@@ -188783,6 +188787,10 @@
       "failures": [
         {
           "at": "2026-08-17T23:41:18.312Z",
+          "reason": "https://api.github.com/repos/PrismScopes/deepseek-harness-zh: 404"
+        },
+        {
+          "at": "2026-08-18T05:48:32.452Z",
           "reason": "https://api.github.com/repos/PrismScopes/deepseek-harness-zh: 404"
         }
       ],
@@ -253972,6 +253980,10 @@
         {
           "at": "2026-08-17T23:41:18.312Z",
           "reason": "Bad control character in string literal in JSON at position 343 (line 4 column 289)"
+        },
+        {
+          "at": "2026-08-18T05:48:32.452Z",
+          "reason": "Bad control character in string literal in JSON at position 343 (line 4 column 289)"
         }
       ],
       "github": {
@@ -297077,8 +297089,8 @@
   },
   "failures": [
     {
-      "at": "2026-08-18T04:55:01.081Z",
-      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-12T22%3A53%3A47Z..2026-08-13T19%3A53%3A59Z&sort=updated&order=desc&per_page=100&page=6: 403"
+      "at": "2026-08-18T05:48:32.452Z",
+      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-12T23%3A47%3A15Z..2026-08-13T20%3A47%3A27Z&sort=updated&order=desc&per_page=100&page=6: 403"
     }
   ]
 }
