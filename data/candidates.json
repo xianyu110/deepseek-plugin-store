@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-08-18T16:51:58.260Z",
+  "updatedAt": "2026-08-18T17:47:06.887Z",
   "candidates": {
     "01virex-dsh-foxy-jumpscare": {
       "id": "01virex-dsh-foxy-jumpscare",
@@ -29590,6 +29590,91 @@
         "needsReview": true
       }
     },
+    "bitxeno-dsh-github-picker": {
+      "id": "bitxeno-dsh-github-picker",
+      "repository": {
+        "fullName": "bitxeno/dsh-github-picker",
+        "url": "https://github.com/bitxeno/dsh-github-picker"
+      },
+      "summary": "GitHub issue and pull request references for the DeepSeek Harness web GUI",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-08-18T17:47:06.887Z",
+      "lastSeenAt": "2026-08-18T17:47:06.887Z",
+      "checks": {
+        "checkedAt": "2026-08-18T17:47:06.887Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:bitxeno/dsh-github-picker",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 0,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-08-17T08:37:09Z",
+        "lastPushAt": "2026-08-18T03:48:11Z",
+        "latestReleaseAt": "2026-08-18T03:32:56Z",
+        "capturedAt": "2026-08-18T17:47:06.887Z"
+      },
+      "classificationSuggestion": {
+        "group": "agents-workflows",
+        "category": "automation",
+        "tags": [
+          "agent",
+          "api",
+          "automation",
+          "browser",
+          "chat",
+          "cli",
+          "data",
+          "education",
+          "file",
+          "image",
+          "integration",
+          "knowledge",
+          "monitoring",
+          "planning",
+          "project-analysis",
+          "search",
+          "skill",
+          "terminal",
+          "testing",
+          "theme",
+          "tool"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:plugin",
+          "text:automation:automat",
+          "text:planning-execution:task",
+          "text:memory-context:token",
+          "text:search-browsing:search",
+          "text:knowledge-management:rag",
+          "text:themes-layout:color",
+          "text:visualization:render"
+        ],
+        "needsReview": true
+      }
+    },
     "bkmoon1024-dsh-ci-cd-bot": {
       "id": "bkmoon1024-dsh-ci-cd-bot",
       "repository": {
@@ -38873,6 +38958,10 @@
         {
           "at": "2026-08-18T11:44:41.814Z",
           "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-mermaid-plugin: 404"
+        },
+        {
+          "at": "2026-08-18T17:47:06.887Z",
+          "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-mermaid-plugin: 404"
         }
       ],
       "github": {
@@ -39021,6 +39110,10 @@
         },
         {
           "at": "2026-08-18T11:44:41.814Z",
+          "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-terminal-plugin: 404"
+        },
+        {
+          "at": "2026-08-18T17:47:06.887Z",
           "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-terminal-plugin: 404"
         }
       ],
@@ -45762,6 +45855,10 @@
         {
           "at": "2026-08-18T11:44:41.814Z",
           "reason": "https://api.github.com/repos/coder-wu/dsh-share: 404"
+        },
+        {
+          "at": "2026-08-18T17:47:06.887Z",
+          "reason": "https://api.github.com/repos/coder-wu/dsh-share: 404"
         }
       ],
       "github": {
@@ -46905,6 +47002,83 @@
         "lastPushAt": "2026-08-16T10:14:26Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-17T10:50:52.029Z"
+      }
+    },
+    "coprexist-dsh-session-recovery": {
+      "id": "coprexist-dsh-session-recovery",
+      "repository": {
+        "fullName": "Coprexist/dsh-session-recovery",
+        "url": "https://github.com/Coprexist/dsh-session-recovery"
+      },
+      "summary": "从原始磁盘恢复被删除/损坏的 dsh 会话记录与记忆库——DeepSeek Harness 实战验证的恢复工具集。Recover deleted or corrupted dsh session logs (session.jsonl.zstd) and memory (memory.db) from the raw disk — battle-tested recovery toolkit for DeepSeek Harness.",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-08-18T17:47:06.887Z",
+      "lastSeenAt": "2026-08-18T17:47:06.887Z",
+      "checks": {
+        "checkedAt": "2026-08-18T17:47:06.887Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:Coprexist/dsh-session-recovery",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 1,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-08-16T15:30:57Z",
+        "lastPushAt": "2026-08-18T15:20:29Z",
+        "latestReleaseAt": null,
+        "capturedAt": "2026-08-18T17:47:06.887Z"
+      },
+      "classificationSuggestion": {
+        "group": "agents-workflows",
+        "category": "automation",
+        "tags": [
+          "automation",
+          "chat",
+          "cli",
+          "data",
+          "file",
+          "knowledge",
+          "layout",
+          "memory",
+          "project-analysis",
+          "testing",
+          "theme",
+          "tool",
+          "ui"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:plugin",
+          "text:testing-debugging:test",
+          "text:automation:automat",
+          "text:memory-context:session",
+          "text:knowledge-management:rag",
+          "text:themes-layout:background",
+          "text:desktop-mobile:web ui",
+          "text:files-terminal:git"
+        ],
+        "needsReview": true
       }
     },
     "cora093-dsh-web-search-codex": {
@@ -48309,6 +48483,10 @@
         },
         {
           "at": "2026-08-18T11:44:41.814Z",
+          "reason": "https://api.github.com/repos/CreatTheWorld/dsh-desktop-launcher: 404"
+        },
+        {
+          "at": "2026-08-18T17:47:06.887Z",
           "reason": "https://api.github.com/repos/CreatTheWorld/dsh-desktop-launcher: 404"
         }
       ],
@@ -72275,6 +72453,10 @@
         {
           "at": "2026-08-18T11:44:41.814Z",
           "reason": "https://api.github.com/repos/Flamesnake/dsh-talespindle: 404"
+        },
+        {
+          "at": "2026-08-18T17:47:06.887Z",
+          "reason": "https://api.github.com/repos/Flamesnake/dsh-talespindle: 404"
         }
       ],
       "github": {
@@ -79113,7 +79295,7 @@
         "fullName": "GeekRicardo/dsh-balance",
         "url": "https://github.com/GeekRicardo/dsh-balance"
       },
-      "summary": "DeepSeek Harness web 插件：输入框下方状态栏展示当前供应商的余额/用量 —— DeepSeek 官方余额 + 本会话花费、Kimi Coding 订阅用量（5小时/7天）、OpenCode Go 订阅用量（5小时/7天/30天）。按 provider 判断、2 秒轮询实时切换、5 分钟缓存。",
+      "summary": "GeekRicardo/dsh-balance",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -79125,7 +79307,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-18T16:51:58.260Z",
-      "lastSeenAt": "2026-08-18T16:51:58.260Z",
+      "lastSeenAt": "2026-08-18T17:47:06.887Z",
       "checks": {
         "checkedAt": "2026-08-18T16:51:58.260Z",
         "publicRepository": true,
@@ -79150,32 +79332,6 @@
         "lastPushAt": "2026-08-18T13:48:47Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-18T16:51:58.260Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "agent",
-          "api",
-          "chat",
-          "desktop",
-          "integration",
-          "monitoring",
-          "planning"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:planning-execution:plan",
-          "text:memory-context:会话",
-          "text:visualization:渲染",
-          "text:desktop-mobile:桌面",
-          "text:files-terminal:git",
-          "text:data-processing:json",
-          "text:external-services:api"
-        ],
-        "needsReview": true
       }
     },
     "geminiai19811-jpg-dsh-desktop": {
@@ -119682,6 +119838,10 @@
         },
         {
           "at": "2026-08-18T11:44:41.814Z",
+          "reason": "https://api.github.com/repos/Julyves/dsh-git-status: 404"
+        },
+        {
+          "at": "2026-08-18T17:47:06.887Z",
           "reason": "https://api.github.com/repos/Julyves/dsh-git-status: 404"
         }
       ],
@@ -177292,6 +177452,10 @@
         {
           "at": "2026-08-18T11:44:41.814Z",
           "reason": "https://api.github.com/repos/oneincase/dsh-minecraft-skin: 404"
+        },
+        {
+          "at": "2026-08-18T17:47:06.887Z",
+          "reason": "https://api.github.com/repos/oneincase/dsh-minecraft-skin: 404"
         }
       ],
       "github": {
@@ -181448,6 +181612,80 @@
         "capturedAt": "2026-08-17T11:44:14.110Z"
       }
     },
+    "particlelight-dsh-all-usage": {
+      "id": "particlelight-dsh-all-usage",
+      "repository": {
+        "fullName": "ParticleLight/dsh-all-usage",
+        "url": "https://github.com/ParticleLight/dsh-all-usage"
+      },
+      "summary": "DeepSeek Harness 用量看板 / Usage dashboard: tokens, cache, model/provider/workspace analytics, DeepSeek balance, heatmap, and CSV export.",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-08-18T17:47:06.887Z",
+      "lastSeenAt": "2026-08-18T17:47:06.887Z",
+      "checks": {
+        "checkedAt": "2026-08-18T17:47:06.887Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:ParticleLight/dsh-all-usage",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 1,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-08-17T12:07:54Z",
+        "lastPushAt": "2026-08-18T15:59:56Z",
+        "latestReleaseAt": "2026-08-18T15:59:56Z",
+        "capturedAt": "2026-08-18T17:47:06.887Z"
+      },
+      "classificationSuggestion": {
+        "group": "tools-data",
+        "category": "data-processing",
+        "tags": [
+          "api",
+          "browser",
+          "context",
+          "data",
+          "file",
+          "knowledge",
+          "layout",
+          "project-analysis",
+          "terminal",
+          "ui"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:plugin",
+          "text:testing-debugging:日志",
+          "text:memory-context:token",
+          "text:search-browsing:浏览器",
+          "text:knowledge-management:rag",
+          "text:navigation-panels:dashboard",
+          "text:files-terminal:git",
+          "text:data-processing:analytics"
+        ],
+        "needsReview": true
+      }
+    },
     "pastsheep-dsh-soln-panel": {
       "id": "pastsheep-dsh-soln-panel",
       "repository": {
@@ -183026,6 +183264,10 @@
         },
         {
           "at": "2026-08-18T11:44:41.814Z",
+          "reason": "https://api.github.com/repos/penguin-oo/dsh-delegate-router: 404"
+        },
+        {
+          "at": "2026-08-18T17:47:06.887Z",
           "reason": "https://api.github.com/repos/penguin-oo/dsh-delegate-router: 404"
         }
       ],
@@ -209744,6 +209986,75 @@
           "text:document-processing:ocr",
           "text:themes-layout:主题",
           "text:navigation-panels:dashboard"
+        ],
+        "needsReview": true
+      }
+    },
+    "siberiah2o-dsh-plugin-remote": {
+      "id": "siberiah2o-dsh-plugin-remote",
+      "repository": {
+        "fullName": "siberiah2o/dsh-plugin-remote",
+        "url": "https://github.com/siberiah2o/dsh-plugin-remote"
+      },
+      "summary": "Remote access gateway for the DeepSeek Harness Web GUI: login auth + HTTP/WebSocket reverse proxy to the loopback DSH server.",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-08-18T17:47:06.887Z",
+      "lastSeenAt": "2026-08-18T17:47:06.887Z",
+      "checks": {
+        "checkedAt": "2026-08-18T17:47:06.887Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:siberiah2o/dsh-plugin-remote",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 0,
+        "license": null,
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-08-17T12:53:07Z",
+        "lastPushAt": "2026-08-18T10:46:51Z",
+        "latestReleaseAt": "2026-08-18T10:46:52Z",
+        "capturedAt": "2026-08-18T17:47:06.887Z"
+      },
+      "classificationSuggestion": {
+        "group": "tools-data",
+        "category": "data-processing",
+        "tags": [
+          "data",
+          "layout",
+          "mobile",
+          "theme",
+          "ui"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:plugin",
+          "text:memory-context:session",
+          "text:themes-layout:theme",
+          "text:navigation-panels:panel",
+          "text:desktop-mobile:mobile",
+          "text:files-terminal:git",
+          "text:data-processing:json",
+          "text:media-tools:media"
         ],
         "needsReview": true
       }
@@ -248046,9 +248357,10 @@
         "fullName": "Walvez/dsh-search-failover",
         "url": "https://github.com/Walvez/dsh-search-failover"
       },
-      "summary": "DSH provider-level web search failover pool: 8 free/paid backends with quota-aware circuit breaking (keeps native web_search)",
+      "summary": "Walvez/dsh-search-failover",
       "sources": [
-        "github-topic"
+        "github-topic",
+        "awesome-dsh-plugin"
       ],
       "admission": {
         "status": "candidate"
@@ -248058,7 +248370,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-17T15:43:44.297Z",
-      "lastSeenAt": "2026-08-17T20:46:51.104Z",
+      "lastSeenAt": "2026-08-18T17:47:06.887Z",
       "checks": {
         "checkedAt": "2026-08-17T20:46:51.104Z",
         "publicRepository": true,
@@ -248083,32 +248395,6 @@
         "lastPushAt": "2026-08-17T06:02:59Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-17T20:46:51.104Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "browser",
-          "document",
-          "mcp",
-          "search",
-          "testing",
-          "tool",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:testing-debugging:日志",
-          "text:search-browsing:search",
-          "text:document-processing:文档",
-          "text:files-terminal:git",
-          "text:data-processing:json",
-          "text:general-utilities:tool",
-          "text:external-services:api"
-        ],
-        "needsReview": true
       }
     },
     "wanbinyu-deepseek-harness-community-catalog": {
@@ -256439,6 +256725,10 @@
         {
           "at": "2026-08-18T11:44:41.814Z",
           "reason": "https://api.github.com/repos/wolone/deepseek-harness-desktop: 404"
+        },
+        {
+          "at": "2026-08-18T17:47:06.887Z",
+          "reason": "https://api.github.com/repos/wolone/deepseek-harness-desktop: 404"
         }
       ],
       "github": {
@@ -257873,6 +258163,10 @@
         },
         {
           "at": "2026-08-18T11:44:41.814Z",
+          "reason": "https://api.github.com/repos/WuGc1999/dsh-plugins: 404"
+        },
+        {
+          "at": "2026-08-18T17:47:06.887Z",
           "reason": "https://api.github.com/repos/WuGc1999/dsh-plugins: 404"
         }
       ],
@@ -264470,9 +264764,10 @@
         "fullName": "Xidong-AI/dsh-rate-limiter",
         "url": "https://github.com/Xidong-AI/dsh-rate-limiter"
       },
-      "summary": "A proactive rate limiter plugin for DeepSeek Harness.",
+      "summary": "Xidong-AI/dsh-rate-limiter",
       "sources": [
-        "github-topic"
+        "github-topic",
+        "awesome-dsh-plugin"
       ],
       "admission": {
         "status": "candidate"
@@ -264482,7 +264777,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-17T15:43:44.297Z",
-      "lastSeenAt": "2026-08-17T17:47:48.893Z",
+      "lastSeenAt": "2026-08-18T17:47:06.887Z",
       "checks": {
         "checkedAt": "2026-08-17T17:47:48.893Z",
         "publicRepository": true,
@@ -264507,28 +264802,6 @@
         "lastPushAt": "2026-08-17T17:03:34Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-17T17:47:48.893Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "external-services",
-        "tags": [
-          "agent",
-          "knowledge",
-          "terminal",
-          "testing"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:test",
-          "text:memory-context:token",
-          "text:knowledge-management:rag",
-          "text:files-terminal:shell",
-          "text:media-tools:media",
-          "text:external-services:github"
-        ],
-        "needsReview": true
       }
     },
     "xiehuan123-coding-coach": {
@@ -286797,9 +287070,10 @@
         "fullName": "zhengjy01/dsh-start",
         "url": "https://github.com/zhengjy01/dsh-start"
       },
-      "summary": "One-click start/stop launcher for DeepSeek Harness (DSH) Web on macOS: terminal script (start/stop/status/daemon) + Dock-able DSH.app",
+      "summary": "zhengjy01/dsh-start",
       "sources": [
-        "github-topic"
+        "github-topic",
+        "awesome-dsh-plugin"
       ],
       "admission": {
         "status": "candidate"
@@ -286809,7 +287083,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-17T15:43:44.297Z",
-      "lastSeenAt": "2026-08-17T19:01:04.982Z",
+      "lastSeenAt": "2026-08-18T17:47:06.887Z",
       "checks": {
         "checkedAt": "2026-08-17T19:01:04.982Z",
         "publicRepository": true,
@@ -286834,34 +287108,6 @@
         "lastPushAt": "2026-08-17T14:05:34Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-17T19:01:04.982Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "browser",
-          "cli",
-          "context",
-          "data",
-          "file",
-          "layout",
-          "monitoring",
-          "terminal",
-          "theme"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:memory-context:context",
-          "text:search-browsing:browser",
-          "text:themes-layout:background",
-          "text:navigation-panels:launcher",
-          "text:files-terminal:terminal",
-          "text:data-processing:data",
-          "text:external-services:github",
-          "text:notifications-monitoring:status"
-        ],
-        "needsReview": true
       }
     },
     "zhengjy01-dsh-ticktick": {
@@ -295302,8 +295548,8 @@
   },
   "failures": [
     {
-      "at": "2026-08-18T16:51:58.260Z",
-      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T10%3A50%3A12Z..2026-08-13T21%3A20%3A20Z&sort=updated&order=desc&per_page=100&page=5: 403"
+      "at": "2026-08-18T17:47:06.887Z",
+      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T11%3A45%3A18Z..2026-08-13T22%3A15%3A26Z&sort=updated&order=desc&per_page=100&page=5: 403"
     }
   ]
 }
