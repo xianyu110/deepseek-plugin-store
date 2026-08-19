@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-08-19T17:44:06.705Z",
+  "updatedAt": "2026-08-19T18:56:29.100Z",
   "candidates": {
     "01virex-dsh-foxy-jumpscare": {
       "id": "01virex-dsh-foxy-jumpscare",
@@ -208272,9 +208272,10 @@
         "fullName": "shanliuling/dsh-image-gen",
         "url": "https://github.com/shanliuling/dsh-image-gen"
       },
-      "summary": "Installable multi-provider image generation bundle for DeepSeek Harness (Google Gemini, OpenAI, Volcengine Seedream)",
+      "summary": "shanliuling/dsh-image-gen",
       "sources": [
-        "github-topic"
+        "github-topic",
+        "awesome-dsh-plugin"
       ],
       "admission": {
         "status": "candidate"
@@ -208284,7 +208285,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-17T15:43:44.297Z",
-      "lastSeenAt": "2026-08-17T17:47:48.893Z",
+      "lastSeenAt": "2026-08-19T18:56:29.100Z",
       "checks": {
         "checkedAt": "2026-08-17T17:47:48.893Z",
         "publicRepository": true,
@@ -208309,42 +208310,6 @@
         "lastPushAt": "2026-08-17T16:40:12Z",
         "latestReleaseAt": "2026-08-17T10:23:23Z",
         "capturedAt": "2026-08-17T17:47:48.893Z"
-      },
-      "classificationSuggestion": {
-        "group": "build-development",
-        "category": "code-generation",
-        "tags": [
-          "agent",
-          "api",
-          "chat",
-          "code-generation",
-          "data",
-          "debugging",
-          "file",
-          "image",
-          "layout",
-          "planning",
-          "project-analysis",
-          "terminal",
-          "testing",
-          "theme",
-          "tool",
-          "ui",
-          "visualization"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:bundle",
-          "text:code-generation:code>gen",
-          "text:testing-debugging:调试",
-          "text:planning-execution:执行",
-          "text:memory-context:prompt",
-          "text:knowledge-management:graph",
-          "text:themes-layout:color",
-          "text:navigation-panels:面板"
-        ],
-        "needsReview": true
       }
     },
     "shanliuling-skills-link": {
@@ -221587,6 +221552,83 @@
         "lastPushAt": "2026-08-16T11:55:39Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-17T13:56:10.521Z"
+      }
+    },
+    "sudoprivacy-dsh-shareone-plugin": {
+      "id": "sudoprivacy-dsh-shareone-plugin",
+      "repository": {
+        "fullName": "sudoprivacy/dsh-shareone-plugin",
+        "url": "https://github.com/sudoprivacy/dsh-shareone-plugin"
+      },
+      "summary": "ShareOne tools for DeepSeek Harness",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-08-19T18:56:29.100Z",
+      "lastSeenAt": "2026-08-19T18:56:29.100Z",
+      "checks": {
+        "checkedAt": "2026-08-19T18:56:29.100Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:sudoprivacy/dsh-shareone-plugin",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 0,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-08-18T02:50:23Z",
+        "lastPushAt": "2026-08-19T07:38:17Z",
+        "latestReleaseAt": null,
+        "capturedAt": "2026-08-19T18:56:29.100Z"
+      },
+      "classificationSuggestion": {
+        "group": "integrations-communication",
+        "category": "collaboration",
+        "tags": [
+          "agent",
+          "api",
+          "collaboration",
+          "data",
+          "document",
+          "file",
+          "knowledge",
+          "monitoring",
+          "search",
+          "testing",
+          "theme",
+          "tool",
+          "workflow"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:plugin",
+          "text:testing-debugging:test",
+          "text:planning-execution:工作流",
+          "text:memory-context:token",
+          "text:search-browsing:网页",
+          "text:knowledge-management:知识",
+          "text:document-processing:文档",
+          "text:themes-layout:color"
+        ],
+        "needsReview": true
       }
     },
     "suef-666-dsh-tab-alert": {
@@ -245787,9 +245829,10 @@
         "fullName": "unclecode/toolshrink",
         "url": "https://github.com/unclecode/toolshrink"
       },
-      "summary": "Cut large agent tool output by what it means, not by where it was cut. 9 content-aware reducers + DeepSeek Harness plugin.",
+      "summary": "unclecode/toolshrink",
       "sources": [
-        "github-topic"
+        "github-topic",
+        "awesome-dsh-plugin"
       ],
       "admission": {
         "status": "candidate"
@@ -245799,7 +245842,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-17T15:43:44.297Z",
-      "lastSeenAt": "2026-08-17T21:44:18.443Z",
+      "lastSeenAt": "2026-08-19T18:56:29.100Z",
       "checks": {
         "checkedAt": "2026-08-17T21:44:18.443Z",
         "publicRepository": true,
@@ -245826,38 +245869,6 @@
         "lastPushAt": "2026-08-17T12:41:08Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-17T21:44:18.443Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "agent",
-          "api",
-          "context",
-          "data",
-          "debugging",
-          "education",
-          "file",
-          "knowledge",
-          "planning",
-          "project-analysis",
-          "testing",
-          "tool",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:test",
-          "text:project-analysis:dependency",
-          "text:planning-execution:todo",
-          "text:memory-context:context",
-          "text:knowledge-management:rag",
-          "text:desktop-mobile:web ui",
-          "text:files-terminal:git"
-        ],
-        "needsReview": true
       }
     },
     "undeadsheep-dsh-file-preview": {
@@ -298089,8 +298100,8 @@
   },
   "failures": [
     {
-      "at": "2026-08-19T17:44:06.705Z",
-      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T14%3A40%3A45Z..2026-08-14T01%3A10%3A59Z&sort=updated&order=desc&per_page=100&page=4: 403"
+      "at": "2026-08-19T18:56:29.100Z",
+      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T15%3A53%3A05Z..2026-08-14T02%3A23%3A19Z&sort=updated&order=desc&per_page=100&page=3: 403"
     }
   ]
 }
