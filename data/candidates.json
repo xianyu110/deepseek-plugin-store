@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-08-18T23:40:31.670Z",
+  "updatedAt": "2026-08-19T01:55:40.586Z",
   "candidates": {
     "01virex-dsh-foxy-jumpscare": {
       "id": "01virex-dsh-foxy-jumpscare",
@@ -19371,9 +19371,10 @@
         "fullName": "anyuer678/dsh-logtimeline",
         "url": "https://github.com/anyuer678/dsh-logtimeline"
       },
-      "summary": "Query local log files with Chinese natural-language time expressions — LogTimeline for DeepSeek Harness.",
+      "summary": "anyuer678/dsh-logtimeline",
       "sources": [
-        "github-topic"
+        "github-topic",
+        "awesome-dsh-plugin"
       ],
       "admission": {
         "status": "candidate"
@@ -19383,7 +19384,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-17T15:43:44.297Z",
-      "lastSeenAt": "2026-08-17T19:45:27.365Z",
+      "lastSeenAt": "2026-08-19T01:55:40.586Z",
       "checks": {
         "checkedAt": "2026-08-17T19:45:27.365Z",
         "publicRepository": true,
@@ -19408,41 +19409,6 @@
         "lastPushAt": "2026-08-17T07:44:49Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-17T19:45:27.365Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "agent",
-          "api",
-          "cli",
-          "data",
-          "debugging",
-          "document",
-          "education",
-          "file",
-          "integration",
-          "knowledge",
-          "project-analysis",
-          "search",
-          "terminal",
-          "testing",
-          "tool",
-          "workflow"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:debug",
-          "text:project-analysis:code review",
-          "text:planning-execution:workflow",
-          "text:search-browsing:search",
-          "text:knowledge-management:knowledge",
-          "text:document-processing:document",
-          "text:navigation-panels:launcher"
-        ],
-        "needsReview": true
       }
     },
     "anywhere-labs-framefactory-plugin": {
@@ -25858,9 +25824,10 @@
         "fullName": "baisama-cloud/dsh-galgame-generator",
         "url": "https://github.com/baisama-cloud/dsh-galgame-generator"
       },
-      "summary": "Galgame generator for DeepSeek Harness (DSH): give it a script document plus character/background/BGM assets in the workspace (img_human/, img_bg/, audio/) and it builds a playable visual-novel web page with 9-slot save/load, speaker-following sprites, BGM control and if-line branching. DSH Galgame 生成器：提供剧本文档 + 立绘/背景/音乐素材即可生成可玩视觉小说（9 槽位存档、自动立绘、BGM、if 条件线）。",
+      "summary": "baisama-cloud/dsh-galgame-generator",
       "sources": [
-        "github-topic"
+        "github-topic",
+        "awesome-dsh-plugin"
       ],
       "admission": {
         "status": "candidate"
@@ -25870,7 +25837,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-17T15:43:44.297Z",
-      "lastSeenAt": "2026-08-17T17:47:48.893Z",
+      "lastSeenAt": "2026-08-19T01:55:40.586Z",
       "checks": {
         "checkedAt": "2026-08-17T17:47:48.893Z",
         "publicRepository": true,
@@ -25895,35 +25862,6 @@
         "lastPushAt": "2026-08-17T16:28:42Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-17T17:47:48.893Z"
-      },
-      "classificationSuggestion": {
-        "group": "research-knowledge",
-        "category": "document-processing",
-        "tags": [
-          "browser",
-          "chat",
-          "document",
-          "file",
-          "image",
-          "knowledge",
-          "layout",
-          "theme",
-          "tool",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:manifest",
-          "text:search-browsing:网页",
-          "text:knowledge-management:rag",
-          "text:document-processing:document",
-          "text:themes-layout:background",
-          "text:navigation-panels:侧边栏",
-          "text:files-terminal:文件",
-          "text:media-tools:audio"
-        ],
-        "needsReview": true
       }
     },
     "baisama-cloud-dsh-omni-bridge": {
@@ -25979,9 +25917,10 @@
         "fullName": "baisama-cloud/dsh-session-mover",
         "url": "https://github.com/baisama-cloud/dsh-session-mover"
       },
-      "summary": "Drag sessions to another workspace in the DeepSeek Harness (DSH) web GUI — 把侧边栏会话直接拖到其他工作区（完整历史克隆+原会话归档）",
+      "summary": "baisama-cloud/dsh-session-mover",
       "sources": [
-        "github-topic"
+        "github-topic",
+        "awesome-dsh-plugin"
       ],
       "admission": {
         "status": "candidate"
@@ -25991,7 +25930,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-17T15:43:44.297Z",
+      "lastSeenAt": "2026-08-19T01:55:40.586Z",
       "checks": {
         "checkedAt": "2026-08-17T05:02:57.123Z",
         "publicRepository": true,
@@ -38980,6 +38919,10 @@
         {
           "at": "2026-08-18T17:47:06.887Z",
           "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-mermaid-plugin: 404"
+        },
+        {
+          "at": "2026-08-19T01:55:40.586Z",
+          "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-mermaid-plugin: 404"
         }
       ],
       "github": {
@@ -39136,6 +39079,10 @@
         },
         {
           "at": "2026-08-18T17:47:06.887Z",
+          "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-terminal-plugin: 404"
+        },
+        {
+          "at": "2026-08-19T01:55:40.586Z",
           "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-terminal-plugin: 404"
         }
       ],
@@ -45601,9 +45548,10 @@
         "fullName": "code-newbie-1/dsh-wallpaper",
         "url": "https://github.com/code-newbie-1/dsh-wallpaper"
       },
-      "summary": "Wallpaper Engine 壁纸联动插件",
+      "summary": "code-newbie-1/dsh-wallpaper",
       "sources": [
-        "github-topic"
+        "github-topic",
+        "awesome-dsh-plugin"
       ],
       "admission": {
         "status": "candidate"
@@ -45613,7 +45561,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-17T15:43:44.297Z",
-      "lastSeenAt": "2026-08-17T16:49:16.115Z",
+      "lastSeenAt": "2026-08-19T01:55:40.586Z",
       "checks": {
         "checkedAt": "2026-08-17T16:49:16.115Z",
         "publicRepository": true,
@@ -45886,6 +45834,10 @@
         },
         {
           "at": "2026-08-18T17:47:06.887Z",
+          "reason": "https://api.github.com/repos/coder-wu/dsh-share: 404"
+        },
+        {
+          "at": "2026-08-19T01:55:40.586Z",
           "reason": "https://api.github.com/repos/coder-wu/dsh-share: 404"
         }
       ],
@@ -48483,6 +48435,10 @@
         },
         {
           "at": "2026-08-18T17:47:06.887Z",
+          "reason": "https://api.github.com/repos/CreatTheWorld/dsh-desktop-launcher: 404"
+        },
+        {
+          "at": "2026-08-19T01:55:40.586Z",
           "reason": "https://api.github.com/repos/CreatTheWorld/dsh-desktop-launcher: 404"
         }
       ],
@@ -55280,6 +55236,87 @@
           "text:search-browsing:浏览器",
           "text:knowledge-management:知识",
           "text:document-processing:markdown"
+        ],
+        "needsReview": true
+      }
+    },
+    "demacia1314-dsh-airdrop": {
+      "id": "demacia1314-dsh-airdrop",
+      "repository": {
+        "fullName": "demacia1314/dsh-airdrop",
+        "url": "https://github.com/demacia1314/dsh-airdrop"
+      },
+      "summary": "Codex-app-style attachments for DeepSeek Harness: drop any file or folder anywhere in the window; bytes upload into the session workspace on the server, so remote servers and SSH tunnels work exactly like localhost.",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-08-19T01:55:40.586Z",
+      "lastSeenAt": "2026-08-19T01:55:40.586Z",
+      "checks": {
+        "checkedAt": "2026-08-19T01:55:40.586Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:demacia1314/dsh-airdrop",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 0,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-08-17T21:07:17Z",
+        "lastPushAt": "2026-08-18T18:45:06Z",
+        "latestReleaseAt": null,
+        "capturedAt": "2026-08-19T01:55:40.586Z"
+      },
+      "classificationSuggestion": {
+        "group": "integrations-communication",
+        "category": "collaboration",
+        "tags": [
+          "agent",
+          "api",
+          "browser",
+          "chat",
+          "collaboration",
+          "data",
+          "document",
+          "file",
+          "image",
+          "knowledge",
+          "planning",
+          "project-analysis",
+          "terminal",
+          "testing",
+          "tool",
+          "ui",
+          "video"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:plugin",
+          "text:testing-debugging:test",
+          "text:memory-context:session",
+          "text:search-browsing:browser",
+          "text:knowledge-management:rag",
+          "text:document-processing:pdf",
+          "text:desktop-mobile:web ui",
+          "text:files-terminal:file"
         ],
         "needsReview": true
       }
@@ -72478,6 +72515,10 @@
         },
         {
           "at": "2026-08-18T17:47:06.887Z",
+          "reason": "https://api.github.com/repos/Flamesnake/dsh-talespindle: 404"
+        },
+        {
+          "at": "2026-08-19T01:55:40.586Z",
           "reason": "https://api.github.com/repos/Flamesnake/dsh-talespindle: 404"
         }
       ],
@@ -120046,6 +120087,10 @@
         {
           "at": "2026-08-18T17:47:06.887Z",
           "reason": "https://api.github.com/repos/Julyves/dsh-git-status: 404"
+        },
+        {
+          "at": "2026-08-19T01:55:40.586Z",
+          "reason": "https://api.github.com/repos/Julyves/dsh-git-status: 404"
         }
       ],
       "github": {
@@ -137201,6 +137246,10 @@
         },
         {
           "at": "2026-08-18T19:43:28.193Z",
+          "reason": "https://api.github.com/repos/LeslieWylie/dsh-evidence-memory: 404"
+        },
+        {
+          "at": "2026-08-19T01:55:40.586Z",
           "reason": "https://api.github.com/repos/LeslieWylie/dsh-evidence-memory: 404"
         }
       ],
@@ -177537,6 +177586,10 @@
         {
           "at": "2026-08-18T17:47:06.887Z",
           "reason": "https://api.github.com/repos/oneincase/dsh-minecraft-skin: 404"
+        },
+        {
+          "at": "2026-08-19T01:55:40.586Z",
+          "reason": "https://api.github.com/repos/oneincase/dsh-minecraft-skin: 404"
         }
       ],
       "github": {
@@ -183321,6 +183374,10 @@
         {
           "at": "2026-08-18T17:47:06.887Z",
           "reason": "https://api.github.com/repos/penguin-oo/dsh-delegate-router: 404"
+        },
+        {
+          "at": "2026-08-19T01:55:40.586Z",
+          "reason": "https://api.github.com/repos/penguin-oo/dsh-delegate-router: 404"
         }
       ],
       "github": {
@@ -187584,6 +187641,10 @@
         },
         {
           "at": "2026-08-18T19:43:28.193Z",
+          "reason": "https://api.github.com/repos/PrismScopes/deepseek-harness-zh: 404"
+        },
+        {
+          "at": "2026-08-19T01:55:40.586Z",
           "reason": "https://api.github.com/repos/PrismScopes/deepseek-harness-zh: 404"
         }
       ],
@@ -232510,6 +232571,85 @@
         "capturedAt": "2026-08-17T15:43:44.297Z"
       }
     },
+    "trench-xinxin-dsh-tool-lens": {
+      "id": "trench-xinxin-dsh-tool-lens",
+      "repository": {
+        "fullName": "trench-xinxin/dsh-tool-lens",
+        "url": "https://github.com/trench-xinxin/dsh-tool-lens"
+      },
+      "summary": "DeepSeek Lens: Deep AST code graph, symbol call hierarchies, and refactoring impact analysis tool plugin for DeepSeek Harness",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-08-19T01:55:40.586Z",
+      "lastSeenAt": "2026-08-19T01:55:40.586Z",
+      "checks": {
+        "checkedAt": "2026-08-19T01:55:40.586Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:trench-xinxin/dsh-tool-lens",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 1,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-08-17T10:02:26Z",
+        "lastPushAt": "2026-08-18T07:00:21Z",
+        "latestReleaseAt": null,
+        "capturedAt": "2026-08-19T01:55:40.586Z"
+      },
+      "classificationSuggestion": {
+        "group": "agents-workflows",
+        "category": "automation",
+        "tags": [
+          "agent",
+          "api",
+          "automation",
+          "browser",
+          "debugging",
+          "file",
+          "mobile",
+          "project-analysis",
+          "terminal",
+          "testing",
+          "theme",
+          "tool",
+          "ui",
+          "visualization",
+          "workflow"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:plugin",
+          "text:code-generation:refactor",
+          "text:testing-debugging:trace",
+          "text:project-analysis:dependency",
+          "text:automation:automat",
+          "text:planning-execution:workflow",
+          "text:memory-context:prompt",
+          "text:search-browsing:browser"
+        ],
+        "needsReview": true
+      }
+    },
     "trisia-mddocx": {
       "id": "trisia-mddocx",
       "repository": {
@@ -252682,6 +252822,10 @@
         {
           "at": "2026-08-18T19:43:28.193Z",
           "reason": "Bad control character in string literal in JSON at position 343 (line 4 column 289)"
+        },
+        {
+          "at": "2026-08-19T01:55:40.586Z",
+          "reason": "Bad control character in string literal in JSON at position 343 (line 4 column 289)"
         }
       ],
       "github": {
@@ -256739,6 +256883,10 @@
         {
           "at": "2026-08-18T17:47:06.887Z",
           "reason": "https://api.github.com/repos/wolone/deepseek-harness-desktop: 404"
+        },
+        {
+          "at": "2026-08-19T01:55:40.586Z",
+          "reason": "https://api.github.com/repos/wolone/deepseek-harness-desktop: 404"
         }
       ],
       "github": {
@@ -258177,6 +258325,10 @@
         },
         {
           "at": "2026-08-18T17:47:06.887Z",
+          "reason": "https://api.github.com/repos/WuGc1999/dsh-plugins: 404"
+        },
+        {
+          "at": "2026-08-19T01:55:40.586Z",
           "reason": "https://api.github.com/repos/WuGc1999/dsh-plugins: 404"
         }
       ],
@@ -282011,9 +282163,10 @@
         "fullName": "ZaVang/dsh-diorama",
         "url": "https://github.com/ZaVang/dsh-diorama"
       },
-      "summary": "DSH Diorama — character skins with an editable decoration board for DeepSeek Harness: 雪乃·暖阳日常 (Yukino warm daily) and 隐秘年代志 (occult editorial), each with dual character sprites + sticker sheets. Dropdown skin switcher, drag/resize/rotate coordinate editor, custom asset upload, and shareable diorama packs (assets + layout bundled).",
+      "summary": "ZaVang/dsh-diorama",
       "sources": [
-        "github-topic"
+        "github-topic",
+        "awesome-dsh-plugin"
       ],
       "admission": {
         "status": "candidate"
@@ -282023,7 +282176,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-17T15:43:44.297Z",
-      "lastSeenAt": "2026-08-17T19:45:27.365Z",
+      "lastSeenAt": "2026-08-19T01:55:40.586Z",
       "checks": {
         "checkedAt": "2026-08-17T19:45:27.365Z",
         "publicRepository": true,
@@ -282048,32 +282201,6 @@
         "lastPushAt": "2026-08-17T08:21:31Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-17T19:45:27.365Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "browser",
-          "debugging",
-          "file",
-          "image",
-          "knowledge",
-          "layout",
-          "theme"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:bundle",
-          "text:testing-debugging:调试",
-          "text:search-browsing:浏览器",
-          "text:knowledge-management:rag",
-          "text:themes-layout:skin",
-          "text:navigation-panels:菜单",
-          "text:files-terminal:文件",
-          "text:data-processing:json"
-        ],
-        "needsReview": true
       }
     },
     "zbbsdsb-wam-framework": {
@@ -295567,8 +295694,8 @@
   },
   "failures": [
     {
-      "at": "2026-08-18T23:40:31.670Z",
-      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T17%3A38%3A27Z..2026-08-14T04%3A08%3A37Z&sort=updated&order=desc&per_page=100&page=1: 403"
+      "at": "2026-08-19T01:55:40.586Z",
+      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T19%3A53%3A30Z..2026-08-14T16%3A53%3A51Z&sort=updated&order=desc&per_page=100&page=1: 403"
     }
   ]
 }
