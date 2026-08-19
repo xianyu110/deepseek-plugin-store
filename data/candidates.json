@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-08-19T03:13:19.692Z",
+  "updatedAt": "2026-08-19T04:02:37.740Z",
   "candidates": {
     "01virex-dsh-foxy-jumpscare": {
       "id": "01virex-dsh-foxy-jumpscare",
@@ -187121,7 +187121,7 @@
         "fullName": "polaris-smart/dph-fleet",
         "url": "https://github.com/polaris-smart/dph-fleet"
       },
-      "summary": "Turn your devices into a fleet — decentralized multi-device collaboration plugin for dph: mDNS discovery, key pairing, SSH direct execution",
+      "summary": "polaris-smart/dph-fleet",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -187133,7 +187133,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-19T03:13:19.692Z",
-      "lastSeenAt": "2026-08-19T03:13:19.692Z",
+      "lastSeenAt": "2026-08-19T04:02:37.740Z",
       "checks": {
         "checkedAt": "2026-08-19T03:13:19.692Z",
         "publicRepository": true,
@@ -187158,34 +187158,6 @@
         "lastPushAt": "2026-08-17T19:47:07Z",
         "latestReleaseAt": "2026-08-17T19:47:07Z",
         "capturedAt": "2026-08-19T03:13:19.692Z"
-      },
-      "classificationSuggestion": {
-        "group": "agents-workflows",
-        "category": "automation",
-        "tags": [
-          "automation",
-          "cli",
-          "collaboration",
-          "data",
-          "desktop",
-          "file",
-          "planning",
-          "terminal",
-          "tool"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:automation:automat",
-          "text:planning-execution:执行",
-          "text:memory-context:会话",
-          "text:knowledge-management:笔记",
-          "text:desktop-mobile:desktop",
-          "text:files-terminal:ssh",
-          "text:data-processing:数据"
-        ],
-        "needsReview": true
       }
     },
     "polarskicpl-dsh-codex-migrate": {
@@ -219553,7 +219525,7 @@
         "fullName": "stuarthu/dsh-crew",
         "url": "https://github.com/stuarthu/dsh-crew"
       },
-      "summary": "dsh plugin: run work as a small crew of role agents (product manager, researcher, architect, engineer, QA, code reviewer, security reviewer, doc reviewer) that share work through files on disk",
+      "summary": "stuarthu/dsh-crew",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -219565,7 +219537,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-19T03:13:19.692Z",
-      "lastSeenAt": "2026-08-19T03:13:19.692Z",
+      "lastSeenAt": "2026-08-19T04:02:37.740Z",
       "checks": {
         "checkedAt": "2026-08-19T03:13:19.692Z",
         "publicRepository": true,
@@ -219590,43 +219562,6 @@
         "lastPushAt": "2026-08-18T21:54:46Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-19T03:13:19.692Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "agent",
-          "chat",
-          "collaboration",
-          "data",
-          "desktop",
-          "document",
-          "education",
-          "file",
-          "mcp",
-          "monitoring",
-          "planning",
-          "project-analysis",
-          "research",
-          "search",
-          "terminal",
-          "testing",
-          "tool",
-          "workflow"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:test",
-          "text:project-analysis:code review",
-          "text:orchestration:subagent",
-          "text:planning-execution:workflow",
-          "text:memory-context:session",
-          "text:search-browsing:search",
-          "text:deep-research:research"
-        ],
-        "needsReview": true
       }
     },
     "stuarthu-dsh-hot-reload": {
@@ -231560,7 +231495,7 @@
         "fullName": "TongY1n/ui-muyu",
         "url": "https://github.com/TongY1n/ui-muyu"
       },
-      "summary": "一个赛博木鱼：可拖拽、点击敲击、累积功德的 Web 悬浮小摆件",
+      "summary": "TongY1n/ui-muyu",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -231572,7 +231507,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-19T03:13:19.692Z",
-      "lastSeenAt": "2026-08-19T03:13:19.692Z",
+      "lastSeenAt": "2026-08-19T04:02:37.740Z",
       "checks": {
         "checkedAt": "2026-08-19T03:13:19.692Z",
         "publicRepository": true,
@@ -231597,37 +231532,6 @@
         "lastPushAt": "2026-08-19T02:34:41Z",
         "latestReleaseAt": "2026-08-17T19:35:40Z",
         "capturedAt": "2026-08-19T03:13:19.692Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "api",
-          "browser",
-          "chat",
-          "data",
-          "file",
-          "image",
-          "knowledge",
-          "layout",
-          "project-analysis",
-          "terminal",
-          "theme",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:memory-context:session",
-          "text:search-browsing:browser",
-          "text:knowledge-management:rag",
-          "text:themes-layout:color",
-          "text:navigation-panels:panel",
-          "text:files-terminal:git",
-          "text:data-processing:data"
-        ],
-        "needsReview": true
       }
     },
     "tonywang-hub-dsh-plugin-trust-center": {
@@ -295843,8 +295747,8 @@
   },
   "failures": [
     {
-      "at": "2026-08-19T03:13:19.692Z",
-      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T21%3A11%3A05Z..2026-08-15T15%3A11%3A49Z&sort=updated&order=desc&per_page=100&page=1: 403"
+      "at": "2026-08-19T04:02:37.740Z",
+      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T22%3A00%3A22Z..2026-08-15T16%3A01%3A06Z&sort=updated&order=desc&per_page=100&page=1: 403"
     }
   ]
 }
