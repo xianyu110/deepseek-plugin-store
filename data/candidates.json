@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-08-19T01:55:40.586Z",
+  "updatedAt": "2026-08-19T03:13:19.692Z",
   "candidates": {
     "01virex-dsh-foxy-jumpscare": {
       "id": "01virex-dsh-foxy-jumpscare",
@@ -39023,6 +39023,10 @@
         {
           "at": "2026-08-18T20:43:12.043Z",
           "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-plugin-skill: 404"
+        },
+        {
+          "at": "2026-08-19T03:13:19.692Z",
+          "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-plugin-skill: 404"
         }
       ],
       "github": {
@@ -39144,6 +39148,10 @@
         },
         {
           "at": "2026-08-18T20:43:12.043Z",
+          "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-web: 404"
+        },
+        {
+          "at": "2026-08-19T03:13:19.692Z",
           "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-web: 404"
         }
       ],
@@ -55246,7 +55254,7 @@
         "fullName": "demacia1314/dsh-airdrop",
         "url": "https://github.com/demacia1314/dsh-airdrop"
       },
-      "summary": "Codex-app-style attachments for DeepSeek Harness: drop any file or folder anywhere in the window; bytes upload into the session workspace on the server, so remote servers and SSH tunnels work exactly like localhost.",
+      "summary": "demacia1314/dsh-airdrop",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -55258,7 +55266,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-19T01:55:40.586Z",
-      "lastSeenAt": "2026-08-19T01:55:40.586Z",
+      "lastSeenAt": "2026-08-19T03:13:19.692Z",
       "checks": {
         "checkedAt": "2026-08-19T01:55:40.586Z",
         "publicRepository": true,
@@ -55283,42 +55291,6 @@
         "lastPushAt": "2026-08-18T18:45:06Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-19T01:55:40.586Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "agent",
-          "api",
-          "browser",
-          "chat",
-          "collaboration",
-          "data",
-          "document",
-          "file",
-          "image",
-          "knowledge",
-          "planning",
-          "project-analysis",
-          "terminal",
-          "testing",
-          "tool",
-          "ui",
-          "video"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:test",
-          "text:memory-context:session",
-          "text:search-browsing:browser",
-          "text:knowledge-management:rag",
-          "text:document-processing:pdf",
-          "text:desktop-mobile:web ui",
-          "text:files-terminal:file"
-        ],
-        "needsReview": true
       }
     },
     "derek2035-dsh-social": {
@@ -131905,9 +131877,10 @@
         "fullName": "KyoMio/dsh-zen-remote",
         "url": "https://github.com/KyoMio/dsh-zen-remote"
       },
-      "summary": "Turn DeepSeek Harness into a phone app you can securely reach from anywhere: minimal mobile UI rework + pairing-code gateway + PWA + Web Push. 让 DSH 变成可公网安全访问的手机 App",
+      "summary": "KyoMio/dsh-zen-remote",
       "sources": [
-        "github-topic"
+        "github-topic",
+        "awesome-dsh-plugin"
       ],
       "admission": {
         "status": "candidate"
@@ -131917,7 +131890,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-17T17:47:48.893Z",
-      "lastSeenAt": "2026-08-17T17:47:48.893Z",
+      "lastSeenAt": "2026-08-19T03:13:19.692Z",
       "checks": {
         "checkedAt": "2026-08-17T17:47:48.893Z",
         "publicRepository": true,
@@ -131942,39 +131915,6 @@
         "lastPushAt": "2026-08-17T17:09:21Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-17T17:47:48.893Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "agent",
-          "browser",
-          "chat",
-          "cli",
-          "data",
-          "debugging",
-          "document",
-          "file",
-          "mobile",
-          "notification",
-          "terminal",
-          "theme",
-          "tool",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:日志",
-          "text:planning-execution:执行",
-          "text:memory-context:会话",
-          "text:search-browsing:浏览器",
-          "text:document-processing:文档",
-          "text:themes-layout:主题",
-          "text:navigation-panels:菜单"
-        ],
-        "needsReview": true
       }
     },
     "kyorakuyk-dsh-hotreload-plugin-manager": {
@@ -171973,6 +171913,10 @@
         {
           "at": "2026-08-18T20:43:12.043Z",
           "reason": "Expected double-quoted property name in JSON at position 459 (line 16 column 1)"
+        },
+        {
+          "at": "2026-08-19T03:13:19.692Z",
+          "reason": "Expected double-quoted property name in JSON at position 459 (line 16 column 1)"
         }
       ],
       "github": {
@@ -187169,6 +187113,79 @@
         "lastPushAt": "2026-08-16T15:51:20Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-17T06:43:20.788Z"
+      }
+    },
+    "polaris-smart-dph-fleet": {
+      "id": "polaris-smart-dph-fleet",
+      "repository": {
+        "fullName": "polaris-smart/dph-fleet",
+        "url": "https://github.com/polaris-smart/dph-fleet"
+      },
+      "summary": "Turn your devices into a fleet — decentralized multi-device collaboration plugin for dph: mDNS discovery, key pairing, SSH direct execution",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-08-19T03:13:19.692Z",
+      "lastSeenAt": "2026-08-19T03:13:19.692Z",
+      "checks": {
+        "checkedAt": "2026-08-19T03:13:19.692Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:polaris-smart/dph-fleet",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 2,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-08-17T18:28:45Z",
+        "lastPushAt": "2026-08-17T19:47:07Z",
+        "latestReleaseAt": "2026-08-17T19:47:07Z",
+        "capturedAt": "2026-08-19T03:13:19.692Z"
+      },
+      "classificationSuggestion": {
+        "group": "agents-workflows",
+        "category": "automation",
+        "tags": [
+          "automation",
+          "cli",
+          "collaboration",
+          "data",
+          "desktop",
+          "file",
+          "planning",
+          "terminal",
+          "tool"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:plugin",
+          "text:automation:automat",
+          "text:planning-execution:执行",
+          "text:memory-context:会话",
+          "text:knowledge-management:笔记",
+          "text:desktop-mobile:desktop",
+          "text:files-terminal:ssh",
+          "text:data-processing:数据"
+        ],
+        "needsReview": true
       }
     },
     "polarskicpl-dsh-codex-migrate": {
@@ -219530,6 +219547,88 @@
         "capturedAt": "2026-08-17T14:47:37.933Z"
       }
     },
+    "stuarthu-dsh-crew": {
+      "id": "stuarthu-dsh-crew",
+      "repository": {
+        "fullName": "stuarthu/dsh-crew",
+        "url": "https://github.com/stuarthu/dsh-crew"
+      },
+      "summary": "dsh plugin: run work as a small crew of role agents (product manager, researcher, architect, engineer, QA, code reviewer, security reviewer, doc reviewer) that share work through files on disk",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-08-19T03:13:19.692Z",
+      "lastSeenAt": "2026-08-19T03:13:19.692Z",
+      "checks": {
+        "checkedAt": "2026-08-19T03:13:19.692Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:stuarthu/dsh-crew",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 0,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-08-18T00:11:56Z",
+        "lastPushAt": "2026-08-18T21:54:46Z",
+        "latestReleaseAt": null,
+        "capturedAt": "2026-08-19T03:13:19.692Z"
+      },
+      "classificationSuggestion": {
+        "group": "integrations-communication",
+        "category": "collaboration",
+        "tags": [
+          "agent",
+          "chat",
+          "collaboration",
+          "data",
+          "desktop",
+          "document",
+          "education",
+          "file",
+          "mcp",
+          "monitoring",
+          "planning",
+          "project-analysis",
+          "research",
+          "search",
+          "terminal",
+          "testing",
+          "tool",
+          "workflow"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:plugin",
+          "text:testing-debugging:test",
+          "text:project-analysis:code review",
+          "text:orchestration:subagent",
+          "text:planning-execution:workflow",
+          "text:memory-context:session",
+          "text:search-browsing:search",
+          "text:deep-research:research"
+        ],
+        "needsReview": true
+      }
+    },
     "stuarthu-dsh-hot-reload": {
       "id": "stuarthu-dsh-hot-reload",
       "repository": {
@@ -231455,6 +231554,82 @@
         "needsReview": true
       }
     },
+    "tongy1n-ui-muyu": {
+      "id": "tongy1n-ui-muyu",
+      "repository": {
+        "fullName": "TongY1n/ui-muyu",
+        "url": "https://github.com/TongY1n/ui-muyu"
+      },
+      "summary": "一个赛博木鱼：可拖拽、点击敲击、累积功德的 Web 悬浮小摆件",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-08-19T03:13:19.692Z",
+      "lastSeenAt": "2026-08-19T03:13:19.692Z",
+      "checks": {
+        "checkedAt": "2026-08-19T03:13:19.692Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:TongY1n/ui-muyu",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 0,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-08-17T19:32:59Z",
+        "lastPushAt": "2026-08-19T02:34:41Z",
+        "latestReleaseAt": "2026-08-17T19:35:40Z",
+        "capturedAt": "2026-08-19T03:13:19.692Z"
+      },
+      "classificationSuggestion": {
+        "group": "integrations-communication",
+        "category": "collaboration",
+        "tags": [
+          "api",
+          "browser",
+          "chat",
+          "data",
+          "file",
+          "image",
+          "knowledge",
+          "layout",
+          "project-analysis",
+          "terminal",
+          "theme",
+          "ui"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:plugin",
+          "text:memory-context:session",
+          "text:search-browsing:browser",
+          "text:knowledge-management:rag",
+          "text:themes-layout:color",
+          "text:navigation-panels:panel",
+          "text:files-terminal:git",
+          "text:data-processing:data"
+        ],
+        "needsReview": true
+      }
+    },
     "tonywang-hub-dsh-plugin-trust-center": {
       "id": "tonywang-hub-dsh-plugin-trust-center",
       "repository": {
@@ -232577,7 +232752,7 @@
         "fullName": "trench-xinxin/dsh-tool-lens",
         "url": "https://github.com/trench-xinxin/dsh-tool-lens"
       },
-      "summary": "DeepSeek Lens: Deep AST code graph, symbol call hierarchies, and refactoring impact analysis tool plugin for DeepSeek Harness",
+      "summary": "trench-xinxin/dsh-tool-lens",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -232589,7 +232764,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-19T01:55:40.586Z",
-      "lastSeenAt": "2026-08-19T01:55:40.586Z",
+      "lastSeenAt": "2026-08-19T03:13:19.692Z",
       "checks": {
         "checkedAt": "2026-08-19T01:55:40.586Z",
         "publicRepository": true,
@@ -232614,40 +232789,6 @@
         "lastPushAt": "2026-08-18T07:00:21Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-19T01:55:40.586Z"
-      },
-      "classificationSuggestion": {
-        "group": "agents-workflows",
-        "category": "automation",
-        "tags": [
-          "agent",
-          "api",
-          "automation",
-          "browser",
-          "debugging",
-          "file",
-          "mobile",
-          "project-analysis",
-          "terminal",
-          "testing",
-          "theme",
-          "tool",
-          "ui",
-          "visualization",
-          "workflow"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:code-generation:refactor",
-          "text:testing-debugging:trace",
-          "text:project-analysis:dependency",
-          "text:automation:automat",
-          "text:planning-execution:workflow",
-          "text:memory-context:prompt",
-          "text:search-browsing:browser"
-        ],
-        "needsReview": true
       }
     },
     "trisia-mddocx": {
@@ -243378,6 +243519,10 @@
         },
         {
           "at": "2026-08-18T20:43:12.043Z",
+          "reason": "https://api.github.com/repos/UE-DND/dsh-antigravity-auth: 404"
+        },
+        {
+          "at": "2026-08-19T03:13:19.692Z",
           "reason": "https://api.github.com/repos/UE-DND/dsh-antigravity-auth: 404"
         }
       ],
@@ -258969,6 +259114,10 @@
         },
         {
           "at": "2026-08-18T20:43:12.043Z",
+          "reason": "https://api.github.com/repos/wuyh/dsh-workspace-files: 404"
+        },
+        {
+          "at": "2026-08-19T03:13:19.692Z",
           "reason": "https://api.github.com/repos/wuyh/dsh-workspace-files: 404"
         }
       ],
@@ -295694,8 +295843,8 @@
   },
   "failures": [
     {
-      "at": "2026-08-19T01:55:40.586Z",
-      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T19%3A53%3A30Z..2026-08-14T16%3A53%3A51Z&sort=updated&order=desc&per_page=100&page=1: 403"
+      "at": "2026-08-19T03:13:19.692Z",
+      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T21%3A11%3A05Z..2026-08-15T15%3A11%3A49Z&sort=updated&order=desc&per_page=100&page=1: 403"
     }
   ]
 }
