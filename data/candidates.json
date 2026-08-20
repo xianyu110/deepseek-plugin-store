@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-08-20T08:58:34.378Z",
+  "updatedAt": "2026-08-20T09:52:53.913Z",
   "candidates": {
     "01virex-dsh-foxy-jumpscare": {
       "id": "01virex-dsh-foxy-jumpscare",
@@ -39428,6 +39428,10 @@
         {
           "at": "2026-08-20T03:13:01.035Z",
           "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-mermaid-plugin: 404"
+        },
+        {
+          "at": "2026-08-20T09:52:53.913Z",
+          "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-mermaid-plugin: 404"
         }
       ],
       "github": {
@@ -39624,6 +39628,10 @@
         },
         {
           "at": "2026-08-20T03:13:01.035Z",
+          "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-terminal-plugin: 404"
+        },
+        {
+          "at": "2026-08-20T09:52:53.913Z",
           "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-terminal-plugin: 404"
         }
       ],
@@ -46521,6 +46529,10 @@
         {
           "at": "2026-08-20T03:13:01.035Z",
           "reason": "https://api.github.com/repos/coder-wu/dsh-share: 404"
+        },
+        {
+          "at": "2026-08-20T09:52:53.913Z",
+          "reason": "https://api.github.com/repos/coder-wu/dsh-share: 404"
         }
       ],
       "github": {
@@ -49151,6 +49163,10 @@
         },
         {
           "at": "2026-08-20T03:13:01.035Z",
+          "reason": "https://api.github.com/repos/CreatTheWorld/dsh-desktop-launcher: 404"
+        },
+        {
+          "at": "2026-08-20T09:52:53.913Z",
           "reason": "https://api.github.com/repos/CreatTheWorld/dsh-desktop-launcher: 404"
         }
       ],
@@ -73532,6 +73548,10 @@
         },
         {
           "at": "2026-08-20T03:13:01.035Z",
+          "reason": "https://api.github.com/repos/Flamesnake/dsh-talespindle: 404"
+        },
+        {
+          "at": "2026-08-20T09:52:53.913Z",
           "reason": "https://api.github.com/repos/Flamesnake/dsh-talespindle: 404"
         }
       ],
@@ -121985,6 +122005,10 @@
         {
           "at": "2026-08-20T03:13:01.035Z",
           "reason": "https://api.github.com/repos/Julyves/dsh-git-status: 404"
+        },
+        {
+          "at": "2026-08-20T09:52:53.913Z",
+          "reason": "https://api.github.com/repos/Julyves/dsh-git-status: 404"
         }
       ],
       "github": {
@@ -139360,6 +139384,10 @@
         },
         {
           "at": "2026-08-20T03:13:01.035Z",
+          "reason": "https://api.github.com/repos/LeslieWylie/dsh-evidence-memory: 404"
+        },
+        {
+          "at": "2026-08-20T09:52:53.913Z",
           "reason": "https://api.github.com/repos/LeslieWylie/dsh-evidence-memory: 404"
         }
       ],
@@ -180469,6 +180497,10 @@
         {
           "at": "2026-08-20T03:13:01.035Z",
           "reason": "https://api.github.com/repos/oneincase/dsh-minecraft-skin: 404"
+        },
+        {
+          "at": "2026-08-20T09:52:53.913Z",
+          "reason": "https://api.github.com/repos/oneincase/dsh-minecraft-skin: 404"
         }
       ],
       "github": {
@@ -186316,63 +186348,62 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-16T14:11:14.437Z",
+      "lastSeenAt": "2026-08-20T09:52:53.913Z",
       "checks": {
-        "admissionReady": false,
-        "reasons": [
-          "not-reviewed"
-        ]
+        "checkedAt": "2026-08-20T09:52:53.913Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:penguin-oo/dsh-delegate-router",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
       },
-      "failures": [
-        {
-          "at": "2026-08-17T14:47:37.933Z",
-          "reason": "https://api.github.com/repos/penguin-oo/dsh-delegate-router: 404"
-        },
-        {
-          "at": "2026-08-17T22:44:21.453Z",
-          "reason": "https://api.github.com/repos/penguin-oo/dsh-delegate-router: 404"
-        },
-        {
-          "at": "2026-08-18T04:55:01.081Z",
-          "reason": "https://api.github.com/repos/penguin-oo/dsh-delegate-router: 404"
-        },
-        {
-          "at": "2026-08-18T11:44:41.814Z",
-          "reason": "https://api.github.com/repos/penguin-oo/dsh-delegate-router: 404"
-        },
-        {
-          "at": "2026-08-18T17:47:06.887Z",
-          "reason": "https://api.github.com/repos/penguin-oo/dsh-delegate-router: 404"
-        },
-        {
-          "at": "2026-08-19T01:55:40.586Z",
-          "reason": "https://api.github.com/repos/penguin-oo/dsh-delegate-router: 404"
-        },
-        {
-          "at": "2026-08-19T07:56:51.367Z",
-          "reason": "https://api.github.com/repos/penguin-oo/dsh-delegate-router: 404"
-        },
-        {
-          "at": "2026-08-19T14:00:42.559Z",
-          "reason": "https://api.github.com/repos/penguin-oo/dsh-delegate-router: 404"
-        },
-        {
-          "at": "2026-08-19T20:48:28.271Z",
-          "reason": "https://api.github.com/repos/penguin-oo/dsh-delegate-router: 404"
-        },
-        {
-          "at": "2026-08-20T03:13:01.035Z",
-          "reason": "https://api.github.com/repos/penguin-oo/dsh-delegate-router: 404"
-        }
-      ],
+      "failures": [],
       "github": {
         "stars": 0,
         "license": "MIT",
         "archived": false,
         "private": false,
         "createdAt": "2026-08-16T09:00:16Z",
-        "lastPushAt": "2026-08-16T09:16:29Z",
-        "capturedAt": "2026-08-16T14:11:14.437Z"
+        "lastPushAt": "2026-08-20T09:01:45Z",
+        "latestReleaseAt": null,
+        "capturedAt": "2026-08-20T09:52:53.913Z"
+      },
+      "classificationSuggestion": {
+        "group": "agents-workflows",
+        "category": "automation",
+        "tags": [
+          "agent",
+          "automation",
+          "browser",
+          "chat",
+          "debugging",
+          "file",
+          "knowledge",
+          "layout",
+          "planning",
+          "search",
+          "testing",
+          "tool"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:plugin",
+          "text:code-generation:refactor",
+          "text:testing-debugging:debug",
+          "text:orchestration:subagent",
+          "text:automation:automat",
+          "text:planning-execution:task",
+          "text:memory-context:session",
+          "text:search-browsing:search"
+        ],
+        "needsReview": true
       }
     },
     "penguin-oo-dsh-pathlink": {
@@ -190687,6 +190718,10 @@
         },
         {
           "at": "2026-08-20T03:13:01.035Z",
+          "reason": "https://api.github.com/repos/PrismScopes/deepseek-harness-zh: 404"
+        },
+        {
+          "at": "2026-08-20T09:52:53.913Z",
           "reason": "https://api.github.com/repos/PrismScopes/deepseek-harness-zh: 404"
         }
       ],
@@ -256807,6 +256842,10 @@
         {
           "at": "2026-08-20T03:13:01.035Z",
           "reason": "Bad control character in string literal in JSON at position 343 (line 4 column 289)"
+        },
+        {
+          "at": "2026-08-20T09:52:53.913Z",
+          "reason": "Bad control character in string literal in JSON at position 343 (line 4 column 289)"
         }
       ],
       "github": {
@@ -260881,6 +260920,10 @@
         {
           "at": "2026-08-20T03:13:01.035Z",
           "reason": "https://api.github.com/repos/wolone/deepseek-harness-desktop: 404"
+        },
+        {
+          "at": "2026-08-20T09:52:53.913Z",
+          "reason": "https://api.github.com/repos/wolone/deepseek-harness-desktop: 404"
         }
       ],
       "github": {
@@ -262384,6 +262427,10 @@
         },
         {
           "at": "2026-08-20T03:13:01.035Z",
+          "reason": "https://api.github.com/repos/WuGc1999/dsh-plugins: 404"
+        },
+        {
+          "at": "2026-08-20T09:52:53.913Z",
           "reason": "https://api.github.com/repos/WuGc1999/dsh-plugins: 404"
         }
       ],
@@ -300634,8 +300681,8 @@
   },
   "failures": [
     {
-      "at": "2026-08-20T08:58:34.378Z",
-      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T08%3A53%3A51Z..2026-08-13T19%3A24%3A08Z&sort=updated&order=desc&per_page=100&page=5: 403"
+      "at": "2026-08-20T09:52:53.913Z",
+      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T09%3A48%3A07Z..2026-08-13T20%3A18%3A24Z&sort=updated&order=desc&per_page=100&page=5: 403"
     }
   ]
 }
