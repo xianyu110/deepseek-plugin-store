@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-08-20T04:56:53.662Z",
+  "updatedAt": "2026-08-20T05:49:25.482Z",
   "candidates": {
     "01virex-dsh-foxy-jumpscare": {
       "id": "01virex-dsh-foxy-jumpscare",
@@ -37165,9 +37165,10 @@
         "fullName": "changlianxiya-139/dsh-ambiguity-handling",
         "url": "https://github.com/changlianxiya-139/dsh-ambiguity-handling"
       },
-      "summary": "Append ambiguity-handling rules to the DeepSeek Harness system prompt",
+      "summary": "changlianxiya-139/dsh-ambiguity-handling",
       "sources": [
-        "github-topic"
+        "github-topic",
+        "awesome-dsh-plugin"
       ],
       "admission": {
         "status": "candidate"
@@ -37177,7 +37178,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-17T15:43:44.297Z",
-      "lastSeenAt": "2026-08-17T19:45:27.365Z",
+      "lastSeenAt": "2026-08-20T05:49:25.482Z",
       "checks": {
         "checkedAt": "2026-08-17T19:45:27.365Z",
         "publicRepository": true,
@@ -37202,30 +37203,6 @@
         "lastPushAt": "2026-08-17T08:34:59Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-17T19:45:27.365Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "document",
-          "file",
-          "testing",
-          "tool",
-          "workflow"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:testing-debugging:test",
-          "text:planning-execution:workflow",
-          "text:memory-context:prompt",
-          "text:document-processing:文档",
-          "text:files-terminal:目录",
-          "text:data-processing:json",
-          "text:general-utilities:tool"
-        ],
-        "needsReview": true
       }
     },
     "chaojixinren-dsh-reviewer-bot": {
@@ -39522,6 +39499,10 @@
         {
           "at": "2026-08-19T23:41:06.502Z",
           "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-plugin-skill: 404"
+        },
+        {
+          "at": "2026-08-20T05:49:25.482Z",
+          "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-plugin-skill: 404"
         }
       ],
       "github": {
@@ -39675,6 +39656,10 @@
         },
         {
           "at": "2026-08-19T23:41:06.502Z",
+          "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-web: 404"
+        },
+        {
+          "at": "2026-08-20T05:49:25.482Z",
           "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-web: 404"
         }
       ],
@@ -65421,6 +65406,83 @@
           "text:memory-context:上下文",
           "text:search-browsing:search",
           "text:visualization:可视化"
+        ],
+        "needsReview": true
+      }
+    },
+    "eligahyu-dsh-sentinel-scanner": {
+      "id": "eligahyu-dsh-sentinel-scanner",
+      "repository": {
+        "fullName": "Eligahyu/dsh-sentinel-scanner",
+        "url": "https://github.com/Eligahyu/dsh-sentinel-scanner"
+      },
+      "summary": "🛡️ 给 DeepSeek Harness 插件拍 X 光 — 插件安全体检与健康检查。零依赖只读静态扫描:代码执行/凭据/外传/混淆/安装脚本/bundle 清单,0-100 风险分。DSH tool plugin + standalone CLI。",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-08-20T05:49:25.482Z",
+      "lastSeenAt": "2026-08-20T05:49:25.482Z",
+      "checks": {
+        "checkedAt": "2026-08-20T05:49:25.482Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:Eligahyu/dsh-sentinel-scanner",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 3,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-08-17T16:01:19Z",
+        "lastPushAt": "2026-08-20T05:03:06Z",
+        "latestReleaseAt": null,
+        "capturedAt": "2026-08-20T05:49:25.482Z"
+      },
+      "classificationSuggestion": {
+        "group": "agents-workflows",
+        "category": "automation",
+        "tags": [
+          "agent",
+          "automation",
+          "chat",
+          "cli",
+          "context",
+          "data",
+          "document",
+          "file",
+          "integration",
+          "project-analysis",
+          "terminal",
+          "testing",
+          "tool"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:插件",
+          "text:testing-debugging:测试",
+          "text:automation:自动化",
+          "text:planning-execution:执行",
+          "text:memory-context:context",
+          "text:document-processing:文档",
+          "text:files-terminal:cli",
+          "text:data-processing:数据"
         ],
         "needsReview": true
       }
@@ -91724,6 +91786,80 @@
         "needsReview": true
       }
     },
+    "hann428-dsh-usage-dashboard": {
+      "id": "hann428-dsh-usage-dashboard",
+      "repository": {
+        "fullName": "Hann428/dsh-usage-dashboard",
+        "url": "https://github.com/Hann428/dsh-usage-dashboard"
+      },
+      "summary": "DeepSeek Harness Usage tab for balance, official peak/off-peak pricing, live countdown, and platform usage link.",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-08-20T05:49:25.482Z",
+      "lastSeenAt": "2026-08-20T05:49:25.482Z",
+      "checks": {
+        "checkedAt": "2026-08-20T05:49:25.482Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:Hann428/dsh-usage-dashboard",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 0,
+        "license": "BSD-3-Clause",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-08-18T14:17:46Z",
+        "lastPushAt": "2026-08-19T03:34:42Z",
+        "latestReleaseAt": null,
+        "capturedAt": "2026-08-20T05:49:25.482Z"
+      },
+      "classificationSuggestion": {
+        "group": "tools-data",
+        "category": "data-processing",
+        "tags": [
+          "agent",
+          "api",
+          "browser",
+          "chat",
+          "data",
+          "knowledge",
+          "layout",
+          "monitoring",
+          "notification",
+          "tool"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:plugin",
+          "text:memory-context:会话",
+          "text:search-browsing:browser",
+          "text:knowledge-management:rag",
+          "text:navigation-panels:dashboard",
+          "text:visualization:render",
+          "text:files-terminal:git",
+          "text:data-processing:data"
+        ],
+        "needsReview": true
+      }
+    },
     "hanshenmesen-dsh-turn-delete": {
       "id": "hanshenmesen-dsh-turn-delete",
       "repository": {
@@ -109569,7 +109705,7 @@
         "fullName": "jacujay/dsh-model-balance",
         "url": "https://github.com/jacujay/dsh-model-balance"
       },
-      "summary": "DSH plugin: auto-detect current model vendor and show balance/quota in the composer input row (DeepSeek/Moonshot/MiniMax/StepFun/Zhipu/SiliconFlow/OpenRouter + custom endpoints)",
+      "summary": "jacujay/dsh-model-balance",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -109581,7 +109717,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-20T04:56:53.662Z",
-      "lastSeenAt": "2026-08-20T04:56:53.662Z",
+      "lastSeenAt": "2026-08-20T05:49:25.482Z",
       "checks": {
         "checkedAt": "2026-08-20T04:56:53.662Z",
         "publicRepository": true,
@@ -109606,34 +109742,6 @@
         "lastPushAt": "2026-08-20T01:53:01Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-20T04:56:53.662Z"
-      },
-      "classificationSuggestion": {
-        "group": "agents-workflows",
-        "category": "automation",
-        "tags": [
-          "api",
-          "automation",
-          "browser",
-          "data",
-          "layout",
-          "monitoring",
-          "planning",
-          "project-analysis",
-          "theme"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:automation:automat",
-          "text:memory-context:token",
-          "text:search-browsing:browser",
-          "text:themes-layout:color",
-          "text:navigation-panels:panel",
-          "text:files-terminal:git",
-          "text:data-processing:json"
-        ],
-        "needsReview": true
       }
     },
     "jadpp-dsh-whale-galgame": {
@@ -132306,7 +132414,7 @@
         "fullName": "kriskite/dsh-network-proxy",
         "url": "https://github.com/kriskite/dsh-network-proxy"
       },
-      "summary": "DeepSeek Harness plugin to manage network proxy (system / manual / direct) with a live settings UI. [dsh-plugin]",
+      "summary": "kriskite/dsh-network-proxy",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -132318,7 +132426,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-20T04:56:53.662Z",
-      "lastSeenAt": "2026-08-20T04:56:53.662Z",
+      "lastSeenAt": "2026-08-20T05:49:25.482Z",
       "checks": {
         "checkedAt": "2026-08-20T04:56:53.662Z",
         "publicRepository": true,
@@ -132343,26 +132451,6 @@
         "lastPushAt": "2026-08-19T03:14:52Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-20T04:56:53.662Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "agent",
-          "file",
-          "testing",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:测试",
-          "text:files-terminal:git",
-          "text:data-processing:json",
-          "text:external-services:github"
-        ],
-        "needsReview": true
       }
     },
     "kriskwok-dsh-feishu-gateway": {
@@ -174382,6 +174470,10 @@
         {
           "at": "2026-08-19T23:41:06.502Z",
           "reason": "Expected double-quoted property name in JSON at position 459 (line 16 column 1)"
+        },
+        {
+          "at": "2026-08-20T05:49:25.482Z",
+          "reason": "Expected double-quoted property name in JSON at position 459 (line 16 column 1)"
         }
       ],
       "github": {
@@ -198974,7 +199066,7 @@
         "fullName": "Relethe/dsh-brief-session-title",
         "url": "https://github.com/Relethe/dsh-brief-session-title"
       },
-      "summary": "DSH session-title plugin: condenses a full sentence into a single word for easier recall.",
+      "summary": "Relethe/dsh-brief-session-title",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -198986,7 +199078,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-20T04:56:53.662Z",
-      "lastSeenAt": "2026-08-20T04:56:53.662Z",
+      "lastSeenAt": "2026-08-20T05:49:25.482Z",
       "checks": {
         "checkedAt": "2026-08-20T04:56:53.662Z",
         "publicRepository": true,
@@ -199011,32 +199103,6 @@
         "lastPushAt": "2026-08-18T15:39:01Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-20T04:56:53.662Z"
-      },
-      "classificationSuggestion": {
-        "group": "agents-workflows",
-        "category": "automation",
-        "tags": [
-          "automation",
-          "data",
-          "education",
-          "file",
-          "layout",
-          "memory",
-          "project-analysis"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:automation:automat",
-          "text:memory-context:session",
-          "text:navigation-panels:sidebar",
-          "text:files-terminal:git",
-          "text:data-processing:database",
-          "text:external-services:github",
-          "text:collaboration:review"
-        ],
-        "needsReview": true
       }
     },
     "relistencode-dsh-extension-hub": {
@@ -205728,7 +205794,7 @@
         "fullName": "sandbaseai/dsh-plugin-store",
         "url": "https://github.com/sandbaseai/dsh-plugin-store"
       },
-      "summary": "Native plugin marketplace for DeepSeek Harness: discover, filter, install, and manage 4,000+ community plugin packages.",
+      "summary": "sandbaseai/dsh-plugin-store",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -205740,7 +205806,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-20T04:56:53.662Z",
-      "lastSeenAt": "2026-08-20T04:56:53.662Z",
+      "lastSeenAt": "2026-08-20T05:49:25.482Z",
       "checks": {
         "checkedAt": "2026-08-20T04:56:53.662Z",
         "publicRepository": true,
@@ -205765,40 +205831,6 @@
         "lastPushAt": "2026-08-20T04:25:16Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-20T04:56:53.662Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "agent",
-          "api",
-          "browser",
-          "collaboration",
-          "data",
-          "desktop",
-          "integration",
-          "project-analysis",
-          "search",
-          "terminal",
-          "testing",
-          "tool",
-          "ui",
-          "visualization",
-          "workflow"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:test",
-          "text:project-analysis:dependency",
-          "text:planning-execution:workflow",
-          "text:search-browsing:search",
-          "text:knowledge-management:graph",
-          "text:visualization:graph",
-          "text:desktop-mobile:desktop"
-        ],
-        "needsReview": true
       }
     },
     "sanqi-normal-dsh-model-picker": {
@@ -232275,7 +232307,7 @@
         "fullName": "TiantianFlow/dsh-tailscale-gateway",
         "url": "https://github.com/TiantianFlow/dsh-tailscale-gateway"
       },
-      "summary": "Private Tailscale access for DeepSeek Harness Web: exact user allowlists, loopback-only gateway, and guarded Serve setup",
+      "summary": "TiantianFlow/dsh-tailscale-gateway",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -232287,7 +232319,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-20T04:56:53.662Z",
-      "lastSeenAt": "2026-08-20T04:56:53.662Z",
+      "lastSeenAt": "2026-08-20T05:49:25.482Z",
       "checks": {
         "checkedAt": "2026-08-20T04:56:53.662Z",
         "publicRepository": true,
@@ -232312,35 +232344,6 @@
         "lastPushAt": "2026-08-20T03:14:35Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-20T04:56:53.662Z"
-      },
-      "classificationSuggestion": {
-        "group": "agents-workflows",
-        "category": "automation",
-        "tags": [
-          "api",
-          "automation",
-          "browser",
-          "integration",
-          "monitoring",
-          "planning",
-          "project-analysis",
-          "terminal",
-          "ui",
-          "workflow"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:bundle",
-          "text:project-analysis:dependency",
-          "text:automation:automat",
-          "text:planning-execution:workflow",
-          "text:memory-context:prompt",
-          "text:search-browsing:browser",
-          "text:files-terminal:git",
-          "text:data-processing:json"
-        ],
-        "needsReview": true
       }
     },
     "tiantyu-dsh-skin-toggle": {
@@ -237120,7 +237123,7 @@
         "fullName": "tuogusa/dsh-word-complete",
         "url": "https://github.com/tuogusa/dsh-word-complete"
       },
-      "summary": "Word auto-completion for the DSH Web composer: prefix-matched suggestions sorted by closeness, arrow keys to choose and Enter to confirm.",
+      "summary": "tuogusa/dsh-word-complete",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -237132,7 +237135,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-20T04:56:53.662Z",
-      "lastSeenAt": "2026-08-20T04:56:53.662Z",
+      "lastSeenAt": "2026-08-20T05:49:25.482Z",
       "checks": {
         "checkedAt": "2026-08-20T04:56:53.662Z",
         "publicRepository": true,
@@ -237157,33 +237160,6 @@
         "lastPushAt": "2026-08-19T02:16:26Z",
         "latestReleaseAt": "2026-08-19T02:16:26Z",
         "capturedAt": "2026-08-20T04:56:53.662Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "api",
-          "browser",
-          "chat",
-          "cli",
-          "data",
-          "document",
-          "file",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:memory-context:会话",
-          "text:search-browsing:浏览器",
-          "text:document-processing:document",
-          "text:navigation-panels:菜单",
-          "text:visualization:渲染",
-          "text:files-terminal:文件",
-          "text:data-processing:统计"
-        ],
-        "needsReview": true
       }
     },
     "tuoluofusijiyang-dsh-cost-monitor": {
@@ -246916,6 +246892,10 @@
         {
           "at": "2026-08-19T23:41:06.502Z",
           "reason": "https://api.github.com/repos/UE-DND/dsh-antigravity-auth: 404"
+        },
+        {
+          "at": "2026-08-20T05:49:25.482Z",
+          "reason": "https://api.github.com/repos/UE-DND/dsh-antigravity-auth: 404"
         }
       ],
       "github": {
@@ -249479,7 +249459,7 @@
         "fullName": "victorzhong0110/dsh-outcome-loop",
         "url": "https://github.com/victorzhong0110/dsh-outcome-loop"
       },
-      "summary": "DeepSeek Harness (DSH) 任务结果账本与验收插件：机械证据验收、默认零额外 token、数据本地持有。Local-first task outcome ledger & acceptance plugin: evidence-backed verification, zero extra model cost, user-owned sidecar data.",
+      "summary": "victorzhong0110/dsh-outcome-loop",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -249491,7 +249471,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-20T04:56:53.662Z",
-      "lastSeenAt": "2026-08-20T04:56:53.662Z",
+      "lastSeenAt": "2026-08-20T05:49:25.482Z",
       "checks": {
         "checkedAt": "2026-08-20T04:56:53.662Z",
         "publicRepository": true,
@@ -249516,41 +249496,6 @@
         "lastPushAt": "2026-08-20T00:45:38Z",
         "latestReleaseAt": "2026-08-18T12:58:16Z",
         "capturedAt": "2026-08-20T04:56:53.662Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "api",
-          "context",
-          "data",
-          "file",
-          "integration",
-          "knowledge",
-          "layout",
-          "mobile",
-          "monitoring",
-          "planning",
-          "project-analysis",
-          "skill",
-          "terminal",
-          "testing",
-          "tool",
-          "visualization"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:testing-debugging:lint",
-          "text:planning-execution:任务",
-          "text:memory-context:token",
-          "text:knowledge-management:rag",
-          "text:themes-layout:layout",
-          "text:visualization:chart",
-          "text:desktop-mobile:portable"
-        ],
-        "needsReview": true
       }
     },
     "viego-qiin-dsh-loop-detector": {
@@ -254969,7 +254914,7 @@
         "fullName": "WaveSpeedAI/wavespeed-dsh-skill",
         "url": "https://github.com/WaveSpeedAI/wavespeed-dsh-skill"
       },
-      "summary": "WaveSpeed skill for DeepSeek Harness (dsh) — generate and edit AI image, video, audio & 3D via the wavespeed CLI",
+      "summary": "WaveSpeedAI/wavespeed-dsh-skill",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -254981,7 +254926,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-20T04:56:53.662Z",
-      "lastSeenAt": "2026-08-20T04:56:53.662Z",
+      "lastSeenAt": "2026-08-20T05:49:25.482Z",
       "checks": {
         "checkedAt": "2026-08-20T04:56:53.662Z",
         "publicRepository": true,
@@ -255006,34 +254951,6 @@
         "lastPushAt": "2026-08-19T04:18:26Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-20T04:56:53.662Z"
-      },
-      "classificationSuggestion": {
-        "group": "agents-workflows",
-        "category": "automation",
-        "tags": [
-          "agent",
-          "automation",
-          "cli",
-          "collaboration",
-          "file",
-          "image",
-          "skill",
-          "theme",
-          "video"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:automation:automat",
-          "text:themes-layout:background",
-          "text:files-terminal:cli",
-          "text:data-processing:json",
-          "text:media-tools:image",
-          "text:general-utilities:copy",
-          "text:external-services:github"
-        ],
-        "needsReview": true
       }
     },
     "waynejin0918-dsh-wm": {
@@ -262788,6 +262705,10 @@
         {
           "at": "2026-08-19T23:41:06.502Z",
           "reason": "https://api.github.com/repos/wuyh/dsh-workspace-files: 404"
+        },
+        {
+          "at": "2026-08-20T05:49:25.482Z",
+          "reason": "https://api.github.com/repos/wuyh/dsh-workspace-files: 404"
         }
       ],
       "github": {
@@ -263685,9 +263606,10 @@
         "fullName": "wxkingstar/SpecFusion",
         "url": "https://github.com/wxkingstar/SpecFusion"
       },
-      "summary": "在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。",
+      "summary": "wxkingstar/SpecFusion",
       "sources": [
-        "github-topic"
+        "github-topic",
+        "awesome-dsh-plugin"
       ],
       "admission": {
         "status": "candidate"
@@ -263697,7 +263619,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-17T15:43:44.297Z",
-      "lastSeenAt": "2026-08-17T15:43:44.297Z",
+      "lastSeenAt": "2026-08-20T05:49:25.482Z",
       "checks": {
         "checkedAt": "2026-08-17T15:43:44.297Z",
         "publicRepository": true,
@@ -271716,7 +271638,7 @@
         "fullName": "xohmai/dsh-cpa-status",
         "url": "https://github.com/xohmai/dsh-cpa-status"
       },
-      "summary": "DeepSeek Harness 插件：CLIProxyAPI 账号池状态面板——配额、健康刻度、流量一览 / CPA status panel for DSH",
+      "summary": "xohmai/dsh-cpa-status",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -271728,7 +271650,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-20T04:56:53.662Z",
-      "lastSeenAt": "2026-08-20T04:56:53.662Z",
+      "lastSeenAt": "2026-08-20T05:49:25.482Z",
       "checks": {
         "checkedAt": "2026-08-20T04:56:53.662Z",
         "publicRepository": true,
@@ -271753,30 +271675,6 @@
         "lastPushAt": "2026-08-18T13:04:31Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-20T04:56:53.662Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "api",
-          "data",
-          "file",
-          "image",
-          "layout",
-          "monitoring"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:navigation-panels:面板",
-          "text:files-terminal:git",
-          "text:data-processing:数据",
-          "text:media-tools:image",
-          "text:external-services:api",
-          "text:notifications-monitoring:status"
-        ],
-        "needsReview": true
       }
     },
     "xohmai-dsh-session-delete": {
@@ -271785,7 +271683,7 @@
         "fullName": "xohmai/dsh-session-delete",
         "url": "https://github.com/xohmai/dsh-session-delete"
       },
-      "summary": "DeepSeek Harness 会话删除插件：设置页管理归档会话，真正删除磁盘日志（回收站可还原）+ 批量清理——官方归档只隐藏不删盘，这里补上。",
+      "summary": "xohmai/dsh-session-delete",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -271797,7 +271695,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-20T04:56:53.662Z",
-      "lastSeenAt": "2026-08-20T04:56:53.662Z",
+      "lastSeenAt": "2026-08-20T05:49:25.482Z",
       "checks": {
         "checkedAt": "2026-08-20T04:56:53.662Z",
         "publicRepository": true,
@@ -271822,29 +271720,6 @@
         "lastPushAt": "2026-08-20T01:21:47Z",
         "latestReleaseAt": "2026-08-20T01:21:49Z",
         "capturedAt": "2026-08-20T04:56:53.662Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "external-services",
-        "tags": [
-          "file",
-          "search",
-          "testing",
-          "tool"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:testing-debugging:日志",
-          "text:memory-context:session",
-          "text:search-browsing:搜索",
-          "text:visualization:render",
-          "text:files-terminal:git",
-          "text:general-utilities:tool",
-          "text:external-services:github"
-        ],
-        "needsReview": true
       }
     },
     "xpqhyue-dsh-web-split": {
@@ -281622,7 +281497,7 @@
         "fullName": "Yu-tao-Li/dsh-read-image-view",
         "url": "https://github.com/Yu-tao-Li/dsh-read-image-view"
       },
-      "summary": "用于展示对话中读取的图片（read_image 结果）：DSH Web GUI 对话流专用 Read image 行，默认缩略图 + 页面内全精度放大层（缩放按钮/滚轮/1:1）· Displays images read in the conversation (read_image results) in the DSH Web GUI",
+      "summary": "Yu-tao-Li/dsh-read-image-view",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -281634,7 +281509,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-20T04:56:53.662Z",
-      "lastSeenAt": "2026-08-20T04:56:53.662Z",
+      "lastSeenAt": "2026-08-20T05:49:25.482Z",
       "checks": {
         "checkedAt": "2026-08-20T04:56:53.662Z",
         "publicRepository": true,
@@ -281659,39 +281534,6 @@
         "lastPushAt": "2026-08-19T19:35:32Z",
         "latestReleaseAt": "2026-08-19T18:22:09Z",
         "capturedAt": "2026-08-20T04:56:53.662Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "api",
-          "browser",
-          "chat",
-          "data",
-          "debugging",
-          "file",
-          "image",
-          "project-analysis",
-          "terminal",
-          "testing",
-          "theme",
-          "tool",
-          "ui",
-          "workflow"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:testing-debugging:日志",
-          "text:project-analysis:dependency",
-          "text:planning-execution:workflow",
-          "text:memory-context:session",
-          "text:search-browsing:browser",
-          "text:themes-layout:背景",
-          "text:visualization:渲染"
-        ],
-        "needsReview": true
       }
     },
     "yu-tao-li-dsh-reference-checker": {
@@ -287921,7 +287763,7 @@
         "fullName": "zenghaili0901/dsh-bot-mode",
         "url": "https://github.com/zenghaili0901/dsh-bot-mode"
       },
-      "summary": "🐋 Bot Mode for DeepSeek Harness — a roster of named bots with personas and chats (validation plugin, zero core patches)",
+      "summary": "zenghaili0901/dsh-bot-mode",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -287933,7 +287775,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-20T04:56:53.662Z",
-      "lastSeenAt": "2026-08-20T04:56:53.662Z",
+      "lastSeenAt": "2026-08-20T05:49:25.482Z",
       "checks": {
         "checkedAt": "2026-08-20T04:56:53.662Z",
         "publicRepository": true,
@@ -287958,42 +287800,6 @@
         "lastPushAt": "2026-08-20T04:39:39Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-20T04:56:53.662Z"
-      },
-      "classificationSuggestion": {
-        "group": "agents-workflows",
-        "category": "automation",
-        "tags": [
-          "agent",
-          "browser",
-          "chat",
-          "data",
-          "document",
-          "image",
-          "knowledge",
-          "layout",
-          "memory",
-          "monitoring",
-          "planning",
-          "search",
-          "terminal",
-          "testing",
-          "theme",
-          "tool",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:orchestration:subagent",
-          "text:automation:cron",
-          "text:planning-execution:task",
-          "text:memory-context:prompt",
-          "text:search-browsing:search",
-          "text:knowledge-management:rag",
-          "text:document-processing:markdown"
-        ],
-        "needsReview": true
       }
     },
     "zenghuizhu69-hub-dsh-skin-blue-whale": {
@@ -300488,8 +300294,8 @@
   },
   "failures": [
     {
-      "at": "2026-08-20T04:56:53.662Z",
-      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T04%3A52%3A24Z..2026-08-14T01%3A52%3A57Z&sort=updated&order=desc&per_page=100&page=6: 403"
+      "at": "2026-08-20T05:49:25.482Z",
+      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T05%3A44%3A53Z..2026-08-14T02%3A45%3A27Z&sort=updated&order=desc&per_page=100&page=6: 403"
     }
   ]
 }
