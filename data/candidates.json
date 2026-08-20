@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-08-20T03:13:01.035Z",
+  "updatedAt": "2026-08-20T04:02:34.015Z",
   "candidates": {
     "01virex-dsh-foxy-jumpscare": {
       "id": "01virex-dsh-foxy-jumpscare",
@@ -80505,6 +80505,85 @@
         "capturedAt": "2026-08-18T16:51:58.260Z"
       }
     },
+    "geguanming-dsh-office-plugin": {
+      "id": "geguanming-dsh-office-plugin",
+      "repository": {
+        "fullName": "geguanming/dsh-office-plugin",
+        "url": "https://github.com/geguanming/dsh-office-plugin"
+      },
+      "summary": "DSH Ox-Horse Office - a DeepSeek Harness web plugin rendering multi-agent sessions as a live pixi.js office",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-08-20T04:02:34.015Z",
+      "lastSeenAt": "2026-08-20T04:02:34.015Z",
+      "checks": {
+        "checkedAt": "2026-08-20T04:02:34.015Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:geguanming/dsh-office-plugin",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 0,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-08-18T12:35:00Z",
+        "lastPushAt": "2026-08-19T13:52:15Z",
+        "latestReleaseAt": "2026-08-19T12:57:51Z",
+        "capturedAt": "2026-08-20T04:02:34.015Z"
+      },
+      "classificationSuggestion": {
+        "group": "integrations-communication",
+        "category": "collaboration",
+        "tags": [
+          "agent",
+          "browser",
+          "chat",
+          "cli",
+          "document",
+          "file",
+          "knowledge",
+          "layout",
+          "monitoring",
+          "planning",
+          "project-analysis",
+          "terminal",
+          "tool",
+          "ui",
+          "visualization"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:plugin",
+          "text:orchestration:multi-agent",
+          "text:planning-execution:plan",
+          "text:memory-context:session",
+          "text:search-browsing:browser",
+          "text:knowledge-management:rag",
+          "text:document-processing:office",
+          "text:navigation-panels:dashboard"
+        ],
+        "needsReview": true
+      }
+    },
     "geminiai19811-jpg-dsh-desktop": {
       "id": "geminiai19811-jpg-dsh-desktop",
       "repository": {
@@ -125750,6 +125829,79 @@
         "capturedAt": "2026-08-17T17:47:48.893Z"
       }
     },
+    "kentleenot-dsh-trading-toolkit": {
+      "id": "kentleenot-dsh-trading-toolkit",
+      "repository": {
+        "fullName": "kentleenot/dsh-trading-toolkit",
+        "url": "https://github.com/kentleenot/dsh-trading-toolkit"
+      },
+      "summary": "A-share + US stock trading toolkit for DeepSeek Harness agents: quotes, klines, ADX regime signal, backtest preview. Read-only by design.",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-08-20T04:02:34.015Z",
+      "lastSeenAt": "2026-08-20T04:02:34.015Z",
+      "checks": {
+        "checkedAt": "2026-08-20T04:02:34.015Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:kentleenot/dsh-trading-toolkit",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 1,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-08-18T02:25:57Z",
+        "lastPushAt": "2026-08-18T12:07:45Z",
+        "latestReleaseAt": null,
+        "capturedAt": "2026-08-20T04:02:34.015Z"
+      },
+      "classificationSuggestion": {
+        "group": "integrations-communication",
+        "category": "collaboration",
+        "tags": [
+          "agent",
+          "api",
+          "data",
+          "document",
+          "education",
+          "project-analysis",
+          "search",
+          "testing",
+          "tool"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:plugin",
+          "text:testing-debugging:test",
+          "text:search-browsing:搜索",
+          "text:document-processing:文档",
+          "text:files-terminal:git",
+          "text:data-processing:stock",
+          "text:general-utilities:tool",
+          "text:external-services:github"
+        ],
+        "needsReview": true
+      }
+    },
     "kenz1117-dsh-ui-usage-billing": {
       "id": "kenz1117-dsh-ui-usage-billing",
       "repository": {
@@ -137744,9 +137896,10 @@
         "fullName": "lemonorangeapple/dsh-effort-switcher",
         "url": "https://github.com/lemonorangeapple/dsh-effort-switcher"
       },
-      "summary": "一个用于DeepseekHarness的推理强度滑块。",
+      "summary": "lemonorangeapple/dsh-effort-switcher",
       "sources": [
-        "github-topic"
+        "github-topic",
+        "awesome-dsh-plugin"
       ],
       "admission": {
         "status": "candidate"
@@ -137756,7 +137909,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-17T15:43:44.297Z",
-      "lastSeenAt": "2026-08-17T19:01:04.982Z",
+      "lastSeenAt": "2026-08-20T04:02:34.015Z",
       "checks": {
         "checkedAt": "2026-08-17T19:01:04.982Z",
         "publicRepository": true,
@@ -137783,28 +137936,6 @@
         "lastPushAt": "2026-08-17T15:16:33Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-17T19:01:04.982Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "browser",
-          "chat",
-          "data",
-          "file",
-          "terminal",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:search-browsing:browser",
-          "text:files-terminal:目录",
-          "text:data-processing:数据",
-          "text:external-services:github"
-        ],
-        "needsReview": true
       }
     },
     "lemonorangeapple-dsh-grok4-6-support": {
@@ -147044,6 +147175,79 @@
         "capturedAt": "2026-08-17T11:44:14.110Z"
       }
     },
+    "lizhennet-dsh-antigravity": {
+      "id": "lizhennet-dsh-antigravity",
+      "repository": {
+        "fullName": "LiZhenNet/dsh-antigravity",
+        "url": "https://github.com/LiZhenNet/dsh-antigravity"
+      },
+      "summary": "为 DeepSeek Harness (DSH) 打造的 Google Antigravity 模型提供者插件/Google Antigravity LLM provider for DeepSeek Harness with native Web OAuth, real-time quota tracking, and dynamic reasoning effort routing.  ",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-08-20T04:02:34.015Z",
+      "lastSeenAt": "2026-08-20T04:02:34.015Z",
+      "checks": {
+        "checkedAt": "2026-08-20T04:02:34.015Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:LiZhenNet/dsh-antigravity",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 0,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-08-18T13:00:32Z",
+        "lastPushAt": "2026-08-19T12:38:14Z",
+        "latestReleaseAt": null,
+        "capturedAt": "2026-08-20T04:02:34.015Z"
+      },
+      "classificationSuggestion": {
+        "group": "agents-workflows",
+        "category": "automation",
+        "tags": [
+          "api",
+          "automation",
+          "browser",
+          "chat",
+          "file",
+          "image",
+          "integration",
+          "knowledge",
+          "terminal"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:插件",
+          "text:automation:automat",
+          "text:memory-context:token",
+          "text:search-browsing:browser",
+          "text:knowledge-management:rag",
+          "text:files-terminal:git",
+          "text:data-processing:json",
+          "text:media-tools:image"
+        ],
+        "needsReview": true
+      }
+    },
     "ljh-snow-dsh-tool-gitlab": {
       "id": "ljh-snow-dsh-tool-gitlab",
       "repository": {
@@ -148386,6 +148590,93 @@
         "createdAt": "2026-08-16T08:12:22Z",
         "lastPushAt": "2026-08-17T14:12:24Z",
         "capturedAt": "2026-08-17T15:43:44.297Z"
+      }
+    },
+    "lninghaha-dsh-hub-oauth-gateway": {
+      "id": "lninghaha-dsh-hub-oauth-gateway",
+      "repository": {
+        "fullName": "lninghaha/dsh-hub-oauth-gateway",
+        "url": "https://github.com/lninghaha/dsh-hub-oauth-gateway"
+      },
+      "summary": "DSH Web plugin: Usage Center with Hub snapshots and cost analytics, coding-plan OAuth, and optional loopback OpenAI-compatible gateway",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-08-20T04:02:34.015Z",
+      "lastSeenAt": "2026-08-20T04:02:34.015Z",
+      "checks": {
+        "checkedAt": "2026-08-20T04:02:34.015Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:lninghaha/dsh-hub-oauth-gateway",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 0,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-08-17T12:03:34Z",
+        "lastPushAt": "2026-08-19T15:35:51Z",
+        "latestReleaseAt": "2026-08-19T15:35:44Z",
+        "capturedAt": "2026-08-20T04:02:34.015Z"
+      },
+      "classificationSuggestion": {
+        "group": "integrations-communication",
+        "category": "collaboration",
+        "tags": [
+          "api",
+          "browser",
+          "chat",
+          "cli",
+          "data",
+          "document",
+          "file",
+          "image",
+          "integration",
+          "knowledge",
+          "layout",
+          "monitoring",
+          "notification",
+          "planning",
+          "project-analysis",
+          "research",
+          "search",
+          "terminal",
+          "theme",
+          "tool",
+          "ui",
+          "video",
+          "workflow"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:plugin",
+          "text:planning-execution:plan",
+          "text:memory-context:token",
+          "text:search-browsing:browser",
+          "text:deep-research:research",
+          "text:knowledge-management:rag",
+          "text:document-processing:document",
+          "text:themes-layout:color"
+        ],
+        "needsReview": true
       }
     },
     "lnyuqian-dsh-skill-sidebar": {
@@ -299567,8 +299858,8 @@
   },
   "failures": [
     {
-      "at": "2026-08-20T03:13:01.035Z",
-      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T03%3A08%3A38Z..2026-08-14T00%3A09%3A10Z&sort=updated&order=desc&per_page=100&page=7: 403"
+      "at": "2026-08-20T04:02:34.015Z",
+      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T03%3A58%3A08Z..2026-08-14T00%3A58%3A41Z&sort=updated&order=desc&per_page=100&page=7: 403"
     }
   ]
 }
