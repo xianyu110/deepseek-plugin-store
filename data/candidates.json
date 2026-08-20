@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-08-20T17:48:39.049Z",
+  "updatedAt": "2026-08-20T19:03:54.135Z",
   "candidates": {
     "00080000-dsh-project-memory": {
       "id": "00080000-dsh-project-memory",
@@ -24996,9 +24996,10 @@
         "fullName": "azure5100/huahua-dsh-record-replay",
         "url": "https://github.com/azure5100/huahua-dsh-record-replay"
       },
-      "summary": "DSH Record & Replay plugin: session timeline replay, replay-pack export/import, re-run recorded conversations, screen recording -> skill generation",
+      "summary": "azure5100/huahua-dsh-record-replay",
       "sources": [
-        "github-topic"
+        "github-topic",
+        "awesome-dsh-plugin"
       ],
       "admission": {
         "status": "candidate"
@@ -25008,7 +25009,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-17T15:43:44.297Z",
-      "lastSeenAt": "2026-08-17T20:46:51.104Z",
+      "lastSeenAt": "2026-08-20T19:03:54.135Z",
       "checks": {
         "checkedAt": "2026-08-17T20:46:51.104Z",
         "publicRepository": true,
@@ -25033,45 +25034,6 @@
         "lastPushAt": "2026-08-17T04:10:10Z",
         "latestReleaseAt": "2026-08-17T04:10:13Z",
         "capturedAt": "2026-08-17T20:46:51.104Z"
-      },
-      "classificationSuggestion": {
-        "group": "agents-workflows",
-        "category": "automation",
-        "tags": [
-          "agent",
-          "api",
-          "automation",
-          "browser",
-          "chat",
-          "data",
-          "education",
-          "file",
-          "image",
-          "layout",
-          "planning",
-          "project-analysis",
-          "search",
-          "skill",
-          "terminal",
-          "testing",
-          "tool",
-          "ui",
-          "video",
-          "workflow"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:测试",
-          "text:automation:automat",
-          "text:planning-execution:执行",
-          "text:memory-context:session",
-          "text:search-browsing:browser",
-          "text:navigation-panels:侧边栏",
-          "text:desktop-mobile:web-ui"
-        ],
-        "needsReview": true
       }
     },
     "azurehalcyon-dsh-deepseek-usage": {
@@ -53552,6 +53514,85 @@
           "text:navigation-panels:panel",
           "text:visualization:graph",
           "text:files-terminal:git"
+        ],
+        "needsReview": true
+      }
+    },
+    "dataelement-dsh-plugin-coaligne": {
+      "id": "dataelement-dsh-plugin-coaligne",
+      "repository": {
+        "fullName": "dataelement/dsh-plugin-coaligne",
+        "url": "https://github.com/dataelement/dsh-plugin-coaligne"
+      },
+      "summary": "CoAligne for DeepSeek Harness: shared team project context over MCP, plus the coaligne-workflow skill",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-08-20T19:03:54.135Z",
+      "lastSeenAt": "2026-08-20T19:03:54.135Z",
+      "checks": {
+        "checkedAt": "2026-08-20T19:03:54.135Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:dataelement/dsh-plugin-coaligne",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 0,
+        "license": "NOASSERTION",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-08-18T07:53:26Z",
+        "lastPushAt": "2026-08-20T11:28:09Z",
+        "latestReleaseAt": "2026-08-20T11:28:09Z",
+        "capturedAt": "2026-08-20T19:03:54.135Z"
+      },
+      "classificationSuggestion": {
+        "group": "agents-workflows",
+        "category": "automation",
+        "tags": [
+          "agent",
+          "automation",
+          "chat",
+          "collaboration",
+          "context",
+          "desktop",
+          "file",
+          "mcp",
+          "project-analysis",
+          "search",
+          "skill",
+          "terminal",
+          "testing",
+          "tool",
+          "workflow"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:plugin",
+          "text:testing-debugging:test",
+          "text:project-analysis:project_review",
+          "text:automation:automat",
+          "text:planning-execution:workflow",
+          "text:memory-context:context",
+          "text:search-browsing:search",
+          "text:desktop-mobile:desktop"
         ],
         "needsReview": true
       }
@@ -302127,8 +302168,8 @@
   },
   "failures": [
     {
-      "at": "2026-08-20T17:48:39.049Z",
-      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T17%3A43%3A25Z..2026-08-14T04%3A13%3A44Z&sort=updated&order=desc&per_page=100&page=1: 403"
+      "at": "2026-08-20T19:03:54.135Z",
+      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T18%3A58%3A35Z..2026-08-14T15%3A59%3A14Z&sort=updated&order=desc&per_page=100&page=1: 403"
     }
   ]
 }
