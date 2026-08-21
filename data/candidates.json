@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-08-20T23:43:48.875Z",
+  "updatedAt": "2026-08-21T02:00:30.881Z",
   "candidates": {
     "00080000-dsh-project-memory": {
       "id": "00080000-dsh-project-memory",
@@ -39802,6 +39802,10 @@
         {
           "at": "2026-08-20T19:48:57.455Z",
           "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-plugin-skill: 404"
+        },
+        {
+          "at": "2026-08-21T02:00:30.881Z",
+          "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-plugin-skill: 404"
         }
       ],
       "github": {
@@ -39979,6 +39983,10 @@
         },
         {
           "at": "2026-08-20T19:48:57.455Z",
+          "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-web: 404"
+        },
+        {
+          "at": "2026-08-21T02:00:30.881Z",
           "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-web: 404"
         }
       ],
@@ -175677,6 +175685,10 @@
         {
           "at": "2026-08-20T19:48:57.455Z",
           "reason": "Expected double-quoted property name in JSON at position 459 (line 16 column 1)"
+        },
+        {
+          "at": "2026-08-21T02:00:30.881Z",
+          "reason": "Expected double-quoted property name in JSON at position 459 (line 16 column 1)"
         }
       ],
       "github": {
@@ -248437,6 +248449,10 @@
         {
           "at": "2026-08-20T19:48:57.455Z",
           "reason": "https://api.github.com/repos/UE-DND/dsh-antigravity-auth: 404"
+        },
+        {
+          "at": "2026-08-21T02:00:30.881Z",
+          "reason": "https://api.github.com/repos/UE-DND/dsh-antigravity-auth: 404"
         }
       ],
       "github": {
@@ -264383,6 +264399,10 @@
         },
         {
           "at": "2026-08-20T19:48:57.455Z",
+          "reason": "https://api.github.com/repos/wuyh/dsh-workspace-files: 404"
+        },
+        {
+          "at": "2026-08-21T02:00:30.881Z",
           "reason": "https://api.github.com/repos/wuyh/dsh-workspace-files: 404"
         }
       ],
@@ -302206,8 +302226,8 @@
   },
   "failures": [
     {
-      "at": "2026-08-20T23:43:48.875Z",
-      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T23%3A38%3A13Z..2026-08-15T17%3A39%3A36Z&sort=updated&order=desc&per_page=100&page=1: 403"
+      "at": "2026-08-21T02:00:30.881Z",
+      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-14T01%3A54%3A47Z..2026-08-17T13%3A57%3A38Z&sort=updated&order=desc&per_page=100&page=1: 403"
     }
   ]
 }
