@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T03:14:36.644Z",
-  "sourceCommit": "a3503f24f78a82b833543466c5cd00dfa7ad463bd59fa5397c00c52609e97f98",
+  "updatedAt": "2026-08-25T04:03:40.356Z",
+  "sourceCommit": "22c77e80a4648921edc18f48b84b977270d188cd94a6bf8dd03db65449df9562",
   "source": {
     "provider": "registry-v2",
     "repository": "Ericwong5021/deepseek-plugin-store",
@@ -492,6 +492,57 @@
       }
     },
     {
+      "fullName": "omdsh-dev/DSH-better-sidebar",
+      "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
+      "description": "一个侧边栏的完整工作台，支持三方拓展注册新Tab页面，内置文件渲染编辑/终端/Git/子代理",
+      "stars": 2839,
+      "pushedAt": "2026-08-25T03:20:54Z",
+      "license": "MIT",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "dsh-better-sidebar",
+      "category": {
+        "id": "editor-picks",
+        "title": "编辑精选 / Editor Picks"
+      },
+      "addedAt": "2026-08-13",
+      "slug": "omdsh-dev-dsh-better-sidebar",
+      "name": "omdsh-dev/DSH-better-sidebar",
+      "summary": "一个侧边栏的完整工作台，支持三方拓展注册新Tab页面，内置文件渲染编辑/终端/Git/子代理",
+      "tags": [
+        "agent",
+        "file",
+        "layout",
+        "terminal"
+      ],
+      "repositoryUrl": "https://github.com/omdsh-dev/DSH-better-sidebar",
+      "installSpec": "github:omdsh-dev/DSH-better-sidebar",
+      "author": "omdsh-dev",
+      "featured": true,
+      "status": "active",
+      "source": {
+        "type": "editor-pick",
+        "origins": [
+          "editor-pick",
+          "github-topic"
+        ],
+        "file": "data/editor-picks.json",
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 2839,
+        "license": "MIT",
+        "lastPushAt": "2026-08-25T03:20:54Z",
+        "archived": false,
+        "capturedAt": "2026-08-25T04:03:40.356Z"
+      },
+      "compatibility": {
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "checkedAt": "2026-08-25T04:03:40.356Z"
+      }
+    },
+    {
       "fullName": "whiteguo233/OpenBiliClaw",
       "url": "https://github.com/whiteguo233/OpenBiliClaw",
       "description": "本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）",
@@ -536,57 +587,6 @@
         "manifestFound": false,
         "manifestPath": null,
         "checkedAt": "2026-08-14T10:30:21.295Z"
-      }
-    },
-    {
-      "fullName": "omdsh-dev/DSH-better-sidebar",
-      "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
-      "description": "一个侧边栏的完整工作台，支持三方拓展注册新Tab页面，内置文件渲染编辑/终端/Git/子代理",
-      "stars": 2833,
-      "pushedAt": "2026-08-25T03:04:58Z",
-      "license": "MIT",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "dsh-better-sidebar",
-      "category": {
-        "id": "editor-picks",
-        "title": "编辑精选 / Editor Picks"
-      },
-      "addedAt": "2026-08-13",
-      "slug": "omdsh-dev-dsh-better-sidebar",
-      "name": "omdsh-dev/DSH-better-sidebar",
-      "summary": "一个侧边栏的完整工作台，支持三方拓展注册新Tab页面，内置文件渲染编辑/终端/Git/子代理",
-      "tags": [
-        "agent",
-        "file",
-        "layout",
-        "terminal"
-      ],
-      "repositoryUrl": "https://github.com/omdsh-dev/DSH-better-sidebar",
-      "installSpec": "github:omdsh-dev/DSH-better-sidebar",
-      "author": "omdsh-dev",
-      "featured": true,
-      "status": "active",
-      "source": {
-        "type": "editor-pick",
-        "origins": [
-          "editor-pick",
-          "github-topic"
-        ],
-        "file": "data/editor-picks.json",
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 2833,
-        "license": "MIT",
-        "lastPushAt": "2026-08-25T03:04:58Z",
-        "archived": false,
-        "capturedAt": "2026-08-25T03:14:36.644Z"
-      },
-      "compatibility": {
-        "manifestFound": true,
-        "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-25T03:14:36.644Z"
       }
     },
     {
@@ -689,8 +689,8 @@
       "fullName": "ccch1mneyyy/dsh-TUI",
       "url": "https://github.com/ccch1mneyyy/dsh-TUI",
       "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
-      "stars": 2492,
-      "pushedAt": "2026-08-25T03:13:21Z",
+      "stars": 2498,
+      "pushedAt": "2026-08-25T03:59:20Z",
       "license": "MIT",
       "archived": false,
       "isPlugin": true,
@@ -723,23 +723,23 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 2492,
+        "stars": 2498,
         "license": "MIT",
-        "lastPushAt": "2026-08-25T03:13:21Z",
+        "lastPushAt": "2026-08-25T03:59:20Z",
         "archived": false,
-        "capturedAt": "2026-08-25T03:14:36.644Z"
+        "capturedAt": "2026-08-25T04:03:40.356Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-25T03:14:36.644Z"
+        "checkedAt": "2026-08-25T04:03:40.356Z"
       }
     },
     {
       "fullName": "Small-tailqwq/dsh-deep-whale",
       "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
       "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
-      "stars": 1682,
+      "stars": 1686,
       "pushedAt": "2026-08-24T11:12:09Z",
       "license": null,
       "archived": false,
@@ -771,16 +771,16 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 1682,
+        "stars": 1686,
         "license": null,
         "lastPushAt": "2026-08-24T11:12:09Z",
         "archived": false,
-        "capturedAt": "2026-08-25T03:14:36.644Z"
+        "capturedAt": "2026-08-25T04:03:40.356Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-25T03:14:36.644Z"
+        "checkedAt": "2026-08-25T04:03:40.356Z"
       }
     },
     {
