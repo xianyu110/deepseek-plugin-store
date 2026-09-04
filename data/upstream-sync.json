@@ -1,81 +1,81 @@
 {
   "schemaVersion": 2,
-  "checkedAt": "2026-09-04T09:44:20.565Z",
+  "checkedAt": "2026-09-04T14:25:14.393Z",
   "status": "partial",
   "sources": [
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/README.md",
-      "checkedAt": "2026-09-04T09:44:20.565Z",
+      "checkedAt": "2026-09-04T14:25:14.393Z",
       "status": "ok"
     },
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/README.zh.md",
-      "checkedAt": "2026-09-04T09:44:20.565Z",
+      "checkedAt": "2026-09-04T14:25:14.393Z",
       "status": "ok"
     },
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/index.html",
-      "checkedAt": "2026-09-04T09:44:20.565Z",
+      "checkedAt": "2026-09-04T14:25:14.393Z",
       "status": "failed"
     },
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/zh/index.html",
-      "checkedAt": "2026-09-04T09:44:20.565Z",
+      "checkedAt": "2026-09-04T14:25:14.393Z",
       "status": "failed"
     },
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/sitemap.xml",
-      "checkedAt": "2026-09-04T09:44:20.565Z",
+      "checkedAt": "2026-09-04T14:25:14.393Z",
       "status": "failed"
     },
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/feed.xml",
-      "checkedAt": "2026-09-04T09:44:20.565Z",
+      "checkedAt": "2026-09-04T14:25:14.393Z",
       "status": "failed"
     },
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/zh/feed.xml",
-      "checkedAt": "2026-09-04T09:44:20.565Z",
+      "checkedAt": "2026-09-04T14:25:14.393Z",
       "status": "failed"
     },
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/plugins.json",
-      "checkedAt": "2026-09-04T09:44:20.565Z",
+      "checkedAt": "2026-09-04T14:25:14.393Z",
       "status": "failed"
     },
     {
       "url": "https://api.github.com/repos/awesome-dsh-plugin/awesome-dsh-plugin",
-      "checkedAt": "2026-09-04T09:44:20.565Z",
+      "checkedAt": "2026-09-04T14:25:14.393Z",
       "status": "ok"
     },
     {
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "checkedAt": "2026-09-04T09:44:20.565Z",
+      "checkedAt": "2026-09-04T14:25:14.393Z",
       "status": "ok"
     },
     {
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pulls?q=is%3Apr+is%3Aopen",
-      "checkedAt": "2026-09-04T09:44:20.565Z",
+      "checkedAt": "2026-09-04T14:25:14.393Z",
       "status": "ok"
     },
     {
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/issues?q=is%3Aissue+is%3Aopen",
-      "checkedAt": "2026-09-04T09:44:20.565Z",
+      "checkedAt": "2026-09-04T14:25:14.393Z",
       "status": "ok"
     },
     {
       "url": "https://awesome-dsh-plugin.com/",
-      "checkedAt": "2026-09-04T09:44:20.565Z",
+      "checkedAt": "2026-09-04T14:25:14.393Z",
       "status": "ok"
     },
     {
       "url": "https://awesome-dsh-plugin.com/sitemap.xml",
-      "checkedAt": "2026-09-04T09:44:20.565Z",
+      "checkedAt": "2026-09-04T14:25:14.393Z",
       "status": "ok"
     },
     {
       "url": "https://awesome-dsh-plugin.com/feed.xml",
-      "checkedAt": "2026-09-04T09:44:20.565Z",
+      "checkedAt": "2026-09-04T14:25:14.393Z",
       "status": "ok"
     }
   ],
@@ -84,11 +84,22 @@
     "website": "https://awesome-dsh-plugin.com/",
     "repositoryReachable": true,
     "websiteReachable": true,
-    "stars": 14422,
-    "forks": 2555,
-    "commitCount": 4247,
+    "stars": 14443,
+    "forks": 2558,
+    "commitCount": 4248,
     "openPullRequests": 25,
     "openPullRequestNumbers": [
+      4339,
+      4338,
+      4337,
+      4336,
+      4335,
+      4334,
+      4333,
+      4332,
+      4331,
+      4330,
+      4329,
       4328,
       4327,
       4326,
@@ -102,18 +113,7 @@
       4317,
       4316,
       4315,
-      4313,
-      4309,
-      4308,
-      4306,
-      4305,
-      4304,
-      4303,
-      4302,
-      4301,
-      4300,
-      4299,
-      4298
+      4313
     ],
     "openIssues": 3,
     "openIssueNumbers": [
@@ -204,12 +204,19 @@
       }
     ],
     "latestCommit": {
-      "sha": "279ea981a37513c2b8d2bacbc55e4c08f84add13",
-      "date": "2026-09-03T21:19:06+08:00",
-      "message": "Add insta360-ai-content-studio plugin (#4262)",
-      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/279ea981a37513c2b8d2bacbc55e4c08f84add13"
+      "sha": "46d7cd28843dc71fcc977c7d7bb65b2b4400c5bb",
+      "date": "2026-09-04T06:50:14-07:00",
+      "message": "chore: update LoopX DSH plugin to beta.4 (#4283)",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/46d7cd28843dc71fcc977c7d7bb65b2b4400c5bb"
     },
     "recentChanges": [
+      {
+        "sha": "46d7cd28843dc71fcc977c7d7bb65b2b4400c5bb",
+        "date": "2026-09-04T06:50:14-07:00",
+        "title": "chore: update LoopX DSH plugin to beta.4 (#4283)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/46d7cd28843dc71fcc977c7d7bb65b2b4400c5bb",
+        "kind": "content/data"
+      },
       {
         "sha": "279ea981a37513c2b8d2bacbc55e4c08f84add13",
         "date": "2026-09-03T21:19:06+08:00",
@@ -258,17 +265,25 @@
         "title": "Tighten pgmi-builds/better-dsh description (#4252)",
         "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/83ba5c6f886789e6b1a744d65bf5fbf4fc095d63",
         "kind": "content/data"
-      },
-      {
-        "sha": "1643a73de85a0d2249b6e44d9e6d42aa7176702f",
-        "date": "2026-09-03T21:18:54+08:00",
-        "title": "Add bbqisbbq/dsh-tiddlywiki (Memory): TiddlyWiki 5 as the DSH persistent knowledge base (#4250)",
-        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/1643a73de85a0d2249b6e44d9e6d42aa7176702f",
-        "kind": "content/data"
       }
     ],
-    "newCommits": [],
-    "changedFiles": [],
+    "newCommits": [
+      {
+        "sha": "46d7cd28843dc71fcc977c7d7bb65b2b4400c5bb",
+        "date": "2026-09-04T06:50:14-07:00",
+        "title": "chore: update LoopX DSH plugin to beta.4 (#4283)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/46d7cd28843dc71fcc977c7d7bb65b2b4400c5bb",
+        "files": [
+          "M\tdata/plugins/huangruiteng__loopx--packages-dsh-loopx-plugin.yml"
+        ]
+      }
+    ],
+    "changedFiles": [
+      {
+        "commitSha": "46d7cd28843dc71fcc977c7d7bb65b2b4400c5bb",
+        "value": "M\tdata/plugins/huangruiteng__loopx--packages-dsh-loopx-plugin.yml"
+      }
+    ],
     "historyRewritten": false,
     "recoveredFromHistory": false,
     "recoveryCompletedAt": "2026-08-14T05:57:52.118Z",
@@ -6365,7 +6380,8 @@
       "fcb5f6b0319c92cc073a9297d07d7bca5db2eadb",
       "863722314ac29b04aa6dff49f1c5cd4a7d5bf8fd",
       "fc2426bbed3f4a3c5f6680cdb671fe548e07feda",
-      "b991634d10a6aa1d42162d6aac12505e50961b07"
+      "b991634d10a6aa1d42162d6aac12505e50961b07",
+      "46d7cd28843dc71fcc977c7d7bb65b2b4400c5bb"
     ],
     "processedCommits": [
       {
@@ -74843,6 +74859,15 @@
           "M\tREADME.md",
           "M\tdata/plugins/pgmi-builds__better-dsh--dashr.yml"
         ]
+      },
+      {
+        "sha": "46d7cd28843dc71fcc977c7d7bb65b2b4400c5bb",
+        "date": "2026-09-04T06:50:14-07:00",
+        "title": "chore: update LoopX DSH plugin to beta.4 (#4283)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/46d7cd28843dc71fcc977c7d7bb65b2b4400c5bb",
+        "files": [
+          "M\tdata/plugins/huangruiteng__loopx--packages-dsh-loopx-plugin.yml"
+        ]
       }
     ],
     "contentFingerprint": "80e279bab75697fdfe3c8699d76ebf9282b190fb9886c11501d996a590636ed6",
@@ -74850,7 +74875,7 @@
     "rawFingerprints": {
       "raw:README.md": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/README.md",
-        "checkedAt": "2026-09-04T09:44:20.565Z",
+        "checkedAt": "2026-09-04T14:25:14.393Z",
         "status": "ok",
         "length": 857772,
         "fingerprint": "fc87d6f3d30202f26f944e679a5d90b9b325f1e532a4052457cddbc0ca72ed30",
@@ -74859,7 +74884,7 @@
       },
       "raw:README.zh.md": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/README.zh.md",
-        "checkedAt": "2026-09-04T09:44:20.565Z",
+        "checkedAt": "2026-09-04T14:25:14.393Z",
         "status": "ok",
         "length": 512230,
         "fingerprint": "ed4fcfcf819be83b94fb2922696a7dc788c72b73bd28e5628d47753f54403028",
@@ -74868,7 +74893,7 @@
       },
       "raw:docs/index.html": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/index.html",
-        "checkedAt": "2026-09-04T09:44:20.565Z",
+        "checkedAt": "2026-09-04T14:25:14.393Z",
         "status": "failed",
         "length": 14,
         "fingerprint": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
@@ -74877,7 +74902,7 @@
       },
       "raw:docs/zh/index.html": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/zh/index.html",
-        "checkedAt": "2026-09-04T09:44:20.565Z",
+        "checkedAt": "2026-09-04T14:25:14.393Z",
         "status": "failed",
         "length": 14,
         "fingerprint": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
@@ -74886,7 +74911,7 @@
       },
       "raw:docs/sitemap.xml": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/sitemap.xml",
-        "checkedAt": "2026-09-04T09:44:20.565Z",
+        "checkedAt": "2026-09-04T14:25:14.393Z",
         "status": "failed",
         "length": 14,
         "fingerprint": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
@@ -74895,7 +74920,7 @@
       },
       "raw:docs/feed.xml": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/feed.xml",
-        "checkedAt": "2026-09-04T09:44:20.565Z",
+        "checkedAt": "2026-09-04T14:25:14.393Z",
         "status": "failed",
         "length": 14,
         "fingerprint": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
@@ -74904,7 +74929,7 @@
       },
       "raw:docs/zh/feed.xml": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/zh/feed.xml",
-        "checkedAt": "2026-09-04T09:44:20.565Z",
+        "checkedAt": "2026-09-04T14:25:14.393Z",
         "status": "failed",
         "length": 14,
         "fingerprint": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
@@ -74913,7 +74938,7 @@
       },
       "raw:docs/plugins.json": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/plugins.json",
-        "checkedAt": "2026-09-04T09:44:20.565Z",
+        "checkedAt": "2026-09-04T14:25:14.393Z",
         "status": "failed",
         "length": 14,
         "fingerprint": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
@@ -81146,9 +81171,9 @@
     "historicalSnapshotCount": 24,
     "source": {
       "catalog": "data/catalog-v2.json",
-      "checkedAt": "2026-09-04T09:44:20.565Z",
-      "updatedAt": "2026-09-04T09:43:00.187Z",
-      "sourceCommit": "5e4c470e333c3b52b45231c41a077876b1550f96acb9795fb5ab9b08928b4097",
+      "checkedAt": "2026-09-04T14:25:14.393Z",
+      "updatedAt": "2026-09-04T14:24:04.699Z",
+      "sourceCommit": "e109cec94454b38dcba3f0ef3e284806bcd63bf94480c07101b7a8a3443c3b39",
       "siteRoot": "/Users/wangyidong/project/deepseek-plugin-store-site",
       "siteSourceAvailable": false,
       "siteCatalogPluginCount": null
@@ -81182,15 +81207,14 @@
     }
   ],
   "change": {
-    "commitChanged": false,
-    "websiteChanged": true,
-    "contentChanged": true,
+    "commitChanged": true,
+    "websiteChanged": false,
+    "contentChanged": false,
     "previousCommit": "279ea981a37513c2b8d2bacbc55e4c08f84add13",
-    "previousContentFingerprint": "c5e95f429078cf013b4a313bbf18f80e4d35fa50e6ad342abf546d5fe80d308a",
+    "previousContentFingerprint": "80e279bab75697fdfe3c8699d76ebf9282b190fb9886c11501d996a590636ed6",
     "summary": [
-      "website home fingerprint changed",
-      "raw or website content fingerprint changed",
-      "metrics changed: stars 14388 -> 14422, forks 2547 -> 2555"
+      "1 new upstream commits",
+      "metrics changed: stars 14422 -> 14443, forks 2555 -> 2558"
     ]
   },
   "processing": {
@@ -91996,13 +92020,6 @@
   ],
   "history": [
     {
-      "checkedAt": "2026-08-31T05:45:14.460Z",
-      "contentFingerprint": "b17a700a7ba055357bee1ed63f2aa085818b09640be297b710556acf54c2bd75",
-      "upstreamCommit": "6ffccc6fb1cd0cecdb80639ea8ed0334765903a5",
-      "status": "partial",
-      "summary": "286 new upstream commits; website home fingerprint changed; raw or website content fingerprint changed; metrics changed: stars 13509 -> 13757, forks 2315 -> 2386, openIssues 12 -> 8, pluginEntries 2495 -> 2710, websiteAdvertisedPluginEntries 2495 -> 2710, categoryCount 22 -> 23, indexedPages 5038 -> 5470"
-    },
-    {
       "checkedAt": "2026-08-31T14:02:31.250Z",
       "contentFingerprint": "f4842cd184175a459fcfd8957bfe698c506f43277ca5305a69d627fa27e77386",
       "upstreamCommit": "db181e1aed39ad4a041cb9d379f0d713edfc49bb",
@@ -92162,6 +92179,13 @@
       "upstreamCommit": "279ea981a37513c2b8d2bacbc55e4c08f84add13",
       "status": "partial",
       "summary": "website home fingerprint changed; raw or website content fingerprint changed; metrics changed: stars 14388 -> 14422, forks 2547 -> 2555"
+    },
+    {
+      "checkedAt": "2026-09-04T14:25:14.393Z",
+      "contentFingerprint": "80e279bab75697fdfe3c8699d76ebf9282b190fb9886c11501d996a590636ed6",
+      "upstreamCommit": "46d7cd28843dc71fcc977c7d7bb65b2b4400c5bb",
+      "status": "partial",
+      "summary": "1 new upstream commits; metrics changed: stars 14422 -> 14443, forks 2555 -> 2558"
     }
   ]
 }
