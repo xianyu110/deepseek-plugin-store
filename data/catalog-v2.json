@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-04T18:28:34.243Z",
-  "sourceCommit": "7f2292e13b932de7e08d6ec56dc461c4218c065727aa09dde60aea661b71652f",
+  "updatedAt": "2026-09-04T21:32:47.185Z",
+  "sourceCommit": "24edae6fd75567ed1a9fbbb23b357e1032e13fc6ba68261282b2c5f6371468c5",
   "source": {
     "repository": "Ericwong5021/deepseek-plugin-store",
     "registry": "registry/plugins",
@@ -419,7 +419,7 @@
       }
     ],
     "rankings": {
-      "generatedAt": "2026-09-04T18:28:34.243Z",
+      "generatedAt": "2026-09-04T21:32:47.185Z",
       "eligibleCount": 575,
       "popular": {
         "method": "current-github-stars",
@@ -90131,17 +90131,13 @@
       "observations": {
         "repository": "omdsh-dev/DSH-better-sidebar",
         "github": {
-          "stars": 3330,
+          "stars": 3331,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-09-04T15:04:58Z",
           "latestReleaseAt": "2026-09-03T11:39:29Z",
-          "capturedAt": "2026-09-04T18:28:34.243Z",
+          "capturedAt": "2026-09-04T21:32:47.185Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-08-19T16:50:13.440Z",
-              "stars": 2322
-            },
             {
               "capturedAt": "2026-08-19T17:44:06.705Z",
               "stars": 2325
@@ -90497,6 +90493,10 @@
             {
               "capturedAt": "2026-09-04T18:28:34.243Z",
               "stars": 3330
+            },
+            {
+              "capturedAt": "2026-09-04T21:32:47.185Z",
+              "stars": 3331
             }
           ]
         },
@@ -90507,7 +90507,7 @@
           "installSpec": "github:omdsh-dev/DSH-better-sidebar",
           "readmeFound": true,
           "readmeGuidance": true,
-          "checkedAt": "2026-09-04T18:28:34.243Z"
+          "checkedAt": "2026-09-04T21:32:47.185Z"
         },
         "discovery": {
           "origins": [
@@ -90515,10 +90515,10 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-09-04T18:28:34.243Z"
+          "lastSeenAt": "2026-09-04T21:32:47.185Z"
         },
         "failures": [],
-        "lastSuccessfulAt": "2026-09-04T18:28:34.243Z"
+        "lastSuccessfulAt": "2026-09-04T21:32:47.185Z"
       },
       "editorial": {
         "editorPick": true,
@@ -154629,10 +154629,10 @@
     }
   ],
   "candidateSummary": {
-    "total": 6477,
-    "checked": 6458,
+    "total": 6556,
+    "checked": 6537,
     "unchecked": 19,
-    "admissionReady": 4851,
-    "hidden": 6477
+    "admissionReady": 4929,
+    "hidden": 6556
   }
 }
