@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-05T12:46:18.657Z",
+  "updatedAt": "2026-09-05T16:07:09.624Z",
   "candidates": {
     "00080000-dsh-project-memory": {
       "id": "00080000-dsh-project-memory",
@@ -1054,6 +1054,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/0Ra1n416/DSH-GUI: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/0Ra1n416/DSH-GUI: 404"
         }
       ],
@@ -6405,6 +6409,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/2128627267/dsh-qdocs-hub: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/2128627267/dsh-qdocs-hub: 404"
         }
       ],
       "github": {
@@ -6524,6 +6532,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/2128627267/dsh-qinput-history: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/2128627267/dsh-qinput-history: 404"
         }
       ],
@@ -6781,6 +6793,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/2128627267/dsh-qsystem-actions: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/2128627267/dsh-qsystem-actions: 404"
         }
       ],
@@ -7471,6 +7487,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/222wcnm/dsh-manager: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/222wcnm/dsh-manager: 404"
         }
       ],
@@ -9208,6 +9228,83 @@
         "lastPushAt": "2026-08-21T02:13:16Z",
         "latestReleaseAt": "2026-08-21T02:05:09Z",
         "capturedAt": "2026-08-31T05:44:14.995Z"
+      }
+    },
+    "3361805598-gif-dsh-usage-insights": {
+      "id": "3361805598-gif-dsh-usage-insights",
+      "repository": {
+        "fullName": "3361805598-gif/dsh-usage-insights",
+        "url": "https://github.com/3361805598-gif/dsh-usage-insights"
+      },
+      "summary": "Local-first personal usage insights for DeepSeek Harness",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-09-05T16:07:09.624Z",
+      "lastSeenAt": "2026-09-05T16:07:09.624Z",
+      "checks": {
+        "checkedAt": "2026-09-05T16:07:09.624Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:3361805598-gif/dsh-usage-insights",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 0,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-09-04T09:39:15Z",
+        "lastPushAt": "2026-09-05T09:38:41Z",
+        "latestReleaseAt": "2026-09-05T09:38:41Z",
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "classificationSuggestion": {
+        "group": "integrations-communication",
+        "category": "collaboration",
+        "tags": [
+          "agent",
+          "api",
+          "browser",
+          "data",
+          "file",
+          "layout",
+          "project-analysis",
+          "skill",
+          "testing",
+          "theme",
+          "tool",
+          "ui",
+          "visualization"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:插件",
+          "text:testing-debugging:测试",
+          "text:orchestration:subagent",
+          "text:planning-execution:执行",
+          "text:memory-context:token",
+          "text:search-browsing:浏览器",
+          "text:themes-layout:主题",
+          "text:visualization:图表"
+        ],
+        "needsReview": true
       }
     },
     "33moren33-dsh-memory-pyramid": {
@@ -18834,6 +18931,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/AEicn/dsh-desktop: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/AEicn/dsh-desktop: 404"
         }
       ],
       "github": {
@@ -19884,6 +19985,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/Agents365-ai/dsh-vision-plugin: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/Agents365-ai/dsh-vision-plugin: 404"
         }
       ],
@@ -23440,6 +23545,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/alaxrpg/dsh-adaptive-model-router: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/alaxrpg/dsh-adaptive-model-router: 404"
         }
       ],
@@ -38773,6 +38882,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/badai147/dsh-mimo-link: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/badai147/dsh-mimo-link: 404"
         }
       ],
       "github": {
@@ -40238,6 +40351,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/Baisbt/dsh-api-balance: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/Baisbt/dsh-api-balance: 404"
         }
       ],
@@ -45817,6 +45934,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/bitxeno/dsh-at-github: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/bitxeno/dsh-at-github: 404"
         }
       ],
       "github": {
@@ -46124,6 +46245,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/BlackDawnNova/dsh-web-open: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/BlackDawnNova/dsh-web-open: 404"
         }
       ],
@@ -51981,6 +52106,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/calwang414/my-dsh-plugins: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/calwang414/my-dsh-plugins: 404"
         }
       ],
       "github": {
@@ -53004,6 +53133,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/CarlMarkswx/dsh-imagen: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/CarlMarkswx/dsh-imagen: 404"
         }
       ],
@@ -54719,6 +54852,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/CEQ151/dsh_codex_style_plugin: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/CEQ151/dsh_codex_style_plugin: 404"
         }
       ],
@@ -58886,6 +59023,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "Expected ',' or '}' after property value in JSON at position 393 (line 4 column 337)"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "Expected ',' or '}' after property value in JSON at position 393 (line 4 column 337)"
         }
       ],
       "github": {
@@ -62720,6 +62861,81 @@
         "lastPushAt": "2026-09-04T09:58:42Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-04T21:32:47.185Z"
+      }
+    },
+    "choco9527-dsh-product-preview": {
+      "id": "choco9527-dsh-product-preview",
+      "repository": {
+        "fullName": "choco9527/dsh-product-preview",
+        "url": "https://github.com/choco9527/dsh-product-preview"
+      },
+      "summary": "DSH插件 产物页面 可按照访达分栏的形式显示对话节点中的产物",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-09-05T16:07:09.624Z",
+      "lastSeenAt": "2026-09-05T16:07:09.624Z",
+      "checks": {
+        "checkedAt": "2026-09-05T16:07:09.624Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:choco9527/dsh-product-preview",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 1,
+        "license": null,
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-09-03T05:49:26Z",
+        "lastPushAt": "2026-09-05T05:27:18Z",
+        "latestReleaseAt": "2026-09-05T05:27:18Z",
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "classificationSuggestion": {
+        "group": "integrations-communication",
+        "category": "collaboration",
+        "tags": [
+          "api",
+          "browser",
+          "chat",
+          "desktop",
+          "file",
+          "image",
+          "project-analysis",
+          "testing",
+          "tool",
+          "ui",
+          "video"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:插件",
+          "text:testing-debugging:test",
+          "text:search-browsing:浏览器",
+          "text:navigation-panels:菜单",
+          "text:desktop-mobile:桌面",
+          "text:files-terminal:目录",
+          "text:media-tools:media",
+          "text:general-utilities:工具"
+        ],
+        "needsReview": true
       }
     },
     "chocolzs-dsh-plugin-chat-menu": {
@@ -69547,6 +69763,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/coder-wu/dsh-finance-data: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/coder-wu/dsh-finance-data: 404"
         }
       ],
@@ -76839,10 +77059,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-24T10:06:44.428Z",
-          "reason": "https://api.github.com/repos/Da-Mie/dsh-beacons: 404"
-        },
-        {
           "at": "2026-08-24T16:58:20.222Z",
           "reason": "https://api.github.com/repos/Da-Mie/dsh-beacons: 404"
         },
@@ -76916,6 +77132,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/Da-Mie/dsh-beacons: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/Da-Mie/dsh-beacons: 404"
         }
       ],
@@ -77014,6 +77234,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/Da-Mie/dsh-delete-session: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/Da-Mie/dsh-delete-session: 404"
         }
       ],
@@ -77145,6 +77369,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/Da-Mie/dsh-notify: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/Da-Mie/dsh-notify: 404"
         }
       ],
       "github": {
@@ -77263,6 +77491,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/Da-Mie/dsh-rewind: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/Da-Mie/dsh-rewind: 404"
         }
       ],
@@ -84140,6 +84372,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/dHR-P/dsh-anchored-wsl: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/dHR-P/dsh-anchored-wsl: 404"
         }
       ],
       "github": {
@@ -84855,6 +85091,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/dimitririchko-ops/dsh-computer-use-windows: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/dimitririchko-ops/dsh-computer-use-windows: 404"
         }
       ],
@@ -93866,6 +94106,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/E83737664/dsh-skills-manager: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/E83737664/dsh-skills-manager: 404"
         }
       ],
@@ -113210,6 +113454,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/FURO2170/dsh-ui-manager: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/FURO2170/dsh-ui-manager: 404"
         }
       ],
       "github": {
@@ -117302,6 +117550,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/Gdnaiteab/pingo-dsh-plugin: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/Gdnaiteab/pingo-dsh-plugin: 404"
         }
       ],
@@ -135448,7 +135700,7 @@
         "fullName": "Harzva/dsh-control-plane",
         "url": "https://github.com/Harzva/dsh-control-plane"
       },
-      "summary": "A local-first developer control plane for multiple DeepSeek Harness runtimes.",
+      "summary": "Harzva/dsh-control-plane",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -135460,7 +135712,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T12:46:18.657Z",
-      "lastSeenAt": "2026-09-05T12:46:18.657Z",
+      "lastSeenAt": "2026-09-05T16:07:09.624Z",
       "checks": {
         "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
@@ -135485,41 +135737,6 @@
         "lastPushAt": "2026-08-21T09:18:29Z",
         "latestReleaseAt": "2026-08-21T08:50:55Z",
         "capturedAt": "2026-09-05T12:46:18.657Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "agent",
-          "api",
-          "chat",
-          "collaboration",
-          "data",
-          "document",
-          "education",
-          "file",
-          "integration",
-          "knowledge",
-          "layout",
-          "monitoring",
-          "planning",
-          "project-analysis",
-          "testing",
-          "workflow"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:bundle",
-          "text:planning-execution:plan",
-          "text:memory-context:session",
-          "text:knowledge-management:knowledge",
-          "text:document-processing:document",
-          "text:navigation-panels:panel",
-          "text:files-terminal:git",
-          "text:data-processing:data"
-        ],
-        "needsReview": true
       }
     },
     "harzva-dsh-groupx": {
@@ -136936,6 +137153,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/he110Warudo/dsh-desktop: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/he110Warudo/dsh-desktop: 404"
         }
       ],
       "github": {
@@ -137393,6 +137614,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/Hed1an/dsh-bring-local-llm: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/Hed1an/dsh-bring-local-llm: 404"
         }
       ],
@@ -139140,6 +139365,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/henryZhouLikeStudy/deepseek-harness-lattice: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/henryZhouLikeStudy/deepseek-harness-lattice: 404"
         }
       ],
       "github": {
@@ -139232,6 +139461,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/henryZhouLikeStudy/dsh-lattice-adapter-command: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/henryZhouLikeStudy/dsh-lattice-adapter-command: 404"
         }
       ],
       "github": {
@@ -139320,6 +139553,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/henryZhouLikeStudy/dsh-lattice-adapter-dsh: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/henryZhouLikeStudy/dsh-lattice-adapter-dsh: 404"
         }
       ],
@@ -139411,6 +139648,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/henryZhouLikeStudy/dsh-lattice-protocol: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/henryZhouLikeStudy/dsh-lattice-protocol: 404"
         }
       ],
       "github": {
@@ -139490,6 +139731,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/henryZhouLikeStudy/dsh-lattice-runtime: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/henryZhouLikeStudy/dsh-lattice-runtime: 404"
         }
       ],
@@ -139684,6 +139929,81 @@
           "text:planning-execution:task",
           "text:memory-context:session",
           "text:search-browsing:search"
+        ],
+        "needsReview": true
+      }
+    },
+    "heshen-1-deepseek-whale-wallpaper": {
+      "id": "heshen-1-deepseek-whale-wallpaper",
+      "repository": {
+        "fullName": "HeShen-1/deepseek-whale-wallpaper",
+        "url": "https://github.com/HeShen-1/deepseek-whale-wallpaper"
+      },
+      "summary": "🐋 Live dot-matrix whale wallpaper plugin for the DeepSeek Harness (dsh) web UI — 1,750 breathing WebGL2 particles, pointer vortices, light/dark themes · 深度求索 Harness 点阵鲸鱼动态壁纸插件",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-09-05T16:07:09.624Z",
+      "lastSeenAt": "2026-09-05T16:07:09.624Z",
+      "checks": {
+        "checkedAt": "2026-09-05T16:07:09.624Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:HeShen-1/deepseek-whale-wallpaper",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 2,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-09-04T02:49:36Z",
+        "lastPushAt": "2026-09-04T03:58:33Z",
+        "latestReleaseAt": "2026-09-04T03:58:20Z",
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "classificationSuggestion": {
+        "group": "agents-workflows",
+        "category": "automation",
+        "tags": [
+          "automation",
+          "browser",
+          "chat",
+          "data",
+          "file",
+          "layout",
+          "planning",
+          "project-analysis",
+          "terminal",
+          "theme",
+          "ui"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:plugin",
+          "text:automation:automat",
+          "text:planning-execution:task",
+          "text:memory-context:token",
+          "text:search-browsing:browser",
+          "text:themes-layout:theme",
+          "text:navigation-panels:sidebar",
+          "text:visualization:canvas"
         ],
         "needsReview": true
       }
@@ -145497,6 +145817,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/huangmingche/deepagent: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/huangmingche/deepagent: 404"
         }
       ],
       "github": {
@@ -148754,6 +149078,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/hyls9527/dsh-bundle-updater: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/hyls9527/dsh-bundle-updater: 404"
         }
       ],
       "github": {
@@ -148835,6 +149163,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/hyls9527/dsh-local-vision: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/hyls9527/dsh-local-vision: 404"
         }
       ],
@@ -152295,6 +152627,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/ihuajiu/dsh-code-security: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/ihuajiu/dsh-code-security: 404"
         }
       ],
@@ -160406,6 +160742,83 @@
         "capturedAt": "2026-09-02T18:46:28.831Z"
       }
     },
+    "jcaiagent7143-ui-linkdigest-mcp": {
+      "id": "jcaiagent7143-ui-linkdigest-mcp",
+      "repository": {
+        "fullName": "jcaiagent7143-ui/linkdigest-mcp",
+        "url": "https://github.com/jcaiagent7143-ui/linkdigest-mcp"
+      },
+      "summary": "MCP server for LinkDigest — turn a Xiaohongshu, Douyin, TikTok, YouTube or X link into LLM-ready text: transcript, on-screen text, image descriptions, caption and metadata. Streamable HTTP.",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-09-05T16:07:09.624Z",
+      "lastSeenAt": "2026-09-05T16:07:09.624Z",
+      "checks": {
+        "checkedAt": "2026-09-05T16:07:09.624Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:jcaiagent7143-ui/linkdigest-mcp",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 0,
+        "license": null,
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-09-03T16:18:20Z",
+        "lastPushAt": "2026-09-05T14:05:14Z",
+        "latestReleaseAt": null,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "classificationSuggestion": {
+        "group": "integrations-communication",
+        "category": "collaboration",
+        "tags": [
+          "agent",
+          "api",
+          "document",
+          "file",
+          "image",
+          "integration",
+          "mcp",
+          "monitoring",
+          "planning",
+          "terminal",
+          "tool",
+          "ui",
+          "video"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:plugin",
+          "text:planning-execution:task",
+          "text:memory-context:token",
+          "text:document-processing:markdown",
+          "text:files-terminal:shell",
+          "text:data-processing:json",
+          "text:media-tools:douyin",
+          "text:general-utilities:tool"
+        ],
+        "needsReview": true
+      }
+    },
     "jcaiagent7143-ui-sendpage-mcp": {
       "id": "jcaiagent7143-ui-sendpage-mcp",
       "repository": {
@@ -164227,6 +164640,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/JIAQI23333/dsh-visual-plan: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/JIAQI23333/dsh-visual-plan: 404"
         }
       ],
@@ -169524,6 +169941,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/johnwick128-ship/dsh-opencode-subscription: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/johnwick128-ship/dsh-opencode-subscription: 404"
         }
       ],
       "github": {
@@ -170427,6 +170848,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/JohnXu22786/fs-mcp: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/JohnXu22786/fs-mcp: 404"
         }
       ],
       "github": {
@@ -170756,6 +171181,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/JohnXu22786/memory-vault: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/JohnXu22786/memory-vault: 404"
         }
       ],
       "github": {
@@ -170990,6 +171419,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/JohnXu22786/notifier: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/JohnXu22786/notifier: 404"
         }
       ],
       "github": {
@@ -171092,6 +171525,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/JohnXu22786/pty-runner: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/JohnXu22786/pty-runner: 404"
         }
       ],
@@ -171559,6 +171996,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/JohnXu22786/skill-manager: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/JohnXu22786/skill-manager: 404"
         }
       ],
       "github": {
@@ -171786,6 +172227,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/JohnXu22786/statusline: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/JohnXu22786/statusline: 404"
         }
       ],
       "github": {
@@ -171966,6 +172411,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/JohnXu22786/task-board: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/JohnXu22786/task-board: 404"
         }
       ],
@@ -172232,6 +172681,85 @@
           "text:data-processing:json",
           "text:general-utilities:工具",
           "text:external-services:github"
+        ],
+        "needsReview": true
+      }
+    },
+    "jonah-wu23-dsh-agy-safe": {
+      "id": "jonah-wu23-dsh-agy-safe",
+      "repository": {
+        "fullName": "Jonah-Wu23/dsh-agy-safe",
+        "url": "https://github.com/Jonah-Wu23/dsh-agy-safe"
+      },
+      "summary": "DeepSeek Harness plugin: connect logged-in Antigravity CLI (agy) as chat and subagent model provider",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-09-05T16:07:09.624Z",
+      "lastSeenAt": "2026-09-05T16:07:09.624Z",
+      "checks": {
+        "checkedAt": "2026-09-05T16:07:09.624Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:Jonah-Wu23/dsh-agy-safe",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 3,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-09-03T14:59:21Z",
+        "lastPushAt": "2026-09-05T05:43:32Z",
+        "latestReleaseAt": "2026-09-04T06:49:57Z",
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "classificationSuggestion": {
+        "group": "tools-data",
+        "category": "data-processing",
+        "tags": [
+          "agent",
+          "api",
+          "chat",
+          "cli",
+          "context",
+          "data",
+          "desktop",
+          "file",
+          "integration",
+          "layout",
+          "planning",
+          "terminal",
+          "testing",
+          "tool",
+          "ui"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:plugin",
+          "text:testing-debugging:test",
+          "text:orchestration:subagent",
+          "text:planning-execution:执行",
+          "text:memory-context:session",
+          "text:navigation-panels:面板",
+          "text:desktop-mobile:web ui",
+          "text:files-terminal:cli"
         ],
         "needsReview": true
       }
@@ -177959,6 +178487,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/kaidiren/dsh-reasoning: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/kaidiren/dsh-reasoning: 404"
         }
       ],
       "github": {
@@ -179556,6 +180088,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/KannaKuron/dsh-deepseek-vision-bridge: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/KannaKuron/dsh-deepseek-vision-bridge: 404"
         }
       ],
       "github": {
@@ -180307,6 +180843,181 @@
         "lastPushAt": "2026-08-15T16:11:32Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-08-31T23:54:10.062Z"
+      }
+    },
+    "kayungko-dsh-plugin-product-design": {
+      "id": "kayungko-dsh-plugin-product-design",
+      "repository": {
+        "fullName": "Kayungko/dsh-plugin-product-design",
+        "url": "https://github.com/Kayungko/dsh-plugin-product-design"
+      },
+      "summary": "Product Design workflow suite for DeepSeek Harness (DSH Desktop): a router plus nine pd-* skills — minimum brief gate, three visual directions, evidence-grounded audits/research, URL cloning, frontend builds with a design-QA gate. Original rewrite of the workflow methodology.",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-09-05T16:07:09.624Z",
+      "lastSeenAt": "2026-09-05T16:07:09.624Z",
+      "checks": {
+        "checkedAt": "2026-09-05T16:07:09.624Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:Kayungko/dsh-plugin-product-design",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 0,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-09-04T10:07:13Z",
+        "lastPushAt": "2026-09-04T14:51:45Z",
+        "latestReleaseAt": "2026-09-04T14:52:36Z",
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "classificationSuggestion": {
+        "group": "agents-workflows",
+        "category": "automation",
+        "tags": [
+          "automation",
+          "browser",
+          "cli",
+          "context",
+          "desktop",
+          "document",
+          "file",
+          "image",
+          "integration",
+          "knowledge",
+          "layout",
+          "mcp",
+          "monitoring",
+          "project-analysis",
+          "research",
+          "search",
+          "skill",
+          "terminal",
+          "testing",
+          "theme",
+          "tool",
+          "ui",
+          "workflow"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:plugin",
+          "text:testing-debugging:test",
+          "text:project-analysis:dependency",
+          "text:automation:automat",
+          "text:planning-execution:workflow",
+          "text:memory-context:context",
+          "text:search-browsing:search",
+          "text:deep-research:research"
+        ],
+        "needsReview": true
+      }
+    },
+    "kayungko-dsh-plugin-task-coordinator": {
+      "id": "kayungko-dsh-plugin-task-coordinator",
+      "repository": {
+        "fullName": "Kayungko/dsh-plugin-task-coordinator",
+        "url": "https://github.com/Kayungko/dsh-plugin-task-coordinator"
+      },
+      "summary": "Codex-style cross-task coordination for DeepSeek Harness: list, inspect, spawn, message and steer top-level sessions from a supervisor agent.",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-09-05T16:07:09.624Z",
+      "lastSeenAt": "2026-09-05T16:07:09.624Z",
+      "checks": {
+        "checkedAt": "2026-09-05T16:07:09.624Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:Kayungko/dsh-plugin-task-coordinator",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 1,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-09-04T04:26:36Z",
+        "lastPushAt": "2026-09-05T15:35:28Z",
+        "latestReleaseAt": null,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "classificationSuggestion": {
+        "group": "agents-workflows",
+        "category": "automation",
+        "tags": [
+          "agent",
+          "api",
+          "automation",
+          "browser",
+          "chat",
+          "collaboration",
+          "context",
+          "debugging",
+          "desktop",
+          "document",
+          "file",
+          "knowledge",
+          "layout",
+          "monitoring",
+          "planning",
+          "project-analysis",
+          "research",
+          "search",
+          "skill",
+          "terminal",
+          "testing",
+          "theme",
+          "tool",
+          "ui"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:plugin",
+          "text:testing-debugging:test",
+          "text:project-analysis:dependency",
+          "text:orchestration:orchestrat",
+          "text:automation:automat",
+          "text:planning-execution:task",
+          "text:memory-context:session",
+          "text:search-browsing:search"
+        ],
+        "needsReview": true
       }
     },
     "kazecreator-dsh-settings-pro": {
@@ -192500,6 +193211,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/La-Theresa/dsh-math-modeling: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/La-Theresa/dsh-math-modeling: 404"
         }
       ],
@@ -206143,6 +206858,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/limulin778-web/dsh-translator: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/limulin778-web/dsh-translator: 404"
         }
       ],
       "github": {
@@ -206876,6 +207595,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/lingruan28-boop/dsh-balance-float: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/lingruan28-boop/dsh-balance-float: 404"
         }
       ],
@@ -215077,6 +215800,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/lovaxi/4d4y-browser: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/lovaxi/4d4y-browser: 404"
         }
       ],
       "github": {
@@ -220888,6 +221615,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/LXW419/dsh-claude-importer: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/LXW419/dsh-claude-importer: 404"
         }
       ],
@@ -227194,6 +227925,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/mattismegevand/dsh-dock: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/mattismegevand/dsh-dock: 404"
         }
       ],
       "github": {
@@ -227316,6 +228051,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/mattismegevand/dsh-git: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/mattismegevand/dsh-git: 404"
         }
       ],
@@ -227443,6 +228182,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/mattismegevand/dsh-open: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/mattismegevand/dsh-open: 404"
         }
       ],
       "github": {
@@ -227565,6 +228308,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/mattismegevand/dsh-terminal: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/mattismegevand/dsh-terminal: 404"
         }
       ],
@@ -229510,6 +230257,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/mcsam163/shared-memory-layer: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/mcsam163/shared-memory-layer: 404"
         }
       ],
       "github": {
@@ -230283,6 +231034,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/meliodascz89/deepseek-harness-plugins: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/meliodascz89/deepseek-harness-plugins: 404"
         }
       ],
@@ -245294,10 +246049,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-24T10:06:44.428Z",
-          "reason": "https://api.github.com/repos/muvuula/DeepSeek-Harness-Core: 404"
-        },
-        {
           "at": "2026-08-24T16:58:20.222Z",
           "reason": "https://api.github.com/repos/muvuula/DeepSeek-Harness-Core: 404"
         },
@@ -245371,6 +246122,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/muvuula/DeepSeek-Harness-Core: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/muvuula/DeepSeek-Harness-Core: 404"
         }
       ],
@@ -253281,6 +254036,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/nnbw-liu/deepseek-ai-dsh-llm-local: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/nnbw-liu/deepseek-ai-dsh-llm-local: 404"
         }
       ],
       "github": {
@@ -258616,6 +259375,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/omdsh-plugins/omdsh-base: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/omdsh-plugins/omdsh-base: 404"
         }
       ],
       "github": {
@@ -263186,6 +263949,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/oThTJx/dsh-skill-impeccable: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/oThTJx/dsh-skill-impeccable: 404"
         }
       ],
       "github": {
@@ -263291,6 +264058,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/oThTJx/dsh-skill-karpathy-guidelines: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/oThTJx/dsh-skill-karpathy-guidelines: 404"
         }
       ],
       "github": {
@@ -263389,6 +264160,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/oThTJx/dsh-skill-ponytail: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/oThTJx/dsh-skill-ponytail: 404"
         }
       ],
@@ -263571,6 +264346,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/oThTJx/dsh-skill-taste: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/oThTJx/dsh-skill-taste: 404"
         }
       ],
@@ -291874,6 +292653,75 @@
         "needsReview": true
       }
     },
+    "ruanhaodong-tt-dsh-security-guard": {
+      "id": "ruanhaodong-tt-dsh-security-guard",
+      "repository": {
+        "fullName": "ruanhaodong-tt/dsh-security-guard",
+        "url": "https://github.com/ruanhaodong-tt/dsh-security-guard"
+      },
+      "summary": "DSH runtime security guard plugin - loader import confinement, HTTP Host header validation (QVD-2026-52631/57410). AI-assisted.",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-09-05T16:07:09.624Z",
+      "lastSeenAt": "2026-09-05T16:07:09.624Z",
+      "checks": {
+        "checkedAt": "2026-09-05T16:07:09.624Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:ruanhaodong-tt/dsh-security-guard",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 0,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-09-03T05:25:34Z",
+        "lastPushAt": "2026-09-05T04:04:57Z",
+        "latestReleaseAt": null,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "classificationSuggestion": {
+        "group": "integrations-communication",
+        "category": "external-services",
+        "tags": [
+          "api",
+          "context",
+          "knowledge",
+          "monitoring",
+          "project-analysis"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:plugin",
+          "text:planning-execution:执行",
+          "text:memory-context:prompt",
+          "text:knowledge-management:rag",
+          "text:files-terminal:git",
+          "text:general-utilities:助手",
+          "text:external-services:github",
+          "text:notifications-monitoring:status"
+        ],
+        "needsReview": true
+      }
+    },
     "ruby1304-dsh-preset-anchored-standard": {
       "id": "ruby1304-dsh-preset-anchored-standard",
       "repository": {
@@ -292383,6 +293231,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/ruimin251204/dsh-plugin-surgery: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/ruimin251204/dsh-plugin-surgery: 404"
         }
       ],
@@ -294865,6 +295717,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/Saikel-Orado-Liu/dsh-fare-meter: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/Saikel-Orado-Liu/dsh-fare-meter: 404"
         }
       ],
       "github": {
@@ -296347,6 +297203,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/satan9394/dsh-contract-review: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/satan9394/dsh-contract-review: 404"
         }
       ],
       "github": {
@@ -296441,6 +297301,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/satan9394/dsh-frontend-design: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/satan9394/dsh-frontend-design: 404"
         }
       ],
@@ -296537,6 +297401,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/satan9394/dsh-grill-me: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/satan9394/dsh-grill-me: 404"
         }
       ],
       "github": {
@@ -296631,6 +297499,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/satan9394/dsh-hot-trends: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/satan9394/dsh-hot-trends: 404"
         }
       ],
@@ -296727,6 +297599,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/satan9394/dsh-meeting-minutes: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/satan9394/dsh-meeting-minutes: 404"
         }
       ],
@@ -296832,6 +297708,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/satan9394/dsh-skill-creator: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/satan9394/dsh-skill-creator: 404"
         }
       ],
@@ -297564,6 +298444,72 @@
         "needsReview": true
       }
     },
+    "scorp1o117-dsh-reasoning-options": {
+      "id": "scorp1o117-dsh-reasoning-options",
+      "repository": {
+        "fullName": "Scorp1o117/dsh-reasoning-options",
+        "url": "https://github.com/Scorp1o117/dsh-reasoning-options"
+      },
+      "summary": "DeepSeek Harness 插件：自动为 pi-ai 第三方模型添加推理强度（reasoning effort）选项 / Auto-add reasoning-effort picker to every pi-ai model in dsh",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-09-05T16:07:09.624Z",
+      "lastSeenAt": "2026-09-05T16:07:09.624Z",
+      "checks": {
+        "checkedAt": "2026-09-05T16:07:09.624Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:Scorp1o117/dsh-reasoning-options",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 0,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-09-03T14:38:30Z",
+        "lastPushAt": "2026-09-03T14:50:03Z",
+        "latestReleaseAt": "2026-09-03T15:00:25Z",
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "classificationSuggestion": {
+        "group": "agents-workflows",
+        "category": "automation",
+        "tags": [
+          "api",
+          "automation",
+          "file",
+          "terminal",
+          "ui"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:插件",
+          "text:automation:automat",
+          "text:desktop-mobile:web ui",
+          "text:files-terminal:git",
+          "text:external-services:github"
+        ],
+        "needsReview": true
+      }
+    },
     "scspotato-dsh-remote": {
       "id": "scspotato-dsh-remote",
       "repository": {
@@ -297996,6 +298942,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/sd1g1/dsh-minimal-rules: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/sd1g1/dsh-minimal-rules: 404"
         }
       ],
       "github": {
@@ -298167,6 +299117,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/sd1g1/dsh-subagent-model-override: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/sd1g1/dsh-subagent-model-override: 404"
         }
       ],
@@ -304876,6 +305830,85 @@
         "capturedAt": "2026-08-31T23:54:10.062Z"
       }
     },
+    "shlouai-dsh-debate": {
+      "id": "shlouai-dsh-debate",
+      "repository": {
+        "fullName": "shlouai/dsh-debate",
+        "url": "https://github.com/shlouai/dsh-debate"
+      },
+      "summary": "Stop asking your agent what it thinks. Make it hold a trial.",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-09-05T16:07:09.624Z",
+      "lastSeenAt": "2026-09-05T16:07:09.624Z",
+      "checks": {
+        "checkedAt": "2026-09-05T16:07:09.624Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:shlouai/dsh-debate",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 1,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-09-02T14:20:28Z",
+        "lastPushAt": "2026-09-03T06:44:00Z",
+        "latestReleaseAt": null,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "classificationSuggestion": {
+        "group": "integrations-communication",
+        "category": "collaboration",
+        "tags": [
+          "agent",
+          "api",
+          "chat",
+          "cli",
+          "file",
+          "image",
+          "knowledge",
+          "monitoring",
+          "project-analysis",
+          "research",
+          "search",
+          "theme",
+          "tool",
+          "ui",
+          "visualization"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:bundle",
+          "text:project-analysis:dependency",
+          "text:orchestration:orchestrat",
+          "text:memory-context:session",
+          "text:search-browsing:search",
+          "text:deep-research:research",
+          "text:knowledge-management:rag",
+          "text:themes-layout:skin"
+        ],
+        "needsReview": true
+      }
+    },
     "shouwang37-dsh-comfyui-node-development": {
       "id": "shouwang37-dsh-comfyui-node-development",
       "repository": {
@@ -308042,6 +309075,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/sjh9714/dsh-lean: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/sjh9714/dsh-lean: 404"
         }
       ],
@@ -312633,6 +313670,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/songoao25/dsh-song-memory: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/songoao25/dsh-song-memory: 404"
         }
       ],
       "github": {
@@ -313573,6 +314614,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/sparkmio/dsh-sfversion: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/sparkmio/dsh-sfversion: 404"
         }
       ],
@@ -314987,6 +316032,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/sqs404/dsh-gdi-art-plugins: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/sqs404/dsh-gdi-art-plugins: 404"
         }
       ],
@@ -317317,6 +318366,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/statem-li/dsh-better-markdown: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/statem-li/dsh-better-markdown: 404"
         }
       ],
       "github": {
@@ -317409,6 +318462,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/statem-li/dsh-browser: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/statem-li/dsh-browser: 404"
         }
       ],
@@ -317504,6 +318561,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/statem-li/dsh-image-gallery: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/statem-li/dsh-image-gallery: 404"
         }
       ],
@@ -317604,6 +318665,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/statem-li/dsh-reasoning-effort: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/statem-li/dsh-reasoning-effort: 404"
         }
       ],
@@ -317807,6 +318872,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/statem-li/dsh-tool-summary: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/statem-li/dsh-tool-summary: 404"
         }
       ],
       "github": {
@@ -317915,6 +318984,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/statem-li/dsh-usage-skill: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/statem-li/dsh-usage-skill: 404"
         }
       ],
@@ -318028,6 +319101,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/statem-li/dsh-vision-helper: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/statem-li/dsh-vision-helper: 404"
         }
       ],
       "github": {
@@ -318124,6 +319201,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/statem-li/dsh-zh-thinking: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/statem-li/dsh-zh-thinking: 404"
         }
       ],
@@ -327423,6 +328504,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/Tasihi89/dsh-plugin-market: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/Tasihi89/dsh-plugin-market: 404"
         }
       ],
       "github": {
@@ -327514,6 +328599,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/taskschd1145/dsh-windows-notify: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/taskschd1145/dsh-windows-notify: 404"
         }
       ],
@@ -331721,6 +332810,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/Tianbaidi/dsh-plugin-vision: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/Tianbaidi/dsh-plugin-vision: 404"
         }
       ],
       "github": {
@@ -334864,6 +335957,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/tmpdot/troublemaker: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/tmpdot/troublemaker: 404"
         }
       ],
@@ -339355,6 +340452,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/twanonymous/agent-dispatch-cli: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/twanonymous/agent-dispatch-cli: 404"
         }
       ],
@@ -354875,6 +355976,82 @@
         "capturedAt": "2026-09-01T05:17:22.216Z"
       }
     },
+    "vinzelles-dsh-clearview": {
+      "id": "vinzelles-dsh-clearview",
+      "repository": {
+        "fullName": "Vinzelles/dsh-clearview",
+        "url": "https://github.com/Vinzelles/dsh-clearview"
+      },
+      "summary": "A calmer reading view for DeepSeek Harness: native process details, live reasoning, and clean final answers.",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-09-05T16:07:09.624Z",
+      "lastSeenAt": "2026-09-05T16:07:09.624Z",
+      "checks": {
+        "checkedAt": "2026-09-05T16:07:09.624Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:Vinzelles/dsh-clearview",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 1,
+        "license": "NOASSERTION",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-09-03T11:07:16Z",
+        "lastPushAt": "2026-09-04T09:57:52Z",
+        "latestReleaseAt": "2026-09-04T03:16:21Z",
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "classificationSuggestion": {
+        "group": "tools-data",
+        "category": "data-processing",
+        "tags": [
+          "agent",
+          "chat",
+          "context",
+          "document",
+          "file",
+          "image",
+          "mcp",
+          "planning",
+          "skill",
+          "testing",
+          "tool",
+          "ui"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:插件",
+          "text:testing-debugging:测试",
+          "text:planning-execution:执行",
+          "text:memory-context:会话",
+          "text:document-processing:markdown",
+          "text:files-terminal:git",
+          "text:data-processing:统计",
+          "text:media-tools:图片"
+        ],
+        "needsReview": true
+      }
+    },
     "violet-evergarden-xiya-deepseek-autoreview": {
       "id": "violet-evergarden-xiya-deepseek-autoreview",
       "repository": {
@@ -358937,6 +360114,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/wanglaixiang-cyber/dsh-composer-scroll-hide: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/wanglaixiang-cyber/dsh-composer-scroll-hide: 404"
         }
       ],
       "github": {
@@ -362215,6 +363396,221 @@
           "text:desktop-mobile:桌面",
           "text:files-terminal:git",
           "text:data-processing:json"
+        ],
+        "needsReview": true
+      }
+    },
+    "weibaohui-dsh-continue": {
+      "id": "weibaohui-dsh-continue",
+      "repository": {
+        "fullName": "weibaohui/dsh-continue",
+        "url": "https://github.com/weibaohui/dsh-continue"
+      },
+      "summary": "自动续跑插件 for DeepSeek Harness — 有序规则表：按失败类型路由 继续续跑 / 换模型 / 压缩后继续 / 停止",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-09-05T16:07:09.624Z",
+      "lastSeenAt": "2026-09-05T16:07:09.624Z",
+      "checks": {
+        "checkedAt": "2026-09-05T16:07:09.624Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:weibaohui/dsh-continue",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 0,
+        "license": null,
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-08-31T02:38:37Z",
+        "lastPushAt": "2026-09-02T09:56:32Z",
+        "latestReleaseAt": "2026-09-02T09:56:41Z",
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "classificationSuggestion": {
+        "group": "interface-experience",
+        "category": "desktop-mobile",
+        "tags": [
+          "agent",
+          "context",
+          "image",
+          "layout",
+          "notification",
+          "ui",
+          "visualization"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:插件",
+          "text:testing-debugging:日志",
+          "text:memory-context:会话",
+          "text:navigation-panels:面板",
+          "text:visualization:可视化",
+          "text:desktop-mobile:web ui",
+          "text:files-terminal:git",
+          "text:media-tools:image"
+        ],
+        "needsReview": true
+      }
+    },
+    "weibaohui-dsh-settings-ui": {
+      "id": "weibaohui-dsh-settings-ui",
+      "repository": {
+        "fullName": "weibaohui/dsh-settings-ui",
+        "url": "https://github.com/weibaohui/dsh-settings-ui"
+      },
+      "summary": "dsh 插件 · 设置界面自定义：调整原生设置窗口大小（全屏/预置/自定义）、背景不透明度与背景（亮暗各一色，实时跟随主题）",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-09-05T16:07:09.624Z",
+      "lastSeenAt": "2026-09-05T16:07:09.624Z",
+      "checks": {
+        "checkedAt": "2026-09-05T16:07:09.624Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:weibaohui/dsh-settings-ui",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 0,
+        "license": null,
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-09-01T11:54:22Z",
+        "lastPushAt": "2026-09-01T22:08:17Z",
+        "latestReleaseAt": "2026-09-01T14:05:08Z",
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "classificationSuggestion": {
+        "group": "interface-experience",
+        "category": "desktop-mobile",
+        "tags": [
+          "browser",
+          "chat",
+          "file",
+          "image",
+          "layout",
+          "theme",
+          "ui"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:插件",
+          "text:search-browsing:浏览器",
+          "text:themes-layout:背景",
+          "text:navigation-panels:导航",
+          "text:desktop-mobile:web ui",
+          "text:files-terminal:git",
+          "text:media-tools:图片",
+          "text:external-services:github"
+        ],
+        "needsReview": true
+      }
+    },
+    "weibaohui-hermes-loop": {
+      "id": "weibaohui-hermes-loop",
+      "repository": {
+        "fullName": "weibaohui/hermes-loop",
+        "url": "https://github.com/weibaohui/hermes-loop"
+      },
+      "summary": "DeepSeek Harness 插件：Hermes 循环——review/curator 自动化与会话循环管理",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-09-05T16:07:09.624Z",
+      "lastSeenAt": "2026-09-05T16:07:09.624Z",
+      "checks": {
+        "checkedAt": "2026-09-05T16:07:09.624Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:weibaohui/hermes-loop",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 0,
+        "license": null,
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-08-31T03:57:26Z",
+        "lastPushAt": "2026-09-03T04:04:42Z",
+        "latestReleaseAt": "2026-09-03T04:05:36Z",
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "classificationSuggestion": {
+        "group": "agents-workflows",
+        "category": "automation",
+        "tags": [
+          "automation",
+          "chat",
+          "image",
+          "layout",
+          "memory",
+          "project-analysis",
+          "skill",
+          "tool",
+          "ui"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:插件",
+          "text:automation:自动化",
+          "text:memory-context:会话",
+          "text:navigation-panels:面板",
+          "text:desktop-mobile:web ui",
+          "text:files-terminal:git",
+          "text:data-processing:统计",
+          "text:media-tools:image"
         ],
         "needsReview": true
       }
@@ -365748,6 +367144,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/whyitsy/dsh-plugins: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/whyitsy/dsh-plugins: 404"
         }
       ],
@@ -376869,6 +378269,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/xbc996/schnauzer-pet: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/xbc996/schnauzer-pet: 404"
         }
       ],
       "github": {
@@ -377921,6 +379325,79 @@
         "lastPushAt": "2026-09-03T00:56:45Z",
         "latestReleaseAt": "2026-09-02T18:16:23Z",
         "capturedAt": "2026-09-03T14:37:05.336Z"
+      }
+    },
+    "xgone-dsh-netshell": {
+      "id": "xgone-dsh-netshell",
+      "repository": {
+        "fullName": "xgone/dsh-netshell",
+        "url": "https://github.com/xgone/dsh-netshell"
+      },
+      "summary": "DSH 远程终端插件:在 Web UI 直连 SSH,危险命令三级护栏,AI 命令须真人确认,密码加密存储、不进 AI 会话 | Remote SSH terminal plugin for DeepSeek Harness: 3-level command guard, human-approved AI commands, encrypted credentials",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-09-05T16:07:09.624Z",
+      "lastSeenAt": "2026-09-05T16:07:09.624Z",
+      "checks": {
+        "checkedAt": "2026-09-05T16:07:09.624Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:xgone/dsh-netshell",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 0,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-09-02T17:53:39Z",
+        "lastPushAt": "2026-09-05T03:30:57Z",
+        "latestReleaseAt": null,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "classificationSuggestion": {
+        "group": "integrations-communication",
+        "category": "collaboration",
+        "tags": [
+          "agent",
+          "document",
+          "layout",
+          "monitoring",
+          "project-analysis",
+          "terminal",
+          "tool",
+          "ui",
+          "workflow"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:插件",
+          "text:testing-debugging:日志",
+          "text:planning-execution:workflow",
+          "text:memory-context:会话",
+          "text:document-processing:文档",
+          "text:navigation-panels:面板",
+          "text:desktop-mobile:web ui",
+          "text:files-terminal:shell"
+        ],
+        "needsReview": true
       }
     },
     "xgone-dsh-remote": {
@@ -383981,6 +385458,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/xinman100/dsh-opencode-go-usage-plus: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/xinman100/dsh-opencode-go-usage-plus: 404"
         }
       ],
       "github": {
@@ -388472,6 +389953,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/xxiaoxiong/dsh-ci: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/xxiaoxiong/dsh-ci: 404"
         }
       ],
       "github": {
@@ -388587,6 +390072,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/xxiaoxiong/dsh-issue-tracker: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/xxiaoxiong/dsh-issue-tracker: 404"
         }
       ],
       "github": {
@@ -388701,6 +390190,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/xxiaoxiong/dsh-kubernetes: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/xxiaoxiong/dsh-kubernetes: 404"
         }
       ],
@@ -390835,6 +392328,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/yan77-h/dsh-agent-evaluator: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/yan77-h/dsh-agent-evaluator: 404"
         }
       ],
@@ -397365,6 +398862,10 @@
         {
           "at": "2026-09-05T09:08:20.537Z",
           "reason": "https://api.github.com/repos/yishengdaxiaonengjihui/dsh-plugin-manager: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
+          "reason": "https://api.github.com/repos/yishengdaxiaonengjihui/dsh-plugin-manager: 404"
         }
       ],
       "github": {
@@ -401333,6 +402834,86 @@
         "lastPushAt": "2026-08-28T06:25:40Z",
         "latestReleaseAt": "2026-08-27T12:28:48Z",
         "capturedAt": "2026-09-05T04:37:02.415Z"
+      }
+    },
+    "yu-wenchao-dsh-tool-lipsync": {
+      "id": "yu-wenchao-dsh-tool-lipsync",
+      "repository": {
+        "fullName": "yu-wenchao/dsh-tool-lipsync",
+        "url": "https://github.com/yu-wenchao/dsh-tool-lipsync"
+      },
+      "summary": "免 Key、免登录的 AI 对口型口播视频生成插件，为 DeepSeek Harness (DSH) 注册 5 个工具，使用免费开放 API 生成对口型视频。FreeLipSync lip-sync video plugin for DeepSeek Harness - No API key required",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-09-05T16:07:09.624Z",
+      "lastSeenAt": "2026-09-05T16:07:09.624Z",
+      "checks": {
+        "checkedAt": "2026-09-05T16:07:09.624Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:yu-wenchao/dsh-tool-lipsync",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 1,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-09-04T04:20:07Z",
+        "lastPushAt": "2026-09-05T02:23:32Z",
+        "latestReleaseAt": null,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "classificationSuggestion": {
+        "group": "integrations-communication",
+        "category": "collaboration",
+        "tags": [
+          "agent",
+          "api",
+          "browser",
+          "chat",
+          "cli",
+          "data",
+          "file",
+          "image",
+          "layout",
+          "monitoring",
+          "planning",
+          "project-analysis",
+          "testing",
+          "tool",
+          "ui",
+          "video"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:插件",
+          "text:testing-debugging:test",
+          "text:planning-execution:任务",
+          "text:memory-context:token",
+          "text:search-browsing:浏览器",
+          "text:navigation-panels:面板",
+          "text:desktop-mobile:web ui",
+          "text:files-terminal:git"
+        ],
+        "needsReview": true
       }
     },
     "yu2025-luo-dsh-file-panel": {
@@ -412303,6 +413884,85 @@
         "capturedAt": "2026-09-01T10:11:27.827Z"
       }
     },
+    "zf3373-dsh-algo-trainer": {
+      "id": "zf3373-dsh-algo-trainer",
+      "repository": {
+        "fullName": "ZF3373/dsh-algo-trainer",
+        "url": "https://github.com/ZF3373/dsh-algo-trainer"
+      },
+      "summary": "ICPC competitive programming training plugin for DeepSeek Harness — sync, analysis, plans, reviews, templates",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-09-05T16:07:09.624Z",
+      "lastSeenAt": "2026-09-05T16:07:09.624Z",
+      "checks": {
+        "checkedAt": "2026-09-05T16:07:09.624Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:ZF3373/dsh-algo-trainer",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 0,
+        "license": null,
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-09-04T03:12:26Z",
+        "lastPushAt": "2026-09-04T05:39:42Z",
+        "latestReleaseAt": null,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "classificationSuggestion": {
+        "group": "agents-workflows",
+        "category": "automation",
+        "tags": [
+          "agent",
+          "api",
+          "chat",
+          "context",
+          "data",
+          "education",
+          "file",
+          "integration",
+          "layout",
+          "monitoring",
+          "planning",
+          "project-analysis",
+          "testing",
+          "tool",
+          "ui"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:plugin",
+          "text:testing-debugging:test",
+          "text:automation:schedul",
+          "text:planning-execution:计划",
+          "text:memory-context:context",
+          "text:search-browsing:web.fetch",
+          "text:navigation-panels:面板",
+          "text:visualization:渲染"
+        ],
+        "needsReview": true
+      }
+    },
     "zfu691531-hash-dsh-codex-collab": {
       "id": "zfu691531-hash-dsh-codex-collab",
       "repository": {
@@ -412749,6 +414409,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/zhaimingyou/aisync: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/zhaimingyou/aisync: 404"
         }
       ],
@@ -414309,6 +415973,10 @@
         },
         {
           "at": "2026-09-05T09:08:20.537Z",
+          "reason": "https://api.github.com/repos/zhangyoufu-123/stylotrace: 404"
+        },
+        {
+          "at": "2026-09-05T16:07:09.624Z",
           "reason": "https://api.github.com/repos/zhangyoufu-123/stylotrace: 404"
         }
       ],
@@ -418653,9 +420321,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-24T07:31:56.154Z",
-      "lastSeenAt": "2026-09-05T12:46:18.657Z",
+      "lastSeenAt": "2026-09-05T16:07:09.624Z",
       "checks": {
-        "checkedAt": "2026-09-05T12:46:18.657Z",
+        "checkedAt": "2026-09-05T16:07:09.624Z",
         "publicRepository": true,
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
@@ -418670,14 +420338,14 @@
       },
       "failures": [],
       "github": {
-        "stars": 6921,
+        "stars": 6933,
         "license": "Apache-2.0",
         "archived": false,
         "private": false,
         "createdAt": "2026-08-12T05:15:20Z",
-        "lastPushAt": "2026-09-05T05:43:20Z",
+        "lastPushAt": "2026-09-05T14:17:55Z",
         "latestReleaseAt": "2026-09-05T03:28:54Z",
-        "capturedAt": "2026-09-05T12:46:18.657Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -420187,6 +421855,83 @@
           "text:files-terminal:git",
           "text:data-processing:json",
           "text:general-utilities:工具"
+        ],
+        "needsReview": true
+      }
+    },
+    "zingzheng-dsh-gb": {
+      "id": "zingzheng-dsh-gb",
+      "repository": {
+        "fullName": "zingzheng/dsh-gb",
+        "url": "https://github.com/zingzheng/dsh-gb"
+      },
+      "summary": "把手机变成 DSH 的语音遥控外设",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-09-05T16:07:09.624Z",
+      "lastSeenAt": "2026-09-05T16:07:09.624Z",
+      "checks": {
+        "checkedAt": "2026-09-05T16:07:09.624Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:zingzheng/dsh-gb",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 2,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-09-04T03:34:44Z",
+        "lastPushAt": "2026-09-04T17:06:06Z",
+        "latestReleaseAt": null,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "classificationSuggestion": {
+        "group": "tools-data",
+        "category": "data-processing",
+        "tags": [
+          "agent",
+          "api",
+          "browser",
+          "chat",
+          "data",
+          "file",
+          "integration",
+          "layout",
+          "monitoring",
+          "notification",
+          "terminal",
+          "testing",
+          "ui"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:插件",
+          "text:testing-debugging:测试",
+          "text:planning-execution:执行",
+          "text:memory-context:会话",
+          "text:search-browsing:网页",
+          "text:navigation-panels:面板",
+          "text:files-terminal:git",
+          "text:data-processing:统计"
         ],
         "needsReview": true
       }
@@ -428163,8 +429908,8 @@
   },
   "failures": [
     {
-      "at": "2026-09-05T12:46:18.657Z",
-      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T17%3A17%3A03Z..2026-08-14T14%3A20%3A28Z&sort=updated&order=desc&per_page=100&page=1: 403"
+      "at": "2026-09-05T16:07:09.624Z",
+      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-12T02%3A30%3A21Z..2026-08-13T20%3A37%3A15Z&sort=updated&order=desc&per_page=100&page=7: 403"
     }
   ]
 }

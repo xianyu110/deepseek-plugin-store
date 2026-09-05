@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-05T12:46:18.657Z",
-  "sourceCommit": "27be2d323e9bf443df347157416c5950fd210835fc125cac698eb13d4b84773a",
+  "updatedAt": "2026-09-05T16:07:09.624Z",
+  "sourceCommit": "9bbff73332537c2b2cf8dbd97b53a9db5501b120f7673de5bc30974c3b37bb0a",
   "source": {
     "provider": "registry-v2",
     "repository": "Ericwong5021/deepseek-plugin-store",
@@ -202,6 +202,52 @@
       }
     },
     {
+      "fullName": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "stars": 14560,
+      "pushedAt": "2026-09-05T14:58:55Z",
+      "license": "CC0-1.0",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "awesome-dsh-plugin",
+      "category": {
+        "id": "dev-helpers",
+        "title": "开发辅助 / Development Helpers"
+      },
+      "addedAt": "2026-08-14",
+      "slug": "awesome-dsh-plugin-awesome-dsh-plugin",
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "summary": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "tags": [
+        "dev-helpers"
+      ],
+      "repositoryUrl": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "installSpec": "github:awesome-dsh-plugin/awesome-dsh-plugin",
+      "author": "awesome-dsh-plugin",
+      "featured": false,
+      "status": "active",
+      "source": {
+        "type": "github-topic",
+        "origins": [
+          "github-topic"
+        ],
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 14560,
+        "license": "CC0-1.0",
+        "lastPushAt": "2026-09-05T14:58:55Z",
+        "archived": false,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "compatibility": {
+        "manifestFound": false,
+        "manifestPath": null,
+        "checkedAt": "2026-09-05T16:07:09.624Z"
+      }
+    },
+    {
       "fullName": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
@@ -248,52 +294,6 @@
         "manifestFound": false,
         "manifestPath": null,
         "checkedAt": "2026-08-14T10:30:21.295Z"
-      }
-    },
-    {
-      "fullName": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "stars": 13464,
-      "pushedAt": "2026-08-28T15:45:27Z",
-      "license": "CC0-1.0",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "awesome-dsh-plugin",
-      "category": {
-        "id": "dev-helpers",
-        "title": "开发辅助 / Development Helpers"
-      },
-      "addedAt": "2026-08-14",
-      "slug": "awesome-dsh-plugin-awesome-dsh-plugin",
-      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "summary": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "tags": [
-        "dev-helpers"
-      ],
-      "repositoryUrl": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "installSpec": "github:awesome-dsh-plugin/awesome-dsh-plugin",
-      "author": "awesome-dsh-plugin",
-      "featured": false,
-      "status": "active",
-      "source": {
-        "type": "github-topic",
-        "origins": [
-          "github-topic"
-        ],
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 13464,
-        "license": "CC0-1.0",
-        "lastPushAt": "2026-08-28T15:45:27Z",
-        "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
-      },
-      "compatibility": {
-        "manifestFound": false,
-        "manifestPath": null,
-        "checkedAt": "2026-08-29T09:07:35.951Z"
       }
     },
     {
@@ -447,7 +447,7 @@
       "fullName": "omdsh-dev/DSH-better-sidebar",
       "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
       "description": "一个侧边栏的完整工作台，支持三方拓展注册新Tab页面，内置文件渲染编辑/终端/Git/子代理",
-      "stars": 3347,
+      "stars": 3352,
       "pushedAt": "2026-09-04T15:04:58Z",
       "license": "MIT",
       "archived": false,
@@ -482,16 +482,16 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 3347,
+        "stars": 3352,
         "license": "MIT",
         "lastPushAt": "2026-09-04T15:04:58Z",
         "archived": false,
-        "capturedAt": "2026-09-05T12:46:18.657Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-09-05T12:46:18.657Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -546,8 +546,8 @@
       "fullName": "ccch1mneyyy/dsh-TUI",
       "url": "https://github.com/ccch1mneyyy/dsh-TUI",
       "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
-      "stars": 2842,
-      "pushedAt": "2026-09-05T12:04:46Z",
+      "stars": 2845,
+      "pushedAt": "2026-09-05T15:56:30Z",
       "license": "MIT",
       "archived": false,
       "isPlugin": true,
@@ -580,16 +580,16 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 2842,
+        "stars": 2845,
         "license": "MIT",
-        "lastPushAt": "2026-09-05T12:04:46Z",
+        "lastPushAt": "2026-09-05T15:56:30Z",
         "archived": false,
-        "capturedAt": "2026-09-05T12:46:18.657Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-09-05T12:46:18.657Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -786,8 +786,8 @@
       "fullName": "Small-tailqwq/dsh-deep-whale",
       "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
       "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
-      "stars": 1931,
-      "pushedAt": "2026-09-04T06:37:25Z",
+      "stars": 1933,
+      "pushedAt": "2026-09-05T13:30:31Z",
       "license": null,
       "archived": false,
       "isPlugin": true,
@@ -818,16 +818,16 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 1931,
+        "stars": 1933,
         "license": null,
-        "lastPushAt": "2026-09-04T06:37:25Z",
+        "lastPushAt": "2026-09-05T13:30:31Z",
         "archived": false,
-        "capturedAt": "2026-09-05T09:08:20.537Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-09-05T09:08:20.537Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -875,6 +875,54 @@
         "manifestFound": false,
         "manifestPath": null,
         "checkedAt": "2026-09-05T12:46:18.657Z"
+      }
+    },
+    {
+      "fullName": "bowenliang123/dsh-context",
+      "url": "https://github.com/bowenliang123/dsh-context",
+      "description": "A DeepSeek Harness plugin for  Context insight panel — a Context tab in the web UI showing what the model's context window is made of and how it evolves.",
+      "stars": 1295,
+      "pushedAt": "2026-09-05T14:40:55Z",
+      "license": "Apache-2.0",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "dsh-context",
+      "category": {
+        "id": "ui-enhancements",
+        "title": "UI 增强 / UI Enhancements"
+      },
+      "addedAt": "2026-08-14",
+      "slug": "bowenliang123-dsh-context",
+      "name": "bowenliang123/dsh-context",
+      "summary": "A DeepSeek Harness plugin for  Context insight panel — a Context tab in the web UI showing what the model's context window is made of and how it evolves.",
+      "tags": [
+        "context",
+        "layout",
+        "ui"
+      ],
+      "repositoryUrl": "https://github.com/bowenliang123/dsh-context",
+      "installSpec": "github:bowenliang123/dsh-context",
+      "author": "bowenliang123",
+      "featured": false,
+      "status": "active",
+      "source": {
+        "type": "github-topic",
+        "origins": [
+          "github-topic"
+        ],
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 1295,
+        "license": "Apache-2.0",
+        "lastPushAt": "2026-09-05T14:40:55Z",
+        "archived": false,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "compatibility": {
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -927,54 +975,6 @@
         "manifestFound": false,
         "manifestPath": null,
         "checkedAt": "2026-09-05T12:46:18.657Z"
-      }
-    },
-    {
-      "fullName": "bowenliang123/dsh-context",
-      "url": "https://github.com/bowenliang123/dsh-context",
-      "description": "A DeepSeek Harness plugin for  Context insight panel — a Context tab in the web UI showing what the model's context window is made of and how it evolves.",
-      "stars": 1161,
-      "pushedAt": "2026-08-29T13:55:28Z",
-      "license": "Apache-2.0",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "dsh-context",
-      "category": {
-        "id": "ui-enhancements",
-        "title": "UI 增强 / UI Enhancements"
-      },
-      "addedAt": "2026-08-14",
-      "slug": "bowenliang123-dsh-context",
-      "name": "bowenliang123/dsh-context",
-      "summary": "A DeepSeek Harness plugin for  Context insight panel — a Context tab in the web UI showing what the model's context window is made of and how it evolves.",
-      "tags": [
-        "context",
-        "layout",
-        "ui"
-      ],
-      "repositoryUrl": "https://github.com/bowenliang123/dsh-context",
-      "installSpec": "github:bowenliang123/dsh-context",
-      "author": "bowenliang123",
-      "featured": false,
-      "status": "active",
-      "source": {
-        "type": "github-topic",
-        "origins": [
-          "github-topic"
-        ],
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 1161,
-        "license": "Apache-2.0",
-        "lastPushAt": "2026-08-29T13:55:28Z",
-        "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
-      },
-      "compatibility": {
-        "manifestFound": true,
-        "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
       }
     },
     {
@@ -1413,7 +1413,7 @@
       "fullName": "Nagi-ovo/dsh-ads",
       "url": "https://github.com/Nagi-ovo/dsh-ads",
       "description": "是兄弟就来蹬我！DSH Web UI 广告：2005 年中文站点风格的侧栏广告 / 对话内信息流 / 角落弹窗 + 一个真实热区比视觉小得多的关闭叉。素材全虚构，域名打码。",
-      "stars": 606,
+      "stars": 607,
       "pushedAt": "2026-08-27T21:32:38Z",
       "license": "BSD-3-Clause",
       "archived": false,
@@ -1446,16 +1446,16 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 606,
+        "stars": 607,
         "license": "BSD-3-Clause",
         "lastPushAt": "2026-08-27T21:32:38Z",
         "archived": false,
-        "capturedAt": "2026-09-04T09:43:00.187Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-09-04T09:43:00.187Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -1840,6 +1840,52 @@
       }
     },
     {
+      "fullName": "bruc3van/awesome-dsh-plugin",
+      "url": "https://github.com/bruc3van/awesome-dsh-plugin",
+      "description": "用 30 秒找到适合你的 DeepSeek Harness 插件。 不只是仓库列表：这里告诉你插件解决什么问题、适合谁，以及从哪里开始。",
+      "stars": 315,
+      "pushedAt": "2026-09-05T03:23:49Z",
+      "license": "MIT",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": null,
+      "category": {
+        "id": "dev-helpers",
+        "title": "开发辅助 / Development Helpers"
+      },
+      "addedAt": "2026-08-14",
+      "slug": "bruc3van-awesome-dsh-plugin",
+      "name": "bruc3van/awesome-dsh-plugin",
+      "summary": "用 30 秒找到适合你的 DeepSeek Harness 插件。 不只是仓库列表：这里告诉你插件解决什么问题、适合谁，以及从哪里开始。",
+      "tags": [
+        "dev-helpers"
+      ],
+      "repositoryUrl": "https://github.com/bruc3van/awesome-dsh-plugin",
+      "installSpec": "github:bruc3van/awesome-dsh-plugin",
+      "author": "bruc3van",
+      "featured": false,
+      "status": "active",
+      "source": {
+        "type": "github-topic",
+        "origins": [
+          "github-topic"
+        ],
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 315,
+        "license": "MIT",
+        "lastPushAt": "2026-09-05T03:23:49Z",
+        "archived": false,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "compatibility": {
+        "manifestFound": false,
+        "manifestPath": null,
+        "checkedAt": "2026-09-05T16:07:09.624Z"
+      }
+    },
+    {
       "fullName": "text2future/flowix",
       "url": "https://github.com/text2future/flowix",
       "description": "Notes for you, Memory for your agents.",
@@ -1884,52 +1930,6 @@
         "manifestFound": false,
         "manifestPath": null,
         "checkedAt": "2026-08-14T10:30:21.295Z"
-      }
-    },
-    {
-      "fullName": "bruc3van/awesome-dsh-plugin",
-      "url": "https://github.com/bruc3van/awesome-dsh-plugin",
-      "description": "用 30 秒找到适合你的 DeepSeek Harness 插件。 不只是仓库列表：这里告诉你插件解决什么问题、适合谁，以及从哪里开始。",
-      "stars": 296,
-      "pushedAt": "2026-08-29T04:08:59Z",
-      "license": "MIT",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": null,
-      "category": {
-        "id": "dev-helpers",
-        "title": "开发辅助 / Development Helpers"
-      },
-      "addedAt": "2026-08-14",
-      "slug": "bruc3van-awesome-dsh-plugin",
-      "name": "bruc3van/awesome-dsh-plugin",
-      "summary": "用 30 秒找到适合你的 DeepSeek Harness 插件。 不只是仓库列表：这里告诉你插件解决什么问题、适合谁，以及从哪里开始。",
-      "tags": [
-        "dev-helpers"
-      ],
-      "repositoryUrl": "https://github.com/bruc3van/awesome-dsh-plugin",
-      "installSpec": "github:bruc3van/awesome-dsh-plugin",
-      "author": "bruc3van",
-      "featured": false,
-      "status": "active",
-      "source": {
-        "type": "github-topic",
-        "origins": [
-          "github-topic"
-        ],
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 296,
-        "license": "MIT",
-        "lastPushAt": "2026-08-29T04:08:59Z",
-        "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
-      },
-      "compatibility": {
-        "manifestFound": false,
-        "manifestPath": null,
-        "checkedAt": "2026-08-29T14:32:34.143Z"
       }
     },
     {
@@ -2609,8 +2609,8 @@
       "fullName": "bradeGithub/DSH-Plugins-Marketplace",
       "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace",
       "description": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
-      "stars": 152,
-      "pushedAt": "2026-08-29T13:10:49Z",
+      "stars": 157,
+      "pushedAt": "2026-09-05T13:40:58Z",
       "license": "MIT",
       "archived": false,
       "isPlugin": true,
@@ -2639,16 +2639,16 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 152,
+        "stars": 157,
         "license": "MIT",
-        "lastPushAt": "2026-08-29T13:10:49Z",
+        "lastPushAt": "2026-09-05T13:40:58Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -2698,6 +2698,53 @@
         "manifestFound": false,
         "manifestPath": null,
         "checkedAt": "2026-08-29T14:32:34.143Z"
+      }
+    },
+    {
+      "fullName": "Ayase34/gal-view",
+      "url": "https://github.com/Ayase34/gal-view",
+      "description": "DSH Web GUI 会话页的 GAL 视窗：Galgame 风格对话视图 + 场景元素可视化编辑器",
+      "stars": 145,
+      "pushedAt": "2026-08-16T00:02:38Z",
+      "license": "MIT",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "gal-view",
+      "category": {
+        "id": "ui-enhancements",
+        "title": "UI 增强 / UI Enhancements"
+      },
+      "addedAt": "2026-08-14",
+      "slug": "ayase34-gal-view",
+      "name": "Ayase34/gal-view",
+      "summary": "DSH Web GUI 会话页的 GAL 视窗：Galgame 风格对话视图 + 场景元素可视化编辑器",
+      "tags": [
+        "chat",
+        "visualization"
+      ],
+      "repositoryUrl": "https://github.com/Ayase34/gal-view",
+      "installSpec": "github:Ayase34/gal-view",
+      "author": "Ayase34",
+      "featured": false,
+      "status": "active",
+      "source": {
+        "type": "github-topic",
+        "origins": [
+          "github-topic"
+        ],
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 145,
+        "license": "MIT",
+        "lastPushAt": "2026-08-16T00:02:38Z",
+        "archived": false,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "compatibility": {
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -2940,30 +2987,29 @@
       }
     },
     {
-      "fullName": "Ayase34/gal-view",
-      "url": "https://github.com/Ayase34/gal-view",
-      "description": "DSH Web GUI 会话页的 GAL 视窗：Galgame 风格对话视图 + 场景元素可视化编辑器",
+      "fullName": "beancookie/awesome-dsh-plugin",
+      "url": "https://github.com/beancookie/awesome-dsh-plugin",
+      "description": "Awesome DeepSeek Harness (DSH) Plugin",
       "stars": 133,
-      "pushedAt": "2026-08-16T00:02:38Z",
-      "license": "MIT",
+      "pushedAt": "2026-09-05T04:26:30Z",
+      "license": "CC0-1.0",
       "archived": false,
       "isPlugin": true,
-      "npmName": "gal-view",
+      "npmName": "awesome-dsh-plugin",
       "category": {
-        "id": "ui-enhancements",
-        "title": "UI 增强 / UI Enhancements"
+        "id": "dev-helpers",
+        "title": "开发辅助 / Development Helpers"
       },
       "addedAt": "2026-08-14",
-      "slug": "ayase34-gal-view",
-      "name": "Ayase34/gal-view",
-      "summary": "DSH Web GUI 会话页的 GAL 视窗：Galgame 风格对话视图 + 场景元素可视化编辑器",
+      "slug": "beancookie-awesome-dsh-plugin",
+      "name": "beancookie/awesome-dsh-plugin",
+      "summary": "Awesome DeepSeek Harness (DSH) Plugin",
       "tags": [
-        "chat",
-        "visualization"
+        "dev-helpers"
       ],
-      "repositoryUrl": "https://github.com/Ayase34/gal-view",
-      "installSpec": "github:Ayase34/gal-view",
-      "author": "Ayase34",
+      "repositoryUrl": "https://github.com/beancookie/awesome-dsh-plugin",
+      "installSpec": "github:beancookie/awesome-dsh-plugin",
+      "author": "beancookie",
       "featured": false,
       "status": "active",
       "source": {
@@ -2975,15 +3021,15 @@
       },
       "github": {
         "stars": 133,
-        "license": "MIT",
-        "lastPushAt": "2026-08-16T00:02:38Z",
+        "license": "CC0-1.0",
+        "lastPushAt": "2026-09-05T04:26:30Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
-        "manifestFound": true,
-        "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "manifestFound": false,
+        "manifestPath": null,
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -3080,29 +3126,30 @@
       }
     },
     {
-      "fullName": "beancookie/awesome-dsh-plugin",
-      "url": "https://github.com/beancookie/awesome-dsh-plugin",
-      "description": "Awesome DeepSeek Harness (DSH) Plugin",
-      "stars": 123,
-      "pushedAt": "2026-08-29T02:41:19Z",
-      "license": "CC0-1.0",
+      "fullName": "awesome-dsh-plugin/dsh-find-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/dsh-find-plugin",
+      "description": "Find DSH plugins inside the agent — live GitHub dsh-plugin topic search, star-ranked / 会话内搜索发现 DSH 插件",
+      "stars": 120,
+      "pushedAt": "2026-08-19T05:24:43Z",
+      "license": "MIT",
       "archived": false,
       "isPlugin": true,
-      "npmName": "awesome-dsh-plugin",
+      "npmName": "dsh-find-plugin",
       "category": {
-        "id": "dev-helpers",
-        "title": "开发辅助 / Development Helpers"
+        "id": "tools",
+        "title": "工具集 / Tools"
       },
       "addedAt": "2026-08-14",
-      "slug": "beancookie-awesome-dsh-plugin",
-      "name": "beancookie/awesome-dsh-plugin",
-      "summary": "Awesome DeepSeek Harness (DSH) Plugin",
+      "slug": "awesome-dsh-plugin-dsh-find-plugin",
+      "name": "awesome-dsh-plugin/dsh-find-plugin",
+      "summary": "Find DSH plugins inside the agent — live GitHub dsh-plugin topic search, star-ranked / 会话内搜索发现 DSH 插件",
       "tags": [
-        "dev-helpers"
+        "agent",
+        "search"
       ],
-      "repositoryUrl": "https://github.com/beancookie/awesome-dsh-plugin",
-      "installSpec": "github:beancookie/awesome-dsh-plugin",
-      "author": "beancookie",
+      "repositoryUrl": "https://github.com/awesome-dsh-plugin/dsh-find-plugin",
+      "installSpec": "github:awesome-dsh-plugin/dsh-find-plugin",
+      "author": "awesome-dsh-plugin",
       "featured": false,
       "status": "active",
       "source": {
@@ -3113,16 +3160,16 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 123,
-        "license": "CC0-1.0",
-        "lastPushAt": "2026-08-29T02:41:19Z",
+        "stars": 120,
+        "license": "MIT",
+        "lastPushAt": "2026-08-19T05:24:43Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
-        "manifestFound": false,
-        "manifestPath": null,
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -3218,6 +3265,52 @@
       }
     },
     {
+      "fullName": "bugmaker2/dsh-plugin-template",
+      "url": "https://github.com/bugmaker2/dsh-plugin-template",
+      "description": "Template for deepseek-harness plugin development.",
+      "stars": 108,
+      "pushedAt": "2026-08-27T04:58:58Z",
+      "license": "MIT",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "dsh-plugin-template",
+      "category": {
+        "id": "dev-helpers",
+        "title": "开发辅助 / Development Helpers"
+      },
+      "addedAt": "2026-08-13",
+      "slug": "bugmaker2-dsh-plugin-template",
+      "name": "bugmaker2/dsh-plugin-template",
+      "summary": "Template for deepseek-harness plugin development.",
+      "tags": [
+        "dev-helpers"
+      ],
+      "repositoryUrl": "https://github.com/bugmaker2/dsh-plugin-template",
+      "installSpec": "github:bugmaker2/dsh-plugin-template",
+      "author": "bugmaker2",
+      "featured": false,
+      "status": "active",
+      "source": {
+        "type": "github-topic",
+        "origins": [
+          "github-topic"
+        ],
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 108,
+        "license": "MIT",
+        "lastPushAt": "2026-08-27T04:58:58Z",
+        "archived": false,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "compatibility": {
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "checkedAt": "2026-09-05T16:07:09.624Z"
+      }
+    },
+    {
       "fullName": "Sikao-Engine/KimiX",
       "url": "https://github.com/Sikao-Engine/KimiX",
       "description": "The next-gen lightweight coding agent cli",
@@ -3308,53 +3401,6 @@
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
         "checkedAt": "2026-08-14T10:30:21.295Z"
-      }
-    },
-    {
-      "fullName": "awesome-dsh-plugin/dsh-find-plugin",
-      "url": "https://github.com/awesome-dsh-plugin/dsh-find-plugin",
-      "description": "Find DSH plugins inside the agent — live GitHub dsh-plugin topic search, star-ranked / 会话内搜索发现 DSH 插件",
-      "stars": 103,
-      "pushedAt": "2026-08-19T05:24:43Z",
-      "license": "MIT",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "dsh-find-plugin",
-      "category": {
-        "id": "tools",
-        "title": "工具集 / Tools"
-      },
-      "addedAt": "2026-08-14",
-      "slug": "awesome-dsh-plugin-dsh-find-plugin",
-      "name": "awesome-dsh-plugin/dsh-find-plugin",
-      "summary": "Find DSH plugins inside the agent — live GitHub dsh-plugin topic search, star-ranked / 会话内搜索发现 DSH 插件",
-      "tags": [
-        "agent",
-        "search"
-      ],
-      "repositoryUrl": "https://github.com/awesome-dsh-plugin/dsh-find-plugin",
-      "installSpec": "github:awesome-dsh-plugin/dsh-find-plugin",
-      "author": "awesome-dsh-plugin",
-      "featured": false,
-      "status": "active",
-      "source": {
-        "type": "github-topic",
-        "origins": [
-          "github-topic"
-        ],
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 103,
-        "license": "MIT",
-        "lastPushAt": "2026-08-19T05:24:43Z",
-        "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
-      },
-      "compatibility": {
-        "manifestFound": true,
-        "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
       }
     },
     {
@@ -3733,6 +3779,54 @@
       }
     },
     {
+      "fullName": "bruc3van/dsh-desktop",
+      "url": "https://github.com/bruc3van/dsh-desktop",
+      "description": "DeepSeek Harness Desktop 是一款第三方桌面客户端，通过直接加载官方 Web UI，为普通用户提供开箱即用的独立桌面体验：它可以自动复用本机已运行的官方实例，也可以使用安装包内置的 dsh 运行时启动服务，无需用户额外安装 Node.js 或 CLI，并提供智能连接、远程实例连接、托盘常驻、运行时监护和异常恢复等桌面增强。",
+      "stars": 80,
+      "pushedAt": "2026-09-05T14:00:54Z",
+      "license": "MIT",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "dsh-desktop",
+      "category": {
+        "id": "ui-enhancements",
+        "title": "UI 增强 / UI Enhancements"
+      },
+      "addedAt": "2026-08-14",
+      "slug": "bruc3van-dsh-desktop",
+      "name": "bruc3van/dsh-desktop",
+      "summary": "DeepSeek Harness Desktop 是一款第三方桌面客户端，通过直接加载官方 Web UI，为普通用户提供开箱即用的独立桌面体验：它可以自动复用本机已运行的官方实例，也可以使用安装包内置的 dsh 运行时启动服务，无需用户额外安装 Node.js 或 CLI，并提供智能连接、远程实例连接、托盘常驻、运行时监护和异常恢复等桌面增强。",
+      "tags": [
+        "cli",
+        "desktop",
+        "ui"
+      ],
+      "repositoryUrl": "https://github.com/bruc3van/dsh-desktop",
+      "installSpec": "github:bruc3van/dsh-desktop",
+      "author": "bruc3van",
+      "featured": false,
+      "status": "active",
+      "source": {
+        "type": "github-topic",
+        "origins": [
+          "github-topic"
+        ],
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 80,
+        "license": "MIT",
+        "lastPushAt": "2026-09-05T14:00:54Z",
+        "archived": false,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "compatibility": {
+        "manifestFound": false,
+        "manifestPath": null,
+        "checkedAt": "2026-09-05T16:07:09.624Z"
+      }
+    },
+    {
       "fullName": "Sanqi-normal/dsh-webui-market-plugin",
       "url": "https://github.com/Sanqi-normal/dsh-webui-market-plugin",
       "description": "dsh Web GUI 社区插件市场：浏览 awesome-dsh-plugin.com 插件目录，一键安装/卸载到 profile。Community plugin market for the DeepSeek Harness (dsh) web GUI: browse, install and uninstall plugins into a profile.",
@@ -3825,54 +3919,6 @@
         "manifestFound": false,
         "manifestPath": null,
         "checkedAt": "2026-08-14T10:30:21.295Z"
-      }
-    },
-    {
-      "fullName": "bruc3van/dsh-desktop",
-      "url": "https://github.com/bruc3van/dsh-desktop",
-      "description": "DeepSeek Harness Desktop 是一款第三方桌面客户端，通过直接加载官方 Web UI，为普通用户提供开箱即用的独立桌面体验：它可以自动复用本机已运行的官方实例，也可以使用安装包内置的 dsh 运行时启动服务，无需用户额外安装 Node.js 或 CLI，并提供智能连接、远程实例连接、托盘常驻、运行时监护和异常恢复等桌面增强。",
-      "stars": 76,
-      "pushedAt": "2026-08-29T03:04:33Z",
-      "license": "MIT",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "dsh-desktop",
-      "category": {
-        "id": "ui-enhancements",
-        "title": "UI 增强 / UI Enhancements"
-      },
-      "addedAt": "2026-08-14",
-      "slug": "bruc3van-dsh-desktop",
-      "name": "bruc3van/dsh-desktop",
-      "summary": "DeepSeek Harness Desktop 是一款第三方桌面客户端，通过直接加载官方 Web UI，为普通用户提供开箱即用的独立桌面体验：它可以自动复用本机已运行的官方实例，也可以使用安装包内置的 dsh 运行时启动服务，无需用户额外安装 Node.js 或 CLI，并提供智能连接、远程实例连接、托盘常驻、运行时监护和异常恢复等桌面增强。",
-      "tags": [
-        "cli",
-        "desktop",
-        "ui"
-      ],
-      "repositoryUrl": "https://github.com/bruc3van/dsh-desktop",
-      "installSpec": "github:bruc3van/dsh-desktop",
-      "author": "bruc3van",
-      "featured": false,
-      "status": "active",
-      "source": {
-        "type": "github-topic",
-        "origins": [
-          "github-topic"
-        ],
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 76,
-        "license": "MIT",
-        "lastPushAt": "2026-08-29T03:04:33Z",
-        "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
-      },
-      "compatibility": {
-        "manifestFound": false,
-        "manifestPath": null,
-        "checkedAt": "2026-08-29T14:32:34.143Z"
       }
     },
     {
@@ -4304,7 +4350,7 @@
       "fullName": "c3ll256/dsh-toy",
       "url": "https://github.com/c3ll256/dsh-toy",
       "description": "Toy Control Protocol for DSH",
-      "stars": 64,
+      "stars": 65,
       "pushedAt": "2026-08-14T11:42:30Z",
       "license": "BSD-3-Clause",
       "archived": false,
@@ -4334,16 +4380,16 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 64,
+        "stars": 65,
         "license": "BSD-3-Clause",
         "lastPushAt": "2026-08-14T11:42:30Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -4437,52 +4483,6 @@
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
         "checkedAt": "2026-09-05T12:46:18.657Z"
-      }
-    },
-    {
-      "fullName": "bugmaker2/dsh-plugin-template",
-      "url": "https://github.com/bugmaker2/dsh-plugin-template",
-      "description": "Template for deepseek-harness plugin development.",
-      "stars": 61,
-      "pushedAt": "2026-08-27T04:58:58Z",
-      "license": "MIT",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "dsh-plugin-template",
-      "category": {
-        "id": "dev-helpers",
-        "title": "开发辅助 / Development Helpers"
-      },
-      "addedAt": "2026-08-13",
-      "slug": "bugmaker2-dsh-plugin-template",
-      "name": "bugmaker2/dsh-plugin-template",
-      "summary": "Template for deepseek-harness plugin development.",
-      "tags": [
-        "dev-helpers"
-      ],
-      "repositoryUrl": "https://github.com/bugmaker2/dsh-plugin-template",
-      "installSpec": "github:bugmaker2/dsh-plugin-template",
-      "author": "bugmaker2",
-      "featured": false,
-      "status": "active",
-      "source": {
-        "type": "github-topic",
-        "origins": [
-          "github-topic"
-        ],
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 61,
-        "license": "MIT",
-        "lastPushAt": "2026-08-27T04:58:58Z",
-        "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
-      },
-      "compatibility": {
-        "manifestFound": true,
-        "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
       }
     },
     {
@@ -4580,6 +4580,54 @@
       }
     },
     {
+      "fullName": "btspoony/mstar-harness",
+      "url": "https://github.com/btspoony/mstar-harness",
+      "description": "A Skill-driven Harness/Loop Engineering Workflow Agent Plugin",
+      "stars": 58,
+      "pushedAt": "2026-09-05T10:34:22Z",
+      "license": "MIT",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "morning-star",
+      "category": {
+        "id": "workflow-automation",
+        "title": "工作流与自动化 / Workflow & Automation"
+      },
+      "addedAt": "2026-08-14",
+      "slug": "btspoony-mstar-harness",
+      "name": "btspoony/mstar-harness",
+      "summary": "A Skill-driven Harness/Loop Engineering Workflow Agent Plugin",
+      "tags": [
+        "agent",
+        "skill",
+        "workflow"
+      ],
+      "repositoryUrl": "https://github.com/btspoony/mstar-harness",
+      "installSpec": "github:btspoony/mstar-harness",
+      "author": "btspoony",
+      "featured": false,
+      "status": "active",
+      "source": {
+        "type": "github-topic",
+        "origins": [
+          "github-topic"
+        ],
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 58,
+        "license": "MIT",
+        "lastPushAt": "2026-09-05T10:34:22Z",
+        "archived": false,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "compatibility": {
+        "manifestFound": false,
+        "manifestPath": null,
+        "checkedAt": "2026-09-05T16:07:09.624Z"
+      }
+    },
+    {
       "fullName": "cofy-x/axern",
       "url": "https://github.com/cofy-x/axern",
       "description": "Open-source sandboxes for AI agents, untrusted code execution, and durable services.",
@@ -4616,54 +4664,6 @@
         "stars": 58,
         "license": "Apache-2.0",
         "lastPushAt": "2026-08-21T01:45:15Z",
-        "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
-      },
-      "compatibility": {
-        "manifestFound": false,
-        "manifestPath": null,
-        "checkedAt": "2026-08-29T14:32:34.143Z"
-      }
-    },
-    {
-      "fullName": "btspoony/mstar-harness",
-      "url": "https://github.com/btspoony/mstar-harness",
-      "description": "A Skill-driven Harness/Loop Engineering Workflow Agent Plugin",
-      "stars": 57,
-      "pushedAt": "2026-08-28T18:35:10Z",
-      "license": "MIT",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "morning-star",
-      "category": {
-        "id": "workflow-automation",
-        "title": "工作流与自动化 / Workflow & Automation"
-      },
-      "addedAt": "2026-08-14",
-      "slug": "btspoony-mstar-harness",
-      "name": "btspoony/mstar-harness",
-      "summary": "A Skill-driven Harness/Loop Engineering Workflow Agent Plugin",
-      "tags": [
-        "agent",
-        "skill",
-        "workflow"
-      ],
-      "repositoryUrl": "https://github.com/btspoony/mstar-harness",
-      "installSpec": "github:btspoony/mstar-harness",
-      "author": "btspoony",
-      "featured": false,
-      "status": "active",
-      "source": {
-        "type": "github-topic",
-        "origins": [
-          "github-topic"
-        ],
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 57,
-        "license": "MIT",
-        "lastPushAt": "2026-08-28T18:35:10Z",
         "archived": false,
         "capturedAt": "2026-08-29T14:32:34.143Z"
       },
@@ -6226,6 +6226,54 @@
       }
     },
     {
+      "fullName": "biociao/dsh-science",
+      "url": "https://github.com/biociao/dsh-science",
+      "description": "Claude Science-style research workbench for DeepSeek Harness: ReAct research-loop engine (research_* tools), versioned artifacts with provenance (artifact_* tools), and 10 science skills for genomics / pathogens / bioinformatics.",
+      "stars": 33,
+      "pushedAt": "2026-08-18T09:50:28Z",
+      "license": "MIT",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "dsh-science",
+      "category": {
+        "id": "learning",
+        "title": "学习与教育 / Learning & Education"
+      },
+      "addedAt": "2026-08-14",
+      "slug": "biociao-dsh-science",
+      "name": "biociao/dsh-science",
+      "summary": "Claude Science-style research workbench for DeepSeek Harness: ReAct research-loop engine (research_* tools), versioned artifacts with provenance (artifact_* tools), and 10 science skills for genomics / pathogens / bioinformatics.",
+      "tags": [
+        "research",
+        "search",
+        "tool"
+      ],
+      "repositoryUrl": "https://github.com/biociao/dsh-science",
+      "installSpec": "github:biociao/dsh-science",
+      "author": "biociao",
+      "featured": false,
+      "status": "active",
+      "source": {
+        "type": "github-topic",
+        "origins": [
+          "github-topic"
+        ],
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 33,
+        "license": "MIT",
+        "lastPushAt": "2026-08-18T09:50:28Z",
+        "archived": false,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "compatibility": {
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "checkedAt": "2026-09-05T16:07:09.624Z"
+      }
+    },
+    {
       "fullName": "william-jin-cmu/dsh-vision",
       "url": "https://github.com/william-jin-cmu/dsh-vision",
       "description": "dsh 插件：给纯文本 DeepSeek 加视觉——view_image 工具桥接任意 OpenAI 兼容 VLM（默认智谱免费档，实测 4 厂商 10 模型）",
@@ -6600,31 +6648,29 @@
       }
     },
     {
-      "fullName": "biociao/dsh-science",
-      "url": "https://github.com/biociao/dsh-science",
-      "description": "Claude Science-style research workbench for DeepSeek Harness: ReAct research-loop engine (research_* tools), versioned artifacts with provenance (artifact_* tools), and 10 science skills for genomics / pathogens / bioinformatics.",
+      "fullName": "Axiaohungry/dsh-llm-codebuddy",
+      "url": "https://github.com/Axiaohungry/dsh-llm-codebuddy",
+      "description": "在deepseek harness中使用workbuddy api，因为公司只提供workbuddy积分",
       "stars": 29,
-      "pushedAt": "2026-08-18T09:50:28Z",
+      "pushedAt": "2026-09-03T09:06:20Z",
       "license": "MIT",
       "archived": false,
       "isPlugin": true,
-      "npmName": "dsh-science",
+      "npmName": "@axiaohungry/dsh-llm-workbuddy",
       "category": {
-        "id": "learning",
-        "title": "学习与教育 / Learning & Education"
+        "id": "tools",
+        "title": "工具集 / Tools"
       },
       "addedAt": "2026-08-14",
-      "slug": "biociao-dsh-science",
-      "name": "biociao/dsh-science",
-      "summary": "Claude Science-style research workbench for DeepSeek Harness: ReAct research-loop engine (research_* tools), versioned artifacts with provenance (artifact_* tools), and 10 science skills for genomics / pathogens / bioinformatics.",
+      "slug": "axiaohungry-dsh-llm-codebuddy",
+      "name": "Axiaohungry/dsh-llm-codebuddy",
+      "summary": "在deepseek harness中使用workbuddy api，因为公司只提供workbuddy积分",
       "tags": [
-        "research",
-        "search",
-        "tool"
+        "api"
       ],
-      "repositoryUrl": "https://github.com/biociao/dsh-science",
-      "installSpec": "github:biociao/dsh-science",
-      "author": "biociao",
+      "repositoryUrl": "https://github.com/Axiaohungry/dsh-llm-codebuddy",
+      "installSpec": "github:Axiaohungry/dsh-llm-codebuddy",
+      "author": "Axiaohungry",
       "featured": false,
       "status": "active",
       "source": {
@@ -6637,14 +6683,14 @@
       "github": {
         "stars": 29,
         "license": "MIT",
-        "lastPushAt": "2026-08-18T09:50:28Z",
+        "lastPushAt": "2026-09-03T09:06:20Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -7023,29 +7069,31 @@
       }
     },
     {
-      "fullName": "Axiaohungry/dsh-llm-codebuddy",
-      "url": "https://github.com/Axiaohungry/dsh-llm-codebuddy",
-      "description": "在deepseek harness中使用workbuddy api，因为公司只提供workbuddy积分",
+      "fullName": "bill9109/dsh-web-ui-notify",
+      "url": "https://github.com/bill9109/dsh-web-ui-notify",
+      "description": "为 DSH 增加桌面通知提醒",
       "stars": 25,
-      "pushedAt": "2026-08-20T07:11:11Z",
-      "license": "MIT",
+      "pushedAt": "2026-09-01T07:45:44Z",
+      "license": "BSD-3-Clause",
       "archived": false,
       "isPlugin": true,
-      "npmName": "dsh-llm-codebuddy",
+      "npmName": "dsh-web-ui-notify",
       "category": {
-        "id": "tools",
-        "title": "工具集 / Tools"
+        "id": "ui-enhancements",
+        "title": "UI 增强 / UI Enhancements"
       },
-      "addedAt": "2026-08-14",
-      "slug": "axiaohungry-dsh-llm-codebuddy",
-      "name": "Axiaohungry/dsh-llm-codebuddy",
-      "summary": "在deepseek harness中使用workbuddy api，因为公司只提供workbuddy积分",
+      "addedAt": "2026-08-13",
+      "slug": "bill9109-dsh-web-ui-notify",
+      "name": "bill9109/dsh-web-ui-notify",
+      "summary": "为 DSH 增加桌面通知提醒",
       "tags": [
-        "api"
+        "desktop",
+        "notification",
+        "ui"
       ],
-      "repositoryUrl": "https://github.com/Axiaohungry/dsh-llm-codebuddy",
-      "installSpec": "github:Axiaohungry/dsh-llm-codebuddy",
-      "author": "Axiaohungry",
+      "repositoryUrl": "https://github.com/bill9109/dsh-web-ui-notify",
+      "installSpec": "github:bill9109/dsh-web-ui-notify",
+      "author": "bill9109",
       "featured": false,
       "status": "active",
       "source": {
@@ -7057,15 +7105,15 @@
       },
       "github": {
         "stars": 25,
-        "license": "MIT",
-        "lastPushAt": "2026-08-20T07:11:11Z",
+        "license": "BSD-3-Clause",
+        "lastPushAt": "2026-09-01T07:45:44Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -7399,54 +7447,6 @@
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
         "checkedAt": "2026-08-14T10:30:21.295Z"
-      }
-    },
-    {
-      "fullName": "bill9109/dsh-web-ui-notify",
-      "url": "https://github.com/bill9109/dsh-web-ui-notify",
-      "description": "为 DSH 增加桌面通知提醒",
-      "stars": 23,
-      "pushedAt": "2026-08-26T09:59:00Z",
-      "license": "BSD-3-Clause",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "dsh-web-ui-notify",
-      "category": {
-        "id": "ui-enhancements",
-        "title": "UI 增强 / UI Enhancements"
-      },
-      "addedAt": "2026-08-13",
-      "slug": "bill9109-dsh-web-ui-notify",
-      "name": "bill9109/dsh-web-ui-notify",
-      "summary": "为 DSH 增加桌面通知提醒",
-      "tags": [
-        "desktop",
-        "notification",
-        "ui"
-      ],
-      "repositoryUrl": "https://github.com/bill9109/dsh-web-ui-notify",
-      "installSpec": "github:bill9109/dsh-web-ui-notify",
-      "author": "bill9109",
-      "featured": false,
-      "status": "active",
-      "source": {
-        "type": "github-topic",
-        "origins": [
-          "github-topic"
-        ],
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 23,
-        "license": "BSD-3-Clause",
-        "lastPushAt": "2026-08-26T09:59:00Z",
-        "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
-      },
-      "compatibility": {
-        "manifestFound": true,
-        "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
       }
     },
     {
@@ -7823,6 +7823,54 @@
       }
     },
     {
+      "fullName": "BlockRunAI/dsh-clawrouter",
+      "url": "https://github.com/BlockRunAI/dsh-clawrouter",
+      "description": "A second brain for your DeepSeek Harness agent — strong-model review before risky tool calls, plus 70 models from one wallet.",
+      "stars": 21,
+      "pushedAt": "2026-08-31T14:21:53Z",
+      "license": "MIT",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "dsh-clawrouter",
+      "category": {
+        "id": "workflow-automation",
+        "title": "工作流与自动化 / Workflow & Automation"
+      },
+      "addedAt": "2026-08-14",
+      "slug": "blockrunai-dsh-clawrouter",
+      "name": "BlockRunAI/dsh-clawrouter",
+      "summary": "A second brain for your DeepSeek Harness agent — strong-model review before risky tool calls, plus 70 models from one wallet.",
+      "tags": [
+        "agent",
+        "project-analysis",
+        "tool"
+      ],
+      "repositoryUrl": "https://github.com/BlockRunAI/dsh-clawrouter",
+      "installSpec": "github:BlockRunAI/dsh-clawrouter",
+      "author": "BlockRunAI",
+      "featured": false,
+      "status": "active",
+      "source": {
+        "type": "github-topic",
+        "origins": [
+          "github-topic"
+        ],
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 21,
+        "license": "MIT",
+        "lastPushAt": "2026-08-31T14:21:53Z",
+        "archived": false,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "compatibility": {
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "checkedAt": "2026-09-05T16:07:09.624Z"
+      }
+    },
+    {
       "fullName": "JustGenius-s/DSH-Desktop",
       "url": "https://github.com/JustGenius-s/DSH-Desktop",
       "description": "DSH-Desktop",
@@ -8154,54 +8202,6 @@
       }
     },
     {
-      "fullName": "BlockRunAI/dsh-clawrouter",
-      "url": "https://github.com/BlockRunAI/dsh-clawrouter",
-      "description": "A second brain for your DeepSeek Harness agent — strong-model review before risky tool calls, plus 70 models from one wallet.",
-      "stars": 20,
-      "pushedAt": "2026-08-16T22:32:05Z",
-      "license": "MIT",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "dsh-clawrouter",
-      "category": {
-        "id": "workflow-automation",
-        "title": "工作流与自动化 / Workflow & Automation"
-      },
-      "addedAt": "2026-08-14",
-      "slug": "blockrunai-dsh-clawrouter",
-      "name": "BlockRunAI/dsh-clawrouter",
-      "summary": "A second brain for your DeepSeek Harness agent — strong-model review before risky tool calls, plus 70 models from one wallet.",
-      "tags": [
-        "agent",
-        "project-analysis",
-        "tool"
-      ],
-      "repositoryUrl": "https://github.com/BlockRunAI/dsh-clawrouter",
-      "installSpec": "github:BlockRunAI/dsh-clawrouter",
-      "author": "BlockRunAI",
-      "featured": false,
-      "status": "active",
-      "source": {
-        "type": "github-topic",
-        "origins": [
-          "github-topic"
-        ],
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 20,
-        "license": "MIT",
-        "lastPushAt": "2026-08-16T22:32:05Z",
-        "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
-      },
-      "compatibility": {
-        "manifestFound": true,
-        "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
-      }
-    },
-    {
       "fullName": "kejixiaoliang/awesome-dsh-plugins",
       "url": "https://github.com/kejixiaoliang/awesome-dsh-plugins",
       "description": "DeepSeek Harness (DSH) 插件精选目录 — 14 类 280+ 个社区插件，覆盖 MCP / Skill / TUI / 多 Agent / 上下文记忆 / UI 皮肤，点链接直达仓库。Curated directory of dsh plugins for DeepSeek Harness.",
@@ -8252,6 +8252,54 @@
         "manifestFound": false,
         "manifestPath": null,
         "checkedAt": "2026-08-14T10:30:21.295Z"
+      }
+    },
+    {
+      "fullName": "omdsh-dev/dsh-gomoku",
+      "url": "https://github.com/omdsh-dev/dsh-gomoku",
+      "description": "在DSH中与AI下五子棋，也可以让AI对局，看哪个AI棋力更强",
+      "stars": 20,
+      "pushedAt": "2026-08-15T05:42:26Z",
+      "license": "MIT",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "@yejiming/dsh-gomoku",
+      "category": {
+        "id": "editor-picks",
+        "title": "编辑精选 / Editor Picks"
+      },
+      "addedAt": "2026-08-13",
+      "slug": "omdsh-dev-dsh-gomoku",
+      "name": "omdsh-dev/dsh-gomoku",
+      "summary": "在DSH中与AI下五子棋，也可以让AI对局，看哪个AI棋力更强",
+      "tags": [
+        "editor-picks"
+      ],
+      "repositoryUrl": "https://github.com/omdsh-dev/dsh-gomoku",
+      "installSpec": "github:omdsh-dev/dsh-gomoku",
+      "author": "omdsh-dev",
+      "featured": true,
+      "status": "active",
+      "source": {
+        "type": "editor-pick",
+        "origins": [
+          "editor-pick",
+          "github-topic"
+        ],
+        "file": "data/editor-picks.json",
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 20,
+        "license": "MIT",
+        "lastPushAt": "2026-08-15T05:42:26Z",
+        "archived": false,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "compatibility": {
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -8721,54 +8769,6 @@
       }
     },
     {
-      "fullName": "omdsh-dev/dsh-gomoku",
-      "url": "https://github.com/omdsh-dev/dsh-gomoku",
-      "description": "在DSH中与AI下五子棋，也可以让AI对局，看哪个AI棋力更强",
-      "stars": 19,
-      "pushedAt": "2026-08-15T05:42:26Z",
-      "license": "MIT",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "@yejiming/dsh-gomoku",
-      "category": {
-        "id": "editor-picks",
-        "title": "编辑精选 / Editor Picks"
-      },
-      "addedAt": "2026-08-13",
-      "slug": "omdsh-dev-dsh-gomoku",
-      "name": "omdsh-dev/dsh-gomoku",
-      "summary": "在DSH中与AI下五子棋，也可以让AI对局，看哪个AI棋力更强",
-      "tags": [
-        "editor-picks"
-      ],
-      "repositoryUrl": "https://github.com/omdsh-dev/dsh-gomoku",
-      "installSpec": "github:omdsh-dev/dsh-gomoku",
-      "author": "omdsh-dev",
-      "featured": true,
-      "status": "active",
-      "source": {
-        "type": "editor-pick",
-        "origins": [
-          "editor-pick",
-          "github-topic"
-        ],
-        "file": "data/editor-picks.json",
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 19,
-        "license": "MIT",
-        "lastPushAt": "2026-08-15T05:42:26Z",
-        "archived": false,
-        "capturedAt": "2026-09-05T12:46:18.657Z"
-      },
-      "compatibility": {
-        "manifestFound": true,
-        "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-09-05T12:46:18.657Z"
-      }
-    },
-    {
       "fullName": "PerryLink/dsh-auto-review",
       "url": "https://github.com/PerryLink/dsh-auto-review",
       "description": "Second-model AI auto-review for DeepSeek Harness approval requests: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default, fully auditable from the session log (approval/asked -> autoReview/verdict -> approval/decided).",
@@ -8915,7 +8915,7 @@
       "url": "https://github.com/CanglongCl/dsh-web-review",
       "description": "DeepSeek Harness Web GUI 的网页预览与元素批注插件，让 AI 根据可视化反馈直接修改前端源码。",
       "stars": 18,
-      "pushedAt": "2026-08-25T16:11:41Z",
+      "pushedAt": "2026-09-05T04:06:06Z",
       "license": null,
       "archived": false,
       "isPlugin": true,
@@ -8948,14 +8948,14 @@
       "github": {
         "stars": 18,
         "license": null,
-        "lastPushAt": "2026-08-25T16:11:41Z",
+        "lastPushAt": "2026-09-05T04:06:06Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -9994,6 +9994,53 @@
       }
     },
     {
+      "fullName": "ayuanwong/deepseek-harness-ux",
+      "url": "https://github.com/ayuanwong/deepseek-harness-ux",
+      "description": "长任务，不刷屏：关键进度清晰可见，完成后自动折叠，详情随时展开。 Long agent tasks, without transcript clutter: focused progress, auto-folded history, details on demand.",
+      "stars": 15,
+      "pushedAt": "2026-08-16T21:05:22Z",
+      "license": "BSD-3-Clause",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "@deepseek-ai/dsh-root",
+      "category": {
+        "id": "workflow-automation",
+        "title": "工作流与自动化 / Workflow & Automation"
+      },
+      "addedAt": "2026-08-14",
+      "slug": "ayuanwong-deepseek-harness-ux",
+      "name": "ayuanwong/deepseek-harness-ux",
+      "summary": "长任务，不刷屏：关键进度清晰可见，完成后自动折叠，详情随时展开。 Long agent tasks, without transcript clutter: focused progress, auto-folded history, details on demand.",
+      "tags": [
+        "agent",
+        "planning"
+      ],
+      "repositoryUrl": "https://github.com/ayuanwong/deepseek-harness-ux",
+      "installSpec": "github:ayuanwong/deepseek-harness-ux",
+      "author": "ayuanwong",
+      "featured": false,
+      "status": "active",
+      "source": {
+        "type": "github-topic",
+        "origins": [
+          "github-topic"
+        ],
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 15,
+        "license": "BSD-3-Clause",
+        "lastPushAt": "2026-08-16T21:05:22Z",
+        "archived": false,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "compatibility": {
+        "manifestFound": false,
+        "manifestPath": null,
+        "checkedAt": "2026-09-05T16:07:09.624Z"
+      }
+    },
+    {
       "fullName": "ccq1/dsh-side-panel",
       "url": "https://github.com/ccq1/dsh-side-panel",
       "description": "DSH 侧边栏，集成文件浏览器、终端和 Git 审查，方便预览文件。",
@@ -10036,12 +10083,12 @@
         "license": "BSD-3-Clause",
         "lastPushAt": "2026-08-14T17:45:41Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -10139,30 +10186,31 @@
       }
     },
     {
-      "fullName": "ayuanwong/deepseek-harness-ux",
-      "url": "https://github.com/ayuanwong/deepseek-harness-ux",
-      "description": "长任务，不刷屏：关键进度清晰可见，完成后自动折叠，详情随时展开。 Long agent tasks, without transcript clutter: focused progress, auto-folded history, details on demand.",
+      "fullName": "BiBoyang/dsh-eval-harness",
+      "url": "https://github.com/BiBoyang/dsh-eval-harness",
+      "description": "DSH 插件评测工具：YAML 用例驱动真实 agent 回归评测 + baseline 对比 PASS/WARN/FAIL 门禁｜Regression eval harness for DeepSeek Harness plugins",
       "stars": 14,
-      "pushedAt": "2026-08-16T21:05:22Z",
-      "license": "BSD-3-Clause",
+      "pushedAt": "2026-09-03T23:15:15Z",
+      "license": null,
       "archived": false,
       "isPlugin": true,
-      "npmName": "@deepseek-ai/dsh-root",
+      "npmName": "dsh-eval-harness",
       "category": {
-        "id": "workflow-automation",
-        "title": "工作流与自动化 / Workflow & Automation"
+        "id": "tools",
+        "title": "工具集 / Tools"
       },
-      "addedAt": "2026-08-14",
-      "slug": "ayuanwong-deepseek-harness-ux",
-      "name": "ayuanwong/deepseek-harness-ux",
-      "summary": "长任务，不刷屏：关键进度清晰可见，完成后自动折叠，详情随时展开。 Long agent tasks, without transcript clutter: focused progress, auto-folded history, details on demand.",
+      "addedAt": "2026-08-13",
+      "slug": "biboyang-dsh-eval-harness",
+      "name": "BiBoyang/dsh-eval-harness",
+      "summary": "DSH 插件评测工具：YAML 用例驱动真实 agent 回归评测 + baseline 对比 PASS/WARN/FAIL 门禁｜Regression eval harness for DeepSeek Harness plugins",
       "tags": [
         "agent",
-        "planning"
+        "testing",
+        "tool"
       ],
-      "repositoryUrl": "https://github.com/ayuanwong/deepseek-harness-ux",
-      "installSpec": "github:ayuanwong/deepseek-harness-ux",
-      "author": "ayuanwong",
+      "repositoryUrl": "https://github.com/BiBoyang/dsh-eval-harness",
+      "installSpec": "github:BiBoyang/dsh-eval-harness",
+      "author": "BiBoyang",
       "featured": false,
       "status": "active",
       "source": {
@@ -10174,15 +10222,15 @@
       },
       "github": {
         "stars": 14,
-        "license": "BSD-3-Clause",
-        "lastPushAt": "2026-08-16T21:05:22Z",
+        "license": null,
+        "lastPushAt": "2026-09-03T23:15:15Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
-        "manifestFound": false,
-        "manifestPath": null,
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -10556,12 +10604,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-22T10:09:58Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -10941,59 +10989,11 @@
       }
     },
     {
-      "fullName": "BiBoyang/dsh-eval-harness",
-      "url": "https://github.com/BiBoyang/dsh-eval-harness",
-      "description": "DSH 插件评测工具：YAML 用例驱动真实 agent 回归评测 + baseline 对比 PASS/WARN/FAIL 门禁｜Regression eval harness for DeepSeek Harness plugins",
-      "stars": 12,
-      "pushedAt": "2026-08-26T08:11:25Z",
-      "license": null,
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "dsh-eval-harness",
-      "category": {
-        "id": "tools",
-        "title": "工具集 / Tools"
-      },
-      "addedAt": "2026-08-13",
-      "slug": "biboyang-dsh-eval-harness",
-      "name": "BiBoyang/dsh-eval-harness",
-      "summary": "DSH 插件评测工具：YAML 用例驱动真实 agent 回归评测 + baseline 对比 PASS/WARN/FAIL 门禁｜Regression eval harness for DeepSeek Harness plugins",
-      "tags": [
-        "agent",
-        "testing",
-        "tool"
-      ],
-      "repositoryUrl": "https://github.com/BiBoyang/dsh-eval-harness",
-      "installSpec": "github:BiBoyang/dsh-eval-harness",
-      "author": "BiBoyang",
-      "featured": false,
-      "status": "active",
-      "source": {
-        "type": "github-topic",
-        "origins": [
-          "github-topic"
-        ],
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 12,
-        "license": null,
-        "lastPushAt": "2026-08-26T08:11:25Z",
-        "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
-      },
-      "compatibility": {
-        "manifestFound": true,
-        "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
-      }
-    },
-    {
       "fullName": "billLiao/awesome-dsh-plugin",
       "url": "https://github.com/billLiao/awesome-dsh-plugin",
       "description": "A curated list of plugins for DeepSeek Harness (dsh) — 精选 DeepSeek Harness 插件列表",
       "stars": 12,
-      "pushedAt": "2026-08-29T08:01:24Z",
+      "pushedAt": "2026-09-05T16:01:07Z",
       "license": "CC0-1.0",
       "archived": false,
       "isPlugin": true,
@@ -11024,14 +11024,14 @@
       "github": {
         "stars": 12,
         "license": "CC0-1.0",
-        "lastPushAt": "2026-08-29T08:01:24Z",
+        "lastPushAt": "2026-09-05T16:01:07Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -11641,12 +11641,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T06:55:28Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -11687,12 +11687,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-15T03:00:46Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -12917,12 +12917,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-13T13:38:31Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -12963,12 +12963,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-16T14:59:05Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -13571,12 +13571,60 @@
         "license": null,
         "lastPushAt": "2026-08-13T23:43:03Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
+      }
+    },
+    {
+      "fullName": "CAOGGL/dsh-ding",
+      "url": "https://github.com/CAOGGL/dsh-ding",
+      "description": "DSH 宿主插件：对话完成（Agent 回到 idle）时播放提示音并弹出 Windows 通知",
+      "stars": 9,
+      "pushedAt": "2026-08-21T15:35:48Z",
+      "license": "MIT",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "dsh-ding",
+      "category": {
+        "id": "notifications",
+        "title": "通知与监控 / Notifications & Monitoring"
+      },
+      "addedAt": "2026-08-14",
+      "slug": "caoggl-dsh-ding",
+      "name": "CAOGGL/dsh-ding",
+      "summary": "DSH 宿主插件：对话完成（Agent 回到 idle）时播放提示音并弹出 Windows 通知",
+      "tags": [
+        "agent",
+        "chat",
+        "notification"
+      ],
+      "repositoryUrl": "https://github.com/CAOGGL/dsh-ding",
+      "installSpec": "github:CAOGGL/dsh-ding",
+      "author": "CAOGGL",
+      "featured": false,
+      "status": "active",
+      "source": {
+        "type": "github-topic",
+        "origins": [
+          "github-topic"
+        ],
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 9,
+        "license": "MIT",
+        "lastPushAt": "2026-08-21T15:35:48Z",
+        "archived": false,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "compatibility": {
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -14693,12 +14741,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-16T06:24:40Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -14739,12 +14787,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-17T07:40:52Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -16010,12 +16058,104 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T09:39:57Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
+      }
+    },
+    {
+      "fullName": "cccakeee/awesome-dsh-plugins",
+      "url": "https://github.com/cccakeee/awesome-dsh-plugins",
+      "description": "A curated, evidence-led directory of DeepSeek Harness (DSH) plugins: verified loadable extensions, skills, and permission-aware installation guidance.",
+      "stars": 7,
+      "pushedAt": "2026-09-04T18:35:25Z",
+      "license": "MIT",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": null,
+      "category": {
+        "id": "tools",
+        "title": "工具集 / Tools"
+      },
+      "addedAt": "2026-08-14",
+      "slug": "cccakeee-awesome-dsh-plugins",
+      "name": "cccakeee/awesome-dsh-plugins",
+      "summary": "A curated, evidence-led directory of DeepSeek Harness (DSH) plugins: verified loadable extensions, skills, and permission-aware installation guidance.",
+      "tags": [
+        "file"
+      ],
+      "repositoryUrl": "https://github.com/cccakeee/awesome-dsh-plugins",
+      "installSpec": "github:cccakeee/awesome-dsh-plugins",
+      "author": "cccakeee",
+      "featured": false,
+      "status": "active",
+      "source": {
+        "type": "github-topic",
+        "origins": [
+          "github-topic"
+        ],
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 7,
+        "license": "MIT",
+        "lastPushAt": "2026-09-04T18:35:25Z",
+        "archived": false,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "compatibility": {
+        "manifestFound": false,
+        "manifestPath": null,
+        "checkedAt": "2026-09-05T16:07:09.624Z"
+      }
+    },
+    {
+      "fullName": "cendaifeng/dsh-learn-everything",
+      "url": "https://github.com/cendaifeng/dsh-learn-everything",
+      "description": "Feynman learning-mode plugin for DeepSeek Harness: /learn on|off, structured lesson cards, rich HTML teaching.",
+      "stars": 7,
+      "pushedAt": "2026-08-13T15:47:07Z",
+      "license": null,
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "dsh-learn-everything",
+      "category": {
+        "id": "learning",
+        "title": "学习与教育 / Learning & Education"
+      },
+      "addedAt": "2026-08-13",
+      "slug": "cendaifeng-dsh-learn-everything",
+      "name": "cendaifeng/dsh-learn-everything",
+      "summary": "Feynman learning-mode plugin for DeepSeek Harness: /learn on|off, structured lesson cards, rich HTML teaching.",
+      "tags": [
+        "education"
+      ],
+      "repositoryUrl": "https://github.com/cendaifeng/dsh-learn-everything",
+      "installSpec": "github:cendaifeng/dsh-learn-everything",
+      "author": "cendaifeng",
+      "featured": false,
+      "status": "active",
+      "source": {
+        "type": "github-topic",
+        "origins": [
+          "github-topic"
+        ],
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 7,
+        "license": null,
+        "lastPushAt": "2026-08-13T15:47:07Z",
+        "archived": false,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "compatibility": {
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -16056,12 +16196,12 @@
         "license": "BSD-3-Clause",
         "lastPushAt": "2026-08-13T11:43:24Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -17927,12 +18067,12 @@
         "license": null,
         "lastPushAt": "2026-08-14T08:12:10Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -17973,38 +18113,39 @@
         "license": "BSD-3-Clause",
         "lastPushAt": "2026-08-14T11:55:08Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
-      "fullName": "cendaifeng/dsh-learn-everything",
-      "url": "https://github.com/cendaifeng/dsh-learn-everything",
-      "description": "Feynman learning-mode plugin for DeepSeek Harness: /learn on|off, structured lesson cards, rich HTML teaching.",
+      "fullName": "c-ling/dsh-plugin-notify",
+      "url": "https://github.com/c-ling/dsh-plugin-notify",
+      "description": "DeepSeek Harness 消息提醒插件：回合结束或等待确认时向浏览器、系统、飞书/钉钉/企业微信/通用 Webhook 发送通知",
       "stars": 6,
-      "pushedAt": "2026-08-13T15:47:07Z",
-      "license": null,
+      "pushedAt": "2026-08-21T18:17:38Z",
+      "license": "MIT",
       "archived": false,
       "isPlugin": true,
-      "npmName": "dsh-learn-everything",
+      "npmName": "dsh-plugin-notify",
       "category": {
-        "id": "learning",
-        "title": "学习与教育 / Learning & Education"
+        "id": "tools",
+        "title": "工具集 / Tools"
       },
-      "addedAt": "2026-08-13",
-      "slug": "cendaifeng-dsh-learn-everything",
-      "name": "cendaifeng/dsh-learn-everything",
-      "summary": "Feynman learning-mode plugin for DeepSeek Harness: /learn on|off, structured lesson cards, rich HTML teaching.",
+      "addedAt": "2026-08-14",
+      "slug": "c-ling-dsh-plugin-notify",
+      "name": "c-ling/dsh-plugin-notify",
+      "summary": "DeepSeek Harness 消息提醒插件：回合结束或等待确认时向浏览器、系统、飞书/钉钉/企业微信/通用 Webhook 发送通知",
       "tags": [
-        "education"
+        "browser",
+        "notification"
       ],
-      "repositoryUrl": "https://github.com/cendaifeng/dsh-learn-everything",
-      "installSpec": "github:cendaifeng/dsh-learn-everything",
-      "author": "cendaifeng",
+      "repositoryUrl": "https://github.com/c-ling/dsh-plugin-notify",
+      "installSpec": "github:c-ling/dsh-plugin-notify",
+      "author": "c-ling",
       "featured": false,
       "status": "active",
       "source": {
@@ -18016,15 +18157,61 @@
       },
       "github": {
         "stars": 6,
-        "license": null,
-        "lastPushAt": "2026-08-13T15:47:07Z",
+        "license": "MIT",
+        "lastPushAt": "2026-08-21T18:17:38Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "compatibility": {
+        "manifestFound": false,
+        "manifestPath": null,
+        "checkedAt": "2026-09-05T16:07:09.624Z"
+      }
+    },
+    {
+      "fullName": "cakeni/harness-pet",
+      "url": "https://github.com/cakeni/harness-pet",
+      "description": "Harness Pet — an unofficial community pet for DeepSeek Harness. Not affiliated with, endorsed by, or maintained by DeepSeek.",
+      "stars": 6,
+      "pushedAt": "2026-08-14T05:22:38Z",
+      "license": "MIT",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "harness-pet",
+      "category": {
+        "id": "misc",
+        "title": "其他 / Miscellaneous"
+      },
+      "addedAt": "2026-08-14",
+      "slug": "cakeni-harness-pet",
+      "name": "cakeni/harness-pet",
+      "summary": "Harness Pet — an unofficial community pet for DeepSeek Harness. Not affiliated with, endorsed by, or maintained by DeepSeek.",
+      "tags": [
+        "misc"
+      ],
+      "repositoryUrl": "https://github.com/cakeni/harness-pet",
+      "installSpec": "github:cakeni/harness-pet",
+      "author": "cakeni",
+      "featured": false,
+      "status": "active",
+      "source": {
+        "type": "github-topic",
+        "origins": [
+          "github-topic"
+        ],
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 6,
+        "license": "MIT",
+        "lastPushAt": "2026-08-14T05:22:38Z",
+        "archived": false,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -18068,12 +18255,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-19T05:22:43Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -20464,6 +20651,54 @@
       }
     },
     {
+      "fullName": "beijingwahw/dsh-conv-export",
+      "url": "https://github.com/beijingwahw/dsh-conv-export",
+      "description": "dsh-conv-export（对话导出）— export the current DeepSeek Harness conversation as Markdown, PDF, or a long PNG image",
+      "stars": 5,
+      "pushedAt": "2026-08-31T16:38:57Z",
+      "license": "MIT",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "@dsh-external/dsh-conv-export",
+      "category": {
+        "id": "tools",
+        "title": "工具集 / Tools"
+      },
+      "addedAt": "2026-08-14",
+      "slug": "beijingwahw-dsh-conv-export",
+      "name": "beijingwahw/dsh-conv-export",
+      "summary": "dsh-conv-export（对话导出）— export the current DeepSeek Harness conversation as Markdown, PDF, or a long PNG image",
+      "tags": [
+        "chat",
+        "document",
+        "image"
+      ],
+      "repositoryUrl": "https://github.com/beijingwahw/dsh-conv-export",
+      "installSpec": "github:beijingwahw/dsh-conv-export",
+      "author": "beijingwahw",
+      "featured": false,
+      "status": "active",
+      "source": {
+        "type": "github-topic",
+        "origins": [
+          "github-topic"
+        ],
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 5,
+        "license": "MIT",
+        "lastPushAt": "2026-08-31T16:38:57Z",
+        "archived": false,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "compatibility": {
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "checkedAt": "2026-09-05T16:07:09.624Z"
+      }
+    },
+    {
       "fullName": "ben7am1n/dsh-browser",
       "url": "https://github.com/ben7am1n/dsh-browser",
       "description": "Playwright-powered browser automation for DeepSeek Harness",
@@ -20502,12 +20737,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-13T16:28:43Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -20548,59 +20783,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-24T02:49:19Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
-      }
-    },
-    {
-      "fullName": "c-ling/dsh-plugin-notify",
-      "url": "https://github.com/c-ling/dsh-plugin-notify",
-      "description": "DeepSeek Harness 消息提醒插件：回合结束或等待确认时向浏览器、系统、飞书/钉钉/企业微信/通用 Webhook 发送通知",
-      "stars": 5,
-      "pushedAt": "2026-08-21T18:17:38Z",
-      "license": "MIT",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "dsh-plugin-notify",
-      "category": {
-        "id": "tools",
-        "title": "工具集 / Tools"
-      },
-      "addedAt": "2026-08-14",
-      "slug": "c-ling-dsh-plugin-notify",
-      "name": "c-ling/dsh-plugin-notify",
-      "summary": "DeepSeek Harness 消息提醒插件：回合结束或等待确认时向浏览器、系统、飞书/钉钉/企业微信/通用 Webhook 发送通知",
-      "tags": [
-        "browser",
-        "notification"
-      ],
-      "repositoryUrl": "https://github.com/c-ling/dsh-plugin-notify",
-      "installSpec": "github:c-ling/dsh-plugin-notify",
-      "author": "c-ling",
-      "featured": false,
-      "status": "active",
-      "source": {
-        "type": "github-topic",
-        "origins": [
-          "github-topic"
-        ],
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 5,
-        "license": "MIT",
-        "lastPushAt": "2026-08-21T18:17:38Z",
-        "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
-      },
-      "compatibility": {
-        "manifestFound": false,
-        "manifestPath": null,
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -20642,58 +20830,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-22T17:32:58Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T14:32:34.143Z"
-      }
-    },
-    {
-      "fullName": "cakeni/harness-pet",
-      "url": "https://github.com/cakeni/harness-pet",
-      "description": "Harness Pet — an unofficial community pet for DeepSeek Harness. Not affiliated with, endorsed by, or maintained by DeepSeek.",
-      "stars": 5,
-      "pushedAt": "2026-08-14T05:22:38Z",
-      "license": "MIT",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "harness-pet",
-      "category": {
-        "id": "misc",
-        "title": "其他 / Miscellaneous"
-      },
-      "addedAt": "2026-08-14",
-      "slug": "cakeni-harness-pet",
-      "name": "cakeni/harness-pet",
-      "summary": "Harness Pet — an unofficial community pet for DeepSeek Harness. Not affiliated with, endorsed by, or maintained by DeepSeek.",
-      "tags": [
-        "misc"
-      ],
-      "repositoryUrl": "https://github.com/cakeni/harness-pet",
-      "installSpec": "github:cakeni/harness-pet",
-      "author": "cakeni",
-      "featured": false,
-      "status": "active",
-      "source": {
-        "type": "github-topic",
-        "origins": [
-          "github-topic"
-        ],
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 5,
-        "license": "MIT",
-        "lastPushAt": "2026-08-14T05:22:38Z",
-        "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
-      },
-      "compatibility": {
-        "manifestFound": true,
-        "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -20735,106 +20877,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T08:31:48Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T14:32:34.143Z"
-      }
-    },
-    {
-      "fullName": "CAOGGL/dsh-ding",
-      "url": "https://github.com/CAOGGL/dsh-ding",
-      "description": "DSH 宿主插件：对话完成（Agent 回到 idle）时播放提示音并弹出 Windows 通知",
-      "stars": 5,
-      "pushedAt": "2026-08-21T15:35:48Z",
-      "license": "MIT",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "dsh-ding",
-      "category": {
-        "id": "notifications",
-        "title": "通知与监控 / Notifications & Monitoring"
-      },
-      "addedAt": "2026-08-14",
-      "slug": "caoggl-dsh-ding",
-      "name": "CAOGGL/dsh-ding",
-      "summary": "DSH 宿主插件：对话完成（Agent 回到 idle）时播放提示音并弹出 Windows 通知",
-      "tags": [
-        "agent",
-        "chat",
-        "notification"
-      ],
-      "repositoryUrl": "https://github.com/CAOGGL/dsh-ding",
-      "installSpec": "github:CAOGGL/dsh-ding",
-      "author": "CAOGGL",
-      "featured": false,
-      "status": "active",
-      "source": {
-        "type": "github-topic",
-        "origins": [
-          "github-topic"
-        ],
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 5,
-        "license": "MIT",
-        "lastPushAt": "2026-08-21T15:35:48Z",
-        "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
-      },
-      "compatibility": {
-        "manifestFound": true,
-        "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
-      }
-    },
-    {
-      "fullName": "cccakeee/awesome-dsh-plugins",
-      "url": "https://github.com/cccakeee/awesome-dsh-plugins",
-      "description": "A curated, evidence-led directory of DeepSeek Harness (DSH) plugins: verified loadable extensions, skills, and permission-aware installation guidance.",
-      "stars": 5,
-      "pushedAt": "2026-08-28T18:23:30Z",
-      "license": "MIT",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": null,
-      "category": {
-        "id": "tools",
-        "title": "工具集 / Tools"
-      },
-      "addedAt": "2026-08-14",
-      "slug": "cccakeee-awesome-dsh-plugins",
-      "name": "cccakeee/awesome-dsh-plugins",
-      "summary": "A curated, evidence-led directory of DeepSeek Harness (DSH) plugins: verified loadable extensions, skills, and permission-aware installation guidance.",
-      "tags": [
-        "file"
-      ],
-      "repositoryUrl": "https://github.com/cccakeee/awesome-dsh-plugins",
-      "installSpec": "github:cccakeee/awesome-dsh-plugins",
-      "author": "cccakeee",
-      "featured": false,
-      "status": "active",
-      "source": {
-        "type": "github-topic",
-        "origins": [
-          "github-topic"
-        ],
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 5,
-        "license": "MIT",
-        "lastPushAt": "2026-08-28T18:23:30Z",
-        "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
-      },
-      "compatibility": {
-        "manifestFound": false,
-        "manifestPath": null,
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -24040,39 +24088,38 @@
         "license": null,
         "lastPushAt": "2026-08-14T08:25:30Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
-      "fullName": "beijingwahw/dsh-conv-export",
-      "url": "https://github.com/beijingwahw/dsh-conv-export",
-      "description": "dsh-conv-export（对话导出）— export the current DeepSeek Harness conversation as Markdown, PDF, or a long PNG image",
+      "fullName": "beijingwahw/dsh-conv-search",
+      "url": "https://github.com/beijingwahw/dsh-conv-search",
+      "description": "dsh-conv-search（对话内文本搜索）— in-conversation text search plugin for DeepSeek Harness (Ctrl+F, match case, whole word, streaming-aware)",
       "stars": 4,
-      "pushedAt": "2026-08-23T10:13:18Z",
+      "pushedAt": "2026-08-22T14:04:50Z",
       "license": "MIT",
       "archived": false,
       "isPlugin": true,
-      "npmName": "@dsh-external/dsh-conv-export",
+      "npmName": "@dsh-external/dsh-conv-search",
       "category": {
         "id": "tools",
         "title": "工具集 / Tools"
       },
       "addedAt": "2026-08-14",
-      "slug": "beijingwahw-dsh-conv-export",
-      "name": "beijingwahw/dsh-conv-export",
-      "summary": "dsh-conv-export（对话导出）— export the current DeepSeek Harness conversation as Markdown, PDF, or a long PNG image",
+      "slug": "beijingwahw-dsh-conv-search",
+      "name": "beijingwahw/dsh-conv-search",
+      "summary": "dsh-conv-search（对话内文本搜索）— in-conversation text search plugin for DeepSeek Harness (Ctrl+F, match case, whole word, streaming-aware)",
       "tags": [
         "chat",
-        "document",
-        "image"
+        "search"
       ],
-      "repositoryUrl": "https://github.com/beijingwahw/dsh-conv-export",
-      "installSpec": "github:beijingwahw/dsh-conv-export",
+      "repositoryUrl": "https://github.com/beijingwahw/dsh-conv-search",
+      "installSpec": "github:beijingwahw/dsh-conv-search",
       "author": "beijingwahw",
       "featured": false,
       "status": "active",
@@ -24086,14 +24133,14 @@
       "github": {
         "stars": 4,
         "license": "MIT",
-        "lastPushAt": "2026-08-23T10:13:18Z",
+        "lastPushAt": "2026-08-22T14:04:50Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -24134,12 +24181,12 @@
         "license": "BSD-3-Clause",
         "lastPushAt": "2026-08-26T09:59:05Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -24180,12 +24227,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-13T20:23:38Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -24226,12 +24273,60 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T09:04:26Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
+      }
+    },
+    {
+      "fullName": "ByronLeeeee/dsh-legal-dashboard",
+      "url": "https://github.com/ByronLeeeee/dsh-legal-dashboard",
+      "description": "Matter-aware legal workspace dashboard and document agent tools for DeepSeek Harness",
+      "stars": 4,
+      "pushedAt": "2026-08-18T02:12:07Z",
+      "license": "MIT",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "dsh-legal-dashboard",
+      "category": {
+        "id": "tools",
+        "title": "工具集 / Tools"
+      },
+      "addedAt": "2026-08-14",
+      "slug": "byronleeeee-dsh-legal-dashboard",
+      "name": "ByronLeeeee/dsh-legal-dashboard",
+      "summary": "Matter-aware legal workspace dashboard and document agent tools for DeepSeek Harness",
+      "tags": [
+        "agent",
+        "document",
+        "tool"
+      ],
+      "repositoryUrl": "https://github.com/ByronLeeeee/dsh-legal-dashboard",
+      "installSpec": "github:ByronLeeeee/dsh-legal-dashboard",
+      "author": "ByronLeeeee",
+      "featured": false,
+      "status": "active",
+      "source": {
+        "type": "github-topic",
+        "origins": [
+          "github-topic"
+        ],
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 4,
+        "license": "MIT",
+        "lastPushAt": "2026-08-18T02:12:07Z",
+        "archived": false,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "compatibility": {
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -24239,7 +24334,7 @@
       "url": "https://github.com/causebefore/dsh-pomodoro",
       "description": "DeepSeek Harness Web 番茄钟插件：可配置专注与休息时长，提供侧栏入口和可拖动浮动面板",
       "stars": 4,
-      "pushedAt": "2026-08-21T17:53:15Z",
+      "pushedAt": "2026-09-03T16:46:45Z",
       "license": "MIT",
       "archived": false,
       "isPlugin": true,
@@ -24270,14 +24365,14 @@
       "github": {
         "stars": 4,
         "license": "MIT",
-        "lastPushAt": "2026-08-21T17:53:15Z",
+        "lastPushAt": "2026-09-03T16:46:45Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -29003,39 +29098,38 @@
         "license": null,
         "lastPushAt": "2026-08-14T09:35:37Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
-      "fullName": "beijingwahw/dsh-conv-search",
-      "url": "https://github.com/beijingwahw/dsh-conv-search",
-      "description": "dsh-conv-search（对话内文本搜索）— in-conversation text search plugin for DeepSeek Harness (Ctrl+F, match case, whole word, streaming-aware)",
+      "fullName": "Babulubobo/dsh-codex-oauth",
+      "url": "https://github.com/Babulubobo/dsh-codex-oauth",
+      "description": "use your codex subscription in deepseek harness",
       "stars": 3,
-      "pushedAt": "2026-08-22T14:04:50Z",
+      "pushedAt": "2026-08-14T03:44:50Z",
       "license": "MIT",
       "archived": false,
       "isPlugin": true,
-      "npmName": "@dsh-external/dsh-conv-search",
+      "npmName": "dsh-codex-oauth",
       "category": {
         "id": "tools",
         "title": "工具集 / Tools"
       },
       "addedAt": "2026-08-14",
-      "slug": "beijingwahw-dsh-conv-search",
-      "name": "beijingwahw/dsh-conv-search",
-      "summary": "dsh-conv-search（对话内文本搜索）— in-conversation text search plugin for DeepSeek Harness (Ctrl+F, match case, whole word, streaming-aware)",
+      "slug": "babulubobo-dsh-codex-oauth",
+      "name": "Babulubobo/dsh-codex-oauth",
+      "summary": "use your codex subscription in deepseek harness",
       "tags": [
-        "chat",
-        "search"
+        "integration"
       ],
-      "repositoryUrl": "https://github.com/beijingwahw/dsh-conv-search",
-      "installSpec": "github:beijingwahw/dsh-conv-search",
-      "author": "beijingwahw",
+      "repositoryUrl": "https://github.com/Babulubobo/dsh-codex-oauth",
+      "installSpec": "github:Babulubobo/dsh-codex-oauth",
+      "author": "Babulubobo",
       "featured": false,
       "status": "active",
       "source": {
@@ -29048,14 +29142,61 @@
       "github": {
         "stars": 3,
         "license": "MIT",
-        "lastPushAt": "2026-08-22T14:04:50Z",
+        "lastPushAt": "2026-08-14T03:44:50Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "compatibility": {
+        "manifestFound": false,
+        "manifestPath": null,
+        "checkedAt": "2026-09-05T16:07:09.624Z"
+      }
+    },
+    {
+      "fullName": "ben7am1n/dsh-telegram",
+      "url": "https://github.com/ben7am1n/dsh-telegram",
+      "description": "Telegram runtime adapter for DeepSeek Harness — chat with your dsh agents from Telegram.",
+      "stars": 3,
+      "pushedAt": "2026-08-13T15:48:35Z",
+      "license": null,
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "dsh-telegram",
+      "category": {
+        "id": "tools",
+        "title": "工具集 / Tools"
+      },
+      "addedAt": "2026-08-13",
+      "slug": "ben7am1n-dsh-telegram",
+      "name": "ben7am1n/dsh-telegram",
+      "summary": "Telegram runtime adapter for DeepSeek Harness — chat with your dsh agents from Telegram.",
+      "tags": [
+        "agent",
+        "chat"
+      ],
+      "repositoryUrl": "https://github.com/ben7am1n/dsh-telegram",
+      "installSpec": "github:ben7am1n/dsh-telegram",
+      "author": "ben7am1n",
+      "featured": false,
+      "status": "active",
+      "source": {
+        "type": "github-topic",
+        "origins": [
+          "github-topic"
+        ],
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 3,
+        "license": null,
+        "lastPushAt": "2026-08-13T15:48:35Z",
+        "archived": false,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -29096,12 +29237,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-17T07:11:19Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -29142,12 +29283,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-16T09:54:55Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -29188,12 +29329,12 @@
         "license": "BSD-3-Clause",
         "lastPushAt": "2026-08-26T09:58:24Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -29234,12 +29375,12 @@
         "license": null,
         "lastPushAt": "2026-08-14T09:53:50Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -29281,12 +29422,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-16T06:44:23Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -29328,12 +29469,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-13T16:17:13Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -29375,12 +29516,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T06:57:33Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -29423,12 +29564,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T10:28:01Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -29469,60 +29610,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T11:10:31Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
-      }
-    },
-    {
-      "fullName": "ByronLeeeee/dsh-legal-dashboard",
-      "url": "https://github.com/ByronLeeeee/dsh-legal-dashboard",
-      "description": "Matter-aware legal workspace dashboard and document agent tools for DeepSeek Harness",
-      "stars": 3,
-      "pushedAt": "2026-08-18T02:12:07Z",
-      "license": "MIT",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "dsh-legal-dashboard",
-      "category": {
-        "id": "tools",
-        "title": "工具集 / Tools"
-      },
-      "addedAt": "2026-08-14",
-      "slug": "byronleeeee-dsh-legal-dashboard",
-      "name": "ByronLeeeee/dsh-legal-dashboard",
-      "summary": "Matter-aware legal workspace dashboard and document agent tools for DeepSeek Harness",
-      "tags": [
-        "agent",
-        "document",
-        "tool"
-      ],
-      "repositoryUrl": "https://github.com/ByronLeeeee/dsh-legal-dashboard",
-      "installSpec": "github:ByronLeeeee/dsh-legal-dashboard",
-      "author": "ByronLeeeee",
-      "featured": false,
-      "status": "active",
-      "source": {
-        "type": "github-topic",
-        "origins": [
-          "github-topic"
-        ],
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 3,
-        "license": "MIT",
-        "lastPushAt": "2026-08-18T02:12:07Z",
-        "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
-      },
-      "compatibility": {
-        "manifestFound": true,
-        "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -29563,12 +29656,60 @@
         "license": "MIT",
         "lastPushAt": "2026-08-23T08:08:02Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
+      }
+    },
+    {
+      "fullName": "cesaryike/dsh-image-to-path",
+      "url": "https://github.com/cesaryike/dsh-image-to-path",
+      "description": "DSH 插件:让纯文本模型对话也能拖图/贴图——图片自动保存到会话工作区,以文件路径交给模型(多模态模型不受影响)",
+      "stars": 3,
+      "pushedAt": "2026-08-13T23:54:59Z",
+      "license": "MIT",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "dsh-image-to-path",
+      "category": {
+        "id": "workflow-automation",
+        "title": "工作流与自动化 / Workflow & Automation"
+      },
+      "addedAt": "2026-08-13",
+      "slug": "cesaryike-dsh-image-to-path",
+      "name": "cesaryike/dsh-image-to-path",
+      "summary": "DSH 插件:让纯文本模型对话也能拖图/贴图——图片自动保存到会话工作区,以文件路径交给模型(多模态模型不受影响)",
+      "tags": [
+        "chat",
+        "file",
+        "image"
+      ],
+      "repositoryUrl": "https://github.com/cesaryike/dsh-image-to-path",
+      "installSpec": "github:cesaryike/dsh-image-to-path",
+      "author": "cesaryike",
+      "featured": false,
+      "status": "active",
+      "source": {
+        "type": "github-topic",
+        "origins": [
+          "github-topic"
+        ],
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 3,
+        "license": "MIT",
+        "lastPushAt": "2026-08-13T23:54:59Z",
+        "archived": false,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "compatibility": {
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -38962,58 +39103,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T11:20:23Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
-      }
-    },
-    {
-      "fullName": "Babulubobo/dsh-codex-oauth",
-      "url": "https://github.com/Babulubobo/dsh-codex-oauth",
-      "description": "use your codex subscription in deepseek harness",
-      "stars": 2,
-      "pushedAt": "2026-08-14T03:44:50Z",
-      "license": "MIT",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "dsh-codex-oauth",
-      "category": {
-        "id": "tools",
-        "title": "工具集 / Tools"
-      },
-      "addedAt": "2026-08-14",
-      "slug": "babulubobo-dsh-codex-oauth",
-      "name": "Babulubobo/dsh-codex-oauth",
-      "summary": "use your codex subscription in deepseek harness",
-      "tags": [
-        "integration"
-      ],
-      "repositoryUrl": "https://github.com/Babulubobo/dsh-codex-oauth",
-      "installSpec": "github:Babulubobo/dsh-codex-oauth",
-      "author": "Babulubobo",
-      "featured": false,
-      "status": "active",
-      "source": {
-        "type": "github-topic",
-        "origins": [
-          "github-topic"
-        ],
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 2,
-        "license": "MIT",
-        "lastPushAt": "2026-08-14T03:44:50Z",
-        "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
-      },
-      "compatibility": {
-        "manifestFound": false,
-        "manifestPath": null,
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -39054,12 +39149,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T06:42:19Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -39102,40 +39197,39 @@
         "license": "MIT",
         "lastPushAt": "2026-08-15T10:23:42Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
-      "fullName": "Bandersnatch0x/design-playbook",
-      "url": "https://github.com/Bandersnatch0x/design-playbook",
-      "description": "Design I/O plugin for Claude Code & coding agents — declarations + contracts that make UI generation constrained, reviewable, and recirculatable. Not a style pack; composes with ui-ux-pro-max + frontend-design.",
+      "fullName": "baiyun200/dsh-dashboard",
+      "url": "https://github.com/baiyun200/dsh-dashboard",
+      "description": "DSH 插件看板 · DeepSeek Harness 插件生态可视化（shadcn/ui，每日自动构建部署）",
       "stars": 2,
-      "pushedAt": "2026-08-28T17:27:58Z",
-      "license": "NOASSERTION",
+      "pushedAt": "2026-09-03T06:17:10Z",
+      "license": null,
       "archived": false,
       "isPlugin": true,
-      "npmName": null,
+      "npmName": "dsh-plugin-dashboard",
       "category": {
-        "id": "workflow-automation",
-        "title": "工作流与自动化 / Workflow & Automation"
+        "id": "ui-enhancements",
+        "title": "UI 增强 / UI Enhancements"
       },
       "addedAt": "2026-08-14",
-      "slug": "bandersnatch0x-design-playbook",
-      "name": "Bandersnatch0x/design-playbook",
-      "summary": "Design I/O plugin for Claude Code & coding agents — declarations + contracts that make UI generation constrained, reviewable, and recirculatable. Not a style pack; composes with ui-ux-pro-max + frontend-design.",
+      "slug": "baiyun200-dsh-dashboard",
+      "name": "baiyun200/dsh-dashboard",
+      "summary": "DSH 插件看板 · DeepSeek Harness 插件生态可视化（shadcn/ui，每日自动构建部署）",
       "tags": [
-        "agent",
-        "project-analysis",
-        "ui"
+        "ui",
+        "visualization"
       ],
-      "repositoryUrl": "https://github.com/Bandersnatch0x/design-playbook",
-      "installSpec": "github:Bandersnatch0x/design-playbook",
-      "author": "Bandersnatch0x",
+      "repositoryUrl": "https://github.com/baiyun200/dsh-dashboard",
+      "installSpec": "github:baiyun200/dsh-dashboard",
+      "author": "baiyun200",
       "featured": false,
       "status": "active",
       "source": {
@@ -39147,15 +39241,15 @@
       },
       "github": {
         "stars": 2,
-        "license": "NOASSERTION",
-        "lastPushAt": "2026-08-28T17:27:58Z",
+        "license": null,
+        "lastPushAt": "2026-09-03T06:17:10Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -39196,12 +39290,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T01:17:25Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -39209,7 +39303,7 @@
       "url": "https://github.com/Beants/dsh-trellis",
       "description": "Trellis workflow integration for DeepSeek Harness: Trellis skills, /trellis commands, and .trellis scaffolding",
       "stars": 2,
-      "pushedAt": "2026-08-14T03:15:16Z",
+      "pushedAt": "2026-08-31T08:16:51Z",
       "license": "AGPL-3.0",
       "archived": false,
       "isPlugin": true,
@@ -39241,14 +39335,14 @@
       "github": {
         "stars": 2,
         "license": "AGPL-3.0",
-        "lastPushAt": "2026-08-14T03:15:16Z",
+        "lastPushAt": "2026-08-31T08:16:51Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -39289,12 +39383,12 @@
         "license": null,
         "lastPushAt": "2026-08-14T07:47:37Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -39338,12 +39432,12 @@
         "license": null,
         "lastPushAt": "2026-08-13T16:11:11Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -39384,12 +39478,12 @@
         "license": "NOASSERTION",
         "lastPushAt": "2026-08-14T07:58:09Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -39430,12 +39524,12 @@
         "license": "NOASSERTION",
         "lastPushAt": "2026-08-13T18:03:32Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -39476,12 +39570,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-15T11:28:24Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -39523,12 +39617,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-15T14:25:56Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -39615,12 +39709,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T10:28:08Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -39663,12 +39757,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T09:12:12Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -39710,12 +39804,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T08:46:30Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -39756,12 +39850,12 @@
         "license": "NOASSERTION",
         "lastPushAt": "2026-08-14T00:52:44Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -39802,12 +39896,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T10:20:28Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -39851,12 +39945,12 @@
         "license": null,
         "lastPushAt": "2026-08-14T06:47:12Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -39897,12 +39991,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T06:56:46Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -39910,7 +40004,7 @@
       "url": "https://github.com/BruceWu1126/dsh-web-background",
       "description": "DeepSeek Harness Web UI background customization plugin",
       "stars": 2,
-      "pushedAt": "2026-08-13T15:29:00Z",
+      "pushedAt": "2026-09-02T21:27:44Z",
       "license": "MIT",
       "archived": false,
       "isPlugin": true,
@@ -39942,14 +40036,14 @@
       "github": {
         "stars": 2,
         "license": "MIT",
-        "lastPushAt": "2026-08-13T15:29:00Z",
+        "lastPushAt": "2026-09-02T21:27:44Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -39990,12 +40084,12 @@
         "license": null,
         "lastPushAt": "2026-08-14T10:03:32Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -40037,12 +40131,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T09:00:34Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -40083,12 +40177,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T08:31:54Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -40129,12 +40223,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-27T02:19:11Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -40177,12 +40271,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T08:43:42Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -40224,60 +40318,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-15T05:24:33Z",
         "archived": true,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T14:32:34.143Z"
-      }
-    },
-    {
-      "fullName": "cesaryike/dsh-image-to-path",
-      "url": "https://github.com/cesaryike/dsh-image-to-path",
-      "description": "DSH 插件:让纯文本模型对话也能拖图/贴图——图片自动保存到会话工作区,以文件路径交给模型(多模态模型不受影响)",
-      "stars": 2,
-      "pushedAt": "2026-08-13T23:54:59Z",
-      "license": "MIT",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "dsh-image-to-path",
-      "category": {
-        "id": "workflow-automation",
-        "title": "工作流与自动化 / Workflow & Automation"
-      },
-      "addedAt": "2026-08-13",
-      "slug": "cesaryike-dsh-image-to-path",
-      "name": "cesaryike/dsh-image-to-path",
-      "summary": "DSH 插件:让纯文本模型对话也能拖图/贴图——图片自动保存到会话工作区,以文件路径交给模型(多模态模型不受影响)",
-      "tags": [
-        "chat",
-        "file",
-        "image"
-      ],
-      "repositoryUrl": "https://github.com/cesaryike/dsh-image-to-path",
-      "installSpec": "github:cesaryike/dsh-image-to-path",
-      "author": "cesaryike",
-      "featured": false,
-      "status": "active",
-      "source": {
-        "type": "github-topic",
-        "origins": [
-          "github-topic"
-        ],
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 2,
-        "license": "MIT",
-        "lastPushAt": "2026-08-13T23:54:59Z",
-        "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
-      },
-      "compatibility": {
-        "manifestFound": true,
-        "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -40320,12 +40366,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T04:42:48Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -40367,12 +40413,12 @@
         "license": null,
         "lastPushAt": "2026-08-14T05:25:46Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -40417,12 +40463,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-15T06:54:08Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -40463,12 +40509,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T08:40:10Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -40509,12 +40555,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T06:43:20Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -52801,58 +52847,11 @@
       }
     },
     {
-      "fullName": "baiyun200/dsh-dashboard",
-      "url": "https://github.com/baiyun200/dsh-dashboard",
-      "description": "DSH 插件看板 · DeepSeek Harness 插件生态可视化（shadcn/ui，每日自动构建部署）",
-      "stars": 1,
-      "pushedAt": "2026-08-14T07:42:49Z",
-      "license": null,
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "dsh-plugin-dashboard",
-      "category": {
-        "id": "ui-enhancements",
-        "title": "UI 增强 / UI Enhancements"
-      },
-      "addedAt": "2026-08-14",
-      "slug": "baiyun200-dsh-dashboard",
-      "name": "baiyun200/dsh-dashboard",
-      "summary": "DSH 插件看板 · DeepSeek Harness 插件生态可视化（shadcn/ui，每日自动构建部署）",
-      "tags": [
-        "ui",
-        "visualization"
-      ],
-      "repositoryUrl": "https://github.com/baiyun200/dsh-dashboard",
-      "installSpec": "github:baiyun200/dsh-dashboard",
-      "author": "baiyun200",
-      "featured": false,
-      "status": "active",
-      "source": {
-        "type": "github-topic",
-        "origins": [
-          "github-topic"
-        ],
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 1,
-        "license": null,
-        "lastPushAt": "2026-08-14T07:42:49Z",
-        "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
-      },
-      "compatibility": {
-        "manifestFound": false,
-        "manifestPath": null,
-        "checkedAt": "2026-08-29T09:07:35.951Z"
-      }
-    },
-    {
       "fullName": "Bandersnatch0x/amber-protocol",
       "url": "https://github.com/Bandersnatch0x/amber-protocol",
       "description": "Amber Protocol: repository-local governance for coding agents, including a DeepSeek Harness (dsh) patch overlay.",
       "stars": 1,
-      "pushedAt": "2026-08-29T01:03:47Z",
+      "pushedAt": "2026-09-03T06:47:46Z",
       "license": "MIT",
       "archived": false,
       "isPlugin": true,
@@ -52883,14 +52882,62 @@
       "github": {
         "stars": 1,
         "license": "MIT",
-        "lastPushAt": "2026-08-29T01:03:47Z",
+        "lastPushAt": "2026-09-03T06:47:46Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
+      }
+    },
+    {
+      "fullName": "Bandersnatch0x/design-playbook",
+      "url": "https://github.com/Bandersnatch0x/design-playbook",
+      "description": "Design I/O plugin for Claude Code & coding agents — declarations + contracts that make UI generation constrained, reviewable, and recirculatable. Not a style pack; composes with ui-ux-pro-max + frontend-design.",
+      "stars": 1,
+      "pushedAt": "2026-08-28T17:27:58Z",
+      "license": "NOASSERTION",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": null,
+      "category": {
+        "id": "workflow-automation",
+        "title": "工作流与自动化 / Workflow & Automation"
+      },
+      "addedAt": "2026-08-14",
+      "slug": "bandersnatch0x-design-playbook",
+      "name": "Bandersnatch0x/design-playbook",
+      "summary": "Design I/O plugin for Claude Code & coding agents — declarations + contracts that make UI generation constrained, reviewable, and recirculatable. Not a style pack; composes with ui-ux-pro-max + frontend-design.",
+      "tags": [
+        "agent",
+        "project-analysis",
+        "ui"
+      ],
+      "repositoryUrl": "https://github.com/Bandersnatch0x/design-playbook",
+      "installSpec": "github:Bandersnatch0x/design-playbook",
+      "author": "Bandersnatch0x",
+      "featured": false,
+      "status": "active",
+      "source": {
+        "type": "github-topic",
+        "origins": [
+          "github-topic"
+        ],
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 1,
+        "license": "NOASSERTION",
+        "lastPushAt": "2026-08-28T17:27:58Z",
+        "archived": false,
+        "capturedAt": "2026-09-05T16:07:09.624Z"
+      },
+      "compatibility": {
+        "manifestFound": false,
+        "manifestPath": null,
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -52931,12 +52978,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-13T13:00:21Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -52944,7 +52991,7 @@
       "url": "https://github.com/becomeless/dsh-desktop-launcher",
       "description": "Windows/macOS desktop launcher for DeepSeek Harness: double-click to launch, zero console windows, auto-stop on close | 双击图标一键启动 DeepSeek Harness 的桌面启动器（Windows / macOS）",
       "stars": 1,
-      "pushedAt": "2026-08-25T01:27:28Z",
+      "pushedAt": "2026-09-05T02:54:35Z",
       "license": "MIT",
       "archived": false,
       "isPlugin": true,
@@ -52975,14 +53022,14 @@
       "github": {
         "stars": 1,
         "license": "MIT",
-        "lastPushAt": "2026-08-25T01:27:28Z",
+        "lastPushAt": "2026-09-05T02:54:35Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -53023,12 +53070,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-13T16:28:49Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -53069,12 +53116,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-13T16:28:36Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -53115,12 +53162,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-13T16:10:26Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -53162,12 +53209,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-13T16:08:18Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -53208,12 +53255,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-13T16:08:15Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -53255,59 +53302,12 @@
         "license": null,
         "lastPushAt": "2026-08-13T16:10:56Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
-      }
-    },
-    {
-      "fullName": "ben7am1n/dsh-telegram",
-      "url": "https://github.com/ben7am1n/dsh-telegram",
-      "description": "Telegram runtime adapter for DeepSeek Harness — chat with your dsh agents from Telegram.",
-      "stars": 1,
-      "pushedAt": "2026-08-13T15:48:35Z",
-      "license": null,
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "dsh-telegram",
-      "category": {
-        "id": "tools",
-        "title": "工具集 / Tools"
-      },
-      "addedAt": "2026-08-13",
-      "slug": "ben7am1n-dsh-telegram",
-      "name": "ben7am1n/dsh-telegram",
-      "summary": "Telegram runtime adapter for DeepSeek Harness — chat with your dsh agents from Telegram.",
-      "tags": [
-        "agent",
-        "chat"
-      ],
-      "repositoryUrl": "https://github.com/ben7am1n/dsh-telegram",
-      "installSpec": "github:ben7am1n/dsh-telegram",
-      "author": "ben7am1n",
-      "featured": false,
-      "status": "active",
-      "source": {
-        "type": "github-topic",
-        "origins": [
-          "github-topic"
-        ],
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 1,
-        "license": null,
-        "lastPushAt": "2026-08-13T15:48:35Z",
-        "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
-      },
-      "compatibility": {
-        "manifestFound": true,
-        "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -53349,12 +53349,12 @@
         "license": null,
         "lastPushAt": "2026-08-13T16:11:23Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -53441,12 +53441,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T07:44:51Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -53487,12 +53487,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T08:31:51Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -53534,12 +53534,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-15T02:00:20Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -53582,12 +53582,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-18T01:46:53Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -53628,12 +53628,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T07:43:35Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -67251,12 +67251,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-17T04:00:59Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -67297,12 +67297,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T02:02:25Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -67343,12 +67343,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T06:35:47Z",
         "archived": false,
-        "capturedAt": "2026-08-29T09:07:35.951Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T09:07:35.951Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -67356,7 +67356,7 @@
       "url": "https://github.com/bitterSmilezzz/dsh-model-selector",
       "description": "DeepSeek Harness web plugin: provider-group collapse + name search for the conversation model picker.",
       "stars": 0,
-      "pushedAt": "2026-08-28T18:21:56Z",
+      "pushedAt": "2026-09-04T08:30:21Z",
       "license": "MIT",
       "archived": false,
       "isPlugin": true,
@@ -67388,14 +67388,14 @@
       "github": {
         "stars": 0,
         "license": "MIT",
-        "lastPushAt": "2026-08-28T18:21:56Z",
+        "lastPushAt": "2026-09-04T08:30:21Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -67483,12 +67483,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-15T05:15:07Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -67529,12 +67529,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-13T17:58:14Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -67580,12 +67580,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-13T19:09:27Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
@@ -67627,12 +67627,12 @@
         "license": "MIT",
         "lastPushAt": "2026-08-14T04:10:16Z",
         "archived": false,
-        "capturedAt": "2026-08-29T14:32:34.143Z"
+        "capturedAt": "2026-09-05T16:07:09.624Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-08-29T14:32:34.143Z"
+        "checkedAt": "2026-09-05T16:07:09.624Z"
       }
     },
     {
