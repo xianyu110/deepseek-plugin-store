@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-05T09:08:20.537Z",
+  "updatedAt": "2026-09-05T12:46:18.657Z",
   "candidates": {
     "00080000-dsh-project-memory": {
       "id": "00080000-dsh-project-memory",
@@ -2122,9 +2122,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T04:03:40.356Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T04:03:40.356Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -2148,7 +2148,7 @@
         "createdAt": "2026-08-15T09:10:42Z",
         "lastPushAt": "2026-08-15T09:10:53Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T04:03:40.356Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -3213,9 +3213,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -3239,7 +3239,7 @@
         "createdAt": "2026-08-15T06:48:25Z",
         "lastPushAt": "2026-08-15T07:16:28Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "integrations-communication",
@@ -8903,9 +8903,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -8929,7 +8929,7 @@
         "createdAt": "2026-08-15T04:15:16Z",
         "lastPushAt": "2026-08-15T04:23:28Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "integrations-communication",
@@ -14939,9 +14939,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -14965,7 +14965,7 @@
         "createdAt": "2026-08-14T12:53:42Z",
         "lastPushAt": "2026-08-14T13:09:27Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -27813,7 +27813,7 @@
         "fullName": "Andor-Z/dsh-turn-outline",
         "url": "https://github.com/Andor-Z/dsh-turn-outline"
       },
-      "summary": "DSH 轮次轨迹侧边栏插件：按用户轮次折叠会话（输入+工具步骤+输出），一键跳回对话原位；零 AI、只读 | Turn-outline tab for dsh-better-sidebar: fold sessions by user turns with one-click jump-back; zero-LLM, read-only",
+      "summary": "Andor-Z/dsh-turn-outline",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -27825,7 +27825,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -27850,34 +27850,6 @@
         "lastPushAt": "2026-09-04T15:18:52Z",
         "latestReleaseAt": "2026-09-04T15:18:54Z",
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "agents-workflows",
-        "category": "automation",
-        "tags": [
-          "api",
-          "browser",
-          "chat",
-          "data",
-          "desktop",
-          "file",
-          "layout",
-          "testing",
-          "tool"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:testing-debugging:日志",
-          "text:automation:定时",
-          "text:memory-context:会话",
-          "text:search-browsing:浏览器",
-          "text:themes-layout:布局",
-          "text:navigation-panels:侧边栏",
-          "text:visualization:渲染"
-        ],
-        "needsReview": true
       }
     },
     "andrew111888-dsh-plugin-balance": {
@@ -28025,9 +27997,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -28052,7 +28024,7 @@
         "createdAt": "2026-08-14T17:47:06Z",
         "lastPushAt": "2026-08-14T17:55:24Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -28363,9 +28335,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -28389,7 +28361,7 @@
         "createdAt": "2026-08-14T13:47:44Z",
         "lastPushAt": "2026-08-14T13:52:13Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -30660,9 +30632,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T04:03:40.356Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T04:03:40.356Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -30687,7 +30659,7 @@
         "createdAt": "2026-08-14T07:47:10Z",
         "lastPushAt": "2026-08-15T10:43:46Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T04:03:40.356Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -35968,9 +35940,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -35992,9 +35964,9 @@
         "archived": false,
         "private": false,
         "createdAt": "2026-08-14T09:03:56Z",
-        "lastPushAt": "2026-08-14T10:23:48Z",
+        "lastPushAt": "2026-09-01T08:16:32Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -36011,6 +35983,7 @@
           "monitoring",
           "planning",
           "project-analysis",
+          "search",
           "skill",
           "terminal",
           "testing",
@@ -37808,9 +37781,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
@@ -37834,7 +37807,7 @@
         "createdAt": "2026-08-14T15:02:50Z",
         "lastPushAt": "2026-08-15T01:17:48Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -39802,7 +39775,7 @@
         "fullName": "bainianlaoyao/dsh-codex-harness",
         "url": "https://github.com/bainianlaoyao/dsh-codex-harness"
       },
-      "summary": "Lightweight Codex-shaped coding tools for DeepSeek Harness: exec_command/write_stdin, apply_patch, view_image, OpenAI model routes, and DSH-native todo_write/ask_user_question/subagent in a native DSH preset.",
+      "summary": "bainianlaoyao/dsh-codex-harness",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -39814,7 +39787,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -39839,40 +39812,6 @@
         "lastPushAt": "2026-09-05T06:38:50Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "agent",
-          "api",
-          "chat",
-          "collaboration",
-          "context",
-          "data",
-          "file",
-          "image",
-          "planning",
-          "research",
-          "search",
-          "terminal",
-          "testing",
-          "tool",
-          "workflow"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:test",
-          "text:orchestration:subagent",
-          "text:planning-execution:todo",
-          "text:memory-context:上下文",
-          "text:search-browsing:search",
-          "text:deep-research:研究",
-          "text:files-terminal:shell"
-        ],
-        "needsReview": true
       }
     },
     "bainianlaoyao-easy-archive": {
@@ -41163,7 +41102,7 @@
         "fullName": "balue8246-maker/dsDragPasteALL",
         "url": "https://github.com/balue8246-maker/dsDragPasteALL"
       },
-      "summary": "dsDragPasteALL：拖拽任意文件/粘贴非图片文件到 DSH 页面（纯图片粘贴交给原生成图），后台静默反查文件真实路径（Spotlight + find + 首尾哈希校验），命中后把路径直接插入对话框输入框；找不到原文件则内容缓存兜底。",
+      "summary": "balue8246-maker/dsDragPasteALL",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -41175,7 +41114,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -41200,40 +41139,6 @@
         "lastPushAt": "2026-08-21T03:41:10Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "agent",
-          "api",
-          "browser",
-          "chat",
-          "collaboration",
-          "desktop",
-          "document",
-          "file",
-          "image",
-          "knowledge",
-          "layout",
-          "testing",
-          "tool",
-          "ui",
-          "video"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:testing-debugging:test",
-          "text:planning-execution:执行",
-          "text:search-browsing:浏览器",
-          "text:knowledge-management:rag",
-          "text:document-processing:pptx",
-          "text:themes-layout:布局",
-          "text:desktop-mobile:桌面"
-        ],
-        "needsReview": true
       }
     },
     "balue8246-maker-dseyesopen": {
@@ -41242,7 +41147,7 @@
         "fullName": "balue8246-maker/dseyesopen",
         "url": "https://github.com/balue8246-maker/dseyesopen"
       },
-      "summary": "dseyesopen — 让无识图能力的 DeepSeek 仿佛睁开了眼睛。dsh 视觉桥插件：发图自动交 glm-4.6v-flashx 识别，文字描述后台注入，对话框无感。",
+      "summary": "balue8246-maker/dseyesopen",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -41254,7 +41159,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -41279,37 +41184,6 @@
         "lastPushAt": "2026-08-21T03:38:06Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "research-knowledge",
-        "category": "document-processing",
-        "tags": [
-          "api",
-          "chat",
-          "context",
-          "debugging",
-          "document",
-          "file",
-          "image",
-          "knowledge",
-          "monitoring",
-          "tool",
-          "ui",
-          "visualization"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:testing-debugging:诊断",
-          "text:memory-context:会话",
-          "text:knowledge-management:rag",
-          "text:document-processing:document",
-          "text:visualization:图表",
-          "text:files-terminal:file",
-          "text:media-tools:图片"
-        ],
-        "needsReview": true
       }
     },
     "bamboostrip-dsh-access-gate": {
@@ -42194,7 +42068,7 @@
         "fullName": "bearice/dsh-keep-awake",
         "url": "https://github.com/bearice/dsh-keep-awake"
       },
-      "summary": "Prevent the OS from sleeping while any DSH agent, subagent, or background job runs (SetThreadExecutionState / caffeinate / systemd-inhibit), with a web settings page",
+      "summary": "dsh-keep-awake",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -42206,7 +42080,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-29T02:16:06.796Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -42231,35 +42105,6 @@
         "lastPushAt": "2026-08-27T04:19:09Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "agent",
-          "browser",
-          "file",
-          "layout",
-          "monitoring",
-          "planning",
-          "terminal",
-          "theme",
-          "ui",
-          "workflow"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:orchestration:subagent",
-          "text:planning-execution:任务",
-          "text:search-browsing:浏览器",
-          "text:themes-layout:background",
-          "text:navigation-panels:侧边栏",
-          "text:files-terminal:git",
-          "text:data-processing:json"
-        ],
-        "needsReview": true
       }
     },
     "bearllfleed-dsh-fileexplorer": {
@@ -44829,7 +44674,7 @@
         "fullName": "bill277048-hash/DSH-model-router",
         "url": "https://github.com/bill277048-hash/DSH-model-router"
       },
-      "summary": "DSH multi-provider model routing plugin: rule-based routing + pre-first-token failover (finish-chunk driven) + cooldown circuit-breaking + usage accounting + a status API. Zero third-party runtime dependencies.",
+      "summary": "bill277048-hash/DSH-model-router",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -44841,7 +44686,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -44866,35 +44711,6 @@
         "lastPushAt": "2026-09-05T07:08:45Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "agent",
-          "api",
-          "chat",
-          "cli",
-          "file",
-          "layout",
-          "monitoring",
-          "search",
-          "testing",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:日志",
-          "text:planning-execution:执行",
-          "text:memory-context:token",
-          "text:search-browsing:搜索",
-          "text:navigation-panels:面板",
-          "text:desktop-mobile:webui",
-          "text:files-terminal:命令行"
-        ],
-        "needsReview": true
       }
     },
     "bill9109-dsh-drag-and-drop": {
@@ -47252,9 +47068,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-24T19:47:57.489Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-24T19:47:57.489Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -47278,7 +47094,7 @@
         "createdAt": "2026-08-14T06:26:05Z",
         "lastPushAt": "2026-08-14T06:30:32Z",
         "latestReleaseAt": "2026-08-14T06:30:32Z",
-        "capturedAt": "2026-08-24T19:47:57.489Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "interface-experience",
@@ -48222,7 +48038,7 @@
         "fullName": "bpc-oss/dsh-routed-subagent",
         "url": "https://github.com/bpc-oss/dsh-routed-subagent"
       },
-      "summary": "DeepSeek Harness plugin: subagent_routed — run a one-shot subagent fully mounted on ANY agent preset from ANY session, with per-call model/provider override and a model-availability pre-check.",
+      "summary": "bpc-oss/dsh-routed-subagent",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -48234,7 +48050,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -48259,41 +48075,6 @@
         "lastPushAt": "2026-08-21T15:02:49Z",
         "latestReleaseAt": "2026-08-21T07:38:40Z",
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "agents-workflows",
-        "category": "automation",
-        "tags": [
-          "agent",
-          "api",
-          "automation",
-          "chat",
-          "cli",
-          "context",
-          "document",
-          "file",
-          "planning",
-          "project-analysis",
-          "skill",
-          "terminal",
-          "theme",
-          "tool",
-          "ui",
-          "workflow"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:project-analysis:dependency",
-          "text:orchestration:subagent",
-          "text:automation:automat",
-          "text:planning-execution:workflow",
-          "text:memory-context:session",
-          "text:document-processing:document",
-          "text:themes-layout:background"
-        ],
-        "needsReview": true
       }
     },
     "bpc-oss-litkit-search": {
@@ -51105,9 +50886,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -51131,7 +50912,7 @@
         "createdAt": "2026-08-15T07:32:28Z",
         "lastPushAt": "2026-08-15T07:32:33Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -51722,9 +51503,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T04:03:40.356Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T04:03:40.356Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -51748,7 +51529,7 @@
         "createdAt": "2026-08-15T09:22:00Z",
         "lastPushAt": "2026-08-15T10:08:14Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T04:03:40.356Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "integrations-communication",
@@ -59854,10 +59635,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-26T20:09:41.728Z",
-          "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-mermaid-plugin: 404"
-        },
-        {
           "at": "2026-08-28T18:48:00.111Z",
           "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-mermaid-plugin: 404"
         },
@@ -59931,6 +59708,10 @@
         },
         {
           "at": "2026-09-05T04:37:02.415Z",
+          "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-mermaid-plugin: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
           "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-mermaid-plugin: 404"
         }
       ],
@@ -60046,10 +59827,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-26T20:09:41.728Z",
-          "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-plugin-skill: 404"
-        },
-        {
           "at": "2026-08-28T18:48:00.111Z",
           "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-plugin-skill: 404"
         },
@@ -60123,6 +59900,10 @@
         },
         {
           "at": "2026-09-05T04:37:02.415Z",
+          "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-plugin-skill: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
           "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-plugin-skill: 404"
         }
       ],
@@ -60163,10 +59944,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-26T20:09:41.728Z",
-          "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-terminal-plugin: 404"
-        },
-        {
           "at": "2026-08-28T18:48:00.111Z",
           "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-terminal-plugin: 404"
         },
@@ -60240,6 +60017,10 @@
         },
         {
           "at": "2026-09-05T04:37:02.415Z",
+          "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-terminal-plugin: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
           "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-terminal-plugin: 404"
         }
       ],
@@ -60280,10 +60061,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-26T20:09:41.728Z",
-          "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-web: 404"
-        },
-        {
           "at": "2026-08-28T18:48:00.111Z",
           "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-web: 404"
         },
@@ -60357,6 +60134,10 @@
         },
         {
           "at": "2026-09-05T04:37:02.415Z",
+          "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-web: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
           "reason": "https://api.github.com/repos/chenshutian9610/deepseek-harness-web: 404"
         }
       ],
@@ -65876,9 +65657,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
@@ -65903,7 +65684,7 @@
         "createdAt": "2026-08-15T03:24:09Z",
         "lastPushAt": "2026-08-15T04:15:21Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "build-development",
@@ -67402,9 +67183,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -67428,7 +67209,7 @@
         "createdAt": "2026-08-15T07:27:42Z",
         "lastPushAt": "2026-08-15T07:31:56Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -69837,10 +69618,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-26T20:09:41.728Z",
-          "reason": "https://api.github.com/repos/coder-wu/dsh-share: 404"
-        },
-        {
           "at": "2026-08-28T18:48:00.111Z",
           "reason": "https://api.github.com/repos/coder-wu/dsh-share: 404"
         },
@@ -69914,6 +69691,10 @@
         },
         {
           "at": "2026-09-05T04:37:02.415Z",
+          "reason": "https://api.github.com/repos/coder-wu/dsh-share: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
           "reason": "https://api.github.com/repos/coder-wu/dsh-share: 404"
         }
       ],
@@ -70147,9 +69928,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -70173,7 +69954,7 @@
         "createdAt": "2026-08-14T04:57:09Z",
         "lastPushAt": "2026-08-14T06:05:44Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -73182,10 +72963,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-26T20:09:41.728Z",
-          "reason": "https://api.github.com/repos/CreatTheWorld/dsh-desktop-launcher: 404"
-        },
-        {
           "at": "2026-08-28T18:48:00.111Z",
           "reason": "https://api.github.com/repos/CreatTheWorld/dsh-desktop-launcher: 404"
         },
@@ -73259,6 +73036,10 @@
         },
         {
           "at": "2026-09-05T04:37:02.415Z",
+          "reason": "https://api.github.com/repos/CreatTheWorld/dsh-desktop-launcher: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
           "reason": "https://api.github.com/repos/CreatTheWorld/dsh-desktop-launcher: 404"
         }
       ],
@@ -76510,7 +76291,7 @@
         "fullName": "cyrus123456/dsh-johari-cognition-quadrant-dialog-composer",
         "url": "https://github.com/cyrus123456/dsh-johari-cognition-quadrant-dialog-composer"
       },
-      "summary": "乔哈里认知四象限对话梳理工具 / Johari cognition-quadrant dialog prompt composer — adds a button above the composer that opens a 2×2 quadrant panel (我知道/不知道 × AI知道/不知道) to groom conversation context into a structured prompt written back into the draft.",
+      "summary": "cyrus123456/dsh-johari-cognition-quadrant-dialog-composer",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -76522,7 +76303,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-29T02:16:06.796Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -76547,34 +76328,6 @@
         "lastPushAt": "2026-09-02T09:27:18Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "api",
-          "browser",
-          "chat",
-          "context",
-          "file",
-          "layout",
-          "theme",
-          "tool",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:memory-context:prompt",
-          "text:search-browsing:浏览器",
-          "text:themes-layout:背景",
-          "text:navigation-panels:panel",
-          "text:desktop-mobile:web ui",
-          "text:files-terminal:git",
-          "text:data-processing:json"
-        ],
-        "needsReview": true
       }
     },
     "cz1900-suanzhang-dsh": {
@@ -76750,7 +76503,7 @@
         "fullName": "d-ouyang/dsh-plugin-ascension",
         "url": "https://github.com/d-ouyang/dsh-plugin-ascension"
       },
-      "summary": "渡劫飞升：DeepSeek Harness 的仙逆·王林修炼伙伴。监控 LLM 会话状态驱动动画，随使用修炼升境，境界越高皮肤越华丽。",
+      "summary": "d-ouyang/dsh-plugin-ascension",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -76762,7 +76515,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -76787,38 +76540,6 @@
         "lastPushAt": "2026-08-19T12:03:32Z",
         "latestReleaseAt": "2026-08-19T12:03:53Z",
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "api",
-          "chat",
-          "data",
-          "file",
-          "knowledge",
-          "layout",
-          "monitoring",
-          "project-analysis",
-          "theme",
-          "tool",
-          "ui",
-          "video",
-          "visualization"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:memory-context:会话",
-          "text:knowledge-management:graph",
-          "text:themes-layout:皮肤",
-          "text:navigation-panels:panel",
-          "text:visualization:graph",
-          "text:desktop-mobile:web ui",
-          "text:files-terminal:git"
-        ],
-        "needsReview": true
       }
     },
     "d-ouyang-dsh-plugin-md-outline": {
@@ -77799,9 +77520,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T04:03:40.356Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T04:03:40.356Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -77818,14 +77539,14 @@
       },
       "failures": [],
       "github": {
-        "stars": 0,
+        "stars": 1,
         "license": "MIT",
         "archived": false,
         "private": false,
         "createdAt": "2026-08-15T09:34:44Z",
         "lastPushAt": "2026-08-15T10:17:59Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T04:03:40.356Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "integrations-communication",
@@ -87697,6 +87418,10 @@
         {
           "at": "2026-09-05T04:37:02.415Z",
           "reason": "https://api.github.com/repos/dong3434/dsh-auto-maintenance: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
+          "reason": "https://api.github.com/repos/dong3434/dsh-auto-maintenance: 404"
         }
       ],
       "github": {
@@ -87934,7 +87659,7 @@
         "fullName": "dongwenxiu83-web/dsh-friendly-steps",
         "url": "https://github.com/dongwenxiu83-web/dsh-friendly-steps"
       },
-      "summary": "过程精简：把 DSH Web GUI 里的 Think / 工具调用等技术过程行折叠成友好摘要，面向文字工作者的非技术呈现。Collapses technical process rows in the DeepSeek Harness Web GUI into a friendly summary pill.",
+      "summary": "dongwenxiu83-web/dsh-friendly-steps",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -87946,7 +87671,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -87971,35 +87696,6 @@
         "lastPushAt": "2026-09-01T03:39:44Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "browser",
-          "chat",
-          "data",
-          "debugging",
-          "desktop",
-          "document",
-          "file",
-          "layout",
-          "memory",
-          "tool"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:debug",
-          "text:planning-execution:执行",
-          "text:memory-context:会话",
-          "text:search-browsing:浏览器",
-          "text:document-processing:document",
-          "text:themes-layout:css",
-          "text:visualization:render"
-        ],
-        "needsReview": true
       }
     },
     "donoteatme-dsh-local-link": {
@@ -88363,9 +88059,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -88389,7 +88085,7 @@
         "createdAt": "2026-08-14T05:03:55Z",
         "lastPushAt": "2026-08-14T08:21:35Z",
         "latestReleaseAt": "2026-08-14T08:21:41Z",
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -89909,6 +89605,10 @@
       "failures": [
         {
           "at": "2026-09-05T04:37:02.415Z",
+          "reason": "Bad control character in string literal in JSON at position 188 (line 5 column 114)"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
           "reason": "Bad control character in string literal in JSON at position 188 (line 5 column 114)"
         }
       ],
@@ -92362,7 +92062,7 @@
         "fullName": "du-u-uck/DSH-Transparent-UI-Plugin",
         "url": "https://github.com/du-u-uck/DSH-Transparent-UI-Plugin"
       },
-      "summary": "DeepSeek Harness UI Aqua玻璃质感主题主题，在原作者基础上对DSH新版本进行适配",
+      "summary": "du-u-uck/DSH-Transparent-UI-Plugin",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -92374,7 +92074,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -92399,37 +92099,6 @@
         "lastPushAt": "2026-09-03T12:35:45Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "agents-workflows",
-        "category": "automation",
-        "tags": [
-          "api",
-          "automation",
-          "browser",
-          "chat",
-          "file",
-          "image",
-          "layout",
-          "terminal",
-          "testing",
-          "theme",
-          "ui",
-          "video"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:测试",
-          "text:automation:automat",
-          "text:planning-execution:执行",
-          "text:search-browsing:网页",
-          "text:themes-layout:主题",
-          "text:navigation-panels:sidebar",
-          "text:desktop-mobile:web ui"
-        ],
-        "needsReview": true
       }
     },
     "duanjiangdj-dsh-gui": {
@@ -96528,9 +96197,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -96554,7 +96223,7 @@
         "createdAt": "2026-08-15T03:25:33Z",
         "lastPushAt": "2026-08-15T04:18:34Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -97980,9 +97649,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -98006,7 +97675,7 @@
         "createdAt": "2026-08-15T03:13:10Z",
         "lastPushAt": "2026-08-15T03:29:26Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -99433,9 +99102,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -99459,7 +99128,7 @@
         "createdAt": "2026-08-15T05:36:09Z",
         "lastPushAt": "2026-08-15T05:41:37Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -101826,9 +101495,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -101852,7 +101521,7 @@
         "createdAt": "2026-08-14T16:28:01Z",
         "lastPushAt": "2026-08-15T04:04:53Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -103010,9 +102679,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -103037,7 +102706,7 @@
         "createdAt": "2026-08-14T12:07:18Z",
         "lastPushAt": "2026-08-14T12:49:59Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "build-development",
@@ -104054,7 +103723,7 @@
         "fullName": "FeatureAgents/AgentsGitFlowController",
         "url": "https://github.com/FeatureAgents/AgentsGitFlowController"
       },
-      "summary": "Agents Client Level Git Flow Controller",
+      "summary": "FeatureAgents/AgentsGitFlowController",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -104066,7 +103735,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-29T02:16:06.796Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -104091,37 +103760,6 @@
         "lastPushAt": "2026-09-01T05:16:10Z",
         "latestReleaseAt": "2026-09-01T05:06:02Z",
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "agents-workflows",
-        "category": "automation",
-        "tags": [
-          "agent",
-          "automation",
-          "cli",
-          "collaboration",
-          "file",
-          "integration",
-          "mobile",
-          "monitoring",
-          "project-analysis",
-          "terminal",
-          "theme",
-          "tool"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:automation:automat",
-          "text:memory-context:prompt",
-          "text:themes-layout:color",
-          "text:desktop-mobile:ios",
-          "text:files-terminal:git",
-          "text:data-processing:json",
-          "text:general-utilities:tool"
-        ],
-        "needsReview": true
       }
     },
     "february2015-dsh-dingo": {
@@ -105180,7 +104818,7 @@
         "fullName": "fengb3/dsh-theme-macintosh",
         "url": "https://github.com/fengb3/dsh-theme-macintosh"
       },
-      "summary": "DSH 主题 · 经典麦金塔 Classic Macintosh(System 7 像素复古)",
+      "summary": "fengb3/dsh-theme-macintosh",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -105192,7 +104830,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -105217,34 +104855,6 @@
         "lastPushAt": "2026-09-04T15:26:38Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "context",
-          "desktop",
-          "file",
-          "image",
-          "planning",
-          "search",
-          "theme",
-          "tool",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:planning-execution:计划",
-          "text:memory-context:会话",
-          "text:search-browsing:search",
-          "text:themes-layout:theme",
-          "text:navigation-panels:菜单",
-          "text:visualization:渲染",
-          "text:desktop-mobile:桌面"
-        ],
-        "needsReview": true
       }
     },
     "fenghuolinshan-dsh-plugin-llm-balance": {
@@ -108147,10 +107757,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-26T20:09:41.728Z",
-          "reason": "https://api.github.com/repos/Flamesnake/dsh-talespindle: 404"
-        },
-        {
           "at": "2026-08-28T18:48:00.111Z",
           "reason": "https://api.github.com/repos/Flamesnake/dsh-talespindle: 404"
         },
@@ -108224,6 +107830,10 @@
         },
         {
           "at": "2026-09-05T04:37:02.415Z",
+          "reason": "https://api.github.com/repos/Flamesnake/dsh-talespindle: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
           "reason": "https://api.github.com/repos/Flamesnake/dsh-talespindle: 404"
         }
       ],
@@ -112771,9 +112381,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -112797,7 +112407,7 @@
         "createdAt": "2026-08-15T04:39:49Z",
         "lastPushAt": "2026-08-15T04:59:24Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "interface-experience",
@@ -116829,9 +116439,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -116855,7 +116465,7 @@
         "createdAt": "2026-08-14T12:59:39Z",
         "lastPushAt": "2026-08-14T12:59:44Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "integrations-communication",
@@ -120489,9 +120099,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -120515,7 +120125,7 @@
         "createdAt": "2026-08-14T16:58:58Z",
         "lastPushAt": "2026-08-14T16:59:03Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -124889,7 +124499,7 @@
         "fullName": "GooDAnDReaDY/dsh-grok-xsearch",
         "url": "https://github.com/GooDAnDReaDY/dsh-grok-xsearch"
       },
-      "summary": "Real-time X (Twitter) search, author profiling, trends, and fact-checking tool suite powered by SuperGrok OAuth for DeepSeek Harness.",
+      "summary": "GooDAnDReaDY/dsh-grok-xsearch",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -124901,7 +124511,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-29T02:16:06.796Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -124926,44 +124536,6 @@
         "lastPushAt": "2026-09-03T16:11:33Z",
         "latestReleaseAt": "2026-09-04T23:18:11Z",
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "agents-workflows",
-        "category": "automation",
-        "tags": [
-          "agent",
-          "api",
-          "automation",
-          "browser",
-          "context",
-          "data",
-          "image",
-          "integration",
-          "knowledge",
-          "memory",
-          "monitoring",
-          "research",
-          "search",
-          "theme",
-          "tool",
-          "ui",
-          "video",
-          "visualization",
-          "workflow"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:automation:automat",
-          "text:planning-execution:workflow",
-          "text:memory-context:session",
-          "text:search-browsing:search",
-          "text:deep-research:research",
-          "text:knowledge-management:rag",
-          "text:themes-layout:color"
-        ],
-        "needsReview": true
       }
     },
     "goodandready-dsh-image-gen": {
@@ -125197,7 +124769,7 @@
         "fullName": "GooDAnDReaDY/dsh-subscriptions",
         "url": "https://github.com/GooDAnDReaDY/dsh-subscriptions"
       },
-      "summary": "OAuth subscription LLM providers for DeepSeek Harness (Codex, Claude, Grok, Antigravity)",
+      "summary": "GooDAnDReaDY/dsh-subscriptions",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -125209,7 +124781,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-29T02:16:06.796Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -125234,45 +124806,6 @@
         "lastPushAt": "2026-09-04T23:29:18Z",
         "latestReleaseAt": "2026-09-04T23:29:45Z",
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "agents-workflows",
-        "category": "automation",
-        "tags": [
-          "agent",
-          "api",
-          "automation",
-          "browser",
-          "chat",
-          "data",
-          "image",
-          "integration",
-          "knowledge",
-          "memory",
-          "monitoring",
-          "planning",
-          "project-analysis",
-          "search",
-          "terminal",
-          "testing",
-          "theme",
-          "tool",
-          "ui",
-          "visualization"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:test",
-          "text:automation:automat",
-          "text:planning-execution:task",
-          "text:memory-context:token",
-          "text:search-browsing:search",
-          "text:knowledge-management:graph",
-          "text:themes-layout:color"
-        ],
-        "needsReview": true
       }
     },
     "goodandready-dsh-tts": {
@@ -129009,9 +128542,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T04:03:40.356Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T04:03:40.356Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -129028,14 +128561,14 @@
       },
       "failures": [],
       "github": {
-        "stars": 0,
+        "stars": 1,
         "license": "MIT",
         "archived": false,
         "private": false,
         "createdAt": "2026-08-15T08:00:53Z",
         "lastPushAt": "2026-08-15T08:46:02Z",
         "latestReleaseAt": "2026-08-15T08:01:16Z",
-        "capturedAt": "2026-08-25T04:03:40.356Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "integrations-communication",
@@ -133135,6 +132668,10 @@
         {
           "at": "2026-09-05T04:37:02.415Z",
           "reason": "https://api.github.com/repos/Hann428/dsh-usage-dashboard: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
+          "reason": "https://api.github.com/repos/Hann428/dsh-usage-dashboard: 404"
         }
       ],
       "github": {
@@ -135042,9 +134579,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -135068,7 +134605,7 @@
         "createdAt": "2026-08-14T11:08:42Z",
         "lastPushAt": "2026-08-14T11:15:08Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "research-knowledge",
@@ -135903,6 +135440,86 @@
         "lastPushAt": "2026-08-25T08:00:46Z",
         "latestReleaseAt": "2026-08-20T16:21:57Z",
         "capturedAt": "2026-09-02T21:52:02.737Z"
+      }
+    },
+    "harzva-dsh-control-plane": {
+      "id": "harzva-dsh-control-plane",
+      "repository": {
+        "fullName": "Harzva/dsh-control-plane",
+        "url": "https://github.com/Harzva/dsh-control-plane"
+      },
+      "summary": "A local-first developer control plane for multiple DeepSeek Harness runtimes.",
+      "sources": [
+        "awesome-dsh-plugin"
+      ],
+      "admission": {
+        "status": "candidate"
+      },
+      "lifecycle": {
+        "suggestion": "incubating"
+      },
+      "visibility": "hidden",
+      "discoveredAt": "2026-09-05T12:46:18.657Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
+      "checks": {
+        "checkedAt": "2026-09-05T12:46:18.657Z",
+        "publicRepository": true,
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "installSpec": "github:Harzva/dsh-control-plane",
+        "installSpecValid": true,
+        "readmeFound": true,
+        "readmeGuidance": true,
+        "relevant": true,
+        "archived": false,
+        "admissionReady": true,
+        "reasons": []
+      },
+      "failures": [],
+      "github": {
+        "stars": 1,
+        "license": "MIT",
+        "archived": false,
+        "private": false,
+        "createdAt": "2026-08-21T08:50:04Z",
+        "lastPushAt": "2026-08-21T09:18:29Z",
+        "latestReleaseAt": "2026-08-21T08:50:55Z",
+        "capturedAt": "2026-09-05T12:46:18.657Z"
+      },
+      "classificationSuggestion": {
+        "group": "integrations-communication",
+        "category": "collaboration",
+        "tags": [
+          "agent",
+          "api",
+          "chat",
+          "collaboration",
+          "data",
+          "document",
+          "education",
+          "file",
+          "integration",
+          "knowledge",
+          "layout",
+          "monitoring",
+          "planning",
+          "project-analysis",
+          "testing",
+          "workflow"
+        ],
+        "source": "evidence-suggestion",
+        "confidence": "low",
+        "evidence": [
+          "text:plugin-development:bundle",
+          "text:planning-execution:plan",
+          "text:memory-context:session",
+          "text:knowledge-management:knowledge",
+          "text:document-processing:document",
+          "text:navigation-panels:panel",
+          "text:files-terminal:git",
+          "text:data-processing:data"
+        ],
+        "needsReview": true
       }
     },
     "harzva-dsh-groupx": {
@@ -137934,9 +137551,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T04:03:40.356Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T04:03:40.356Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -137960,7 +137577,7 @@
         "createdAt": "2026-08-14T06:09:08Z",
         "lastPushAt": "2026-08-15T09:27:57Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T04:03:40.356Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -139077,9 +138694,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -139103,7 +138720,7 @@
         "createdAt": "2026-08-15T05:51:03Z",
         "lastPushAt": "2026-08-15T05:59:38Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -139943,7 +139560,12 @@
           "manifestFound"
         ]
       },
-      "failures": [],
+      "failures": [
+        {
+          "at": "2026-09-05T12:46:18.657Z",
+          "reason": "https://api.github.com/repos/henryZhouLikeStudy/dsh-lattice-transports: 404"
+        }
+      ],
       "github": {
         "stars": 0,
         "license": "Apache-2.0",
@@ -141818,9 +141440,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T04:03:40.356Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T04:03:40.356Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -141844,7 +141466,7 @@
         "createdAt": "2026-08-15T09:49:56Z",
         "lastPushAt": "2026-08-15T09:50:18Z",
         "latestReleaseAt": "2026-08-15T09:50:20Z",
-        "capturedAt": "2026-08-25T04:03:40.356Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -141889,9 +141511,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T04:03:40.356Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T04:03:40.356Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -141915,7 +141537,7 @@
         "createdAt": "2026-08-15T08:03:07Z",
         "lastPushAt": "2026-08-15T09:08:29Z",
         "latestReleaseAt": "2026-08-15T09:08:31Z",
-        "capturedAt": "2026-08-25T04:03:40.356Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -142417,9 +142039,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -142436,14 +142058,14 @@
       },
       "failures": [],
       "github": {
-        "stars": 0,
+        "stars": 1,
         "license": "NOASSERTION",
         "archived": false,
         "private": false,
         "createdAt": "2026-08-14T23:42:26Z",
-        "lastPushAt": "2026-08-15T00:32:59Z",
+        "lastPushAt": "2026-09-02T15:12:55Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -142451,6 +142073,7 @@
         "tags": [
           "agent",
           "api",
+          "automation",
           "browser",
           "collaboration",
           "context",
@@ -142477,10 +142100,10 @@
           "text:code-generation:refactor",
           "text:testing-debugging:eval",
           "text:orchestration:orchestrat",
-          "text:automation:schedul",
+          "text:automation:automat",
           "text:planning-execution:workflow",
-          "text:memory-context:prompt",
-          "text:search-browsing:search"
+          "text:memory-context:session",
+          "text:search-browsing:playwright"
         ],
         "needsReview": true
       }
@@ -144846,9 +144469,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -144872,7 +144495,7 @@
         "createdAt": "2026-08-15T06:33:52Z",
         "lastPushAt": "2026-08-15T06:35:34Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "integrations-communication",
@@ -145057,9 +144680,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T04:03:40.356Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T04:03:40.356Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -145083,7 +144706,7 @@
         "createdAt": "2026-08-15T08:42:00Z",
         "lastPushAt": "2026-08-15T08:44:48Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T04:03:40.356Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -148006,9 +147629,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -148032,7 +147655,7 @@
         "createdAt": "2026-08-14T15:07:39Z",
         "lastPushAt": "2026-08-15T04:14:41Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -148709,9 +148332,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -148735,7 +148358,7 @@
         "createdAt": "2026-08-14T09:22:01Z",
         "lastPushAt": "2026-08-14T12:42:10Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "interface-experience",
@@ -148985,9 +148608,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -149011,7 +148634,7 @@
         "createdAt": "2026-08-15T06:10:37Z",
         "lastPushAt": "2026-08-15T06:10:41Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "integrations-communication",
@@ -149292,6 +148915,10 @@
         },
         {
           "at": "2026-08-29T09:07:35.951Z",
+          "reason": "https://api.github.com/repos/hyls9527/dsh-plugin-research: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
           "reason": "https://api.github.com/repos/hyls9527/dsh-plugin-research: 404"
         }
       ],
@@ -152802,6 +152429,10 @@
         {
           "at": "2026-09-05T04:37:02.415Z",
           "reason": "https://api.github.com/repos/ihuajiu/dsh-plugins-finder: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
+          "reason": "https://api.github.com/repos/ihuajiu/dsh-plugins-finder: 404"
         }
       ],
       "github": {
@@ -153296,9 +152927,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -153322,7 +152953,7 @@
         "createdAt": "2026-08-14T08:52:22Z",
         "lastPushAt": "2026-08-14T09:07:23Z",
         "latestReleaseAt": "2026-08-14T09:07:31Z",
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "build-development",
@@ -153380,9 +153011,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -153406,7 +153037,7 @@
         "createdAt": "2026-08-15T04:01:02Z",
         "lastPushAt": "2026-08-15T04:09:48Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -157972,9 +157603,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T04:03:40.356Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T04:03:40.356Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -157998,7 +157629,7 @@
         "createdAt": "2026-08-15T08:39:00Z",
         "lastPushAt": "2026-08-15T09:56:37Z",
         "latestReleaseAt": "2026-08-15T09:56:37Z",
-        "capturedAt": "2026-08-25T04:03:40.356Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "interface-experience",
@@ -165900,7 +165531,7 @@
         "fullName": "jiel521125/dsh-anlayzer",
         "url": "https://github.com/jiel521125/dsh-anlayzer"
       },
-      "summary": "天枢 (TianShu, \"Celestial Pivot\") — the pivot star of the Big Dipper, used to locate the North Star. This plugin locates the root cause of a failed DeepSeek Harness agent session and produces a shareable diagnostic report.",
+      "summary": "jiel521125/dsh-anlayzer",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -165912,7 +165543,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -165937,42 +165568,6 @@
         "lastPushAt": "2026-08-18T05:53:08Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "agents-workflows",
-        "category": "automation",
-        "tags": [
-          "agent",
-          "api",
-          "automation",
-          "browser",
-          "chat",
-          "cli",
-          "context",
-          "document",
-          "file",
-          "integration",
-          "layout",
-          "memory",
-          "planning",
-          "terminal",
-          "theme",
-          "tool",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:automation:automat",
-          "text:planning-execution:task",
-          "text:memory-context:session",
-          "text:search-browsing:browser",
-          "text:document-processing:markdown",
-          "text:themes-layout:background",
-          "text:navigation-panels:panel"
-        ],
-        "needsReview": true
       }
     },
     "jiesou-dsh-cline-free-provider": {
@@ -167355,9 +166950,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -167381,7 +166976,7 @@
         "createdAt": "2026-08-15T06:02:58Z",
         "lastPushAt": "2026-08-15T06:42:27Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -176097,10 +175692,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-26T20:09:41.728Z",
-          "reason": "https://api.github.com/repos/Julyves/dsh-git-status: 404"
-        },
-        {
           "at": "2026-08-28T18:48:00.111Z",
           "reason": "https://api.github.com/repos/Julyves/dsh-git-status: 404"
         },
@@ -176174,6 +175765,10 @@
         },
         {
           "at": "2026-09-05T04:37:02.415Z",
+          "reason": "https://api.github.com/repos/Julyves/dsh-git-status: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
           "reason": "https://api.github.com/repos/Julyves/dsh-git-status: 404"
         }
       ],
@@ -184789,9 +184384,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-24T19:47:57.489Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-24T19:47:57.489Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -184815,7 +184410,7 @@
         "createdAt": "2026-08-13T16:52:40Z",
         "lastPushAt": "2026-08-14T10:00:44Z",
         "latestReleaseAt": "2026-08-13T16:53:16Z",
-        "capturedAt": "2026-08-24T19:47:57.489Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -185990,9 +185585,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -186016,7 +185611,7 @@
         "createdAt": "2026-08-14T17:29:17Z",
         "lastPushAt": "2026-08-14T17:29:22Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -191683,9 +191278,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -191709,7 +191304,7 @@
         "createdAt": "2026-08-15T07:17:18Z",
         "lastPushAt": "2026-08-15T07:35:28Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "integrations-communication",
@@ -194023,9 +193618,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -194049,7 +193644,7 @@
         "createdAt": "2026-08-15T07:26:49Z",
         "lastPushAt": "2026-08-15T08:14:34Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "learning",
@@ -194968,9 +194563,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -194996,7 +194591,7 @@
         "createdAt": "2026-08-15T05:44:20Z",
         "lastPushAt": "2026-08-15T06:37:14Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "interface-experience",
@@ -200008,9 +199603,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -200034,7 +199629,7 @@
         "createdAt": "2026-08-15T05:31:48Z",
         "lastPushAt": "2026-08-15T05:31:56Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -200375,10 +199970,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-26T20:09:41.728Z",
-          "reason": "https://api.github.com/repos/LeslieWylie/dsh-evidence-memory: 404"
-        },
-        {
           "at": "2026-08-28T18:48:00.111Z",
           "reason": "https://api.github.com/repos/LeslieWylie/dsh-evidence-memory: 404"
         },
@@ -200452,6 +200043,10 @@
         },
         {
           "at": "2026-09-05T04:37:02.415Z",
+          "reason": "https://api.github.com/repos/LeslieWylie/dsh-evidence-memory: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
           "reason": "https://api.github.com/repos/LeslieWylie/dsh-evidence-memory: 404"
         }
       ],
@@ -201259,9 +200854,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T04:03:40.356Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T04:03:40.356Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -201278,14 +200873,14 @@
       },
       "failures": [],
       "github": {
-        "stars": 0,
+        "stars": 1,
         "license": "MIT",
         "archived": false,
         "private": false,
         "createdAt": "2026-08-15T07:21:07Z",
         "lastPushAt": "2026-08-15T09:27:38Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T04:03:40.356Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -203888,9 +203483,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -203914,7 +203509,7 @@
         "createdAt": "2026-08-14T04:38:23Z",
         "lastPushAt": "2026-08-15T02:53:29Z",
         "latestReleaseAt": "2026-08-15T02:53:29Z",
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -208549,9 +208144,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -208575,7 +208170,7 @@
         "createdAt": "2026-08-14T19:40:41Z",
         "lastPushAt": "2026-08-15T08:12:33Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -210895,7 +210490,7 @@
         "fullName": "liujia-io/dsh-image-picker",
         "url": "https://github.com/liujia-io/dsh-image-picker"
       },
-      "summary": "Paperclip image-picker button for the DeepSeek Harness web composer - pick reference images via the system file dialog and feed them into the official attachment pipeline.",
+      "summary": "liujia-io/dsh-image-picker",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -210907,7 +210502,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-29T02:16:06.796Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -210932,35 +210527,6 @@
         "lastPushAt": "2026-08-28T12:49:15Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "research-knowledge",
-        "category": "document-processing",
-        "tags": [
-          "agent",
-          "browser",
-          "chat",
-          "context",
-          "document",
-          "file",
-          "image",
-          "terminal",
-          "tool",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:planning-execution:执行",
-          "text:memory-context:会话",
-          "text:search-browsing:浏览器",
-          "text:document-processing:markdown",
-          "text:files-terminal:file",
-          "text:media-tools:image",
-          "text:general-utilities:工具"
-        ],
-        "needsReview": true
       }
     },
     "liujunheng-deepseekharnessgreen": {
@@ -211460,7 +211026,7 @@
         "fullName": "liuwenji007/dsh-trust-check",
         "url": "https://github.com/liuwenji007/dsh-trust-check"
       },
-      "summary": "Static capability disclosure for DeepSeek Harness plugins — evidence-backed, zero-token, no safety claims.",
+      "summary": "liuwenji007/dsh-trust-check",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -211472,7 +211038,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-29T02:16:06.796Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -211497,38 +211063,6 @@
         "lastPushAt": "2026-09-04T02:29:55Z",
         "latestReleaseAt": "2026-09-04T02:30:27Z",
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "agent",
-          "api",
-          "cli",
-          "data",
-          "document",
-          "file",
-          "integration",
-          "layout",
-          "project-analysis",
-          "skill",
-          "terminal",
-          "testing",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:testing-debugging:test",
-          "text:orchestration:子代理",
-          "text:planning-execution:执行",
-          "text:memory-context:token",
-          "text:document-processing:文档",
-          "text:themes-layout:布局",
-          "text:visualization:渲染"
-        ],
-        "needsReview": true
       }
     },
     "liuxinlongwa-hue-dsh-stitch-designer": {
@@ -212226,9 +211760,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -212250,9 +211784,9 @@
         "archived": false,
         "private": false,
         "createdAt": "2026-08-14T15:16:03Z",
-        "lastPushAt": "2026-08-14T16:12:55Z",
+        "lastPushAt": "2026-08-27T11:51:54Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "integrations-communication",
@@ -212643,9 +212177,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -212669,7 +212203,7 @@
         "createdAt": "2026-08-15T06:10:28Z",
         "lastPushAt": "2026-08-15T06:23:34Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -214180,9 +213714,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T04:03:40.356Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T04:03:40.356Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -214206,7 +213740,7 @@
         "createdAt": "2026-08-15T08:51:48Z",
         "lastPushAt": "2026-08-15T10:31:46Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T04:03:40.356Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -215599,9 +215133,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -215625,7 +215159,7 @@
         "createdAt": "2026-08-15T01:45:35Z",
         "lastPushAt": "2026-08-15T02:16:49Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -216063,7 +215597,7 @@
         "fullName": "loyalchiiina/dsh-font-enhancer",
         "url": "https://github.com/loyalchiiina/dsh-font-enhancer"
       },
-      "summary": "DIY 你的 DSH 界面：按区域自定义字体/字号/颜色 | DIY your DSH UI fonts & colors",
+      "summary": "loyalchiiina/dsh-font-enhancer",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -216075,7 +215609,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-29T02:16:06.796Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -216100,38 +215634,6 @@
         "lastPushAt": "2026-09-03T08:37:16Z",
         "latestReleaseAt": "2026-09-03T08:37:16Z",
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "agent",
-          "browser",
-          "chat",
-          "desktop",
-          "file",
-          "knowledge",
-          "layout",
-          "notification",
-          "planning",
-          "search",
-          "testing",
-          "theme",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:planning-execution:task",
-          "text:memory-context:session",
-          "text:search-browsing:网页",
-          "text:knowledge-management:rag",
-          "text:themes-layout:color",
-          "text:navigation-panels:sidebar",
-          "text:visualization:render"
-        ],
-        "needsReview": true
       }
     },
     "lqhl-dsh-pi-tui": {
@@ -222749,7 +222251,7 @@
         "fullName": "Lzz2133/dsh-manutd-fixtures",
         "url": "https://github.com/Lzz2133/dsh-manutd-fixtures"
       },
-      "summary": "Manchester United 2026/27 fixtures in the dsh web sidebar, kickoff times in your local timezone, finished matches with W/L/D results.",
+      "summary": "Lzz2133/dsh-manutd-fixtures",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -222761,7 +222263,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -222786,29 +222288,6 @@
         "lastPushAt": "2026-09-02T12:01:17Z",
         "latestReleaseAt": "2026-09-02T11:59:14Z",
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "collaboration",
-          "data",
-          "file",
-          "layout",
-          "theme"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:themes-layout:配色",
-          "text:navigation-panels:sidebar",
-          "text:visualization:渲染",
-          "text:files-terminal:file",
-          "text:data-processing:数据",
-          "text:collaboration:team"
-        ],
-        "needsReview": true
       }
     },
     "m-24rjgc-dsh-memory": {
@@ -227502,9 +226981,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -227528,7 +227007,7 @@
         "createdAt": "2026-08-10T02:06:18Z",
         "lastPushAt": "2026-08-06T20:06:39Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "integrations-communication",
@@ -229624,9 +229103,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -229651,7 +229130,7 @@
         "createdAt": "2026-08-15T02:06:35Z",
         "lastPushAt": "2026-08-15T02:36:01Z",
         "latestReleaseAt": "2026-08-15T02:11:40Z",
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "integrations-communication",
@@ -229835,9 +229314,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -229861,7 +229340,7 @@
         "createdAt": "2026-08-15T07:52:37Z",
         "lastPushAt": "2026-08-15T07:52:41Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -232071,7 +231550,7 @@
         "fullName": "mercy719/dsh-client-ui-weather",
         "url": "https://github.com/mercy719/dsh-client-ui-weather"
       },
-      "summary": "Weather dashboard plugin for the DeepSeek Harness Web GUI",
+      "summary": "mercy719/dsh-client-ui-weather",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -232083,7 +231562,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -232108,37 +231587,6 @@
         "lastPushAt": "2026-08-18T10:49:49Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "agents-workflows",
-        "category": "automation",
-        "tags": [
-          "api",
-          "automation",
-          "browser",
-          "context",
-          "data",
-          "file",
-          "project-analysis",
-          "terminal",
-          "testing",
-          "tool",
-          "ui",
-          "visualization"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:test",
-          "text:project-analysis:dependency",
-          "text:automation:watcher",
-          "text:memory-context:session",
-          "text:search-browsing:browser",
-          "text:knowledge-management:graph",
-          "text:navigation-panels:dashboard"
-        ],
-        "needsReview": true
       }
     },
     "merenguesl-dsh-tool-normalizer": {
@@ -233354,10 +232802,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-24T09:07:34.905Z",
-          "reason": "https://api.github.com/repos/mianyoubiaoqing/MistyMoon-DSH: 404"
-        },
-        {
           "at": "2026-08-24T15:58:34.249Z",
           "reason": "https://api.github.com/repos/mianyoubiaoqing/MistyMoon-DSH: 404"
         },
@@ -233431,6 +232875,10 @@
         },
         {
           "at": "2026-09-05T04:37:02.415Z",
+          "reason": "https://api.github.com/repos/mianyoubiaoqing/MistyMoon-DSH: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
           "reason": "https://api.github.com/repos/mianyoubiaoqing/MistyMoon-DSH: 404"
         }
       ],
@@ -234405,7 +233853,7 @@
         "fullName": "mienfong/dsh-session-mgr",
         "url": "https://github.com/mienfong/dsh-session-mgr"
       },
-      "summary": "Session manager for the DeepSeek Harness web UI: move, archive, restore, backup/export and import conversations across workspaces. Trilingual (English / 简体 / 繁體).",
+      "summary": "mienfong/dsh-session-mgr",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -234417,7 +233865,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-29T02:16:06.796Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -234442,35 +233890,6 @@
         "lastPushAt": "2026-09-03T13:26:37Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "agent",
-          "api",
-          "chat",
-          "data",
-          "file",
-          "layout",
-          "memory",
-          "testing",
-          "tool",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:manifest",
-          "text:testing-debugging:test",
-          "text:memory-context:session",
-          "text:navigation-panels:sidebar",
-          "text:desktop-mobile:web ui",
-          "text:files-terminal:git",
-          "text:data-processing:json",
-          "text:media-tools:media"
-        ],
-        "needsReview": true
       }
     },
     "miiaowuwu-dsh-event-sounds": {
@@ -237046,7 +236465,7 @@
         "fullName": "mjylfz/dsh-subagent-codex",
         "url": "https://github.com/mjylfz/dsh-subagent-codex"
       },
-      "summary": "DSH subagent provider that delegates tasks to the OpenAI Codex CLI (codex exec), exposing the subagent_codex tool",
+      "summary": "mjylfz/dsh-subagent-codex",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -237058,7 +236477,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -237083,41 +236502,6 @@
         "lastPushAt": "2026-08-25T10:37:59Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "agent",
-          "chat",
-          "cli",
-          "data",
-          "desktop",
-          "document",
-          "education",
-          "file",
-          "integration",
-          "layout",
-          "memory",
-          "planning",
-          "project-analysis",
-          "research",
-          "testing",
-          "tool"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:testing-debugging:测试",
-          "text:orchestration:subagent",
-          "text:planning-execution:task",
-          "text:memory-context:会话",
-          "text:deep-research:研究",
-          "text:knowledge-management:笔记",
-          "text:document-processing:文档"
-        ],
-        "needsReview": true
       }
     },
     "mkaliezz-dsh-action-ledger": {
@@ -238185,9 +237569,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -238211,7 +237595,7 @@
         "createdAt": "2026-08-14T12:07:59Z",
         "lastPushAt": "2026-08-14T12:10:36Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "integrations-communication",
@@ -239765,9 +239149,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -239791,7 +239175,7 @@
         "createdAt": "2026-08-14T17:19:25Z",
         "lastPushAt": "2026-08-14T17:25:11Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -241926,10 +241310,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-24T15:58:34.249Z",
-          "reason": "https://api.github.com/repos/MoonGlassKitty/dsh-tailscale-sync: 404"
-        },
-        {
           "at": "2026-08-24T22:46:58.443Z",
           "reason": "https://api.github.com/repos/MoonGlassKitty/dsh-tailscale-sync: 404"
         },
@@ -242003,6 +241383,10 @@
         },
         {
           "at": "2026-09-05T04:37:02.415Z",
+          "reason": "https://api.github.com/repos/MoonGlassKitty/dsh-tailscale-sync: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
           "reason": "https://api.github.com/repos/MoonGlassKitty/dsh-tailscale-sync: 404"
         }
       ],
@@ -244196,9 +243580,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T04:03:40.356Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T04:03:40.356Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -244222,7 +243606,7 @@
         "createdAt": "2026-08-15T07:08:42Z",
         "lastPushAt": "2026-08-15T09:44:23Z",
         "latestReleaseAt": "2026-08-15T07:41:30Z",
-        "capturedAt": "2026-08-25T04:03:40.356Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -245328,9 +244712,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -245354,7 +244738,7 @@
         "createdAt": "2026-08-15T03:42:03Z",
         "lastPushAt": "2026-08-15T04:49:38Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -245836,7 +245220,7 @@
         "fullName": "Mutx163/dsh-model-memory",
         "url": "https://github.com/Mutx163/dsh-model-memory"
       },
-      "summary": "🧠 DSH 自定义模型思考等级管理与偏好持久记忆插件 | Custom model reasoning effort management & cross-session memory for DeepSeek Harness",
+      "summary": "Mutx163/dsh-model-memory",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -245848,7 +245232,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -245873,32 +245257,6 @@
         "lastPushAt": "2026-09-02T03:55:05Z",
         "latestReleaseAt": "2026-08-21T17:20:20Z",
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "agent",
-          "api",
-          "document",
-          "file",
-          "memory",
-          "testing",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:testing-debugging:test",
-          "text:planning-execution:执行",
-          "text:memory-context:memory",
-          "text:document-processing:文档",
-          "text:desktop-mobile:web ui",
-          "text:files-terminal:git",
-          "text:data-processing:json"
-        ],
-        "needsReview": true
       }
     },
     "muvuula-deepseek-harness-core": {
@@ -248553,9 +247911,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -248579,7 +247937,7 @@
         "createdAt": "2026-08-14T17:30:15Z",
         "lastPushAt": "2026-08-15T01:22:08Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -252253,10 +251611,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-26T20:09:41.728Z",
-          "reason": "Expected double-quoted property name in JSON at position 459 (line 16 column 1)"
-        },
-        {
           "at": "2026-08-28T18:48:00.111Z",
           "reason": "Expected double-quoted property name in JSON at position 459 (line 16 column 1)"
         },
@@ -252330,6 +251684,10 @@
         },
         {
           "at": "2026-09-05T04:37:02.415Z",
+          "reason": "Expected double-quoted property name in JSON at position 459 (line 16 column 1)"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
           "reason": "Expected double-quoted property name in JSON at position 459 (line 16 column 1)"
         }
       ],
@@ -252827,9 +252185,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -252853,7 +252211,7 @@
         "createdAt": "2026-08-14T20:19:54Z",
         "lastPushAt": "2026-08-14T21:21:19Z",
         "latestReleaseAt": "2026-08-14T21:19:23Z",
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -256968,7 +256326,7 @@
         "fullName": "NyaaCaster/dsh-yuque-kb",
         "url": "https://github.com/NyaaCaster/dsh-yuque-kb"
       },
-      "summary": "dsh web插件，语雀文档知识库化在dsh中调用",
+      "summary": "NyaaCaster/dsh-yuque-kb",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -256980,7 +256338,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-29T02:16:06.796Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -257005,40 +256363,6 @@
         "lastPushAt": "2026-08-28T09:58:17Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "api",
-          "browser",
-          "chat",
-          "document",
-          "education",
-          "file",
-          "image",
-          "knowledge",
-          "layout",
-          "memory",
-          "search",
-          "testing",
-          "theme",
-          "tool",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:testing-debugging:测试",
-          "text:memory-context:记忆",
-          "text:search-browsing:搜索",
-          "text:knowledge-management:知识",
-          "text:document-processing:文档",
-          "text:themes-layout:color",
-          "text:navigation-panels:面板"
-        ],
-        "needsReview": true
       }
     },
     "nyantused-cpun-folio": {
@@ -260740,7 +260064,7 @@
         "fullName": "OMSociety/kimi-ppt-skill",
         "url": "https://github.com/OMSociety/kimi-ppt-skill"
       },
-      "summary": "DSH (DeepSeek Harness) presentation skill: PPT/演示文稿生成与导出，含 DSH 内纯本地导出 (python-pptx) 与本地预览渲染 (Pillow)。",
+      "summary": "OMSociety/kimi-ppt-skill",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -260752,7 +260076,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -260777,37 +260101,6 @@
         "lastPushAt": "2026-09-03T16:29:29Z",
         "latestReleaseAt": "2026-09-03T02:44:24Z",
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "agent",
-          "browser",
-          "chat",
-          "desktop",
-          "document",
-          "education",
-          "file",
-          "image",
-          "project-analysis",
-          "research",
-          "skill",
-          "theme"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:日志",
-          "text:search-browsing:browser",
-          "text:deep-research:研究",
-          "text:document-processing:pptx",
-          "text:themes-layout:color",
-          "text:visualization:渲染",
-          "text:desktop-mobile:桌面"
-        ],
-        "needsReview": true
       }
     },
     "onchainyaotoshi-dsh-plugins": {
@@ -260910,10 +260203,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-26T20:09:41.728Z",
-          "reason": "https://api.github.com/repos/oneincase/dsh-minecraft-skin: 404"
-        },
-        {
           "at": "2026-08-28T18:48:00.111Z",
           "reason": "https://api.github.com/repos/oneincase/dsh-minecraft-skin: 404"
         },
@@ -260987,6 +260276,10 @@
         },
         {
           "at": "2026-09-05T04:37:02.415Z",
+          "reason": "https://api.github.com/repos/oneincase/dsh-minecraft-skin: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
           "reason": "https://api.github.com/repos/oneincase/dsh-minecraft-skin: 404"
         }
       ],
@@ -262718,9 +262011,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -262742,9 +262035,9 @@
         "archived": false,
         "private": false,
         "createdAt": "2026-08-15T02:42:58Z",
-        "lastPushAt": "2026-08-15T06:10:26Z",
+        "lastPushAt": "2026-08-28T22:58:56Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -267475,7 +266768,7 @@
         "fullName": "patrick1099/dsh-claude-plugin-loader",
         "url": "https://github.com/patrick1099/dsh-claude-plugin-loader"
       },
-      "summary": "Load Claude Code-style plugins (skills, commands, hooks) inside DeepSeek Harness (dsh).",
+      "summary": "patrick1099/dsh-claude-plugin-loader",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -267487,7 +266780,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-29T02:16:06.796Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -267512,40 +266805,6 @@
         "lastPushAt": "2026-08-31T07:33:37Z",
         "latestReleaseAt": "2026-08-26T01:00:48Z",
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "agents-workflows",
-        "category": "automation",
-        "tags": [
-          "agent",
-          "automation",
-          "cli",
-          "context",
-          "debugging",
-          "file",
-          "mcp",
-          "monitoring",
-          "search",
-          "skill",
-          "testing",
-          "theme",
-          "tool",
-          "ui",
-          "workflow"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:test",
-          "text:automation:自动化",
-          "text:planning-execution:执行",
-          "text:memory-context:session",
-          "text:search-browsing:search",
-          "text:themes-layout:background",
-          "text:files-terminal:目录"
-        ],
-        "needsReview": true
       }
     },
     "paul-xing-dsh-paperclip-upload": {
@@ -270377,7 +269636,7 @@
         "fullName": "PerryLink/dsh-reach",
         "url": "https://github.com/PerryLink/dsh-reach"
       },
-      "summary": "Multi-channel decision & remote-control bridge for DeepSeek Harness: pushes any workspace's approval/question cards to IM channels (WeChat iLink first) and answers them from chat, with a session console, per-channel security, and an open push service.",
+      "summary": "PerryLink/dsh-reach",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -270389,7 +269648,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -270414,38 +269673,6 @@
         "lastPushAt": "2026-09-05T02:15:20Z",
         "latestReleaseAt": "2026-09-04T14:11:25Z",
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "research-knowledge",
-        "category": "deep-research",
-        "tags": [
-          "chat",
-          "file",
-          "integration",
-          "monitoring",
-          "notification",
-          "planning",
-          "project-analysis",
-          "research",
-          "search",
-          "testing",
-          "theme",
-          "tool",
-          "workflow"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:test",
-          "text:planning-execution:workflow",
-          "text:memory-context:session",
-          "text:search-browsing:search",
-          "text:deep-research:research",
-          "text:themes-layout:background",
-          "text:files-terminal:git"
-        ],
-        "needsReview": true
       }
     },
     "perrylink-dsh-research-report": {
@@ -270729,7 +269956,7 @@
         "fullName": "PerryLink/dsh-wechat",
         "url": "https://github.com/PerryLink/dsh-wechat"
       },
-      "summary": "DSH插件，将微信私聊消息桥接到DSH，支持文本、图片、文件、音视频的双向传输。目标是在微信端还原DSH的原生体验",
+      "summary": "PerryLink/dsh-wechat",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -270741,7 +269968,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -270766,47 +269993,6 @@
         "lastPushAt": "2026-09-05T02:20:12Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "agent",
-          "api",
-          "browser",
-          "chat",
-          "cli",
-          "context",
-          "document",
-          "education",
-          "file",
-          "image",
-          "integration",
-          "knowledge",
-          "mcp",
-          "monitoring",
-          "notification",
-          "planning",
-          "terminal",
-          "testing",
-          "tool",
-          "ui",
-          "video",
-          "workflow"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:testing-debugging:日志",
-          "text:orchestration:subagent",
-          "text:planning-execution:workflow",
-          "text:memory-context:会话",
-          "text:search-browsing:浏览器",
-          "text:knowledge-management:rag",
-          "text:document-processing:文档"
-        ],
-        "needsReview": true
       }
     },
     "perseus-computing-llc-perseus-vault-dsh": {
@@ -272831,9 +272017,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -272857,7 +272043,7 @@
         "createdAt": "2026-08-14T14:06:05Z",
         "lastPushAt": "2026-08-14T14:06:08Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -275304,10 +274490,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-26T20:09:41.728Z",
-          "reason": "https://api.github.com/repos/PrismScopes/deepseek-harness-zh: 404"
-        },
-        {
           "at": "2026-08-28T18:48:00.111Z",
           "reason": "https://api.github.com/repos/PrismScopes/deepseek-harness-zh: 404"
         },
@@ -275381,6 +274563,10 @@
         },
         {
           "at": "2026-09-05T04:37:02.415Z",
+          "reason": "https://api.github.com/repos/PrismScopes/deepseek-harness-zh: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
           "reason": "https://api.github.com/repos/PrismScopes/deepseek-harness-zh: 404"
         }
       ],
@@ -280921,9 +280107,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -280947,7 +280133,7 @@
         "createdAt": "2026-08-14T18:41:49Z",
         "lastPushAt": "2026-08-14T18:46:34Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -282665,9 +281851,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -282691,7 +281877,7 @@
         "createdAt": "2026-08-14T16:18:23Z",
         "lastPushAt": "2026-08-15T01:04:39Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -282821,7 +282007,7 @@
         "fullName": "qwert702/dsh-auto-translate",
         "url": "https://github.com/qwert702/dsh-auto-translate"
       },
-      "summary": "DeepSeek Harness 插件:英文回复自动翻译成中文,工具调用附带一行中文注释;翻译走独立请求,不占用上下文窗口",
+      "summary": "qwert702/dsh-auto-translate",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -282833,7 +282019,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -282858,37 +282044,6 @@
         "lastPushAt": "2026-09-05T05:40:41Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "agent",
-          "api",
-          "browser",
-          "chat",
-          "context",
-          "data",
-          "document",
-          "image",
-          "layout",
-          "testing",
-          "tool",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:testing-debugging:test",
-          "text:memory-context:上下文",
-          "text:search-browsing:浏览器",
-          "text:document-processing:markdown",
-          "text:themes-layout:布局",
-          "text:navigation-panels:面板",
-          "text:visualization:渲染"
-        ],
-        "needsReview": true
       }
     },
     "qwert702-dsh-community": {
@@ -282968,7 +282123,7 @@
         "fullName": "qwert702/dsh-context-compressor",
         "url": "https://github.com/qwert702/dsh-context-compressor"
       },
-      "summary": "Context compression for small-context models on the DeepSeek Harness Web GUI: one click condenses the whole conversation into a few sentences, opens a fresh session in the same workspace, and re-injects the summary as the first message so a small model keeps working with a clean, compact context.",
+      "summary": "qwert702/dsh-context-compressor",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -282980,7 +282135,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -283005,36 +282160,6 @@
         "lastPushAt": "2026-09-05T05:41:46Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "interface-experience",
-        "category": "desktop-mobile",
-        "tags": [
-          "agent",
-          "api",
-          "browser",
-          "chat",
-          "context",
-          "desktop",
-          "layout",
-          "planning",
-          "testing",
-          "theme",
-          "tool"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:testing-debugging:日志",
-          "text:planning-execution:任务",
-          "text:memory-context:context",
-          "text:search-browsing:浏览器",
-          "text:themes-layout:背景",
-          "text:navigation-panels:侧边栏",
-          "text:visualization:渲染"
-        ],
-        "needsReview": true
       }
     },
     "qwert702-dsh-link-plugin": {
@@ -285285,9 +284410,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -285311,7 +284436,7 @@
         "createdAt": "2026-08-15T08:40:40Z",
         "lastPushAt": "2026-08-15T08:40:44Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -288496,9 +287621,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -288522,7 +287647,7 @@
         "createdAt": "2026-08-14T15:38:04Z",
         "lastPushAt": "2026-08-14T16:23:56Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -293744,7 +292869,7 @@
         "fullName": "runcat-tommy/dsh-chinese-poetry",
         "url": "https://github.com/runcat-tommy/dsh-chinese-poetry"
       },
-      "summary": "A token-free Chinese classical poetry plugin for DeepSeek Harness Web: search, filters, Feihua, daily poem, favorites, and AI explain. Powered by the free public chinese-poetry-api.",
+      "summary": "runcat-tommy/dsh-chinese-poetry",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -293756,7 +292881,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -293781,40 +292906,6 @@
         "lastPushAt": "2026-09-03T09:47:18Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "api",
-          "browser",
-          "chat",
-          "data",
-          "debugging",
-          "document",
-          "education",
-          "image",
-          "knowledge",
-          "layout",
-          "project-analysis",
-          "search",
-          "testing",
-          "tool",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:调试",
-          "text:memory-context:token",
-          "text:search-browsing:search",
-          "text:knowledge-management:rag",
-          "text:document-processing:文档",
-          "text:themes-layout:布局",
-          "text:visualization:渲染"
-        ],
-        "needsReview": true
       }
     },
     "runcat-tommy-dsh-panda-calendar": {
@@ -293823,7 +292914,7 @@
         "fullName": "runcat-tommy/dsh-panda-calendar",
         "url": "https://github.com/runcat-tommy/dsh-panda-calendar"
       },
-      "summary": "熊猫日历 · DSH client-plugin：公历/农历/干支/生肖/节气、传统与外国节日、中国法定节假日（含调休）、多城市天气 — token-free Chinese calendar & weather plugin for DeepSeek Harness Web.",
+      "summary": "runcat-tommy/dsh-panda-calendar",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -293835,7 +292926,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -293860,39 +292951,6 @@
         "lastPushAt": "2026-09-03T07:29:18Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "api",
-          "browser",
-          "chat",
-          "data",
-          "debugging",
-          "file",
-          "knowledge",
-          "notification",
-          "project-analysis",
-          "search",
-          "terminal",
-          "testing",
-          "tool",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:调试",
-          "text:memory-context:token",
-          "text:search-browsing:浏览器",
-          "text:knowledge-management:rag",
-          "text:desktop-mobile:web ui",
-          "text:files-terminal:git",
-          "text:data-processing:data"
-        ],
-        "needsReview": true
       }
     },
     "runfali-dsh-login-gateway": {
@@ -295202,7 +294260,7 @@
         "fullName": "s1lencewill/dsh-markdown-reader",
         "url": "https://github.com/s1lencewill/dsh-markdown-reader"
       },
-      "summary": "DSH Web GUI full-screen Markdown reader with GFM, outline, KaTeX, Mermaid, and relative resource navigation.",
+      "summary": "s1lencewill/dsh-markdown-reader",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -295214,7 +294272,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -295239,42 +294297,6 @@
         "lastPushAt": "2026-09-04T15:27:17Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "agent",
-          "api",
-          "browser",
-          "chat",
-          "data",
-          "document",
-          "file",
-          "image",
-          "integration",
-          "layout",
-          "planning",
-          "terminal",
-          "testing",
-          "theme",
-          "tool",
-          "ui",
-          "visualization"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:testing-debugging:测试",
-          "text:planning-execution:任务",
-          "text:memory-context:prompt",
-          "text:search-browsing:浏览器",
-          "text:document-processing:markdown",
-          "text:themes-layout:主题",
-          "text:navigation-panels:navigation"
-        ],
-        "needsReview": true
       }
     },
     "s3yf1337-dsh-desktop": {
@@ -299918,9 +298940,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -299944,7 +298966,7 @@
         "createdAt": "2026-08-15T04:09:47Z",
         "lastPushAt": "2026-08-15T04:13:08Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -300397,9 +299419,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T04:03:40.356Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T04:03:40.356Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -300423,7 +299445,7 @@
         "createdAt": "2026-08-15T09:58:08Z",
         "lastPushAt": "2026-08-15T09:58:20Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T04:03:40.356Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -300691,7 +299713,12 @@
           "readmeGuidance"
         ]
       },
-      "failures": [],
+      "failures": [
+        {
+          "at": "2026-09-05T12:46:18.657Z",
+          "reason": "https://api.github.com/repos/Semidia/dsh-friendly-errors: 404"
+        }
+      ],
       "github": {
         "stars": 0,
         "license": null,
@@ -301842,7 +300869,7 @@
         "fullName": "ShaineDemo/dsh-vision-pro-bridge",
         "url": "https://github.com/ShaineDemo/dsh-vision-pro-bridge"
       },
-      "summary": "Give text-only DeepSeek-V4-Pro vision — zero new dependencies, DeepSeek-only routing (images described by deepseek-v4-flash-vision-exp, then answered by V4-Pro).",
+      "summary": "ShaineDemo/dsh-vision-pro-bridge",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -301854,7 +300881,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -301879,36 +300906,6 @@
         "lastPushAt": "2026-09-03T15:59:56Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "agent",
-          "api",
-          "chat",
-          "file",
-          "image",
-          "integration",
-          "knowledge",
-          "layout",
-          "project-analysis",
-          "tool",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:project-analysis:dependency",
-          "text:memory-context:session",
-          "text:knowledge-management:rag",
-          "text:document-processing:ocr",
-          "text:themes-layout:layout",
-          "text:files-terminal:file",
-          "text:data-processing:json"
-        ],
-        "needsReview": true
       }
     },
     "shaky77-weiwen-law-dsh": {
@@ -304141,9 +303138,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -304167,7 +303164,7 @@
         "createdAt": "2026-08-15T03:26:55Z",
         "lastPushAt": "2026-08-15T04:56:43Z",
         "latestReleaseAt": "2026-08-15T04:57:32Z",
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -304226,9 +303223,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -304252,7 +303249,7 @@
         "createdAt": "2026-08-15T00:53:16Z",
         "lastPushAt": "2026-08-15T01:39:42Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -304735,9 +303732,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -304761,7 +303758,7 @@
         "createdAt": "2026-08-14T12:00:54Z",
         "lastPushAt": "2026-08-14T12:01:01Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -308942,6 +307939,10 @@
         {
           "at": "2026-08-29T09:07:35.951Z",
           "reason": "https://api.github.com/repos/sjh9714/clippy-harness: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
+          "reason": "https://api.github.com/repos/sjh9714/clippy-harness: 404"
         }
       ],
       "github": {
@@ -309217,6 +308218,10 @@
         },
         {
           "at": "2026-09-05T04:37:02.415Z",
+          "reason": "https://api.github.com/repos/sjh9714/dsh-what-changed: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
           "reason": "https://api.github.com/repos/sjh9714/dsh-what-changed: 404"
         }
       ],
@@ -309671,9 +308676,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -309690,14 +308695,14 @@
       },
       "failures": [],
       "github": {
-        "stars": 0,
+        "stars": 1,
         "license": "MIT",
         "archived": false,
         "private": false,
         "createdAt": "2026-08-12T12:15:19Z",
         "lastPushAt": "2026-08-15T05:48:07Z",
         "latestReleaseAt": "2026-08-13T03:48:22Z",
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -316404,9 +315409,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -316430,7 +315435,7 @@
         "createdAt": "2026-08-15T03:41:04Z",
         "lastPushAt": "2026-08-15T06:07:31Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "integrations-communication",
@@ -321154,9 +320159,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -321178,9 +320183,9 @@
         "archived": false,
         "private": false,
         "createdAt": "2026-08-14T11:46:13Z",
-        "lastPushAt": "2026-08-14T15:27:07Z",
+        "lastPushAt": "2026-09-01T13:00:22Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "integrations-communication",
@@ -322468,7 +321473,7 @@
         "fullName": "suntianc/dsh-antigravity-auth",
         "url": "https://github.com/suntianc/dsh-antigravity-auth"
       },
-      "summary": "DeepSeek Harness plugin for Antigravity OAuth login and native Antigravity Auth capability bundle",
+      "summary": "suntianc/dsh-antigravity-auth",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -322480,7 +321485,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -322505,42 +321510,6 @@
         "lastPushAt": "2026-09-03T08:11:47Z",
         "latestReleaseAt": "2026-09-01T07:14:21Z",
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "agent",
-          "browser",
-          "cli",
-          "data",
-          "file",
-          "image",
-          "integration",
-          "knowledge",
-          "memory",
-          "monitoring",
-          "project-analysis",
-          "search",
-          "terminal",
-          "testing",
-          "tool",
-          "video",
-          "visualization"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:test",
-          "text:project-analysis:dependency",
-          "text:memory-context:session",
-          "text:search-browsing:search",
-          "text:knowledge-management:graph",
-          "text:navigation-panels:dashboard",
-          "text:visualization:visualiz"
-        ],
-        "needsReview": true
       }
     },
     "suntianc-dsh-ui-settings-icons": {
@@ -322549,7 +321518,7 @@
         "fullName": "suntianc/dsh-ui-settings-icons",
         "url": "https://github.com/suntianc/dsh-ui-settings-icons"
       },
-      "summary": "DeepSeek Harness UI plugin that adds custom navigation icons and a keyed settings.section.icon slot",
+      "summary": "suntianc/dsh-ui-settings-icons",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -322561,7 +321530,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -322586,36 +321555,6 @@
         "lastPushAt": "2026-09-03T13:54:16Z",
         "latestReleaseAt": "2026-08-21T11:21:28Z",
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "agent",
-          "browser",
-          "chat",
-          "context",
-          "document",
-          "file",
-          "layout",
-          "project-analysis",
-          "terminal",
-          "testing",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:memory-context:context",
-          "text:search-browsing:browser",
-          "text:document-processing:document",
-          "text:themes-layout:css",
-          "text:navigation-panels:navigation",
-          "text:visualization:render",
-          "text:files-terminal:git"
-        ],
-        "needsReview": true
       }
     },
     "sunxin-ai-dsh-design-qa": {
@@ -323748,7 +322687,7 @@
         "fullName": "SuperstructureJH/dsh-workbuddy-ppt",
         "url": "https://github.com/SuperstructureJH/dsh-workbuddy-ppt"
       },
-      "summary": "Editable PPTX generation for DSH with bundled authoring skills and deterministic PPTD validation",
+      "summary": "SuperstructureJH/dsh-workbuddy-ppt",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -323760,7 +322699,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-29T02:16:06.796Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -323785,42 +322724,6 @@
         "lastPushAt": "2026-08-28T08:23:07Z",
         "latestReleaseAt": "2026-08-27T06:47:54Z",
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "build-development",
-        "category": "code-generation",
-        "tags": [
-          "browser",
-          "cli",
-          "code-generation",
-          "data",
-          "document",
-          "file",
-          "image",
-          "knowledge",
-          "layout",
-          "planning",
-          "project-analysis",
-          "search",
-          "skill",
-          "theme",
-          "tool",
-          "visualization",
-          "workflow"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:bundle",
-          "text:code-generation:generate them. planning, code",
-          "text:planning-execution:workflow",
-          "text:memory-context:session",
-          "text:search-browsing:search",
-          "text:knowledge-management:rag",
-          "text:document-processing:pptx",
-          "text:themes-layout:layout"
-        ],
-        "needsReview": true
       }
     },
     "supersyh-sss-dsh-voice-assistant": {
@@ -326206,7 +325109,7 @@
         "fullName": "SZMY-haruhi/dsh-session-plus",
         "url": "https://github.com/SZMY-haruhi/dsh-session-plus"
       },
-      "summary": "把社区里零散的会话能力收成一套：归档目录、恢复原位、删除、编辑重发。补官方缺口，走公开 slot，不打核心补丁。A session pack for DeepSeek Harness: archive directory, restore, delete, edit-and-resend. One place for features that usually live in separate plugins.",
+      "summary": "SZMY-haruhi/dsh-session-plus",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -326218,7 +325121,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -326243,33 +325146,6 @@
         "lastPushAt": "2026-08-17T19:35:43Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "api",
-          "chat",
-          "context",
-          "file",
-          "layout",
-          "theme",
-          "tool",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:日志",
-          "text:memory-context:session",
-          "text:themes-layout:color",
-          "text:navigation-panels:sidebar",
-          "text:files-terminal:目录",
-          "text:data-processing:json",
-          "text:general-utilities:tool"
-        ],
-        "needsReview": true
       }
     },
     "szmy-haruhi-dsh-tavily": {
@@ -328697,9 +327573,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -328724,7 +327600,7 @@
         "createdAt": "2026-06-06T04:57:21Z",
         "lastPushAt": "2026-06-07T15:41:25Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "integrations-communication",
@@ -328859,9 +327735,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -328885,7 +327761,7 @@
         "createdAt": "2026-08-14T14:42:13Z",
         "lastPushAt": "2026-08-15T03:25:54Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -331905,9 +330781,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-24T19:03:21.503Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-24T19:03:21.503Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -331931,7 +330807,7 @@
         "createdAt": "2026-08-14T04:59:10Z",
         "lastPushAt": "2026-08-15T08:34:42Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-24T19:03:21.503Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "integrations-communication",
@@ -335308,9 +334184,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -335334,7 +334210,7 @@
         "createdAt": "2026-08-14T12:24:22Z",
         "lastPushAt": "2026-08-14T12:46:26Z",
         "latestReleaseAt": "2026-08-14T12:36:10Z",
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -351218,10 +350094,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-26T20:09:41.728Z",
-          "reason": "https://api.github.com/repos/UE-DND/dsh-antigravity-auth: 404"
-        },
-        {
           "at": "2026-08-28T18:48:00.111Z",
           "reason": "https://api.github.com/repos/UE-DND/dsh-antigravity-auth: 404"
         },
@@ -351295,6 +350167,10 @@
         },
         {
           "at": "2026-09-05T04:37:02.415Z",
+          "reason": "https://api.github.com/repos/UE-DND/dsh-antigravity-auth: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
           "reason": "https://api.github.com/repos/UE-DND/dsh-antigravity-auth: 404"
         }
       ],
@@ -353420,9 +352296,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -353448,7 +352324,7 @@
         "createdAt": "2026-08-15T06:33:38Z",
         "lastPushAt": "2026-08-15T06:33:42Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "build-development",
@@ -356666,7 +355542,7 @@
         "fullName": "Vladimir-Kryshchenko/dsh-route-fence-linter",
         "url": "https://github.com/Vladimir-Kryshchenko/dsh-route-fence-linter"
       },
-      "summary": "Static linter for DeepSeek Harness plugin HTTP routes: every webServer route bypasses the /api gateway's trust check and must pin the Host to loopback itself. PASS/WARN/FAIL per route, as a CLI and a dsh tool.",
+      "summary": "Vladimir-Kryshchenko/dsh-route-fence-linter",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -356678,7 +355554,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -356703,33 +355579,6 @@
         "lastPushAt": "2026-08-22T16:00:01Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "api",
-          "browser",
-          "cli",
-          "debugging",
-          "file",
-          "layout",
-          "testing",
-          "tool"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:lint",
-          "text:search-browsing:browser",
-          "text:navigation-panels:sidebar",
-          "text:files-terminal:cli",
-          "text:data-processing:json",
-          "text:general-utilities:tool",
-          "text:external-services:api"
-        ],
-        "needsReview": true
       }
     },
     "vlantech-dsh-glassic-mist-theme": {
@@ -359572,9 +358421,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -359591,14 +358440,14 @@
       },
       "failures": [],
       "github": {
-        "stars": 0,
+        "stars": 1,
         "license": null,
         "archived": false,
         "private": false,
         "createdAt": "2026-08-15T03:26:18Z",
         "lastPushAt": "2026-08-15T04:38:28Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -360675,9 +359524,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -360699,9 +359548,9 @@
         "archived": false,
         "private": false,
         "createdAt": "2026-08-15T04:24:01Z",
-        "lastPushAt": "2026-08-15T04:24:35Z",
+        "lastPushAt": "2026-08-31T09:52:27Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -360824,9 +359673,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -360850,7 +359699,7 @@
         "createdAt": "2026-08-14T18:31:57Z",
         "lastPushAt": "2026-08-14T18:39:17Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -361782,9 +360631,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -361808,7 +360657,7 @@
         "createdAt": "2026-08-15T08:00:34Z",
         "lastPushAt": "2026-08-15T08:26:50Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "integrations-communication",
@@ -361935,9 +360784,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -361961,7 +360810,7 @@
         "createdAt": "2026-08-15T08:00:31Z",
         "lastPushAt": "2026-08-15T08:26:46Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -364726,10 +363575,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-26T20:09:41.728Z",
-          "reason": "Bad control character in string literal in JSON at position 343 (line 4 column 289)"
-        },
-        {
           "at": "2026-08-28T18:48:00.111Z",
           "reason": "Bad control character in string literal in JSON at position 343 (line 4 column 289)"
         },
@@ -364804,6 +363649,10 @@
         {
           "at": "2026-09-05T04:37:02.415Z",
           "reason": "Bad control character in string literal in JSON at position 343 (line 4 column 289)"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
+          "reason": "Bad control character in string literal in JSON at position 343 (line 4 column 289)"
         }
       ],
       "github": {
@@ -364834,9 +363683,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -364860,7 +363709,7 @@
         "createdAt": "2026-08-15T05:53:05Z",
         "lastPushAt": "2026-08-15T05:56:50Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -369643,10 +368492,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-24T09:07:34.905Z",
-          "reason": "https://api.github.com/repos/wjy9902/dsh-web-default-session: 404"
-        },
-        {
           "at": "2026-08-24T15:58:34.249Z",
           "reason": "https://api.github.com/repos/wjy9902/dsh-web-default-session: 404"
         },
@@ -369720,6 +368565,10 @@
         },
         {
           "at": "2026-09-05T04:37:02.415Z",
+          "reason": "https://api.github.com/repos/wjy9902/dsh-web-default-session: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
           "reason": "https://api.github.com/repos/wjy9902/dsh-web-default-session: 404"
         }
       ],
@@ -370131,7 +368980,7 @@
         "fullName": "WLV-ZEDD/dsh-btw",
         "url": "https://github.com/WLV-ZEDD/dsh-btw"
       },
-      "summary": "DeepSeek Harness Side-Assistant Dock & Drawer",
+      "summary": "WLV-ZEDD/dsh-btw",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -370143,7 +368992,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -370168,34 +369017,6 @@
         "lastPushAt": "2026-09-04T23:59:46Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "agents-workflows",
-        "category": "automation",
-        "tags": [
-          "agent",
-          "api",
-          "automation",
-          "chat",
-          "document",
-          "knowledge",
-          "monitoring",
-          "theme",
-          "workflow"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:automation:automat",
-          "text:planning-execution:workflow",
-          "text:memory-context:session",
-          "text:knowledge-management:rag",
-          "text:document-processing:markdown",
-          "text:themes-layout:color",
-          "text:visualization:render"
-        ],
-        "needsReview": true
       }
     },
     "wly8691-jpg-dsh-office-com": {
@@ -371921,10 +370742,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-26T20:09:41.728Z",
-          "reason": "https://api.github.com/repos/wolone/deepseek-harness-desktop: 404"
-        },
-        {
           "at": "2026-08-28T18:48:00.111Z",
           "reason": "https://api.github.com/repos/wolone/deepseek-harness-desktop: 404"
         },
@@ -371998,6 +370815,10 @@
         },
         {
           "at": "2026-09-05T04:37:02.415Z",
+          "reason": "https://api.github.com/repos/wolone/deepseek-harness-desktop: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
           "reason": "https://api.github.com/repos/wolone/deepseek-harness-desktop: 404"
         }
       ],
@@ -374314,10 +373135,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-26T20:09:41.728Z",
-          "reason": "https://api.github.com/repos/WuGc1999/dsh-plugins: 404"
-        },
-        {
           "at": "2026-08-28T18:48:00.111Z",
           "reason": "https://api.github.com/repos/WuGc1999/dsh-plugins: 404"
         },
@@ -374391,6 +373208,10 @@
         },
         {
           "at": "2026-09-05T04:37:02.415Z",
+          "reason": "https://api.github.com/repos/WuGc1999/dsh-plugins: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
           "reason": "https://api.github.com/repos/WuGc1999/dsh-plugins: 404"
         }
       ],
@@ -375236,10 +374057,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-26T20:09:41.728Z",
-          "reason": "https://api.github.com/repos/wuyh/dsh-workspace-files: 404"
-        },
-        {
           "at": "2026-08-28T18:48:00.111Z",
           "reason": "https://api.github.com/repos/wuyh/dsh-workspace-files: 404"
         },
@@ -375313,6 +374130,10 @@
         },
         {
           "at": "2026-09-05T04:37:02.415Z",
+          "reason": "https://api.github.com/repos/wuyh/dsh-workspace-files: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
           "reason": "https://api.github.com/repos/wuyh/dsh-workspace-files: 404"
         }
       ],
@@ -376999,9 +375820,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -377025,7 +375846,7 @@
         "createdAt": "2026-08-15T05:03:39Z",
         "lastPushAt": "2026-08-15T05:06:45Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -381255,9 +380076,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -381281,7 +380102,7 @@
         "createdAt": "2026-08-15T05:08:24Z",
         "lastPushAt": "2026-08-15T05:52:51Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "integrations-communication",
@@ -381909,9 +380730,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -381935,7 +380756,7 @@
         "createdAt": "2026-08-15T08:09:40Z",
         "lastPushAt": "2026-08-15T08:22:34Z",
         "latestReleaseAt": "2026-08-15T08:22:34Z",
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -382203,9 +381024,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-24T19:47:57.489Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-24T19:47:57.489Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -382229,7 +381050,7 @@
         "createdAt": "2026-08-14T06:29:26Z",
         "lastPushAt": "2026-08-14T12:43:20Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-24T19:47:57.489Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "interface-experience",
@@ -387617,7 +386438,7 @@
         "fullName": "xobexo/dsh-smart-scenario-router",
         "url": "https://github.com/xobexo/dsh-smart-scenario-router"
       },
-      "summary": "国产模型优先，按任务类型自动切换模型，支持可视化配置面板",
+      "summary": "xobexo/dsh-smart-scenario-router",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -387629,7 +386450,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-29T02:16:06.796Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -387654,40 +386475,6 @@
         "lastPushAt": "2026-09-01T03:18:58Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "agent",
-          "api",
-          "chat",
-          "context",
-          "data",
-          "debugging",
-          "file",
-          "image",
-          "layout",
-          "planning",
-          "project-analysis",
-          "terminal",
-          "tool",
-          "ui",
-          "visualization"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:testing-debugging:调试",
-          "text:project-analysis:代码审查",
-          "text:planning-execution:任务",
-          "text:memory-context:context",
-          "text:navigation-panels:面板",
-          "text:visualization:可视化",
-          "text:desktop-mobile:web ui"
-        ],
-        "needsReview": true
       }
     },
     "xohmai-dsh-cpa-status": {
@@ -389472,7 +388259,7 @@
         "fullName": "xwh5/dsh-change-review",
         "url": "https://github.com/xwh5/dsh-change-review"
       },
-      "summary": "DeepSeek Harness 会话修改审查插件：追踪会话内 write/edit，diff 对比展示，会话隔离/子代理聚合/SSE 实时推送/颜色自定义",
+      "summary": "xwh5/dsh-change-review",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -389484,7 +388271,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -389509,35 +388296,6 @@
         "lastPushAt": "2026-09-02T08:04:52Z",
         "latestReleaseAt": "2026-09-02T08:04:54Z",
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "agents-workflows",
-        "category": "automation",
-        "tags": [
-          "agent",
-          "automation",
-          "chat",
-          "file",
-          "integration",
-          "layout",
-          "project-analysis",
-          "theme",
-          "tool",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:orchestration:子代理",
-          "text:automation:automat",
-          "text:memory-context:会话",
-          "text:themes-layout:主题",
-          "text:visualization:render",
-          "text:desktop-mobile:web ui",
-          "text:files-terminal:file"
-        ],
-        "needsReview": true
       }
     },
     "xwtaidev-dsh-app": {
@@ -392254,6 +391012,10 @@
         {
           "at": "2026-09-05T04:37:02.415Z",
           "reason": "https://api.github.com/repos/Yang-wudi/dsh-video-gen: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
+          "reason": "https://api.github.com/repos/Yang-wudi/dsh-video-gen: 404"
         }
       ]
     },
@@ -392857,7 +391619,7 @@
         "fullName": "yanglingrise/dsh-erii-boot-splash",
         "url": "https://github.com/yanglingrise/dsh-erii-boot-splash"
       },
-      "summary": "Erii (Sakura) themed boot splash animation for the DeepSeek Harness Web UI: falling sakura petals, a mint monster mascot, and the line \"Sakura, walk slower.\" Auto fades out; pure client-side.",
+      "summary": "yanglingrise/dsh-erii-boot-splash",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -392869,7 +391631,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -392894,33 +391656,6 @@
         "lastPushAt": "2026-08-22T03:45:59Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "agents-workflows",
-        "category": "automation",
-        "tags": [
-          "automation",
-          "browser",
-          "cli",
-          "data",
-          "project-analysis",
-          "terminal",
-          "theme",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:automation:automat",
-          "text:search-browsing:browser",
-          "text:themes-layout:theme",
-          "text:visualization:render",
-          "text:desktop-mobile:web ui",
-          "text:files-terminal:cli",
-          "text:data-processing:data"
-        ],
-        "needsReview": true
       }
     },
     "yangshen830-eng-dsh-editor": {
@@ -394674,9 +393409,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T04:03:40.356Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T04:03:40.356Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -394700,7 +393435,7 @@
         "createdAt": "2026-08-15T09:39:44Z",
         "lastPushAt": "2026-08-15T09:44:01Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T04:03:40.356Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -403550,9 +402285,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -403574,9 +402309,9 @@
         "archived": false,
         "private": false,
         "createdAt": "2026-08-14T10:21:04Z",
-        "lastPushAt": "2026-08-14T10:23:18Z",
+        "lastPushAt": "2026-09-04T02:46:28Z",
         "latestReleaseAt": "2026-08-14T10:23:19Z",
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "interface-experience",
@@ -403593,6 +402328,7 @@
         "confidence": "low",
         "evidence": [
           "text:planning-execution:执行",
+          "text:memory-context:token",
           "text:search-browsing:浏览器",
           "text:visualization:render",
           "text:desktop-mobile:desktop",
@@ -404125,9 +402861,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -404151,7 +402887,7 @@
         "createdAt": "2026-08-15T03:03:34Z",
         "lastPushAt": "2026-08-15T04:02:18Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -404524,10 +403260,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-24T20:51:45.066Z",
-          "reason": "https://api.github.com/repos/yun520-1/deepseek-heartflow: 404"
-        },
-        {
           "at": "2026-08-25T03:14:36.644Z",
           "reason": "https://api.github.com/repos/yun520-1/deepseek-heartflow: 404"
         },
@@ -404602,6 +403334,10 @@
         {
           "at": "2026-09-05T04:37:02.415Z",
           "reason": "https://api.github.com/repos/yun520-1/deepseek-heartflow: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
+          "reason": "https://api.github.com/repos/yun520-1/deepseek-heartflow: 404"
         }
       ],
       "github": {
@@ -404633,9 +403369,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -404659,7 +403395,7 @@
         "createdAt": "2026-08-15T05:48:11Z",
         "lastPushAt": "2026-08-15T07:46:41Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -406012,9 +404748,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -406040,7 +404776,7 @@
         "createdAt": "2026-08-15T02:47:14Z",
         "lastPushAt": "2026-08-15T02:48:36Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "interface-experience",
@@ -408036,9 +406772,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": false,
         "manifestPath": null,
@@ -408062,7 +406798,7 @@
         "createdAt": "2026-08-15T07:42:13Z",
         "lastPushAt": "2026-08-15T08:35:43Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "integrations-communication",
@@ -411800,7 +410536,7 @@
         "fullName": "Zenjibad/dsh-drop-any-file",
         "url": "https://github.com/Zenjibad/dsh-drop-any-file"
       },
-      "summary": "Accept any file type in the DeepSeek Harness (DSH) web chat drag-and-drop: non-image files are saved into the active session's workspace for the agent to read and use.",
+      "summary": "Zenjibad/dsh-drop-any-file",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -411812,7 +410548,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-09-05T09:08:20.537Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -411837,42 +410573,6 @@
         "lastPushAt": "2026-08-28T17:45:41Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "agents-workflows",
-        "category": "automation",
-        "tags": [
-          "agent",
-          "api",
-          "automation",
-          "browser",
-          "chat",
-          "context",
-          "document",
-          "file",
-          "image",
-          "knowledge",
-          "layout",
-          "project-analysis",
-          "search",
-          "terminal",
-          "theme",
-          "tool",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:project-analysis:dependency",
-          "text:automation:automat",
-          "text:memory-context:session",
-          "text:search-browsing:search",
-          "text:knowledge-management:rag",
-          "text:document-processing:文档",
-          "text:themes-layout:theme"
-        ],
-        "needsReview": true
       }
     },
     "zenjibad-dsh-mcp-toggle": {
@@ -414865,9 +413565,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-16T14:11:14.437Z",
-      "lastSeenAt": "2026-08-25T10:52:56.058Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-08-25T10:52:56.058Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
@@ -414891,7 +413591,7 @@
         "createdAt": "2026-08-15T02:34:29Z",
         "lastPushAt": "2026-08-15T02:35:36Z",
         "latestReleaseAt": null,
-        "capturedAt": "2026-08-25T10:52:56.058Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "tools-data",
@@ -419953,9 +418653,9 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-24T07:31:56.154Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
-        "checkedAt": "2026-09-05T09:08:20.537Z",
+        "checkedAt": "2026-09-05T12:46:18.657Z",
         "publicRepository": true,
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
@@ -419970,14 +418670,14 @@
       },
       "failures": [],
       "github": {
-        "stars": 6908,
+        "stars": 6921,
         "license": "Apache-2.0",
         "archived": false,
         "private": false,
         "createdAt": "2026-08-12T05:15:20Z",
         "lastPushAt": "2026-09-05T05:43:20Z",
         "latestReleaseAt": "2026-09-05T03:28:54Z",
-        "capturedAt": "2026-09-05T09:08:20.537Z"
+        "capturedAt": "2026-09-05T12:46:18.657Z"
       },
       "classificationSuggestion": {
         "group": "agents-workflows",
@@ -421944,10 +420644,6 @@
       },
       "failures": [
         {
-          "at": "2026-08-26T20:09:41.728Z",
-          "reason": "https://api.github.com/repos/zjl1989-li/dsh-harness-zh: 404"
-        },
-        {
           "at": "2026-08-28T18:48:00.111Z",
           "reason": "https://api.github.com/repos/zjl1989-li/dsh-harness-zh: 404"
         },
@@ -422021,6 +420717,10 @@
         },
         {
           "at": "2026-09-05T04:37:02.415Z",
+          "reason": "https://api.github.com/repos/zjl1989-li/dsh-harness-zh: 404"
+        },
+        {
+          "at": "2026-09-05T12:46:18.657Z",
           "reason": "https://api.github.com/repos/zjl1989-li/dsh-harness-zh: 404"
         }
       ]
@@ -423217,7 +421917,7 @@
         "fullName": "Zn-Dk/dsh-session-explorer",
         "url": "https://github.com/Zn-Dk/dsh-session-explorer"
       },
-      "summary": "DSH Web plugin: message-level full-text search + timeline visualization for sessions.",
+      "summary": "Zn-Dk/dsh-session-explorer",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -423229,7 +421929,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-29T02:16:06.796Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -423254,41 +421954,6 @@
         "lastPushAt": "2026-09-02T03:30:26Z",
         "latestReleaseAt": "2026-08-27T18:12:22Z",
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "integrations-communication",
-        "category": "collaboration",
-        "tags": [
-          "agent",
-          "api",
-          "browser",
-          "chat",
-          "context",
-          "data",
-          "file",
-          "knowledge",
-          "layout",
-          "monitoring",
-          "project-analysis",
-          "search",
-          "skill",
-          "testing",
-          "tool",
-          "visualization"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:plugin",
-          "text:testing-debugging:test",
-          "text:orchestration:subagent",
-          "text:memory-context:session",
-          "text:search-browsing:search",
-          "text:knowledge-management:rag",
-          "text:themes-layout:css",
-          "text:navigation-panels:sidebar"
-        ],
-        "needsReview": true
       }
     },
     "zn-dk-dsh-session-repair": {
@@ -428425,7 +427090,7 @@
         "fullName": "ZutoMayoo/totoTheCat",
         "url": "https://github.com/ZutoMayoo/totoTheCat"
       },
-      "summary": "在你的DeepSeek Harness中加入桌宠小猫托托的插件",
+      "summary": "ZutoMayoo/totoTheCat",
       "sources": [
         "awesome-dsh-plugin"
       ],
@@ -428437,7 +427102,7 @@
       },
       "visibility": "hidden",
       "discoveredAt": "2026-08-29T02:16:06.796Z",
-      "lastSeenAt": "2026-09-05T09:08:20.537Z",
+      "lastSeenAt": "2026-09-05T12:46:18.657Z",
       "checks": {
         "checkedAt": "2026-09-05T09:08:20.537Z",
         "publicRepository": true,
@@ -428462,41 +427127,6 @@
         "lastPushAt": "2026-08-26T06:19:17Z",
         "latestReleaseAt": null,
         "capturedAt": "2026-09-05T09:08:20.537Z"
-      },
-      "classificationSuggestion": {
-        "group": "tools-data",
-        "category": "data-processing",
-        "tags": [
-          "agent",
-          "api",
-          "browser",
-          "document",
-          "file",
-          "image",
-          "knowledge",
-          "layout",
-          "memory",
-          "monitoring",
-          "notification",
-          "skill",
-          "terminal",
-          "theme",
-          "tool",
-          "ui"
-        ],
-        "source": "evidence-suggestion",
-        "confidence": "low",
-        "evidence": [
-          "text:plugin-development:插件",
-          "text:orchestration:subagent",
-          "text:planning-execution:执行",
-          "text:memory-context:记忆",
-          "text:search-browsing:浏览器",
-          "text:knowledge-management:rag",
-          "text:document-processing:文档",
-          "text:themes-layout:皮肤"
-        ],
-        "needsReview": true
       }
     },
     "zxmqq1234-deepseek-harness-remote": {
@@ -429533,8 +428163,8 @@
   },
   "failures": [
     {
-      "at": "2026-09-05T09:08:20.537Z",
-      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T13%3A39%3A47Z..2026-08-14T00%3A11%3A29Z&sort=updated&order=desc&per_page=100&page=3: 403"
+      "at": "2026-09-05T12:46:18.657Z",
+      "reason": "github-topic: https://api.github.com/search/repositories?q=topic%3Adsh-plugin%20fork%3Atrue%20created%3A2026-08-13T17%3A17%3A03Z..2026-08-14T14%3A20%3A28Z&sort=updated&order=desc&per_page=100&page=1: 403"
     }
   ]
 }
