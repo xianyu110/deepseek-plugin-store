@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-05T00:09:17.891Z",
-  "sourceCommit": "e3a54875cdad193874a87dad1ed50f8f54ec86b70f42821e0905ec82138c1df8",
+  "updatedAt": "2026-09-05T04:37:02.415Z",
+  "sourceCommit": "26ae2113186d53972107a1a093a0e5f18fcc5aec73d6ad612fe1903192f7cfd0",
   "source": {
     "provider": "registry-v2",
     "repository": "Ericwong5021/deepseek-plugin-store",
@@ -447,7 +447,7 @@
       "fullName": "omdsh-dev/DSH-better-sidebar",
       "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
       "description": "一个侧边栏的完整工作台，支持三方拓展注册新Tab页面，内置文件渲染编辑/终端/Git/子代理",
-      "stars": 3332,
+      "stars": 3339,
       "pushedAt": "2026-09-04T15:04:58Z",
       "license": "MIT",
       "archived": false,
@@ -482,16 +482,16 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 3332,
+        "stars": 3339,
         "license": "MIT",
         "lastPushAt": "2026-09-04T15:04:58Z",
         "archived": false,
-        "capturedAt": "2026-09-05T00:09:17.891Z"
+        "capturedAt": "2026-09-05T04:37:02.415Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-09-05T00:09:17.891Z"
+        "checkedAt": "2026-09-05T04:37:02.415Z"
       }
     },
     {
@@ -543,6 +543,56 @@
       }
     },
     {
+      "fullName": "ccch1mneyyy/dsh-TUI",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
+      "stars": 2837,
+      "pushedAt": "2026-09-05T04:09:05Z",
+      "license": "MIT",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "@deepseek-harness-tui/dsh-tui",
+      "category": {
+        "id": "editor-picks",
+        "title": "编辑精选 / Editor Picks"
+      },
+      "addedAt": "2026-08-14",
+      "slug": "ccch1mneyyy-dsh-tui",
+      "name": "ccch1mneyyy/dsh-TUI",
+      "summary": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
+      "tags": [
+        "cli",
+        "context",
+        "terminal"
+      ],
+      "repositoryUrl": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "installSpec": "github:ccch1mneyyy/dsh-TUI",
+      "author": "ccch1mneyyy",
+      "featured": true,
+      "status": "active",
+      "source": {
+        "type": "editor-pick",
+        "origins": [
+          "editor-pick",
+          "github-topic"
+        ],
+        "file": "data/editor-picks.json",
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 2837,
+        "license": "MIT",
+        "lastPushAt": "2026-09-05T04:09:05Z",
+        "archived": false,
+        "capturedAt": "2026-09-05T04:37:02.415Z"
+      },
+      "compatibility": {
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "checkedAt": "2026-09-05T04:37:02.415Z"
+      }
+    },
+    {
       "fullName": "whiteguo233/OpenBiliClaw",
       "url": "https://github.com/whiteguo233/OpenBiliClaw",
       "description": "本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）",
@@ -587,56 +637,6 @@
         "manifestFound": false,
         "manifestPath": null,
         "checkedAt": "2026-08-14T10:30:21.295Z"
-      }
-    },
-    {
-      "fullName": "ccch1mneyyy/dsh-TUI",
-      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
-      "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
-      "stars": 2834,
-      "pushedAt": "2026-09-04T23:49:35Z",
-      "license": "MIT",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "@deepseek-harness-tui/dsh-tui",
-      "category": {
-        "id": "editor-picks",
-        "title": "编辑精选 / Editor Picks"
-      },
-      "addedAt": "2026-08-14",
-      "slug": "ccch1mneyyy-dsh-tui",
-      "name": "ccch1mneyyy/dsh-TUI",
-      "summary": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
-      "tags": [
-        "cli",
-        "context",
-        "terminal"
-      ],
-      "repositoryUrl": "https://github.com/ccch1mneyyy/dsh-TUI",
-      "installSpec": "github:ccch1mneyyy/dsh-TUI",
-      "author": "ccch1mneyyy",
-      "featured": true,
-      "status": "active",
-      "source": {
-        "type": "editor-pick",
-        "origins": [
-          "editor-pick",
-          "github-topic"
-        ],
-        "file": "data/editor-picks.json",
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 2834,
-        "license": "MIT",
-        "lastPushAt": "2026-09-04T23:49:35Z",
-        "archived": false,
-        "capturedAt": "2026-09-05T00:09:17.891Z"
-      },
-      "compatibility": {
-        "manifestFound": true,
-        "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-09-05T00:09:17.891Z"
       }
     },
     {
@@ -786,7 +786,7 @@
       "fullName": "Small-tailqwq/dsh-deep-whale",
       "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
       "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
-      "stars": 1923,
+      "stars": 1928,
       "pushedAt": "2026-09-04T06:37:25Z",
       "license": null,
       "archived": false,
@@ -818,16 +818,16 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 1923,
+        "stars": 1928,
         "license": null,
         "lastPushAt": "2026-09-04T06:37:25Z",
         "archived": false,
-        "capturedAt": "2026-09-04T18:28:34.243Z"
+        "capturedAt": "2026-09-05T04:37:02.415Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-09-04T18:28:34.243Z"
+        "checkedAt": "2026-09-05T04:37:02.415Z"
       }
     },
     {
