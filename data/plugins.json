@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T09:47:28.711Z",
-  "sourceCommit": "f4d52d688adc854ba85f70536a91b927378a868ad754635d104e2de367bc8962",
+  "updatedAt": "2026-09-08T14:37:11.241Z",
+  "sourceCommit": "b7028bd8eea5b825fef6f702f58f08935c4d7f2d7b3114a249f9538eb3fec718",
   "source": {
     "provider": "registry-v2",
     "repository": "Ericwong5021/deepseek-plugin-store",
@@ -447,8 +447,8 @@
       "fullName": "omdsh-dev/DSH-better-sidebar",
       "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
       "description": "一个侧边栏的完整工作台，支持三方拓展注册新Tab页面，内置文件渲染编辑/终端/Git/子代理",
-      "stars": 3422,
-      "pushedAt": "2026-09-08T08:20:03Z",
+      "stars": 3431,
+      "pushedAt": "2026-09-08T14:28:22Z",
       "license": "MIT",
       "archived": false,
       "isPlugin": true,
@@ -482,16 +482,16 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 3422,
+        "stars": 3431,
         "license": "MIT",
-        "lastPushAt": "2026-09-08T08:20:03Z",
+        "lastPushAt": "2026-09-08T14:28:22Z",
         "archived": false,
-        "capturedAt": "2026-09-08T09:47:28.711Z"
+        "capturedAt": "2026-09-08T14:37:11.241Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-09-08T09:47:28.711Z"
+        "checkedAt": "2026-09-08T14:37:11.241Z"
       }
     },
     {
@@ -593,8 +593,8 @@
       "fullName": "ccch1mneyyy/dsh-TUI",
       "url": "https://github.com/ccch1mneyyy/dsh-TUI",
       "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
-      "stars": 2885,
-      "pushedAt": "2026-09-08T09:36:21Z",
+      "stars": 2887,
+      "pushedAt": "2026-09-08T14:33:07Z",
       "license": "MIT",
       "archived": false,
       "isPlugin": true,
@@ -627,16 +627,16 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 2885,
+        "stars": 2887,
         "license": "MIT",
-        "lastPushAt": "2026-09-08T09:36:21Z",
+        "lastPushAt": "2026-09-08T14:33:07Z",
         "archived": false,
-        "capturedAt": "2026-09-08T09:47:28.711Z"
+        "capturedAt": "2026-09-08T14:37:11.241Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-09-08T09:47:28.711Z"
+        "checkedAt": "2026-09-08T14:37:11.241Z"
       }
     },
     {
@@ -1361,55 +1361,6 @@
       }
     },
     {
-      "fullName": "Nagi-ovo/dsh-ads",
-      "url": "https://github.com/Nagi-ovo/dsh-ads",
-      "description": "是兄弟就来蹬我！DSH Web UI 广告：2005 年中文站点风格的侧栏广告 / 对话内信息流 / 角落弹窗 + 一个真实热区比视觉小得多的关闭叉。素材全虚构，域名打码。",
-      "stars": 613,
-      "pushedAt": "2026-08-27T21:32:38Z",
-      "license": "BSD-3-Clause",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "@dsh-external/dsh-ads",
-      "category": {
-        "id": "editor-picks",
-        "title": "编辑精选 / Editor Picks"
-      },
-      "addedAt": "2026-08-13",
-      "slug": "nagi-ovo-dsh-ads",
-      "name": "Nagi-ovo/dsh-ads",
-      "summary": "是兄弟就来蹬我！DSH Web UI 广告：2005 年中文站点风格的侧栏广告 / 对话内信息流 / 角落弹窗 + 一个真实热区比视觉小得多的关闭叉。素材全虚构，域名打码。",
-      "tags": [
-        "chat",
-        "ui"
-      ],
-      "repositoryUrl": "https://github.com/Nagi-ovo/dsh-ads",
-      "installSpec": "github:Nagi-ovo/dsh-ads",
-      "author": "Nagi-ovo",
-      "featured": true,
-      "status": "active",
-      "source": {
-        "type": "editor-pick",
-        "origins": [
-          "editor-pick",
-          "github-topic"
-        ],
-        "file": "data/editor-picks.json",
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 613,
-        "license": "BSD-3-Clause",
-        "lastPushAt": "2026-08-27T21:32:38Z",
-        "archived": false,
-        "capturedAt": "2026-09-08T04:46:36.537Z"
-      },
-      "compatibility": {
-        "manifestFound": true,
-        "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-09-08T04:46:36.537Z"
-      }
-    },
-    {
       "fullName": "sandbaseai/sandbase-harness",
       "url": "https://github.com/sandbaseai/sandbase-harness",
       "description": "Open-source CMA-compatible agent runtime for any model, with MCP tools, sandboxed sessions, audit, replay, and a local console. Includes a native DeepSeek Harness bundle over stdio MCP.",
@@ -1456,6 +1407,55 @@
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
         "checkedAt": "2026-08-14T10:30:21.295Z"
+      }
+    },
+    {
+      "fullName": "Nagi-ovo/dsh-ads",
+      "url": "https://github.com/Nagi-ovo/dsh-ads",
+      "description": "是兄弟就来蹬我！DSH Web UI 广告：2005 年中文站点风格的侧栏广告 / 对话内信息流 / 角落弹窗 + 一个真实热区比视觉小得多的关闭叉。素材全虚构，域名打码。",
+      "stars": 612,
+      "pushedAt": "2026-08-27T21:32:38Z",
+      "license": "BSD-3-Clause",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "@dsh-external/dsh-ads",
+      "category": {
+        "id": "editor-picks",
+        "title": "编辑精选 / Editor Picks"
+      },
+      "addedAt": "2026-08-13",
+      "slug": "nagi-ovo-dsh-ads",
+      "name": "Nagi-ovo/dsh-ads",
+      "summary": "是兄弟就来蹬我！DSH Web UI 广告：2005 年中文站点风格的侧栏广告 / 对话内信息流 / 角落弹窗 + 一个真实热区比视觉小得多的关闭叉。素材全虚构，域名打码。",
+      "tags": [
+        "chat",
+        "ui"
+      ],
+      "repositoryUrl": "https://github.com/Nagi-ovo/dsh-ads",
+      "installSpec": "github:Nagi-ovo/dsh-ads",
+      "author": "Nagi-ovo",
+      "featured": true,
+      "status": "active",
+      "source": {
+        "type": "editor-pick",
+        "origins": [
+          "editor-pick",
+          "github-topic"
+        ],
+        "file": "data/editor-picks.json",
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 612,
+        "license": "BSD-3-Clause",
+        "lastPushAt": "2026-08-27T21:32:38Z",
+        "archived": false,
+        "capturedAt": "2026-09-08T14:37:11.241Z"
+      },
+      "compatibility": {
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "checkedAt": "2026-09-08T14:37:11.241Z"
       }
     },
     {
