@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-12T19:25:37.486Z",
-  "sourceCommit": "71f0cbbd04d2bdc2f2d60fb77f8091e52b59e2b7d2650b94f83808cf0c73da95",
+  "updatedAt": "2026-09-12T22:22:17.436Z",
+  "sourceCommit": "d3c07d01730d3b5c03651a437a49755d3e552f3063e597c5bad31e42894fe257",
   "source": {
     "repository": "Ericwong5021/deepseek-plugin-store",
     "registry": "registry/plugins",
@@ -419,7 +419,7 @@
       }
     ],
     "rankings": {
-      "generatedAt": "2026-09-12T19:25:37.486Z",
+      "generatedAt": "2026-09-12T22:22:17.436Z",
       "eligibleCount": 575,
       "popular": {
         "method": "current-github-stars",
@@ -118686,17 +118686,13 @@
       "observations": {
         "repository": "Small-tailqwq/dsh-deep-whale",
         "github": {
-          "stars": 2050,
+          "stars": 2051,
           "license": "NOASSERTION",
           "archived": false,
           "lastPushAt": "2026-09-12T12:59:29Z",
-          "latestReleaseAt": "2026-09-03T14:45:48Z",
-          "capturedAt": "2026-09-12T17:14:57.770Z",
+          "latestReleaseAt": "2026-09-10T05:38:46Z",
+          "capturedAt": "2026-09-12T22:22:17.436Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-08-20T10:50:57.120Z",
-              "stars": 1490
-            },
             {
               "capturedAt": "2026-08-20T11:46:37.578Z",
               "stars": 1493
@@ -119052,6 +119048,10 @@
             {
               "capturedAt": "2026-09-12T17:14:57.770Z",
               "stars": 2050
+            },
+            {
+              "capturedAt": "2026-09-12T22:22:17.436Z",
+              "stars": 2051
             }
           ]
         },
@@ -119062,7 +119062,7 @@
           "installSpec": "github:Small-tailqwq/dsh-deep-whale",
           "readmeFound": true,
           "readmeGuidance": true,
-          "checkedAt": "2026-09-08T09:47:28.711Z"
+          "checkedAt": "2026-09-12T22:22:17.436Z"
         },
         "discovery": {
           "origins": [
@@ -119070,10 +119070,10 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-09-12T17:14:57.770Z"
+          "lastSeenAt": "2026-09-12T22:22:17.436Z"
         },
         "failures": [],
-        "lastSuccessfulAt": "2026-09-08T09:47:28.711Z"
+        "lastSuccessfulAt": "2026-09-12T22:22:17.436Z"
       },
       "editorial": {
         "editorPick": true,
@@ -158101,9 +158101,9 @@
   ],
   "candidateSummary": {
     "total": 13204,
-    "checked": 13104,
-    "unchecked": 100,
-    "admissionReady": 9853,
+    "checked": 13161,
+    "unchecked": 43,
+    "admissionReady": 9909,
     "hidden": 13204
   }
 }
