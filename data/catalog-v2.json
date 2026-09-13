@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-12T22:22:17.436Z",
-  "sourceCommit": "d3c07d01730d3b5c03651a437a49755d3e552f3063e597c5bad31e42894fe257",
+  "updatedAt": "2026-09-13T00:03:31.984Z",
+  "sourceCommit": "9b3795e5b7f3bae4620dc49fe3d59fc99586aa2722e8d666a8e74bb26e9a8237",
   "source": {
     "repository": "Ericwong5021/deepseek-plugin-store",
     "registry": "registry/plugins",
@@ -419,7 +419,7 @@
       }
     ],
     "rankings": {
-      "generatedAt": "2026-09-12T22:22:17.436Z",
+      "generatedAt": "2026-09-13T00:03:31.984Z",
       "eligibleCount": 575,
       "popular": {
         "method": "current-github-stars",
@@ -22734,17 +22734,13 @@
       "observations": {
         "repository": "ccch1mneyyy/dsh-TUI",
         "github": {
-          "stars": 2987,
+          "stars": 2986,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-09-12T18:41:43Z",
-          "latestReleaseAt": "2026-08-31T10:59:34Z",
-          "capturedAt": "2026-09-12T19:25:37.486Z",
+          "latestReleaseAt": "2026-09-10T16:07:37Z",
+          "capturedAt": "2026-09-13T00:03:31.984Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-08-20T19:48:57.455Z",
-              "stars": 2182
-            },
             {
               "capturedAt": "2026-08-20T22:47:58.949Z",
               "stars": 2183
@@ -23100,6 +23096,10 @@
             {
               "capturedAt": "2026-09-12T19:25:37.486Z",
               "stars": 2987
+            },
+            {
+              "capturedAt": "2026-09-13T00:03:31.984Z",
+              "stars": 2986
             }
           ]
         },
@@ -23110,7 +23110,7 @@
           "installSpec": "github:ccch1mneyyy/dsh-TUI",
           "readmeFound": true,
           "readmeGuidance": true,
-          "checkedAt": "2026-09-08T14:37:11.241Z"
+          "checkedAt": "2026-09-13T00:03:31.984Z"
         },
         "discovery": {
           "origins": [
@@ -23118,10 +23118,10 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-09-12T19:25:37.486Z"
+          "lastSeenAt": "2026-09-13T00:03:31.984Z"
         },
         "failures": [],
-        "lastSuccessfulAt": "2026-09-08T14:37:11.241Z"
+        "lastSuccessfulAt": "2026-09-13T00:03:31.984Z"
       },
       "editorial": {
         "editorPick": true,
@@ -158103,7 +158103,7 @@
     "total": 13204,
     "checked": 13161,
     "unchecked": 43,
-    "admissionReady": 9909,
+    "admissionReady": 9908,
     "hidden": 13204
   }
 }
