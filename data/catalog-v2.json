@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-20T11:37:13.453Z",
-  "sourceCommit": "c670e01094265c2373841ba5752753007596b2deceb48316e0131494f27f3b2b",
+  "updatedAt": "2026-09-20T16:13:28.962Z",
+  "sourceCommit": "ea0f344dc9b2dfefe30c1c2a7bb4cb5b0d24fb1244f2aafef2c0aba2de04b417",
   "source": {
     "repository": "Ericwong5021/deepseek-plugin-store",
     "registry": "registry/plugins",
@@ -419,7 +419,7 @@
       }
     ],
     "rankings": {
-      "generatedAt": "2026-09-20T11:37:13.453Z",
+      "generatedAt": "2026-09-20T16:13:28.962Z",
       "eligibleCount": 575,
       "popular": {
         "method": "current-github-stars",
@@ -654,18 +654,18 @@
           "bugmaker2-dsh-plugin-template",
           "nagi-ovo-dsh-visualize",
           "nwflower-dsh-chat-import",
-          "franksong2702-dsh-codex-connect",
           "hust-open-atom-club-oh-dsh",
           "huiliyi37-dsh-tianshu-tui",
+          "franksong2702-dsh-codex-connect",
           "anionex-dsh-vision-toolkit",
           "hsiangnianian-dsh-auto-continue",
-          "fishquito7-dsh-skill-viewer",
           "awesome-dsh-plugin-dsh-find-plugin",
           "ayase34-gal-view",
           "titanwings-dsh-automation",
           "laynechai-superpowers-dsh",
           "anweat-dsh-web-search-pro",
           "aik358-dsh-auto-memory",
+          "fishquito7-dsh-skill-viewer",
           "oil-oil-dsh-vision",
           "sanqi-normal-dsh-webui-market-plugin",
           "huanlinoto-dsh-plugin-better-sidebar-plugin-office",
@@ -682,7 +682,6 @@
           "jiao-xxx-dsh-auto-approve",
           "perrylink-dsh-lsp-actions",
           "lx2000wasd-dsh-web-plugin-manager",
-          "cyijun-surfing-plugin",
           "maxeaglet-dsh-bash-terminal",
           "amethystluna-embedded-workbench",
           "anweat-dsh-browser",
@@ -705,9 +704,6 @@
           "tqsy114514-dsh-ui-appearance",
           "zk-andy-dsh-continual-evolve",
           "bill9109-dsh-web-ui-notify",
-          "chushixixin-dsh-harness-mcp-server",
-          "clizo1209-dsh-playwright-browser",
-          "dingyi222666-dsh-session-notification",
           "heartmove-dsh-side-chat",
           "huanlinoto-dsh-plugin-aigc-canvas",
           "kunjinkao-os-dsh-mobile-gui-agent",
@@ -717,7 +713,7 @@
           "alingalingling-ui-status-label",
           "bilbillm-deepseek-harness-angelina-themes",
           "caoggl-dsh-ding",
-          "chinesezjc-dsh-interconnect",
+          "clizo1209-dsh-playwright-browser",
           "fuhefei-dsh-sentinel",
           "huanlinoto-dsh-plugin-yet-another-subagent",
           "humblebanana-dsh-record-replay",
@@ -727,7 +723,7 @@
           "omdsh-dev-dsh-sidechain",
           "tt-wang-dsh-slice-agent-loop",
           "v587d-dsh-opencode-go-usage",
-          "flymysql-dsh-memory",
+          "cyijun-surfing-plugin",
           "gooodwei-context-vista",
           "leechen298-code2skill",
           "liliucourier-dsh-chat-outline",
@@ -742,32 +738,36 @@
           "yuzi-ska-dsh-chrome-devtools",
           "anacondakc-dsh-stock-market",
           "chenyuheee-dsh-browser-playwright",
+          "chushixixin-dsh-harness-mcp-server",
           "crazyshout-dsh-ssh-remote",
-          "criscolthecoder-dsh-plugin-browser",
-          "dgpisces-deepseek-harness-openai-oauth",
-          "ghost011118-dsh-balance-meter"
+          "dingyi222666-dsh-session-notification",
+          "gxinxing-deepseek-harness-tui",
+          "jesse-njx-dsh-voice",
+          "l541402398-dsh-file-uploads",
+          "nanki-nn-dsh-answer-pet",
+          "oceanxuikun-dsh-eva-theme-plugin"
         ],
         "deltas": {
-          "dsh-market-dsh-market": 2622,
+          "dsh-market-dsh-market": 1854,
           "bowenliang123-dsh-context": 692,
           "liustack-modsearch": 301,
           "omdsh-dev-dsh-genui": 246,
-          "nagi-ovo-dsh-ads": 106,
+          "nagi-ovo-dsh-ads": 105,
           "bugmaker2-dsh-plugin-template": 97,
           "nagi-ovo-dsh-visualize": 91,
           "nwflower-dsh-chat-import": 84,
-          "franksong2702-dsh-codex-connect": 72,
           "hust-open-atom-club-oh-dsh": 70,
           "huiliyi37-dsh-tianshu-tui": 64,
+          "franksong2702-dsh-codex-connect": 60,
           "anionex-dsh-vision-toolkit": 58,
           "hsiangnianian-dsh-auto-continue": 58,
-          "fishquito7-dsh-skill-viewer": 56,
           "awesome-dsh-plugin-dsh-find-plugin": 51,
           "ayase34-gal-view": 40,
           "titanwings-dsh-automation": 40,
           "laynechai-superpowers-dsh": 39,
           "anweat-dsh-web-search-pro": 33,
           "aik358-dsh-auto-memory": 29,
+          "fishquito7-dsh-skill-viewer": 27,
           "oil-oil-dsh-vision": 27,
           "sanqi-normal-dsh-webui-market-plugin": 26,
           "huanlinoto-dsh-plugin-better-sidebar-plugin-office": 23,
@@ -784,7 +784,6 @@
           "jiao-xxx-dsh-auto-approve": 12,
           "perrylink-dsh-lsp-actions": 12,
           "lx2000wasd-dsh-web-plugin-manager": 11,
-          "cyijun-surfing-plugin": 10,
           "maxeaglet-dsh-bash-terminal": 10,
           "amethystluna-embedded-workbench": 9,
           "anweat-dsh-browser": 9,
@@ -807,9 +806,6 @@
           "tqsy114514-dsh-ui-appearance": 7,
           "zk-andy-dsh-continual-evolve": 7,
           "bill9109-dsh-web-ui-notify": 6,
-          "chushixixin-dsh-harness-mcp-server": 6,
-          "clizo1209-dsh-playwright-browser": 6,
-          "dingyi222666-dsh-session-notification": 6,
           "heartmove-dsh-side-chat": 6,
           "huanlinoto-dsh-plugin-aigc-canvas": 6,
           "kunjinkao-os-dsh-mobile-gui-agent": 6,
@@ -819,7 +815,7 @@
           "alingalingling-ui-status-label": 5,
           "bilbillm-deepseek-harness-angelina-themes": 5,
           "caoggl-dsh-ding": 5,
-          "chinesezjc-dsh-interconnect": 5,
+          "clizo1209-dsh-playwright-browser": 5,
           "fuhefei-dsh-sentinel": 5,
           "huanlinoto-dsh-plugin-yet-another-subagent": 5,
           "humblebanana-dsh-record-replay": 5,
@@ -829,7 +825,7 @@
           "omdsh-dev-dsh-sidechain": 5,
           "tt-wang-dsh-slice-agent-loop": 5,
           "v587d-dsh-opencode-go-usage": 5,
-          "flymysql-dsh-memory": 4,
+          "cyijun-surfing-plugin": 4,
           "gooodwei-context-vista": 4,
           "leechen298-code2skill": 4,
           "liliucourier-dsh-chat-outline": 4,
@@ -844,14 +840,18 @@
           "yuzi-ska-dsh-chrome-devtools": 4,
           "anacondakc-dsh-stock-market": 3,
           "chenyuheee-dsh-browser-playwright": 3,
+          "chushixixin-dsh-harness-mcp-server": 3,
           "crazyshout-dsh-ssh-remote": 3,
-          "criscolthecoder-dsh-plugin-browser": 3,
-          "dgpisces-deepseek-harness-openai-oauth": 3,
-          "ghost011118-dsh-balance-meter": 3
+          "dingyi222666-dsh-session-notification": 3,
+          "gxinxing-deepseek-harness-tui": 3,
+          "jesse-njx-dsh-voice": 3,
+          "l541402398-dsh-file-uploads": 3,
+          "nanki-nn-dsh-answer-pet": 3,
+          "oceanxuikun-dsh-eva-theme-plugin": 3
         },
         "windows": {
           "dsh-market-dsh-market": {
-            "from": "2026-08-17T17:47:48.893Z",
+            "from": "2026-08-21T13:14:52.241Z",
             "to": "2026-09-08T18:45:35.146Z"
           },
           "bowenliang123-dsh-context": {
@@ -867,7 +867,7 @@
             "to": "2026-09-08T18:45:35.146Z"
           },
           "nagi-ovo-dsh-ads": {
-            "from": "2026-08-21T09:54:11.496Z",
+            "from": "2026-08-21T13:14:52.241Z",
             "to": "2026-09-20T11:37:13.453Z"
           },
           "bugmaker2-dsh-plugin-template": {
@@ -882,16 +882,16 @@
             "from": "2026-08-17T17:47:48.893Z",
             "to": "2026-09-08T18:45:35.146Z"
           },
-          "franksong2702-dsh-codex-connect": {
-            "from": "2026-08-17T15:43:44.297Z",
-            "to": "2026-09-08T18:45:35.146Z"
-          },
           "hust-open-atom-club-oh-dsh": {
             "from": "2026-08-17T15:43:44.297Z",
             "to": "2026-09-08T18:45:35.146Z"
           },
           "huiliyi37-dsh-tianshu-tui": {
             "from": "2026-08-17T17:47:48.893Z",
+            "to": "2026-09-08T18:45:35.146Z"
+          },
+          "franksong2702-dsh-codex-connect": {
+            "from": "2026-08-21T13:14:52.241Z",
             "to": "2026-09-08T18:45:35.146Z"
           },
           "anionex-dsh-vision-toolkit": {
@@ -901,10 +901,6 @@
           "hsiangnianian-dsh-auto-continue": {
             "from": "2026-08-17T15:43:44.297Z",
             "to": "2026-09-08T18:45:35.146Z"
-          },
-          "fishquito7-dsh-skill-viewer": {
-            "from": "2026-08-17T15:43:44.297Z",
-            "to": "2026-09-05T18:21:55.810Z"
           },
           "awesome-dsh-plugin-dsh-find-plugin": {
             "from": "2026-08-21T10:50:56.991Z",
@@ -929,6 +925,10 @@
           "aik358-dsh-auto-memory": {
             "from": "2026-08-21T10:50:56.991Z",
             "to": "2026-09-08T18:45:35.146Z"
+          },
+          "fishquito7-dsh-skill-viewer": {
+            "from": "2026-08-21T13:14:52.241Z",
+            "to": "2026-09-05T18:21:55.810Z"
           },
           "oil-oil-dsh-vision": {
             "from": "2026-08-17T17:47:48.893Z",
@@ -993,10 +993,6 @@
           "lx2000wasd-dsh-web-plugin-manager": {
             "from": "2026-08-17T15:43:44.297Z",
             "to": "2026-09-08T18:45:35.146Z"
-          },
-          "cyijun-surfing-plugin": {
-            "from": "2026-08-14T10:30:21.295Z",
-            "to": "2026-09-05T18:21:55.810Z"
           },
           "maxeaglet-dsh-bash-terminal": {
             "from": "2026-08-17T15:43:44.297Z",
@@ -1086,18 +1082,6 @@
             "from": "2026-08-21T10:50:56.991Z",
             "to": "2026-09-08T18:45:35.146Z"
           },
-          "chushixixin-dsh-harness-mcp-server": {
-            "from": "2026-08-17T15:43:44.297Z",
-            "to": "2026-09-05T18:21:55.810Z"
-          },
-          "clizo1209-dsh-playwright-browser": {
-            "from": "2026-08-16T14:11:14.437Z",
-            "to": "2026-08-29T14:32:34.143Z"
-          },
-          "dingyi222666-dsh-session-notification": {
-            "from": "2026-08-17T15:43:44.297Z",
-            "to": "2026-09-08T18:45:35.146Z"
-          },
           "heartmove-dsh-side-chat": {
             "from": "2026-08-17T15:43:44.297Z",
             "to": "2026-09-08T18:45:35.146Z"
@@ -1134,8 +1118,8 @@
             "from": "2026-08-17T15:43:44.297Z",
             "to": "2026-09-05T16:07:09.624Z"
           },
-          "chinesezjc-dsh-interconnect": {
-            "from": "2026-08-17T15:43:44.297Z",
+          "clizo1209-dsh-playwright-browser": {
+            "from": "2026-08-21T13:14:52.241Z",
             "to": "2026-08-29T14:32:34.143Z"
           },
           "fuhefei-dsh-sentinel": {
@@ -1174,8 +1158,8 @@
             "from": "2026-08-17T15:43:44.297Z",
             "to": "2026-09-08T18:45:35.146Z"
           },
-          "flymysql-dsh-memory": {
-            "from": "2026-08-17T15:43:44.297Z",
+          "cyijun-surfing-plugin": {
+            "from": "2026-08-21T13:14:52.241Z",
             "to": "2026-09-05T18:21:55.810Z"
           },
           "gooodwei-context-vista": {
@@ -1234,21 +1218,37 @@
             "from": "2026-08-16T14:11:14.437Z",
             "to": "2026-08-29T14:32:34.143Z"
           },
+          "chushixixin-dsh-harness-mcp-server": {
+            "from": "2026-08-21T13:14:52.241Z",
+            "to": "2026-09-05T18:21:55.810Z"
+          },
           "crazyshout-dsh-ssh-remote": {
             "from": "2026-08-16T14:11:14.437Z",
             "to": "2026-09-05T18:21:55.810Z"
           },
-          "criscolthecoder-dsh-plugin-browser": {
-            "from": "2026-08-14T10:30:21.295Z",
-            "to": "2026-08-21T13:14:52.241Z"
+          "dingyi222666-dsh-session-notification": {
+            "from": "2026-08-21T13:14:52.241Z",
+            "to": "2026-09-08T18:45:35.146Z"
           },
-          "dgpisces-deepseek-harness-openai-oauth": {
-            "from": "2026-08-14T10:30:21.295Z",
-            "to": "2026-09-05T18:21:55.810Z"
+          "gxinxing-deepseek-harness-tui": {
+            "from": "2026-08-16T14:11:14.437Z",
+            "to": "2026-09-08T18:45:35.146Z"
           },
-          "ghost011118-dsh-balance-meter": {
+          "jesse-njx-dsh-voice": {
+            "from": "2026-08-16T14:11:14.437Z",
+            "to": "2026-09-08T18:45:35.146Z"
+          },
+          "l541402398-dsh-file-uploads": {
             "from": "2026-08-17T15:43:44.297Z",
-            "to": "2026-08-21T13:14:52.241Z"
+            "to": "2026-09-08T18:45:35.146Z"
+          },
+          "nanki-nn-dsh-answer-pet": {
+            "from": "2026-08-17T15:43:44.297Z",
+            "to": "2026-09-08T18:45:35.146Z"
+          },
+          "oceanxuikun-dsh-eva-theme-plugin": {
+            "from": "2026-08-14T10:30:21.295Z",
+            "to": "2026-09-08T18:45:35.146Z"
           }
         }
       }
@@ -22633,17 +22633,13 @@
       "observations": {
         "repository": "ccch1mneyyy/dsh-TUI",
         "github": {
-          "stars": 3112,
+          "stars": 3115,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-09-20T10:15:34Z",
+          "lastPushAt": "2026-09-20T15:26:02Z",
           "latestReleaseAt": "2026-09-17T03:50:02Z",
-          "capturedAt": "2026-09-20T11:37:13.453Z",
+          "capturedAt": "2026-09-20T16:13:28.962Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-08-31T05:44:14.995Z",
-              "stars": 2729
-            },
             {
               "capturedAt": "2026-08-31T14:01:22.650Z",
               "stars": 2740
@@ -22999,6 +22995,10 @@
             {
               "capturedAt": "2026-09-20T11:37:13.453Z",
               "stars": 3112
+            },
+            {
+              "capturedAt": "2026-09-20T16:13:28.962Z",
+              "stars": 3115
             }
           ]
         },
@@ -23009,7 +23009,7 @@
           "installSpec": "github:ccch1mneyyy/dsh-TUI",
           "readmeFound": true,
           "readmeGuidance": true,
-          "checkedAt": "2026-09-20T11:37:13.453Z"
+          "checkedAt": "2026-09-20T16:13:28.962Z"
         },
         "discovery": {
           "origins": [
@@ -23017,10 +23017,10 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-09-20T11:37:13.453Z"
+          "lastSeenAt": "2026-09-20T16:13:28.962Z"
         },
         "failures": [],
-        "lastSuccessfulAt": "2026-09-20T11:37:13.453Z"
+        "lastSuccessfulAt": "2026-09-20T16:13:28.962Z"
       },
       "editorial": {
         "editorPick": true,
@@ -92029,17 +92029,13 @@
       "observations": {
         "repository": "omdsh-dev/DSH-better-sidebar",
         "github": {
-          "stars": 3686,
+          "stars": 3687,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-09-20T10:23:57Z",
           "latestReleaseAt": "2026-09-11T08:47:36Z",
-          "capturedAt": "2026-09-20T11:37:13.453Z",
+          "capturedAt": "2026-09-20T16:13:28.962Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-09-01T05:17:22.216Z",
-              "stars": 3188
-            },
             {
               "capturedAt": "2026-09-01T10:11:27.827Z",
               "stars": 3199
@@ -92395,6 +92391,10 @@
             {
               "capturedAt": "2026-09-20T11:37:13.453Z",
               "stars": 3686
+            },
+            {
+              "capturedAt": "2026-09-20T16:13:28.962Z",
+              "stars": 3687
             }
           ]
         },
@@ -92405,7 +92405,7 @@
           "installSpec": "github:omdsh-dev/DSH-better-sidebar",
           "readmeFound": true,
           "readmeGuidance": true,
-          "checkedAt": "2026-09-20T11:37:13.453Z"
+          "checkedAt": "2026-09-20T16:13:28.962Z"
         },
         "discovery": {
           "origins": [
@@ -92413,10 +92413,10 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-09-20T11:37:13.453Z"
+          "lastSeenAt": "2026-09-20T16:13:28.962Z"
         },
         "failures": [],
-        "lastSuccessfulAt": "2026-09-20T11:37:13.453Z"
+        "lastSuccessfulAt": "2026-09-20T16:13:28.962Z"
       },
       "editorial": {
         "editorPick": true,
@@ -118637,17 +118637,13 @@
       "observations": {
         "repository": "Small-tailqwq/dsh-deep-whale",
         "github": {
-          "stars": 2153,
+          "stars": 2154,
           "license": "NOASSERTION",
           "archived": false,
           "lastPushAt": "2026-09-20T04:13:47Z",
           "latestReleaseAt": "2026-09-10T05:38:46Z",
-          "capturedAt": "2026-09-20T11:37:13.453Z",
+          "capturedAt": "2026-09-20T16:13:28.962Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-08-25T01:55:36.612Z",
-              "stars": 1679
-            },
             {
               "capturedAt": "2026-08-25T03:14:36.644Z",
               "stars": 1682
@@ -119003,6 +118999,10 @@
             {
               "capturedAt": "2026-09-20T11:37:13.453Z",
               "stars": 2153
+            },
+            {
+              "capturedAt": "2026-09-20T16:13:28.962Z",
+              "stars": 2154
             }
           ]
         },
@@ -119013,7 +119013,7 @@
           "installSpec": "github:Small-tailqwq/dsh-deep-whale",
           "readmeFound": true,
           "readmeGuidance": true,
-          "checkedAt": "2026-09-20T11:37:13.453Z"
+          "checkedAt": "2026-09-20T16:13:28.962Z"
         },
         "discovery": {
           "origins": [
@@ -119021,10 +119021,10 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-09-20T11:37:13.453Z"
+          "lastSeenAt": "2026-09-20T16:13:28.962Z"
         },
         "failures": [],
-        "lastSuccessfulAt": "2026-09-20T11:37:13.453Z"
+        "lastSuccessfulAt": "2026-09-20T16:13:28.962Z"
       },
       "editorial": {
         "editorPick": true,
