@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-23T00:39:30.065Z",
-  "sourceCommit": "8e8fd7f130764a7821b743a6f0b97d966985729121a42bd2f3e0b82ec5098217",
+  "updatedAt": "2026-09-23T06:03:24.572Z",
+  "sourceCommit": "8eca51299bd6d0b2edc3a48df14ad9f8acade1743e3ba2a5f81bb5ef84bc757c",
   "source": {
     "repository": "Ericwong5021/deepseek-plugin-store",
     "registry": "registry/plugins",
@@ -419,7 +419,7 @@
       }
     ],
     "rankings": {
-      "generatedAt": "2026-09-23T00:39:30.065Z",
+      "generatedAt": "2026-09-23T06:03:24.572Z",
       "eligibleCount": 575,
       "popular": {
         "method": "current-github-stars",
@@ -650,10 +650,10 @@
           "bowenliang123-dsh-context",
           "liustack-modsearch",
           "omdsh-dev-dsh-genui",
-          "nagi-ovo-dsh-ads",
           "bugmaker2-dsh-plugin-template",
           "nagi-ovo-dsh-visualize",
           "nwflower-dsh-chat-import",
+          "nagi-ovo-dsh-ads",
           "hust-open-atom-club-oh-dsh",
           "huiliyi37-dsh-tianshu-tui",
           "franksong2702-dsh-codex-connect",
@@ -752,10 +752,10 @@
           "bowenliang123-dsh-context": 692,
           "liustack-modsearch": 301,
           "omdsh-dev-dsh-genui": 246,
-          "nagi-ovo-dsh-ads": 107,
           "bugmaker2-dsh-plugin-template": 97,
           "nagi-ovo-dsh-visualize": 91,
           "nwflower-dsh-chat-import": 84,
+          "nagi-ovo-dsh-ads": 78,
           "hust-open-atom-club-oh-dsh": 70,
           "huiliyi37-dsh-tianshu-tui": 64,
           "franksong2702-dsh-codex-connect": 60,
@@ -866,10 +866,6 @@
             "from": "2026-08-17T17:47:48.893Z",
             "to": "2026-09-08T18:45:35.146Z"
           },
-          "nagi-ovo-dsh-ads": {
-            "from": "2026-08-21T13:14:52.241Z",
-            "to": "2026-09-22T15:00:03.812Z"
-          },
           "bugmaker2-dsh-plugin-template": {
             "from": "2026-08-21T10:50:56.991Z",
             "to": "2026-09-08T18:45:35.146Z"
@@ -881,6 +877,10 @@
           "nwflower-dsh-chat-import": {
             "from": "2026-08-17T17:47:48.893Z",
             "to": "2026-09-08T18:45:35.146Z"
+          },
+          "nagi-ovo-dsh-ads": {
+            "from": "2026-08-24T04:10:08.022Z",
+            "to": "2026-09-22T15:00:03.812Z"
           },
           "hust-open-atom-club-oh-dsh": {
             "from": "2026-08-17T15:43:44.297Z",
@@ -22633,17 +22633,13 @@
       "observations": {
         "repository": "ccch1mneyyy/dsh-TUI",
         "github": {
-          "stars": 3153,
+          "stars": 3155,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-09-22T21:11:43Z",
+          "lastPushAt": "2026-09-23T03:14:32Z",
           "latestReleaseAt": "2026-09-17T03:50:02Z",
-          "capturedAt": "2026-09-22T22:16:12.193Z",
+          "capturedAt": "2026-09-23T06:03:24.572Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-09-02T21:52:02.737Z",
-              "stars": 2783
-            },
             {
               "capturedAt": "2026-09-03T00:19:53.931Z",
               "stars": 2784
@@ -22999,6 +22995,10 @@
             {
               "capturedAt": "2026-09-22T22:16:12.193Z",
               "stars": 3153
+            },
+            {
+              "capturedAt": "2026-09-23T06:03:24.572Z",
+              "stars": 3155
             }
           ]
         },
@@ -23009,7 +23009,7 @@
           "installSpec": "github:ccch1mneyyy/dsh-TUI",
           "readmeFound": true,
           "readmeGuidance": true,
-          "checkedAt": "2026-09-22T22:16:12.193Z"
+          "checkedAt": "2026-09-23T06:03:24.572Z"
         },
         "discovery": {
           "origins": [
@@ -23017,10 +23017,10 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-09-22T22:16:12.193Z"
+          "lastSeenAt": "2026-09-23T06:03:24.572Z"
         },
         "failures": [],
-        "lastSuccessfulAt": "2026-09-22T22:16:12.193Z"
+        "lastSuccessfulAt": "2026-09-23T06:03:24.572Z"
       },
       "editorial": {
         "editorPick": true,
@@ -92029,17 +92029,13 @@
       "observations": {
         "repository": "omdsh-dev/DSH-better-sidebar",
         "github": {
-          "stars": 3717,
+          "stars": 3721,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-09-22T09:44:20Z",
           "latestReleaseAt": "2026-09-11T08:47:36Z",
-          "capturedAt": "2026-09-23T00:39:30.065Z",
+          "capturedAt": "2026-09-23T06:03:24.572Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-09-03T09:54:41.542Z",
-              "stars": 3281
-            },
             {
               "capturedAt": "2026-09-03T14:37:05.336Z",
               "stars": 3293
@@ -92395,6 +92391,10 @@
             {
               "capturedAt": "2026-09-23T00:39:30.065Z",
               "stars": 3717
+            },
+            {
+              "capturedAt": "2026-09-23T06:03:24.572Z",
+              "stars": 3721
             }
           ]
         },
@@ -92405,7 +92405,7 @@
           "installSpec": "github:omdsh-dev/DSH-better-sidebar",
           "readmeFound": true,
           "readmeGuidance": true,
-          "checkedAt": "2026-09-23T00:39:30.065Z"
+          "checkedAt": "2026-09-23T06:03:24.572Z"
         },
         "discovery": {
           "origins": [
@@ -92413,10 +92413,10 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-09-23T00:39:30.065Z"
+          "lastSeenAt": "2026-09-23T06:03:24.572Z"
         },
         "failures": [],
-        "lastSuccessfulAt": "2026-09-23T00:39:30.065Z"
+        "lastSuccessfulAt": "2026-09-23T06:03:24.572Z"
       },
       "editorial": {
         "editorPick": true,
@@ -158055,10 +158055,10 @@
     }
   ],
   "candidateSummary": {
-    "total": 13707,
-    "checked": 13666,
+    "total": 13712,
+    "checked": 13671,
     "unchecked": 41,
-    "admissionReady": 10383,
-    "hidden": 13707
+    "admissionReady": 10388,
+    "hidden": 13712
   }
 }
