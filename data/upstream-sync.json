@@ -1,81 +1,81 @@
 {
   "schemaVersion": 2,
-  "checkedAt": "2026-09-23T11:48:16.800Z",
+  "checkedAt": "2026-09-23T17:12:00.310Z",
   "status": "partial",
   "sources": [
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/README.md",
-      "checkedAt": "2026-09-23T11:48:16.800Z",
+      "checkedAt": "2026-09-23T17:12:00.310Z",
       "status": "ok"
     },
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/README.zh.md",
-      "checkedAt": "2026-09-23T11:48:16.800Z",
+      "checkedAt": "2026-09-23T17:12:00.310Z",
       "status": "ok"
     },
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/index.html",
-      "checkedAt": "2026-09-23T11:48:16.800Z",
+      "checkedAt": "2026-09-23T17:12:00.310Z",
       "status": "failed"
     },
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/zh/index.html",
-      "checkedAt": "2026-09-23T11:48:16.800Z",
+      "checkedAt": "2026-09-23T17:12:00.310Z",
       "status": "failed"
     },
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/sitemap.xml",
-      "checkedAt": "2026-09-23T11:48:16.800Z",
+      "checkedAt": "2026-09-23T17:12:00.310Z",
       "status": "failed"
     },
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/feed.xml",
-      "checkedAt": "2026-09-23T11:48:16.800Z",
+      "checkedAt": "2026-09-23T17:12:00.310Z",
       "status": "failed"
     },
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/zh/feed.xml",
-      "checkedAt": "2026-09-23T11:48:16.800Z",
+      "checkedAt": "2026-09-23T17:12:00.310Z",
       "status": "failed"
     },
     {
       "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/plugins.json",
-      "checkedAt": "2026-09-23T11:48:16.800Z",
+      "checkedAt": "2026-09-23T17:12:00.310Z",
       "status": "failed"
     },
     {
       "url": "https://api.github.com/repos/awesome-dsh-plugin/awesome-dsh-plugin",
-      "checkedAt": "2026-09-23T11:48:16.800Z",
+      "checkedAt": "2026-09-23T17:12:00.310Z",
       "status": "ok"
     },
     {
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "checkedAt": "2026-09-23T11:48:16.800Z",
+      "checkedAt": "2026-09-23T17:12:00.310Z",
       "status": "ok"
     },
     {
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pulls?q=is%3Apr+is%3Aopen",
-      "checkedAt": "2026-09-23T11:48:16.800Z",
+      "checkedAt": "2026-09-23T17:12:00.310Z",
       "status": "ok"
     },
     {
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/issues?q=is%3Aissue+is%3Aopen",
-      "checkedAt": "2026-09-23T11:48:16.800Z",
+      "checkedAt": "2026-09-23T17:12:00.310Z",
       "status": "ok"
     },
     {
       "url": "https://awesome-dsh-plugin.com/",
-      "checkedAt": "2026-09-23T11:48:16.800Z",
+      "checkedAt": "2026-09-23T17:12:00.310Z",
       "status": "ok"
     },
     {
       "url": "https://awesome-dsh-plugin.com/sitemap.xml",
-      "checkedAt": "2026-09-23T11:48:16.800Z",
+      "checkedAt": "2026-09-23T17:12:00.310Z",
       "status": "ok"
     },
     {
       "url": "https://awesome-dsh-plugin.com/feed.xml",
-      "checkedAt": "2026-09-23T11:48:16.800Z",
+      "checkedAt": "2026-09-23T17:12:00.310Z",
       "status": "ok"
     }
   ],
@@ -84,37 +84,11 @@
     "website": "https://awesome-dsh-plugin.com/",
     "repositoryReachable": true,
     "websiteReachable": true,
-    "stars": 16713,
-    "forks": 3231,
-    "commitCount": 6952,
-    "openPullRequests": 25,
-    "openPullRequestNumbers": [
-      5760,
-      5759,
-      5758,
-      5757,
-      5756,
-      5755,
-      5754,
-      5753,
-      5752,
-      5751,
-      5750,
-      5749,
-      5748,
-      5747,
-      5746,
-      5745,
-      5744,
-      5743,
-      5742,
-      5741,
-      5740,
-      5739,
-      5738,
-      5737,
-      5736
-    ],
+    "stars": 16740,
+    "forks": 3235,
+    "commitCount": 7026,
+    "openPullRequests": 0,
+    "openPullRequestNumbers": [],
     "openIssues": 4,
     "openIssueNumbers": [
       4520,
@@ -122,7 +96,7 @@
       2976,
       2582
     ],
-    "pluginEntries": 4183,
+    "pluginEntries": 4225,
     "websiteAdvertisedPluginEntries": 4183,
     "categories": [
       "AGI Architecture Exploration",
@@ -205,71 +179,1234 @@
       }
     ],
     "latestCommit": {
-      "sha": "7983709b6ebfca1d50d134f2c5c5f660308bd879",
-      "date": "2026-09-23T01:28:24Z",
+      "sha": "dc70baa046dbc202286171a5ac6e0f84fe2c0007",
+      "date": "2026-09-23T17:11:02Z",
       "message": "chore: regenerate READMEs from data/plugins",
-      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/7983709b6ebfca1d50d134f2c5c5f660308bd879"
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/dc70baa046dbc202286171a5ac6e0f84fe2c0007"
     },
     "recentChanges": [
       {
-        "sha": "7983709b6ebfca1d50d134f2c5c5f660308bd879",
-        "date": "2026-09-23T01:28:24Z",
+        "sha": "dc70baa046dbc202286171a5ac6e0f84fe2c0007",
+        "date": "2026-09-23T17:11:02Z",
         "title": "chore: regenerate READMEs from data/plugins",
-        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/7983709b6ebfca1d50d134f2c5c5f660308bd879",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/dc70baa046dbc202286171a5ac6e0f84fe2c0007",
         "kind": "content/data"
       },
       {
-        "sha": "35d54ba35b8cd1f1cfa097f87e74919e8685fb95",
-        "date": "2026-09-23T09:28:14+08:00",
-        "title": "Add Missher12/dsh-project-ops (0.3.1) (#5083)",
-        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/35d54ba35b8cd1f1cfa097f87e74919e8685fb95",
+        "sha": "06748fb84a3b2aa7bcad0dd2874c3ef4cc09ecad",
+        "date": "2026-09-24T01:10:57+08:00",
+        "title": "Add dsh-context-zip (memory) (#5775)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/06748fb84a3b2aa7bcad0dd2874c3ef4cc09ecad",
         "kind": "content/data"
       },
       {
-        "sha": "d55dba654941828162a0a5076430b1c11a8dfc46",
-        "date": "2026-09-23T09:21:56+08:00",
-        "title": "regate: stop only on a rate limit, not on any 403",
-        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/d55dba654941828162a0a5076430b1c11a8dfc46",
+        "sha": "8d9451211eb4dc7fc601da3175b1951a48bfa0ab",
+        "date": "2026-09-24T01:10:51+08:00",
+        "title": "Add harde1/dsh-xcodebuild (#5774)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/8d9451211eb4dc7fc601da3175b1951a48bfa0ab",
         "kind": "content/data"
       },
       {
-        "sha": "402e4daa1111a1187548b439ae00a07f113afff2",
-        "date": "2026-09-23T09:20:31+08:00",
-        "title": "regate: re-run a gate that faulted, not just one that failed on age",
-        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/402e4daa1111a1187548b439ae00a07f113afff2",
+        "sha": "095aba1c081a6191d8e387d31e54d1d7cfcd2051",
+        "date": "2026-09-23T17:10:47Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/095aba1c081a6191d8e387d31e54d1d7cfcd2051",
         "kind": "content/data"
       },
       {
-        "sha": "50e79af126f86fc261639a0c5cbf5f5bbb5b34a3",
-        "date": "2026-09-23T08:22:52+08:00",
-        "title": "regate: a run too old to re-run is not a rate limit",
-        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/50e79af126f86fc261639a0c5cbf5f5bbb5b34a3",
+        "sha": "323bae6696ec03123cb61f021f45a371b697ba7f",
+        "date": "2026-09-24T01:10:45+08:00",
+        "title": "Update dsh-plugin-market listing for current install and update behavior (#5773)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/323bae6696ec03123cb61f021f45a371b697ba7f",
         "kind": "content/data"
       },
       {
-        "sha": "d68121c68ddc6313c99c81c4f1c2be11b6acfc83",
-        "date": "2026-09-23T08:15:35+08:00",
-        "title": "Add tangjx2007/dsh-audio-cue (#5533)",
-        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/d68121c68ddc6313c99c81c4f1c2be11b6acfc83",
+        "sha": "97e688beca72cdee2f651384eec40d6a3960f804",
+        "date": "2026-09-24T01:10:37+08:00",
+        "title": "docs: update dsh-plugin-tool-management description to 0.14.0 (#5771)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/97e688beca72cdee2f651384eec40d6a3960f804",
         "kind": "content/data"
       },
       {
-        "sha": "aa7d2c0dd94fc3ba8d4a689ec31aaefe190b7460",
-        "date": "2026-09-23T08:09:07+08:00",
-        "title": "regate: a red check must not veto re-asking an age-blocked gate",
-        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/aa7d2c0dd94fc3ba8d4a689ec31aaefe190b7460",
+        "sha": "e24c4a22f7f4e67134eb027286fd05aaaeb3a9dc",
+        "date": "2026-09-23T17:10:32Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/e24c4a22f7f4e67134eb027286fd05aaaeb3a9dc",
         "kind": "content/data"
       },
       {
-        "sha": "448b604e9fd2f9326073e04d1b28b876f2ced6fc",
-        "date": "2026-09-23T08:05:18+08:00",
-        "title": "Rename VDERR/echocat-skill-panel-3.0 to VDERR/dsh-echocat-skill-panel (#5713)",
-        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/448b604e9fd2f9326073e04d1b28b876f2ced6fc",
+        "sha": "6583afb4ab706f32dd787d6b002de522697310df",
+        "date": "2026-09-24T01:10:30+08:00",
+        "title": "data: point agent-body tarballs at v0.1.1 (#5769)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/6583afb4ab706f32dd787d6b002de522697310df",
         "kind": "content/data"
       }
     ],
-    "newCommits": [],
-    "changedFiles": [],
+    "newCommits": [
+      {
+        "sha": "dc70baa046dbc202286171a5ac6e0f84fe2c0007",
+        "date": "2026-09-23T17:11:02Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/dc70baa046dbc202286171a5ac6e0f84fe2c0007",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "06748fb84a3b2aa7bcad0dd2874c3ef4cc09ecad",
+        "date": "2026-09-24T01:10:57+08:00",
+        "title": "Add dsh-context-zip (memory) (#5775)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/06748fb84a3b2aa7bcad0dd2874c3ef4cc09ecad",
+        "files": [
+          "A\tdata/plugins/brunhildzhou__dsh-context-zip--dsh-context-zip.yml"
+        ]
+      },
+      {
+        "sha": "8d9451211eb4dc7fc601da3175b1951a48bfa0ab",
+        "date": "2026-09-24T01:10:51+08:00",
+        "title": "Add harde1/dsh-xcodebuild (#5774)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/8d9451211eb4dc7fc601da3175b1951a48bfa0ab",
+        "files": [
+          "A\tdata/plugins/harde1__dsh-xcodebuild.yml"
+        ]
+      },
+      {
+        "sha": "095aba1c081a6191d8e387d31e54d1d7cfcd2051",
+        "date": "2026-09-23T17:10:47Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/095aba1c081a6191d8e387d31e54d1d7cfcd2051",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "323bae6696ec03123cb61f021f45a371b697ba7f",
+        "date": "2026-09-24T01:10:45+08:00",
+        "title": "Update dsh-plugin-market listing for current install and update behavior (#5773)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/323bae6696ec03123cb61f021f45a371b697ba7f",
+        "files": [
+          "M\tdata/plugins/99galaxy__dsh-plugin-market.yml"
+        ]
+      },
+      {
+        "sha": "97e688beca72cdee2f651384eec40d6a3960f804",
+        "date": "2026-09-24T01:10:37+08:00",
+        "title": "docs: update dsh-plugin-tool-management description to 0.14.0 (#5771)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/97e688beca72cdee2f651384eec40d6a3960f804",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md",
+          "M\tdata/plugins/ouli-1242__dsh-plugin-tool-management.yml"
+        ]
+      },
+      {
+        "sha": "e24c4a22f7f4e67134eb027286fd05aaaeb3a9dc",
+        "date": "2026-09-23T17:10:32Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/e24c4a22f7f4e67134eb027286fd05aaaeb3a9dc",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "6583afb4ab706f32dd787d6b002de522697310df",
+        "date": "2026-09-24T01:10:30+08:00",
+        "title": "data: point agent-body tarballs at v0.1.1 (#5769)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/6583afb4ab706f32dd787d6b002de522697310df",
+        "files": [
+          "M\tdata/plugins/1420079678-ctrl__agent-body--workspace-plugins-dsh-cortex.yml",
+          "M\tdata/plugins/1420079678-ctrl__agent-body--workspace-plugins-dsh-organism.yml"
+        ]
+      },
+      {
+        "sha": "471d782753e0bd67f7aa25d7ef510d64e8ca50f4",
+        "date": "2026-09-24T01:10:21+08:00",
+        "title": "Add Ztyss/dsh-llm-provider (#5766)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/471d782753e0bd67f7aa25d7ef510d64e8ca50f4",
+        "files": [
+          "A\tdata/plugins/Ztyss__dsh-llm-provider.yml"
+        ]
+      },
+      {
+        "sha": "9d98adc5400f01d35a0d4b8c821a838f988ec5bc",
+        "date": "2026-09-23T17:10:19Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/9d98adc5400f01d35a0d4b8c821a838f988ec5bc",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "e97cf60ceadef7f627dba57b16ec3746d36aaa4a",
+        "date": "2026-09-24T01:10:14+08:00",
+        "title": "chore(dsh-concise): bump tarball to v0.11.3 (#5765)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/e97cf60ceadef7f627dba57b16ec3746d36aaa4a",
+        "files": [
+          "M\tdata/plugins/hoyyang__dsh-concise.yml"
+        ]
+      },
+      {
+        "sha": "13f92f509547cfffc1beb9557552436f3884d7f2",
+        "date": "2026-09-24T01:10:08+08:00",
+        "title": "feat: add btsd321/dsh-remote-explorer (#5763)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/13f92f509547cfffc1beb9557552436f3884d7f2",
+        "files": [
+          "A\tdata/plugins/btsd321__dsh-remote-explorer.yml"
+        ]
+      },
+      {
+        "sha": "11e320e12a7f9b3e67c49d8db4d2a5b8e785258c",
+        "date": "2026-09-23T17:10:03Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/11e320e12a7f9b3e67c49d8db4d2a5b8e785258c",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "5c00915f5dd43429babb18b3a5886675576f21aa",
+        "date": "2026-09-24T01:10:02+08:00",
+        "title": "Update enterhalf/dsh-session-colorful-unread-pin-jobs description (#5761)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/5c00915f5dd43429babb18b3a5886675576f21aa",
+        "files": [
+          "M\tdata/plugins/enterhalf__dsh-session-colorful-unread-pin-jobs.yml"
+        ]
+      },
+      {
+        "sha": "54234663c329e36831c5a7e480ecf535bb660804",
+        "date": "2026-09-24T01:09:57+08:00",
+        "title": "Add 1jiegejiayouxuewangan1/dsh-desktop-uia (tools) (#5760)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/54234663c329e36831c5a7e480ecf535bb660804",
+        "files": [
+          "A\tdata/plugins/1jiegejiayouxuewangan1__dsh-desktop-uia.yml"
+        ]
+      },
+      {
+        "sha": "00953fc2c6400c5cb466334596ceb786a0dc1eca",
+        "date": "2026-09-23T17:09:53Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/00953fc2c6400c5cb466334596ceb786a0dc1eca",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "84ebbde4f09beaa3726ea5ec0955f0bef49d91c0",
+        "date": "2026-09-24T01:09:51+08:00",
+        "title": "Add xueccci/dsh-prompt-lab (#5759)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/84ebbde4f09beaa3726ea5ec0955f0bef49d91c0",
+        "files": [
+          "A\tdata/plugins/xueccci__dsh-prompt-lab.yml"
+        ]
+      },
+      {
+        "sha": "e43ec4c78472f24168e38aed804a9c952dd44df3",
+        "date": "2026-09-24T01:09:44+08:00",
+        "title": "docs: add EIGHTfs/dsh-theme-mediascape (theme) — media-scape theme plugin (#5758)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/e43ec4c78472f24168e38aed804a9c952dd44df3",
+        "files": [
+          "A\tdata/plugins/EIGHTfs__dsh-theme-mediascape.yml"
+        ]
+      },
+      {
+        "sha": "2d01dd27e9edb83818ffd9fb27f5b5e7d263de01",
+        "date": "2026-09-23T17:09:38Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/2d01dd27e9edb83818ffd9fb27f5b5e7d263de01",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "d4773d15c3868a826eb8d42131600717a320f20c",
+        "date": "2026-09-24T01:09:34+08:00",
+        "title": "Update nightosong/gord-dsh-worktree's description to cover its newer surfaces (#5754)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/d4773d15c3868a826eb8d42131600717a320f20c",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md",
+          "M\tdata/plugins/nightosong__gord-dsh-worktree.yml"
+        ]
+      },
+      {
+        "sha": "a452ecd8f39d9d729565f95629c3fd82c50ef6b1",
+        "date": "2026-09-24T01:09:27+08:00",
+        "title": "Add dsh-notes-plugin (#5752)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/a452ecd8f39d9d729565f95629c3fd82c50ef6b1",
+        "files": [
+          "A\tdata/plugins/PPawnsir__dsh-notes-plugin--packages-dsh-notes-plugin.yml"
+        ]
+      },
+      {
+        "sha": "096f3821204d0248384e2ec8f940b8ab129ad3d0",
+        "date": "2026-09-24T01:04:49+08:00",
+        "title": "entries: a name written as owner/repo must name the url's repository",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/096f3821204d0248384e2ec8f940b8ab129ad3d0",
+        "files": [
+          "M\tscripts/lib/entries.mjs"
+        ]
+      },
+      {
+        "sha": "f9066a52b6a031cd9a10d3051503fde895688f8b",
+        "date": "2026-09-23T17:02:56Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/f9066a52b6a031cd9a10d3051503fde895688f8b",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "7897ac1089ce95355fe19fc3257d6f48bce6e600",
+        "date": "2026-09-24T01:02:43+08:00",
+        "title": "Fix the six entries whose name does not match their url (#5756)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/7897ac1089ce95355fe19fc3257d6f48bce6e600",
+        "files": [
+          "M\tdata/plugins/IcedWatermelonJuice__dsh-provider-veark.yml",
+          "M\tdata/plugins/ding112__MoneyPal--packages-dsh-moneypal.yml",
+          "M\tdata/plugins/iguowz__dsh-cortex.yml",
+          "M\tdata/plugins/sjh9714__dsh-movein--plugin.yml",
+          "M\tdata/plugins/yinhcao__yinchao-ai-music-skill.yml",
+          "M\tdata/plugins/yuioi666__dsh-conversation-nav-dots.yml"
+        ]
+      },
+      {
+        "sha": "ef959b7b0770be84d97144462a7e83c9563e702e",
+        "date": "2026-09-23T16:59:32Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/ef959b7b0770be84d97144462a7e83c9563e702e",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "fd159cafc8928ad3e884c6ed7cba272e6770bea1",
+        "date": "2026-09-24T00:59:23+08:00",
+        "title": "Add whoiszzj/dsh-opencodego (#5740)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/fd159cafc8928ad3e884c6ed7cba272e6770bea1",
+        "files": [
+          "A\tdata/plugins/whoiszzj__dsh-opencodego.yml"
+        ]
+      },
+      {
+        "sha": "835c84ee47833dda402ddaa89e8aad61612e44b9",
+        "date": "2026-09-23T16:58:40Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/835c84ee47833dda402ddaa89e8aad61612e44b9",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "791323854117956f16fcbb823514097700419fff",
+        "date": "2026-09-24T00:58:32+08:00",
+        "title": "Add alllllinnrann/dsh-inapp-browser to browser plugins (#5748)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/791323854117956f16fcbb823514097700419fff",
+        "files": [
+          "A\tdata/plugins/alllllinnrann__dsh-inapp-browser.yml"
+        ]
+      },
+      {
+        "sha": "86e1062dd56d2d70aa3d98aeacae3373779b9d6a",
+        "date": "2026-09-23T16:58:27Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/86e1062dd56d2d70aa3d98aeacae3373779b9d6a",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "7b3dfa1403b72e0fadbcfe6eb60f73afe5dee4ab",
+        "date": "2026-09-24T00:58:25+08:00",
+        "title": "Add latte03/dsh-select-quote (#5747)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/7b3dfa1403b72e0fadbcfe6eb60f73afe5dee4ab",
+        "files": [
+          "A\tdata/plugins/latte03__dsh-select-quote.yml"
+        ]
+      },
+      {
+        "sha": "3eac4b89fab641ec32be3782d4319dfbc07469db",
+        "date": "2026-09-24T00:58:19+08:00",
+        "title": "Update Marquez807/dsh-experience-memory description for v0.2.0 (#5745)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/3eac4b89fab641ec32be3782d4319dfbc07469db",
+        "files": [
+          "M\tdata/plugins/Marquez807__dsh-experience-memory.yml"
+        ]
+      },
+      {
+        "sha": "04f812df0ff51ca9ef009df2bb995bbfcd4c06fd",
+        "date": "2026-09-24T00:58:10+08:00",
+        "title": "Add oh-my-deepseekharness (multi-agent orchestration layer) (#5744)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/04f812df0ff51ca9ef009df2bb995bbfcd4c06fd",
+        "files": []
+      },
+      {
+        "sha": "349d0c30c4b5ea17694930529f11bcdf3652c680",
+        "date": "2026-09-23T16:58:07Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/349d0c30c4b5ea17694930529f11bcdf3652c680",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "eee25ec8c4813568342e953c54b20f04e77663da",
+        "date": "2026-09-24T00:58:04+08:00",
+        "title": "add dsh-baize-session entry (#5743)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/eee25ec8c4813568342e953c54b20f04e77663da",
+        "files": [
+          "A\tdata/plugins/bvcvb__dsh-baize-session.yml"
+        ]
+      },
+      {
+        "sha": "7d18d8fb662be42db2321f1d7b538e94093acd1d",
+        "date": "2026-09-24T00:57:58+08:00",
+        "title": "Add dsh-handoff-compaction to memory plugins (#5742)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/7d18d8fb662be42db2321f1d7b538e94093acd1d",
+        "files": [
+          "A\tdata/plugins/knighthongyu__dsh-handoff-compaction.yml"
+        ]
+      },
+      {
+        "sha": "92258ee425b0bc66297e5be1f371a186969f422f",
+        "date": "2026-09-23T16:57:50Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/92258ee425b0bc66297e5be1f371a186969f422f",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "be8cfff74d88f4a1340cb1ec660afb8147ae7a0f",
+        "date": "2026-09-24T00:57:47+08:00",
+        "title": "QMCP-2014 docs: restore MCP Connector search phrase (#5737)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/be8cfff74d88f4a1340cb1ec660afb8147ae7a0f",
+        "files": [
+          "M\tdata/plugins/duhu2000__dsh-mcp-connector.yml"
+        ]
+      },
+      {
+        "sha": "acde42dae2049992b635cccf6ed885afbb9bccaa",
+        "date": "2026-09-24T00:57:42+08:00",
+        "title": "Add TetraSsky/dsh-offpeak (0.1.0) (#5733)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/acde42dae2049992b635cccf6ed885afbb9bccaa",
+        "files": [
+          "A\tdata/plugins/TetraSsky__dsh-offpeak.yml"
+        ]
+      },
+      {
+        "sha": "7d304904f8080ca81a4047e8ecbd057bd941da42",
+        "date": "2026-09-24T00:57:35+08:00",
+        "title": "Add w2310670047-code/ai-eight-honors-eight-shames (#5732)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/7d304904f8080ca81a4047e8ecbd057bd941da42",
+        "files": [
+          "A\tdata/plugins/w2310670047-code__ai-eight-honors-eight-shames.yml"
+        ]
+      },
+      {
+        "sha": "a602b22d009f7eb224b1251b92cee90fdc66ede2",
+        "date": "2026-09-24T00:57:27+08:00",
+        "title": "fix: make probe-updates non-blocking on cold-cache all-fail (#5731)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/a602b22d009f7eb224b1251b92cee90fdc66ede2",
+        "files": [
+          "M\t.github/workflows/build-site.yml",
+          "M\tscripts/probe-updates.mjs"
+        ]
+      },
+      {
+        "sha": "a3c41a5f2105ebc90a8d3fe584eeffa36cdf19c4",
+        "date": "2026-09-23T16:53:58Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/a3c41a5f2105ebc90a8d3fe584eeffa36cdf19c4",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "2d74a148a68ac5f0cf84f79d7f53b0299e56db3e",
+        "date": "2026-09-24T00:53:51+08:00",
+        "title": "Add webkubor/dsh-env-inspector (tools) (#5730)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/2d74a148a68ac5f0cf84f79d7f53b0299e56db3e",
+        "files": [
+          "A\tdata/plugins/webkubor__dsh-env-inspector.yml"
+        ]
+      },
+      {
+        "sha": "5ebea4a273a907660d126c7550cd1bb169772cd6",
+        "date": "2026-09-23T16:53:47Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/5ebea4a273a907660d126c7550cd1bb169772cd6",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "e0a73d5b06e04cbadf1fce3babf2e4c079c90392",
+        "date": "2026-09-24T00:53:45+08:00",
+        "title": "Add qvsix/dsh-antigravity-bridge plugin (#5728)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/e0a73d5b06e04cbadf1fce3babf2e4c079c90392",
+        "files": [
+          "A\tdata/plugins/qvsix__dsh-antigravity-bridge.yml"
+        ]
+      },
+      {
+        "sha": "fdc5f49fe419c9d48be8c6b59b25a38c1238f619",
+        "date": "2026-09-24T00:53:40+08:00",
+        "title": "Add BaizhiCloud MCP configuration bundle to catalog (#5727)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/fdc5f49fe419c9d48be8c6b59b25a38c1238f619",
+        "files": [
+          "A\tdata/plugins/ct-jaryn__dsh-plugin-baizhi-agent-toolkit.yml"
+        ]
+      },
+      {
+        "sha": "96431ced4b6ff9602c99c3cea223199c0155cc96",
+        "date": "2026-09-23T16:53:35Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/96431ced4b6ff9602c99c3cea223199c0155cc96",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "2e58d809492dd56cac3582687827a147f60fdf5b",
+        "date": "2026-09-24T00:53:33+08:00",
+        "title": "Add yu502950715yang/dsh-use-wallpaper (#5726)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/2e58d809492dd56cac3582687827a147f60fdf5b",
+        "files": [
+          "A\tdata/plugins/yu502950715yang__dsh-use-wallpaper.yml"
+        ]
+      },
+      {
+        "sha": "258e1031b0d451a2c15cca46ddefdedb75acd704",
+        "date": "2026-09-24T00:53:29+08:00",
+        "title": "Add 7starsseeker/dsh-fact-check (#5725)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/258e1031b0d451a2c15cca46ddefdedb75acd704",
+        "files": [
+          "A\tdata/plugins/7starsseeker__dsh-fact-check.yml"
+        ]
+      },
+      {
+        "sha": "2d4d2c24402c1925004492ca78f33cefbe044065",
+        "date": "2026-09-24T00:53:23+08:00",
+        "title": "Add troytse/dsh-plugin-codegraph-project (#5724)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/2d4d2c24402c1925004492ca78f33cefbe044065",
+        "files": [
+          "A\tdata/plugins/troytse__dsh-plugin-codegraph-project.yml"
+        ]
+      },
+      {
+        "sha": "5c3194bd0a6e65cf3594437338bf761da1cc6b55",
+        "date": "2026-09-24T00:53:19+08:00",
+        "title": "feat: add dsh-skills-input to plugin directory (#5723)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/5c3194bd0a6e65cf3594437338bf761da1cc6b55",
+        "files": [
+          "A\tdata/plugins/konglong87__dsh-skills-input.yml"
+        ]
+      },
+      {
+        "sha": "320ea52c592b93fb6920a1da28454e971fcb38e5",
+        "date": "2026-09-24T00:53:13+08:00",
+        "title": "docs: improve dsh-input-list discovery metadata (#5722)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/320ea52c592b93fb6920a1da28454e971fcb38e5",
+        "files": [
+          "M\tdata/plugins/konglong87__dsh-input-list.yml"
+        ]
+      },
+      {
+        "sha": "97aa74741c2c70a0d8e123cd78b8718ca8fc7de3",
+        "date": "2026-09-24T00:53:08+08:00",
+        "title": "update: dsh-chat-image-lightbox (display_image inline images, v1.7.0) (#5721)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/97aa74741c2c70a0d8e123cd78b8718ca8fc7de3",
+        "files": [
+          "M\tdata/plugins/loyalchiiina__dsh-chat-image-lightbox.yml"
+        ]
+      },
+      {
+        "sha": "b9805c0330cab45cac4220e2d2fa15ec82ebdaaa",
+        "date": "2026-09-24T00:53:02+08:00",
+        "title": "Add itchenshi/dsh-opencode-go-path (#5720)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/b9805c0330cab45cac4220e2d2fa15ec82ebdaaa",
+        "files": [
+          "A\tdata/plugins/itchenshi__dsh-opencode-go-path.yml"
+        ]
+      },
+      {
+        "sha": "c5bb408f761eb2752243c332faa91cab52a93720",
+        "date": "2026-09-24T00:52:54+08:00",
+        "title": "Add three itchenshi plugins: model surplus, session resume, key bindings (#5719)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/c5bb408f761eb2752243c332faa91cab52a93720",
+        "files": [
+          "A\tdata/plugins/itchenshi__dsh-gui-last-session.yml",
+          "A\tdata/plugins/itchenshi__dsh-keys-setting.yml",
+          "A\tdata/plugins/itchenshi__dsh-model-surplus.yml"
+        ]
+      },
+      {
+        "sha": "5522d17fa5eab30c53e9e43993817531cbcde03e",
+        "date": "2026-09-24T00:52:49+08:00",
+        "title": "Add ThinkofRain1213/deepseek-harness-wallet-patched (#5718)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/5522d17fa5eab30c53e9e43993817531cbcde03e",
+        "files": [
+          "A\tdata/plugins/ThinkofRain1213__deepseek-harness-wallet-patched.yml"
+        ]
+      },
+      {
+        "sha": "ce93a79a271dbf409fc10e8124016c3610547c58",
+        "date": "2026-09-23T16:48:39Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/ce93a79a271dbf409fc10e8124016c3610547c58",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "6f092a566d4eb07f51d1c067f475b9563ec22d23",
+        "date": "2026-09-24T00:48:36+08:00",
+        "title": "Add dsh-linghun plugin (#5717)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/6f092a566d4eb07f51d1c067f475b9563ec22d23",
+        "files": [
+          "A\tdata/plugins/syyr1987__dsh-linghun.yml"
+        ]
+      },
+      {
+        "sha": "b07b955ee608540346210b73b89ccc8bd82059b9",
+        "date": "2026-09-24T00:48:31+08:00",
+        "title": "Add dsh-peer-mcp (MyPanda-Hash/CHENGXIAO) to Remote & Mobile (#5716)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/b07b955ee608540346210b73b89ccc8bd82059b9",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md",
+          "A\tdata/plugins/MyPanda-Hash__CHENGXIAO.yml"
+        ]
+      },
+      {
+        "sha": "ec6634c938e73d14a0c31fefbe63788412c98b64",
+        "date": "2026-09-24T00:48:25+08:00",
+        "title": "Add dsh-auto-memory (Memory) (#5696)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/ec6634c938e73d14a0c31fefbe63788412c98b64",
+        "files": [
+          "A\tdata/plugins/AskTheWay__dsh-auto-memory.yml"
+        ]
+      },
+      {
+        "sha": "5254cdaeaeb966e193be7227dd7e30b91a87fcc2",
+        "date": "2026-09-23T16:48:22Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/5254cdaeaeb966e193be7227dd7e30b91a87fcc2",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "e583472c97ba4dd770cea8ebef7fcaf02ada732f",
+        "date": "2026-09-24T00:48:19+08:00",
+        "title": "Create liujianqiao701__dsh-ask-notify.yml (#5687)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/e583472c97ba4dd770cea8ebef7fcaf02ada732f",
+        "files": [
+          "A\tdata/plugins/liujianqiao701__dsh-ask-notify.yml"
+        ]
+      },
+      {
+        "sha": "5ac5dbd289995f6f706b7055b81d1928767e4d87",
+        "date": "2026-09-24T00:48:14+08:00",
+        "title": "Add dsh-vitals (#5682)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/5ac5dbd289995f6f706b7055b81d1928767e4d87",
+        "files": [
+          "A\tdata/plugins/JoblessJoe__dsh-vitals.yml"
+        ]
+      },
+      {
+        "sha": "166742a1581d8c727ea62c2fec2ffa73effe4ba6",
+        "date": "2026-09-23T16:48:10Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/166742a1581d8c727ea62c2fec2ffa73effe4ba6",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "c5d2ab37f2ee9d9a1154594c9535f8621272df7b",
+        "date": "2026-09-24T00:48:09+08:00",
+        "title": "Add dsh-qianyuan (QianYuan MCP server for DeepSeek Harness) (#5679)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/c5d2ab37f2ee9d9a1154594c9535f8621272df7b",
+        "files": [
+          "A\tdata/plugins/qianyuan-ltd__dsh-qianyuan.yml"
+        ]
+      },
+      {
+        "sha": "06be18297a11899901630da3fbdb0ae052e9ab93",
+        "date": "2026-09-24T00:48:03+08:00",
+        "title": "Add BetterZflyee/dsh-jev-adapter (#5654)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/06be18297a11899901630da3fbdb0ae052e9ab93",
+        "files": [
+          "A\tdata/plugins/BetterZflyee__dsh-jev-adapter.yml"
+        ]
+      },
+      {
+        "sha": "962fdd8d39ddbfffc931e76cb0b8f8b1b02b60f8",
+        "date": "2026-09-24T00:47:56+08:00",
+        "title": "Add mengxiaoxian/lookover plugins: dsh-look (vision) and dsh-expmem (memory) (#5651)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/962fdd8d39ddbfffc931e76cb0b8f8b1b02b60f8",
+        "files": [
+          "A\tdata/plugins/mengxiaoxian__lookover--dsh-expmem.yml",
+          "A\tdata/plugins/mengxiaoxian__lookover--dsh-look.yml"
+        ]
+      },
+      {
+        "sha": "a98eb14f5ccc09c405a87f43e1a82c1da98e76b0",
+        "date": "2026-09-23T16:47:52Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/a98eb14f5ccc09c405a87f43e1a82c1da98e76b0",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "4e278fd4da6b562a8904b36b26fa998fcd7d927d",
+        "date": "2026-09-24T00:47:49+08:00",
+        "title": "add idoall dsh-session-colors plugin (#5650)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/4e278fd4da6b562a8904b36b26fa998fcd7d927d",
+        "files": [
+          "A\tdata/plugins/idoall__dsh-session-colors.yml"
+        ]
+      },
+      {
+        "sha": "755eeeb3634bef979bebb647e55848b6e6be72e5",
+        "date": "2026-09-24T00:47:41+08:00",
+        "title": "add 173787247/dsh-wsl-obsidian (wsl): WSL agent bridge to Windows Obsidian vaults (#5644)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/755eeeb3634bef979bebb647e55848b6e6be72e5",
+        "files": [
+          "A\tdata/plugins/173787247__dsh-wsl-obsidian.yml"
+        ]
+      },
+      {
+        "sha": "e699d1f289cdb7207a5fac2c5c578ef83b01f2db",
+        "date": "2026-09-23T16:47:39Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/e699d1f289cdb7207a5fac2c5c578ef83b01f2db",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "59ad1a355c9b7ec6ea603edcd14b07409c9670cf",
+        "date": "2026-09-24T00:47:33+08:00",
+        "title": "Add API ledger with route pricing and in-conversation cost views (#5639)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/59ad1a355c9b7ec6ea603edcd14b07409c9670cf",
+        "files": [
+          "A\tdata/plugins/LAwLi3tCoding__dsh-api-ledger.yml"
+        ]
+      },
+      {
+        "sha": "ade0ee34a8a54f20151b7cf8444959c2208de73b",
+        "date": "2026-09-24T00:47:28+08:00",
+        "title": "Add DSH Focus Supervisor v0.5.0 to workflow plugins (#5613)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/ade0ee34a8a54f20151b7cf8444959c2208de73b",
+        "files": [
+          "A\tdata/plugins/RockingSisyphus__dsh-focus-supervisor--dsh-plugin.yml"
+        ]
+      },
+      {
+        "sha": "1c97d6ddfb0289decb498d65e78d048c0dda44df",
+        "date": "2026-09-24T00:41:17+08:00",
+        "title": "Add mia-wong1016/dsh-codex-plus (#5582)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/1c97d6ddfb0289decb498d65e78d048c0dda44df",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md",
+          "A\tdata/plugins/mia-wong1016__dsh-codex-plus.yml"
+        ]
+      },
+      {
+        "sha": "742d641fba25edd07b1ee0c4a76fafba243e675a",
+        "date": "2026-09-24T00:40:50+08:00",
+        "title": "Add vikasranax/dsh-plugin-cats (#3217)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/742d641fba25edd07b1ee0c4a76fafba243e675a",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md",
+          "A\tdata/plugins/vikasranax__dsh-plugin-cats.yml"
+        ]
+      }
+    ],
+    "changedFiles": [
+      {
+        "commitSha": "dc70baa046dbc202286171a5ac6e0f84fe2c0007",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "dc70baa046dbc202286171a5ac6e0f84fe2c0007",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "06748fb84a3b2aa7bcad0dd2874c3ef4cc09ecad",
+        "value": "A\tdata/plugins/brunhildzhou__dsh-context-zip--dsh-context-zip.yml"
+      },
+      {
+        "commitSha": "8d9451211eb4dc7fc601da3175b1951a48bfa0ab",
+        "value": "A\tdata/plugins/harde1__dsh-xcodebuild.yml"
+      },
+      {
+        "commitSha": "095aba1c081a6191d8e387d31e54d1d7cfcd2051",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "095aba1c081a6191d8e387d31e54d1d7cfcd2051",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "323bae6696ec03123cb61f021f45a371b697ba7f",
+        "value": "M\tdata/plugins/99galaxy__dsh-plugin-market.yml"
+      },
+      {
+        "commitSha": "97e688beca72cdee2f651384eec40d6a3960f804",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "97e688beca72cdee2f651384eec40d6a3960f804",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "97e688beca72cdee2f651384eec40d6a3960f804",
+        "value": "M\tdata/plugins/ouli-1242__dsh-plugin-tool-management.yml"
+      },
+      {
+        "commitSha": "e24c4a22f7f4e67134eb027286fd05aaaeb3a9dc",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "e24c4a22f7f4e67134eb027286fd05aaaeb3a9dc",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "6583afb4ab706f32dd787d6b002de522697310df",
+        "value": "M\tdata/plugins/1420079678-ctrl__agent-body--workspace-plugins-dsh-cortex.yml"
+      },
+      {
+        "commitSha": "6583afb4ab706f32dd787d6b002de522697310df",
+        "value": "M\tdata/plugins/1420079678-ctrl__agent-body--workspace-plugins-dsh-organism.yml"
+      },
+      {
+        "commitSha": "471d782753e0bd67f7aa25d7ef510d64e8ca50f4",
+        "value": "A\tdata/plugins/Ztyss__dsh-llm-provider.yml"
+      },
+      {
+        "commitSha": "9d98adc5400f01d35a0d4b8c821a838f988ec5bc",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "9d98adc5400f01d35a0d4b8c821a838f988ec5bc",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "e97cf60ceadef7f627dba57b16ec3746d36aaa4a",
+        "value": "M\tdata/plugins/hoyyang__dsh-concise.yml"
+      },
+      {
+        "commitSha": "13f92f509547cfffc1beb9557552436f3884d7f2",
+        "value": "A\tdata/plugins/btsd321__dsh-remote-explorer.yml"
+      },
+      {
+        "commitSha": "11e320e12a7f9b3e67c49d8db4d2a5b8e785258c",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "11e320e12a7f9b3e67c49d8db4d2a5b8e785258c",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "5c00915f5dd43429babb18b3a5886675576f21aa",
+        "value": "M\tdata/plugins/enterhalf__dsh-session-colorful-unread-pin-jobs.yml"
+      },
+      {
+        "commitSha": "54234663c329e36831c5a7e480ecf535bb660804",
+        "value": "A\tdata/plugins/1jiegejiayouxuewangan1__dsh-desktop-uia.yml"
+      },
+      {
+        "commitSha": "00953fc2c6400c5cb466334596ceb786a0dc1eca",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "00953fc2c6400c5cb466334596ceb786a0dc1eca",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "84ebbde4f09beaa3726ea5ec0955f0bef49d91c0",
+        "value": "A\tdata/plugins/xueccci__dsh-prompt-lab.yml"
+      },
+      {
+        "commitSha": "e43ec4c78472f24168e38aed804a9c952dd44df3",
+        "value": "A\tdata/plugins/EIGHTfs__dsh-theme-mediascape.yml"
+      },
+      {
+        "commitSha": "2d01dd27e9edb83818ffd9fb27f5b5e7d263de01",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "2d01dd27e9edb83818ffd9fb27f5b5e7d263de01",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "d4773d15c3868a826eb8d42131600717a320f20c",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "d4773d15c3868a826eb8d42131600717a320f20c",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "d4773d15c3868a826eb8d42131600717a320f20c",
+        "value": "M\tdata/plugins/nightosong__gord-dsh-worktree.yml"
+      },
+      {
+        "commitSha": "a452ecd8f39d9d729565f95629c3fd82c50ef6b1",
+        "value": "A\tdata/plugins/PPawnsir__dsh-notes-plugin--packages-dsh-notes-plugin.yml"
+      },
+      {
+        "commitSha": "096f3821204d0248384e2ec8f940b8ab129ad3d0",
+        "value": "M\tscripts/lib/entries.mjs"
+      },
+      {
+        "commitSha": "f9066a52b6a031cd9a10d3051503fde895688f8b",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "f9066a52b6a031cd9a10d3051503fde895688f8b",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "7897ac1089ce95355fe19fc3257d6f48bce6e600",
+        "value": "M\tdata/plugins/IcedWatermelonJuice__dsh-provider-veark.yml"
+      },
+      {
+        "commitSha": "7897ac1089ce95355fe19fc3257d6f48bce6e600",
+        "value": "M\tdata/plugins/ding112__MoneyPal--packages-dsh-moneypal.yml"
+      },
+      {
+        "commitSha": "7897ac1089ce95355fe19fc3257d6f48bce6e600",
+        "value": "M\tdata/plugins/iguowz__dsh-cortex.yml"
+      },
+      {
+        "commitSha": "7897ac1089ce95355fe19fc3257d6f48bce6e600",
+        "value": "M\tdata/plugins/sjh9714__dsh-movein--plugin.yml"
+      },
+      {
+        "commitSha": "7897ac1089ce95355fe19fc3257d6f48bce6e600",
+        "value": "M\tdata/plugins/yinhcao__yinchao-ai-music-skill.yml"
+      },
+      {
+        "commitSha": "7897ac1089ce95355fe19fc3257d6f48bce6e600",
+        "value": "M\tdata/plugins/yuioi666__dsh-conversation-nav-dots.yml"
+      },
+      {
+        "commitSha": "ef959b7b0770be84d97144462a7e83c9563e702e",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "ef959b7b0770be84d97144462a7e83c9563e702e",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "fd159cafc8928ad3e884c6ed7cba272e6770bea1",
+        "value": "A\tdata/plugins/whoiszzj__dsh-opencodego.yml"
+      },
+      {
+        "commitSha": "835c84ee47833dda402ddaa89e8aad61612e44b9",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "835c84ee47833dda402ddaa89e8aad61612e44b9",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "791323854117956f16fcbb823514097700419fff",
+        "value": "A\tdata/plugins/alllllinnrann__dsh-inapp-browser.yml"
+      },
+      {
+        "commitSha": "86e1062dd56d2d70aa3d98aeacae3373779b9d6a",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "86e1062dd56d2d70aa3d98aeacae3373779b9d6a",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "7b3dfa1403b72e0fadbcfe6eb60f73afe5dee4ab",
+        "value": "A\tdata/plugins/latte03__dsh-select-quote.yml"
+      },
+      {
+        "commitSha": "3eac4b89fab641ec32be3782d4319dfbc07469db",
+        "value": "M\tdata/plugins/Marquez807__dsh-experience-memory.yml"
+      },
+      {
+        "commitSha": "349d0c30c4b5ea17694930529f11bcdf3652c680",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "349d0c30c4b5ea17694930529f11bcdf3652c680",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "eee25ec8c4813568342e953c54b20f04e77663da",
+        "value": "A\tdata/plugins/bvcvb__dsh-baize-session.yml"
+      },
+      {
+        "commitSha": "7d18d8fb662be42db2321f1d7b538e94093acd1d",
+        "value": "A\tdata/plugins/knighthongyu__dsh-handoff-compaction.yml"
+      },
+      {
+        "commitSha": "92258ee425b0bc66297e5be1f371a186969f422f",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "92258ee425b0bc66297e5be1f371a186969f422f",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "be8cfff74d88f4a1340cb1ec660afb8147ae7a0f",
+        "value": "M\tdata/plugins/duhu2000__dsh-mcp-connector.yml"
+      },
+      {
+        "commitSha": "acde42dae2049992b635cccf6ed885afbb9bccaa",
+        "value": "A\tdata/plugins/TetraSsky__dsh-offpeak.yml"
+      },
+      {
+        "commitSha": "7d304904f8080ca81a4047e8ecbd057bd941da42",
+        "value": "A\tdata/plugins/w2310670047-code__ai-eight-honors-eight-shames.yml"
+      },
+      {
+        "commitSha": "a602b22d009f7eb224b1251b92cee90fdc66ede2",
+        "value": "M\t.github/workflows/build-site.yml"
+      },
+      {
+        "commitSha": "a602b22d009f7eb224b1251b92cee90fdc66ede2",
+        "value": "M\tscripts/probe-updates.mjs"
+      },
+      {
+        "commitSha": "a3c41a5f2105ebc90a8d3fe584eeffa36cdf19c4",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "a3c41a5f2105ebc90a8d3fe584eeffa36cdf19c4",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "2d74a148a68ac5f0cf84f79d7f53b0299e56db3e",
+        "value": "A\tdata/plugins/webkubor__dsh-env-inspector.yml"
+      },
+      {
+        "commitSha": "5ebea4a273a907660d126c7550cd1bb169772cd6",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "5ebea4a273a907660d126c7550cd1bb169772cd6",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "e0a73d5b06e04cbadf1fce3babf2e4c079c90392",
+        "value": "A\tdata/plugins/qvsix__dsh-antigravity-bridge.yml"
+      },
+      {
+        "commitSha": "fdc5f49fe419c9d48be8c6b59b25a38c1238f619",
+        "value": "A\tdata/plugins/ct-jaryn__dsh-plugin-baizhi-agent-toolkit.yml"
+      },
+      {
+        "commitSha": "96431ced4b6ff9602c99c3cea223199c0155cc96",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "96431ced4b6ff9602c99c3cea223199c0155cc96",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "2e58d809492dd56cac3582687827a147f60fdf5b",
+        "value": "A\tdata/plugins/yu502950715yang__dsh-use-wallpaper.yml"
+      },
+      {
+        "commitSha": "258e1031b0d451a2c15cca46ddefdedb75acd704",
+        "value": "A\tdata/plugins/7starsseeker__dsh-fact-check.yml"
+      },
+      {
+        "commitSha": "2d4d2c24402c1925004492ca78f33cefbe044065",
+        "value": "A\tdata/plugins/troytse__dsh-plugin-codegraph-project.yml"
+      },
+      {
+        "commitSha": "5c3194bd0a6e65cf3594437338bf761da1cc6b55",
+        "value": "A\tdata/plugins/konglong87__dsh-skills-input.yml"
+      },
+      {
+        "commitSha": "320ea52c592b93fb6920a1da28454e971fcb38e5",
+        "value": "M\tdata/plugins/konglong87__dsh-input-list.yml"
+      },
+      {
+        "commitSha": "97aa74741c2c70a0d8e123cd78b8718ca8fc7de3",
+        "value": "M\tdata/plugins/loyalchiiina__dsh-chat-image-lightbox.yml"
+      },
+      {
+        "commitSha": "b9805c0330cab45cac4220e2d2fa15ec82ebdaaa",
+        "value": "A\tdata/plugins/itchenshi__dsh-opencode-go-path.yml"
+      },
+      {
+        "commitSha": "c5bb408f761eb2752243c332faa91cab52a93720",
+        "value": "A\tdata/plugins/itchenshi__dsh-gui-last-session.yml"
+      },
+      {
+        "commitSha": "c5bb408f761eb2752243c332faa91cab52a93720",
+        "value": "A\tdata/plugins/itchenshi__dsh-keys-setting.yml"
+      },
+      {
+        "commitSha": "c5bb408f761eb2752243c332faa91cab52a93720",
+        "value": "A\tdata/plugins/itchenshi__dsh-model-surplus.yml"
+      },
+      {
+        "commitSha": "5522d17fa5eab30c53e9e43993817531cbcde03e",
+        "value": "A\tdata/plugins/ThinkofRain1213__deepseek-harness-wallet-patched.yml"
+      },
+      {
+        "commitSha": "ce93a79a271dbf409fc10e8124016c3610547c58",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "ce93a79a271dbf409fc10e8124016c3610547c58",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "6f092a566d4eb07f51d1c067f475b9563ec22d23",
+        "value": "A\tdata/plugins/syyr1987__dsh-linghun.yml"
+      },
+      {
+        "commitSha": "b07b955ee608540346210b73b89ccc8bd82059b9",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "b07b955ee608540346210b73b89ccc8bd82059b9",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "b07b955ee608540346210b73b89ccc8bd82059b9",
+        "value": "A\tdata/plugins/MyPanda-Hash__CHENGXIAO.yml"
+      },
+      {
+        "commitSha": "ec6634c938e73d14a0c31fefbe63788412c98b64",
+        "value": "A\tdata/plugins/AskTheWay__dsh-auto-memory.yml"
+      },
+      {
+        "commitSha": "5254cdaeaeb966e193be7227dd7e30b91a87fcc2",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "5254cdaeaeb966e193be7227dd7e30b91a87fcc2",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "e583472c97ba4dd770cea8ebef7fcaf02ada732f",
+        "value": "A\tdata/plugins/liujianqiao701__dsh-ask-notify.yml"
+      },
+      {
+        "commitSha": "5ac5dbd289995f6f706b7055b81d1928767e4d87",
+        "value": "A\tdata/plugins/JoblessJoe__dsh-vitals.yml"
+      },
+      {
+        "commitSha": "166742a1581d8c727ea62c2fec2ffa73effe4ba6",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "166742a1581d8c727ea62c2fec2ffa73effe4ba6",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "c5d2ab37f2ee9d9a1154594c9535f8621272df7b",
+        "value": "A\tdata/plugins/qianyuan-ltd__dsh-qianyuan.yml"
+      },
+      {
+        "commitSha": "06be18297a11899901630da3fbdb0ae052e9ab93",
+        "value": "A\tdata/plugins/BetterZflyee__dsh-jev-adapter.yml"
+      },
+      {
+        "commitSha": "962fdd8d39ddbfffc931e76cb0b8f8b1b02b60f8",
+        "value": "A\tdata/plugins/mengxiaoxian__lookover--dsh-expmem.yml"
+      },
+      {
+        "commitSha": "962fdd8d39ddbfffc931e76cb0b8f8b1b02b60f8",
+        "value": "A\tdata/plugins/mengxiaoxian__lookover--dsh-look.yml"
+      },
+      {
+        "commitSha": "a98eb14f5ccc09c405a87f43e1a82c1da98e76b0",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "a98eb14f5ccc09c405a87f43e1a82c1da98e76b0",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "4e278fd4da6b562a8904b36b26fa998fcd7d927d",
+        "value": "A\tdata/plugins/idoall__dsh-session-colors.yml"
+      },
+      {
+        "commitSha": "755eeeb3634bef979bebb647e55848b6e6be72e5",
+        "value": "A\tdata/plugins/173787247__dsh-wsl-obsidian.yml"
+      },
+      {
+        "commitSha": "e699d1f289cdb7207a5fac2c5c578ef83b01f2db",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "e699d1f289cdb7207a5fac2c5c578ef83b01f2db",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "59ad1a355c9b7ec6ea603edcd14b07409c9670cf",
+        "value": "A\tdata/plugins/LAwLi3tCoding__dsh-api-ledger.yml"
+      },
+      {
+        "commitSha": "ade0ee34a8a54f20151b7cf8444959c2208de73b",
+        "value": "A\tdata/plugins/RockingSisyphus__dsh-focus-supervisor--dsh-plugin.yml"
+      },
+      {
+        "commitSha": "1c97d6ddfb0289decb498d65e78d048c0dda44df",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "1c97d6ddfb0289decb498d65e78d048c0dda44df",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "1c97d6ddfb0289decb498d65e78d048c0dda44df",
+        "value": "A\tdata/plugins/mia-wong1016__dsh-codex-plus.yml"
+      },
+      {
+        "commitSha": "742d641fba25edd07b1ee0c4a76fafba243e675a",
+        "value": "M\tREADME.md"
+      },
+      {
+        "commitSha": "742d641fba25edd07b1ee0c4a76fafba243e675a",
+        "value": "M\tREADME.zh.md"
+      },
+      {
+        "commitSha": "742d641fba25edd07b1ee0c4a76fafba243e675a",
+        "value": "A\tdata/plugins/vikasranax__dsh-plugin-cats.yml"
+      }
+    ],
     "historyRewritten": false,
     "recoveredFromHistory": false,
     "recoveryCompletedAt": "2026-08-14T05:57:52.118Z",
@@ -9071,7 +10208,81 @@
       "7983709b6ebfca1d50d134f2c5c5f660308bd879",
       "35d54ba35b8cd1f1cfa097f87e74919e8685fb95",
       "d55dba654941828162a0a5076430b1c11a8dfc46",
-      "402e4daa1111a1187548b439ae00a07f113afff2"
+      "402e4daa1111a1187548b439ae00a07f113afff2",
+      "dc70baa046dbc202286171a5ac6e0f84fe2c0007",
+      "06748fb84a3b2aa7bcad0dd2874c3ef4cc09ecad",
+      "8d9451211eb4dc7fc601da3175b1951a48bfa0ab",
+      "095aba1c081a6191d8e387d31e54d1d7cfcd2051",
+      "323bae6696ec03123cb61f021f45a371b697ba7f",
+      "97e688beca72cdee2f651384eec40d6a3960f804",
+      "e24c4a22f7f4e67134eb027286fd05aaaeb3a9dc",
+      "6583afb4ab706f32dd787d6b002de522697310df",
+      "471d782753e0bd67f7aa25d7ef510d64e8ca50f4",
+      "9d98adc5400f01d35a0d4b8c821a838f988ec5bc",
+      "e97cf60ceadef7f627dba57b16ec3746d36aaa4a",
+      "13f92f509547cfffc1beb9557552436f3884d7f2",
+      "11e320e12a7f9b3e67c49d8db4d2a5b8e785258c",
+      "5c00915f5dd43429babb18b3a5886675576f21aa",
+      "54234663c329e36831c5a7e480ecf535bb660804",
+      "00953fc2c6400c5cb466334596ceb786a0dc1eca",
+      "84ebbde4f09beaa3726ea5ec0955f0bef49d91c0",
+      "e43ec4c78472f24168e38aed804a9c952dd44df3",
+      "2d01dd27e9edb83818ffd9fb27f5b5e7d263de01",
+      "d4773d15c3868a826eb8d42131600717a320f20c",
+      "a452ecd8f39d9d729565f95629c3fd82c50ef6b1",
+      "096f3821204d0248384e2ec8f940b8ab129ad3d0",
+      "f9066a52b6a031cd9a10d3051503fde895688f8b",
+      "7897ac1089ce95355fe19fc3257d6f48bce6e600",
+      "ef959b7b0770be84d97144462a7e83c9563e702e",
+      "fd159cafc8928ad3e884c6ed7cba272e6770bea1",
+      "835c84ee47833dda402ddaa89e8aad61612e44b9",
+      "791323854117956f16fcbb823514097700419fff",
+      "86e1062dd56d2d70aa3d98aeacae3373779b9d6a",
+      "7b3dfa1403b72e0fadbcfe6eb60f73afe5dee4ab",
+      "3eac4b89fab641ec32be3782d4319dfbc07469db",
+      "04f812df0ff51ca9ef009df2bb995bbfcd4c06fd",
+      "349d0c30c4b5ea17694930529f11bcdf3652c680",
+      "eee25ec8c4813568342e953c54b20f04e77663da",
+      "7d18d8fb662be42db2321f1d7b538e94093acd1d",
+      "92258ee425b0bc66297e5be1f371a186969f422f",
+      "be8cfff74d88f4a1340cb1ec660afb8147ae7a0f",
+      "acde42dae2049992b635cccf6ed885afbb9bccaa",
+      "7d304904f8080ca81a4047e8ecbd057bd941da42",
+      "a602b22d009f7eb224b1251b92cee90fdc66ede2",
+      "a3c41a5f2105ebc90a8d3fe584eeffa36cdf19c4",
+      "2d74a148a68ac5f0cf84f79d7f53b0299e56db3e",
+      "5ebea4a273a907660d126c7550cd1bb169772cd6",
+      "e0a73d5b06e04cbadf1fce3babf2e4c079c90392",
+      "fdc5f49fe419c9d48be8c6b59b25a38c1238f619",
+      "96431ced4b6ff9602c99c3cea223199c0155cc96",
+      "2e58d809492dd56cac3582687827a147f60fdf5b",
+      "258e1031b0d451a2c15cca46ddefdedb75acd704",
+      "2d4d2c24402c1925004492ca78f33cefbe044065",
+      "5c3194bd0a6e65cf3594437338bf761da1cc6b55",
+      "320ea52c592b93fb6920a1da28454e971fcb38e5",
+      "97aa74741c2c70a0d8e123cd78b8718ca8fc7de3",
+      "b9805c0330cab45cac4220e2d2fa15ec82ebdaaa",
+      "c5bb408f761eb2752243c332faa91cab52a93720",
+      "5522d17fa5eab30c53e9e43993817531cbcde03e",
+      "ce93a79a271dbf409fc10e8124016c3610547c58",
+      "6f092a566d4eb07f51d1c067f475b9563ec22d23",
+      "b07b955ee608540346210b73b89ccc8bd82059b9",
+      "ec6634c938e73d14a0c31fefbe63788412c98b64",
+      "5254cdaeaeb966e193be7227dd7e30b91a87fcc2",
+      "e583472c97ba4dd770cea8ebef7fcaf02ada732f",
+      "5ac5dbd289995f6f706b7055b81d1928767e4d87",
+      "166742a1581d8c727ea62c2fec2ffa73effe4ba6",
+      "c5d2ab37f2ee9d9a1154594c9535f8621272df7b",
+      "06be18297a11899901630da3fbdb0ae052e9ab93",
+      "962fdd8d39ddbfffc931e76cb0b8f8b1b02b60f8",
+      "a98eb14f5ccc09c405a87f43e1a82c1da98e76b0",
+      "4e278fd4da6b562a8904b36b26fa998fcd7d927d",
+      "755eeeb3634bef979bebb647e55848b6e6be72e5",
+      "e699d1f289cdb7207a5fac2c5c578ef83b01f2db",
+      "59ad1a355c9b7ec6ea603edcd14b07409c9670cf",
+      "ade0ee34a8a54f20151b7cf8444959c2208de73b",
+      "1c97d6ddfb0289decb498d65e78d048c0dda44df",
+      "742d641fba25edd07b1ee0c4a76fafba243e675a"
     ],
     "processedCommits": [
       {
@@ -100375,32 +101586,737 @@
         "files": [
           "M\t.github/workflows/regate.yml"
         ]
+      },
+      {
+        "sha": "dc70baa046dbc202286171a5ac6e0f84fe2c0007",
+        "date": "2026-09-23T17:11:02Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/dc70baa046dbc202286171a5ac6e0f84fe2c0007",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "06748fb84a3b2aa7bcad0dd2874c3ef4cc09ecad",
+        "date": "2026-09-24T01:10:57+08:00",
+        "title": "Add dsh-context-zip (memory) (#5775)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/06748fb84a3b2aa7bcad0dd2874c3ef4cc09ecad",
+        "files": [
+          "A\tdata/plugins/brunhildzhou__dsh-context-zip--dsh-context-zip.yml"
+        ]
+      },
+      {
+        "sha": "8d9451211eb4dc7fc601da3175b1951a48bfa0ab",
+        "date": "2026-09-24T01:10:51+08:00",
+        "title": "Add harde1/dsh-xcodebuild (#5774)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/8d9451211eb4dc7fc601da3175b1951a48bfa0ab",
+        "files": [
+          "A\tdata/plugins/harde1__dsh-xcodebuild.yml"
+        ]
+      },
+      {
+        "sha": "095aba1c081a6191d8e387d31e54d1d7cfcd2051",
+        "date": "2026-09-23T17:10:47Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/095aba1c081a6191d8e387d31e54d1d7cfcd2051",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "323bae6696ec03123cb61f021f45a371b697ba7f",
+        "date": "2026-09-24T01:10:45+08:00",
+        "title": "Update dsh-plugin-market listing for current install and update behavior (#5773)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/323bae6696ec03123cb61f021f45a371b697ba7f",
+        "files": [
+          "M\tdata/plugins/99galaxy__dsh-plugin-market.yml"
+        ]
+      },
+      {
+        "sha": "97e688beca72cdee2f651384eec40d6a3960f804",
+        "date": "2026-09-24T01:10:37+08:00",
+        "title": "docs: update dsh-plugin-tool-management description to 0.14.0 (#5771)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/97e688beca72cdee2f651384eec40d6a3960f804",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md",
+          "M\tdata/plugins/ouli-1242__dsh-plugin-tool-management.yml"
+        ]
+      },
+      {
+        "sha": "e24c4a22f7f4e67134eb027286fd05aaaeb3a9dc",
+        "date": "2026-09-23T17:10:32Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/e24c4a22f7f4e67134eb027286fd05aaaeb3a9dc",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "6583afb4ab706f32dd787d6b002de522697310df",
+        "date": "2026-09-24T01:10:30+08:00",
+        "title": "data: point agent-body tarballs at v0.1.1 (#5769)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/6583afb4ab706f32dd787d6b002de522697310df",
+        "files": [
+          "M\tdata/plugins/1420079678-ctrl__agent-body--workspace-plugins-dsh-cortex.yml",
+          "M\tdata/plugins/1420079678-ctrl__agent-body--workspace-plugins-dsh-organism.yml"
+        ]
+      },
+      {
+        "sha": "471d782753e0bd67f7aa25d7ef510d64e8ca50f4",
+        "date": "2026-09-24T01:10:21+08:00",
+        "title": "Add Ztyss/dsh-llm-provider (#5766)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/471d782753e0bd67f7aa25d7ef510d64e8ca50f4",
+        "files": [
+          "A\tdata/plugins/Ztyss__dsh-llm-provider.yml"
+        ]
+      },
+      {
+        "sha": "9d98adc5400f01d35a0d4b8c821a838f988ec5bc",
+        "date": "2026-09-23T17:10:19Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/9d98adc5400f01d35a0d4b8c821a838f988ec5bc",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "e97cf60ceadef7f627dba57b16ec3746d36aaa4a",
+        "date": "2026-09-24T01:10:14+08:00",
+        "title": "chore(dsh-concise): bump tarball to v0.11.3 (#5765)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/e97cf60ceadef7f627dba57b16ec3746d36aaa4a",
+        "files": [
+          "M\tdata/plugins/hoyyang__dsh-concise.yml"
+        ]
+      },
+      {
+        "sha": "13f92f509547cfffc1beb9557552436f3884d7f2",
+        "date": "2026-09-24T01:10:08+08:00",
+        "title": "feat: add btsd321/dsh-remote-explorer (#5763)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/13f92f509547cfffc1beb9557552436f3884d7f2",
+        "files": [
+          "A\tdata/plugins/btsd321__dsh-remote-explorer.yml"
+        ]
+      },
+      {
+        "sha": "11e320e12a7f9b3e67c49d8db4d2a5b8e785258c",
+        "date": "2026-09-23T17:10:03Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/11e320e12a7f9b3e67c49d8db4d2a5b8e785258c",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "5c00915f5dd43429babb18b3a5886675576f21aa",
+        "date": "2026-09-24T01:10:02+08:00",
+        "title": "Update enterhalf/dsh-session-colorful-unread-pin-jobs description (#5761)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/5c00915f5dd43429babb18b3a5886675576f21aa",
+        "files": [
+          "M\tdata/plugins/enterhalf__dsh-session-colorful-unread-pin-jobs.yml"
+        ]
+      },
+      {
+        "sha": "54234663c329e36831c5a7e480ecf535bb660804",
+        "date": "2026-09-24T01:09:57+08:00",
+        "title": "Add 1jiegejiayouxuewangan1/dsh-desktop-uia (tools) (#5760)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/54234663c329e36831c5a7e480ecf535bb660804",
+        "files": [
+          "A\tdata/plugins/1jiegejiayouxuewangan1__dsh-desktop-uia.yml"
+        ]
+      },
+      {
+        "sha": "00953fc2c6400c5cb466334596ceb786a0dc1eca",
+        "date": "2026-09-23T17:09:53Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/00953fc2c6400c5cb466334596ceb786a0dc1eca",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "84ebbde4f09beaa3726ea5ec0955f0bef49d91c0",
+        "date": "2026-09-24T01:09:51+08:00",
+        "title": "Add xueccci/dsh-prompt-lab (#5759)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/84ebbde4f09beaa3726ea5ec0955f0bef49d91c0",
+        "files": [
+          "A\tdata/plugins/xueccci__dsh-prompt-lab.yml"
+        ]
+      },
+      {
+        "sha": "e43ec4c78472f24168e38aed804a9c952dd44df3",
+        "date": "2026-09-24T01:09:44+08:00",
+        "title": "docs: add EIGHTfs/dsh-theme-mediascape (theme) — media-scape theme plugin (#5758)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/e43ec4c78472f24168e38aed804a9c952dd44df3",
+        "files": [
+          "A\tdata/plugins/EIGHTfs__dsh-theme-mediascape.yml"
+        ]
+      },
+      {
+        "sha": "2d01dd27e9edb83818ffd9fb27f5b5e7d263de01",
+        "date": "2026-09-23T17:09:38Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/2d01dd27e9edb83818ffd9fb27f5b5e7d263de01",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "d4773d15c3868a826eb8d42131600717a320f20c",
+        "date": "2026-09-24T01:09:34+08:00",
+        "title": "Update nightosong/gord-dsh-worktree's description to cover its newer surfaces (#5754)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/d4773d15c3868a826eb8d42131600717a320f20c",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md",
+          "M\tdata/plugins/nightosong__gord-dsh-worktree.yml"
+        ]
+      },
+      {
+        "sha": "a452ecd8f39d9d729565f95629c3fd82c50ef6b1",
+        "date": "2026-09-24T01:09:27+08:00",
+        "title": "Add dsh-notes-plugin (#5752)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/a452ecd8f39d9d729565f95629c3fd82c50ef6b1",
+        "files": [
+          "A\tdata/plugins/PPawnsir__dsh-notes-plugin--packages-dsh-notes-plugin.yml"
+        ]
+      },
+      {
+        "sha": "096f3821204d0248384e2ec8f940b8ab129ad3d0",
+        "date": "2026-09-24T01:04:49+08:00",
+        "title": "entries: a name written as owner/repo must name the url's repository",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/096f3821204d0248384e2ec8f940b8ab129ad3d0",
+        "files": [
+          "M\tscripts/lib/entries.mjs"
+        ]
+      },
+      {
+        "sha": "f9066a52b6a031cd9a10d3051503fde895688f8b",
+        "date": "2026-09-23T17:02:56Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/f9066a52b6a031cd9a10d3051503fde895688f8b",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "7897ac1089ce95355fe19fc3257d6f48bce6e600",
+        "date": "2026-09-24T01:02:43+08:00",
+        "title": "Fix the six entries whose name does not match their url (#5756)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/7897ac1089ce95355fe19fc3257d6f48bce6e600",
+        "files": [
+          "M\tdata/plugins/IcedWatermelonJuice__dsh-provider-veark.yml",
+          "M\tdata/plugins/ding112__MoneyPal--packages-dsh-moneypal.yml",
+          "M\tdata/plugins/iguowz__dsh-cortex.yml",
+          "M\tdata/plugins/sjh9714__dsh-movein--plugin.yml",
+          "M\tdata/plugins/yinhcao__yinchao-ai-music-skill.yml",
+          "M\tdata/plugins/yuioi666__dsh-conversation-nav-dots.yml"
+        ]
+      },
+      {
+        "sha": "ef959b7b0770be84d97144462a7e83c9563e702e",
+        "date": "2026-09-23T16:59:32Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/ef959b7b0770be84d97144462a7e83c9563e702e",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "fd159cafc8928ad3e884c6ed7cba272e6770bea1",
+        "date": "2026-09-24T00:59:23+08:00",
+        "title": "Add whoiszzj/dsh-opencodego (#5740)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/fd159cafc8928ad3e884c6ed7cba272e6770bea1",
+        "files": [
+          "A\tdata/plugins/whoiszzj__dsh-opencodego.yml"
+        ]
+      },
+      {
+        "sha": "835c84ee47833dda402ddaa89e8aad61612e44b9",
+        "date": "2026-09-23T16:58:40Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/835c84ee47833dda402ddaa89e8aad61612e44b9",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "791323854117956f16fcbb823514097700419fff",
+        "date": "2026-09-24T00:58:32+08:00",
+        "title": "Add alllllinnrann/dsh-inapp-browser to browser plugins (#5748)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/791323854117956f16fcbb823514097700419fff",
+        "files": [
+          "A\tdata/plugins/alllllinnrann__dsh-inapp-browser.yml"
+        ]
+      },
+      {
+        "sha": "86e1062dd56d2d70aa3d98aeacae3373779b9d6a",
+        "date": "2026-09-23T16:58:27Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/86e1062dd56d2d70aa3d98aeacae3373779b9d6a",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "7b3dfa1403b72e0fadbcfe6eb60f73afe5dee4ab",
+        "date": "2026-09-24T00:58:25+08:00",
+        "title": "Add latte03/dsh-select-quote (#5747)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/7b3dfa1403b72e0fadbcfe6eb60f73afe5dee4ab",
+        "files": [
+          "A\tdata/plugins/latte03__dsh-select-quote.yml"
+        ]
+      },
+      {
+        "sha": "3eac4b89fab641ec32be3782d4319dfbc07469db",
+        "date": "2026-09-24T00:58:19+08:00",
+        "title": "Update Marquez807/dsh-experience-memory description for v0.2.0 (#5745)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/3eac4b89fab641ec32be3782d4319dfbc07469db",
+        "files": [
+          "M\tdata/plugins/Marquez807__dsh-experience-memory.yml"
+        ]
+      },
+      {
+        "sha": "04f812df0ff51ca9ef009df2bb995bbfcd4c06fd",
+        "date": "2026-09-24T00:58:10+08:00",
+        "title": "Add oh-my-deepseekharness (multi-agent orchestration layer) (#5744)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/04f812df0ff51ca9ef009df2bb995bbfcd4c06fd",
+        "files": []
+      },
+      {
+        "sha": "349d0c30c4b5ea17694930529f11bcdf3652c680",
+        "date": "2026-09-23T16:58:07Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/349d0c30c4b5ea17694930529f11bcdf3652c680",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "eee25ec8c4813568342e953c54b20f04e77663da",
+        "date": "2026-09-24T00:58:04+08:00",
+        "title": "add dsh-baize-session entry (#5743)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/eee25ec8c4813568342e953c54b20f04e77663da",
+        "files": [
+          "A\tdata/plugins/bvcvb__dsh-baize-session.yml"
+        ]
+      },
+      {
+        "sha": "7d18d8fb662be42db2321f1d7b538e94093acd1d",
+        "date": "2026-09-24T00:57:58+08:00",
+        "title": "Add dsh-handoff-compaction to memory plugins (#5742)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/7d18d8fb662be42db2321f1d7b538e94093acd1d",
+        "files": [
+          "A\tdata/plugins/knighthongyu__dsh-handoff-compaction.yml"
+        ]
+      },
+      {
+        "sha": "92258ee425b0bc66297e5be1f371a186969f422f",
+        "date": "2026-09-23T16:57:50Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/92258ee425b0bc66297e5be1f371a186969f422f",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "be8cfff74d88f4a1340cb1ec660afb8147ae7a0f",
+        "date": "2026-09-24T00:57:47+08:00",
+        "title": "QMCP-2014 docs: restore MCP Connector search phrase (#5737)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/be8cfff74d88f4a1340cb1ec660afb8147ae7a0f",
+        "files": [
+          "M\tdata/plugins/duhu2000__dsh-mcp-connector.yml"
+        ]
+      },
+      {
+        "sha": "acde42dae2049992b635cccf6ed885afbb9bccaa",
+        "date": "2026-09-24T00:57:42+08:00",
+        "title": "Add TetraSsky/dsh-offpeak (0.1.0) (#5733)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/acde42dae2049992b635cccf6ed885afbb9bccaa",
+        "files": [
+          "A\tdata/plugins/TetraSsky__dsh-offpeak.yml"
+        ]
+      },
+      {
+        "sha": "7d304904f8080ca81a4047e8ecbd057bd941da42",
+        "date": "2026-09-24T00:57:35+08:00",
+        "title": "Add w2310670047-code/ai-eight-honors-eight-shames (#5732)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/7d304904f8080ca81a4047e8ecbd057bd941da42",
+        "files": [
+          "A\tdata/plugins/w2310670047-code__ai-eight-honors-eight-shames.yml"
+        ]
+      },
+      {
+        "sha": "a602b22d009f7eb224b1251b92cee90fdc66ede2",
+        "date": "2026-09-24T00:57:27+08:00",
+        "title": "fix: make probe-updates non-blocking on cold-cache all-fail (#5731)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/a602b22d009f7eb224b1251b92cee90fdc66ede2",
+        "files": [
+          "M\t.github/workflows/build-site.yml",
+          "M\tscripts/probe-updates.mjs"
+        ]
+      },
+      {
+        "sha": "a3c41a5f2105ebc90a8d3fe584eeffa36cdf19c4",
+        "date": "2026-09-23T16:53:58Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/a3c41a5f2105ebc90a8d3fe584eeffa36cdf19c4",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "2d74a148a68ac5f0cf84f79d7f53b0299e56db3e",
+        "date": "2026-09-24T00:53:51+08:00",
+        "title": "Add webkubor/dsh-env-inspector (tools) (#5730)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/2d74a148a68ac5f0cf84f79d7f53b0299e56db3e",
+        "files": [
+          "A\tdata/plugins/webkubor__dsh-env-inspector.yml"
+        ]
+      },
+      {
+        "sha": "5ebea4a273a907660d126c7550cd1bb169772cd6",
+        "date": "2026-09-23T16:53:47Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/5ebea4a273a907660d126c7550cd1bb169772cd6",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "e0a73d5b06e04cbadf1fce3babf2e4c079c90392",
+        "date": "2026-09-24T00:53:45+08:00",
+        "title": "Add qvsix/dsh-antigravity-bridge plugin (#5728)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/e0a73d5b06e04cbadf1fce3babf2e4c079c90392",
+        "files": [
+          "A\tdata/plugins/qvsix__dsh-antigravity-bridge.yml"
+        ]
+      },
+      {
+        "sha": "fdc5f49fe419c9d48be8c6b59b25a38c1238f619",
+        "date": "2026-09-24T00:53:40+08:00",
+        "title": "Add BaizhiCloud MCP configuration bundle to catalog (#5727)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/fdc5f49fe419c9d48be8c6b59b25a38c1238f619",
+        "files": [
+          "A\tdata/plugins/ct-jaryn__dsh-plugin-baizhi-agent-toolkit.yml"
+        ]
+      },
+      {
+        "sha": "96431ced4b6ff9602c99c3cea223199c0155cc96",
+        "date": "2026-09-23T16:53:35Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/96431ced4b6ff9602c99c3cea223199c0155cc96",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "2e58d809492dd56cac3582687827a147f60fdf5b",
+        "date": "2026-09-24T00:53:33+08:00",
+        "title": "Add yu502950715yang/dsh-use-wallpaper (#5726)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/2e58d809492dd56cac3582687827a147f60fdf5b",
+        "files": [
+          "A\tdata/plugins/yu502950715yang__dsh-use-wallpaper.yml"
+        ]
+      },
+      {
+        "sha": "258e1031b0d451a2c15cca46ddefdedb75acd704",
+        "date": "2026-09-24T00:53:29+08:00",
+        "title": "Add 7starsseeker/dsh-fact-check (#5725)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/258e1031b0d451a2c15cca46ddefdedb75acd704",
+        "files": [
+          "A\tdata/plugins/7starsseeker__dsh-fact-check.yml"
+        ]
+      },
+      {
+        "sha": "2d4d2c24402c1925004492ca78f33cefbe044065",
+        "date": "2026-09-24T00:53:23+08:00",
+        "title": "Add troytse/dsh-plugin-codegraph-project (#5724)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/2d4d2c24402c1925004492ca78f33cefbe044065",
+        "files": [
+          "A\tdata/plugins/troytse__dsh-plugin-codegraph-project.yml"
+        ]
+      },
+      {
+        "sha": "5c3194bd0a6e65cf3594437338bf761da1cc6b55",
+        "date": "2026-09-24T00:53:19+08:00",
+        "title": "feat: add dsh-skills-input to plugin directory (#5723)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/5c3194bd0a6e65cf3594437338bf761da1cc6b55",
+        "files": [
+          "A\tdata/plugins/konglong87__dsh-skills-input.yml"
+        ]
+      },
+      {
+        "sha": "320ea52c592b93fb6920a1da28454e971fcb38e5",
+        "date": "2026-09-24T00:53:13+08:00",
+        "title": "docs: improve dsh-input-list discovery metadata (#5722)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/320ea52c592b93fb6920a1da28454e971fcb38e5",
+        "files": [
+          "M\tdata/plugins/konglong87__dsh-input-list.yml"
+        ]
+      },
+      {
+        "sha": "97aa74741c2c70a0d8e123cd78b8718ca8fc7de3",
+        "date": "2026-09-24T00:53:08+08:00",
+        "title": "update: dsh-chat-image-lightbox (display_image inline images, v1.7.0) (#5721)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/97aa74741c2c70a0d8e123cd78b8718ca8fc7de3",
+        "files": [
+          "M\tdata/plugins/loyalchiiina__dsh-chat-image-lightbox.yml"
+        ]
+      },
+      {
+        "sha": "b9805c0330cab45cac4220e2d2fa15ec82ebdaaa",
+        "date": "2026-09-24T00:53:02+08:00",
+        "title": "Add itchenshi/dsh-opencode-go-path (#5720)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/b9805c0330cab45cac4220e2d2fa15ec82ebdaaa",
+        "files": [
+          "A\tdata/plugins/itchenshi__dsh-opencode-go-path.yml"
+        ]
+      },
+      {
+        "sha": "c5bb408f761eb2752243c332faa91cab52a93720",
+        "date": "2026-09-24T00:52:54+08:00",
+        "title": "Add three itchenshi plugins: model surplus, session resume, key bindings (#5719)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/c5bb408f761eb2752243c332faa91cab52a93720",
+        "files": [
+          "A\tdata/plugins/itchenshi__dsh-gui-last-session.yml",
+          "A\tdata/plugins/itchenshi__dsh-keys-setting.yml",
+          "A\tdata/plugins/itchenshi__dsh-model-surplus.yml"
+        ]
+      },
+      {
+        "sha": "5522d17fa5eab30c53e9e43993817531cbcde03e",
+        "date": "2026-09-24T00:52:49+08:00",
+        "title": "Add ThinkofRain1213/deepseek-harness-wallet-patched (#5718)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/5522d17fa5eab30c53e9e43993817531cbcde03e",
+        "files": [
+          "A\tdata/plugins/ThinkofRain1213__deepseek-harness-wallet-patched.yml"
+        ]
+      },
+      {
+        "sha": "ce93a79a271dbf409fc10e8124016c3610547c58",
+        "date": "2026-09-23T16:48:39Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/ce93a79a271dbf409fc10e8124016c3610547c58",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "6f092a566d4eb07f51d1c067f475b9563ec22d23",
+        "date": "2026-09-24T00:48:36+08:00",
+        "title": "Add dsh-linghun plugin (#5717)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/6f092a566d4eb07f51d1c067f475b9563ec22d23",
+        "files": [
+          "A\tdata/plugins/syyr1987__dsh-linghun.yml"
+        ]
+      },
+      {
+        "sha": "b07b955ee608540346210b73b89ccc8bd82059b9",
+        "date": "2026-09-24T00:48:31+08:00",
+        "title": "Add dsh-peer-mcp (MyPanda-Hash/CHENGXIAO) to Remote & Mobile (#5716)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/b07b955ee608540346210b73b89ccc8bd82059b9",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md",
+          "A\tdata/plugins/MyPanda-Hash__CHENGXIAO.yml"
+        ]
+      },
+      {
+        "sha": "ec6634c938e73d14a0c31fefbe63788412c98b64",
+        "date": "2026-09-24T00:48:25+08:00",
+        "title": "Add dsh-auto-memory (Memory) (#5696)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/ec6634c938e73d14a0c31fefbe63788412c98b64",
+        "files": [
+          "A\tdata/plugins/AskTheWay__dsh-auto-memory.yml"
+        ]
+      },
+      {
+        "sha": "5254cdaeaeb966e193be7227dd7e30b91a87fcc2",
+        "date": "2026-09-23T16:48:22Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/5254cdaeaeb966e193be7227dd7e30b91a87fcc2",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "e583472c97ba4dd770cea8ebef7fcaf02ada732f",
+        "date": "2026-09-24T00:48:19+08:00",
+        "title": "Create liujianqiao701__dsh-ask-notify.yml (#5687)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/e583472c97ba4dd770cea8ebef7fcaf02ada732f",
+        "files": [
+          "A\tdata/plugins/liujianqiao701__dsh-ask-notify.yml"
+        ]
+      },
+      {
+        "sha": "5ac5dbd289995f6f706b7055b81d1928767e4d87",
+        "date": "2026-09-24T00:48:14+08:00",
+        "title": "Add dsh-vitals (#5682)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/5ac5dbd289995f6f706b7055b81d1928767e4d87",
+        "files": [
+          "A\tdata/plugins/JoblessJoe__dsh-vitals.yml"
+        ]
+      },
+      {
+        "sha": "166742a1581d8c727ea62c2fec2ffa73effe4ba6",
+        "date": "2026-09-23T16:48:10Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/166742a1581d8c727ea62c2fec2ffa73effe4ba6",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "c5d2ab37f2ee9d9a1154594c9535f8621272df7b",
+        "date": "2026-09-24T00:48:09+08:00",
+        "title": "Add dsh-qianyuan (QianYuan MCP server for DeepSeek Harness) (#5679)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/c5d2ab37f2ee9d9a1154594c9535f8621272df7b",
+        "files": [
+          "A\tdata/plugins/qianyuan-ltd__dsh-qianyuan.yml"
+        ]
+      },
+      {
+        "sha": "06be18297a11899901630da3fbdb0ae052e9ab93",
+        "date": "2026-09-24T00:48:03+08:00",
+        "title": "Add BetterZflyee/dsh-jev-adapter (#5654)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/06be18297a11899901630da3fbdb0ae052e9ab93",
+        "files": [
+          "A\tdata/plugins/BetterZflyee__dsh-jev-adapter.yml"
+        ]
+      },
+      {
+        "sha": "962fdd8d39ddbfffc931e76cb0b8f8b1b02b60f8",
+        "date": "2026-09-24T00:47:56+08:00",
+        "title": "Add mengxiaoxian/lookover plugins: dsh-look (vision) and dsh-expmem (memory) (#5651)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/962fdd8d39ddbfffc931e76cb0b8f8b1b02b60f8",
+        "files": [
+          "A\tdata/plugins/mengxiaoxian__lookover--dsh-expmem.yml",
+          "A\tdata/plugins/mengxiaoxian__lookover--dsh-look.yml"
+        ]
+      },
+      {
+        "sha": "a98eb14f5ccc09c405a87f43e1a82c1da98e76b0",
+        "date": "2026-09-23T16:47:52Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/a98eb14f5ccc09c405a87f43e1a82c1da98e76b0",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "4e278fd4da6b562a8904b36b26fa998fcd7d927d",
+        "date": "2026-09-24T00:47:49+08:00",
+        "title": "add idoall dsh-session-colors plugin (#5650)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/4e278fd4da6b562a8904b36b26fa998fcd7d927d",
+        "files": [
+          "A\tdata/plugins/idoall__dsh-session-colors.yml"
+        ]
+      },
+      {
+        "sha": "755eeeb3634bef979bebb647e55848b6e6be72e5",
+        "date": "2026-09-24T00:47:41+08:00",
+        "title": "add 173787247/dsh-wsl-obsidian (wsl): WSL agent bridge to Windows Obsidian vaults (#5644)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/755eeeb3634bef979bebb647e55848b6e6be72e5",
+        "files": [
+          "A\tdata/plugins/173787247__dsh-wsl-obsidian.yml"
+        ]
+      },
+      {
+        "sha": "e699d1f289cdb7207a5fac2c5c578ef83b01f2db",
+        "date": "2026-09-23T16:47:39Z",
+        "title": "chore: regenerate READMEs from data/plugins",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/e699d1f289cdb7207a5fac2c5c578ef83b01f2db",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md"
+        ]
+      },
+      {
+        "sha": "59ad1a355c9b7ec6ea603edcd14b07409c9670cf",
+        "date": "2026-09-24T00:47:33+08:00",
+        "title": "Add API ledger with route pricing and in-conversation cost views (#5639)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/59ad1a355c9b7ec6ea603edcd14b07409c9670cf",
+        "files": [
+          "A\tdata/plugins/LAwLi3tCoding__dsh-api-ledger.yml"
+        ]
+      },
+      {
+        "sha": "ade0ee34a8a54f20151b7cf8444959c2208de73b",
+        "date": "2026-09-24T00:47:28+08:00",
+        "title": "Add DSH Focus Supervisor v0.5.0 to workflow plugins (#5613)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/ade0ee34a8a54f20151b7cf8444959c2208de73b",
+        "files": [
+          "A\tdata/plugins/RockingSisyphus__dsh-focus-supervisor--dsh-plugin.yml"
+        ]
+      },
+      {
+        "sha": "1c97d6ddfb0289decb498d65e78d048c0dda44df",
+        "date": "2026-09-24T00:41:17+08:00",
+        "title": "Add mia-wong1016/dsh-codex-plus (#5582)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/1c97d6ddfb0289decb498d65e78d048c0dda44df",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md",
+          "A\tdata/plugins/mia-wong1016__dsh-codex-plus.yml"
+        ]
+      },
+      {
+        "sha": "742d641fba25edd07b1ee0c4a76fafba243e675a",
+        "date": "2026-09-24T00:40:50+08:00",
+        "title": "Add vikasranax/dsh-plugin-cats (#3217)",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/commit/742d641fba25edd07b1ee0c4a76fafba243e675a",
+        "files": [
+          "M\tREADME.md",
+          "M\tREADME.zh.md",
+          "A\tdata/plugins/vikasranax__dsh-plugin-cats.yml"
+        ]
       }
     ],
-    "contentFingerprint": "b12a36dec6d97dc176d363664ec4bffb6954e09f6771bd8bea6354a5b54d2009",
+    "contentFingerprint": "3d145d2e046c0df7d9bb675045461202550e28c47fe5865d9a1f6574dfaa551f",
     "websiteFingerprint": "7b07aed94f45ab9d070820e67e1e90d1ca367365c0d539f5b8be74b266a24fc4",
     "rawFingerprints": {
       "raw:README.md": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/README.md",
-        "checkedAt": "2026-09-23T11:48:16.800Z",
+        "checkedAt": "2026-09-23T17:12:00.310Z",
         "status": "ok",
-        "length": 1260960,
-        "fingerprint": "317dc3d32774f5d498c0ffe98ea9cb8783d1336b1e1150584b5e0ea1f484a521",
+        "length": 1276873,
+        "fingerprint": "8e114812d6e88bb5ebc848b8d98b54eb30ffccaccc63f9b257fc2ff7e94106de",
         "httpStatus": 200,
-        "etag": "W/\"d809fabe1e039474773a3795a3e1f1ee6188f6d50b65ad97c4095415616f2234\""
+        "etag": "W/\"5b533e5fb89cf88684de8fa6908fb1cab3467c4022ad785d5b915bc2d0165cbd\""
       },
       "raw:README.zh.md": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/README.zh.md",
-        "checkedAt": "2026-09-23T11:48:16.800Z",
+        "checkedAt": "2026-09-23T17:12:00.310Z",
         "status": "ok",
-        "length": 734113,
-        "fingerprint": "856530ad966584d08b16e8ea502af1d09b616184422e612081ae59a2c34ad931",
+        "length": 742798,
+        "fingerprint": "fb87136d8f913d45fe11ee0d34425a03cd9f04468f5edebcf1374258bd73a14d",
         "httpStatus": 200,
-        "etag": "W/\"df9cfbb206ec29cffed9b59b1ad897fc67a71be987b7a39729049dd806f9e0c2\""
+        "etag": "W/\"1ae6b036dfac14acd58d63e5ad54e3ce2b48903fdf0465aab6845cca8cbce8c2\""
       },
       "raw:docs/index.html": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/index.html",
-        "checkedAt": "2026-09-23T11:48:16.800Z",
+        "checkedAt": "2026-09-23T17:12:00.310Z",
         "status": "failed",
         "length": 14,
         "fingerprint": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
@@ -100409,7 +102325,7 @@
       },
       "raw:docs/zh/index.html": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/zh/index.html",
-        "checkedAt": "2026-09-23T11:48:16.800Z",
+        "checkedAt": "2026-09-23T17:12:00.310Z",
         "status": "failed",
         "length": 14,
         "fingerprint": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
@@ -100418,7 +102334,7 @@
       },
       "raw:docs/sitemap.xml": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/sitemap.xml",
-        "checkedAt": "2026-09-23T11:48:16.800Z",
+        "checkedAt": "2026-09-23T17:12:00.310Z",
         "status": "failed",
         "length": 14,
         "fingerprint": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
@@ -100427,7 +102343,7 @@
       },
       "raw:docs/feed.xml": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/feed.xml",
-        "checkedAt": "2026-09-23T11:48:16.800Z",
+        "checkedAt": "2026-09-23T17:12:00.310Z",
         "status": "failed",
         "length": 14,
         "fingerprint": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
@@ -100436,7 +102352,7 @@
       },
       "raw:docs/zh/feed.xml": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/zh/feed.xml",
-        "checkedAt": "2026-09-23T11:48:16.800Z",
+        "checkedAt": "2026-09-23T17:12:00.310Z",
         "status": "failed",
         "length": 14,
         "fingerprint": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
@@ -100445,7 +102361,7 @@
       },
       "raw:docs/plugins.json": {
         "url": "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/docs/plugins.json",
-        "checkedAt": "2026-09-23T11:48:16.800Z",
+        "checkedAt": "2026-09-23T17:12:00.310Z",
         "status": "failed",
         "length": 14,
         "fingerprint": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
@@ -109006,9 +110922,9 @@
     "historicalSnapshotCount": 24,
     "source": {
       "catalog": "data/catalog-v2.json",
-      "checkedAt": "2026-09-23T11:48:16.800Z",
-      "updatedAt": "2026-09-23T11:46:55.900Z",
-      "sourceCommit": "01ffa4577b587e9f34473159896c2ee7d4fa297fdb2b982a37eca7e7e0148de0",
+      "checkedAt": "2026-09-23T17:12:00.310Z",
+      "updatedAt": "2026-09-23T17:10:39.556Z",
+      "sourceCommit": "077805464d8a9e7983431b66ed9f77387e93fa5c571f73c39011d5a6ad4dba27",
       "siteRoot": "/Users/wangyidong/project/deepseek-plugin-store-site",
       "siteSourceAvailable": false,
       "siteCatalogPluginCount": null
@@ -109018,7 +110934,7 @@
     {
       "priority": "P0",
       "capability": "coverage",
-      "detail": "listed plugins 1686 below competitor README entries 4183"
+      "detail": "listed plugins 1686 below competitor README entries 4225"
     },
     {
       "priority": "P0",
@@ -109042,17 +110958,19 @@
     }
   ],
   "change": {
-    "commitChanged": false,
+    "commitChanged": true,
     "websiteChanged": false,
-    "contentChanged": false,
+    "contentChanged": true,
     "previousCommit": "7983709b6ebfca1d50d134f2c5c5f660308bd879",
     "previousContentFingerprint": "b12a36dec6d97dc176d363664ec4bffb6954e09f6771bd8bea6354a5b54d2009",
     "summary": [
-      "metrics changed: stars 16653 -> 16713, forks 3216 -> 3231"
+      "74 new upstream commits",
+      "raw or website content fingerprint changed",
+      "metrics changed: stars 16713 -> 16740, forks 3231 -> 3235, openPullRequests 25 -> 0, pluginEntries 4183 -> 4225"
     ]
   },
   "processing": {
-    "result": "measured; 3851 upstream entries remain in hidden candidate review",
+    "result": "measured; 3893 upstream entries remain in hidden candidate review",
     "convertedPlugins": 0,
     "pendingUpstreamEntries": [
       {
@@ -110124,6 +112042,10 @@
         "url": "https://github.com/Isilsolme/dsh-splash-launcher"
       },
       {
+        "name": "itchenshi/dsh-keys-setting",
+        "url": "https://github.com/itchenshi/dsh-keys-setting"
+      },
+      {
         "name": "Iwctwbh/dsh-flowglass",
         "url": "https://github.com/Iwctwbh/dsh-flowglass"
       },
@@ -110170,6 +112092,10 @@
       {
         "name": "JNNarrator/dsh-deckseek",
         "url": "https://github.com/JNNarrator/dsh-deckseek"
+      },
+      {
+        "name": "JoblessJoe/dsh-vitals",
+        "url": "https://github.com/JoblessJoe/dsh-vitals"
       },
       {
         "name": "john-walks-slow/dsh-qol",
@@ -110282,6 +112208,10 @@
       {
         "name": "Laplace-bit/dsh-smooth-stream",
         "url": "https://github.com/Laplace-bit/dsh-smooth-stream"
+      },
+      {
+        "name": "latte03/dsh-select-quote",
+        "url": "https://github.com/latte03/dsh-select-quote"
       },
       {
         "name": "lavapapa/dsh-composer-layout",
@@ -112100,6 +114030,10 @@
         "url": "https://github.com/igormel81/dsh-chat-cost"
       },
       {
+        "name": "itchenshi/dsh-model-surplus",
+        "url": "https://github.com/itchenshi/dsh-model-surplus"
+      },
+      {
         "name": "izz-BLUE/dsh-deepseek-usage-dashboard",
         "url": "https://github.com/izz-BLUE/dsh-deepseek-usage-dashboard"
       },
@@ -112178,6 +114112,10 @@
       {
         "name": "l956615272-hub/dsh-token-usage",
         "url": "https://github.com/l956615272-hub/dsh-token-usage"
+      },
+      {
+        "name": "LAwLi3tCoding/dsh-api-ledger",
+        "url": "https://github.com/LAwLi3tCoding/dsh-api-ledger"
       },
       {
         "name": "lcthe/dsh-usage-monitor",
@@ -112416,12 +114354,20 @@
         "url": "https://github.com/teethyachi/dsh-usage-mini"
       },
       {
+        "name": "TetraSsky/dsh-offpeak",
+        "url": "https://github.com/TetraSsky/dsh-offpeak"
+      },
+      {
         "name": "The-five-stooges/dsh-deepseek-usage",
         "url": "https://github.com/The-five-stooges/dsh-deepseek-usage"
       },
       {
         "name": "Thedeergod666/dsh-musage",
         "url": "https://github.com/Thedeergod666/dsh-musage"
+      },
+      {
+        "name": "ThinkofRain1213/deepseek-harness-wallet-patched",
+        "url": "https://github.com/ThinkofRain1213/deepseek-harness-wallet-patched"
       },
       {
         "name": "tma1-ai/dsh-otel",
@@ -112514,6 +114460,10 @@
       {
         "name": "xtd1145/dsh-deepseek-cost-live",
         "url": "https://github.com/xtd1145/dsh-deepseek-cost-live"
+      },
+      {
+        "name": "xueccci/dsh-prompt-lab",
+        "url": "https://github.com/xueccci/dsh-prompt-lab"
       },
       {
         "name": "xxvk/dsh-cost-crystal",
@@ -112706,6 +114656,10 @@
       {
         "name": "du-u-uck/DSH-Transparent-UI-Plugin",
         "url": "https://github.com/du-u-uck/DSH-Transparent-UI-Plugin"
+      },
+      {
+        "name": "EIGHTfs/dsh-theme-mediascape",
+        "url": "https://github.com/EIGHTfs/dsh-theme-mediascape"
       },
       {
         "name": "elong16/dsh-skin-xuyuanwu",
@@ -113116,6 +115070,10 @@
         "url": "https://github.com/YRN-playmaker/dsh-wallpaper_share"
       },
       {
+        "name": "yu502950715yang/dsh-use-wallpaper",
+        "url": "https://github.com/yu502950715yang/dsh-use-wallpaper"
+      },
+      {
         "name": "yunxiiQwQ/dsh-maid-whale-webUI#maid-whale-webui",
         "url": "https://github.com/yunxiiQwQ/dsh-maid-whale-webUI/tree/main/maid-whale-webui"
       },
@@ -113428,12 +115386,16 @@
         "url": "https://github.com/hytime/dsh-thinking-effort"
       },
       {
-        "name": "icedcola/dsh-provider-veark",
+        "name": "IcedWatermelonJuice/dsh-provider-veark",
         "url": "https://github.com/IcedWatermelonJuice/dsh-provider-veark"
       },
       {
         "name": "ijry/DeepSeek-Harness-Desktop-Ultra#dsh-plugin-ai-switch",
         "url": "https://github.com/ijry/DeepSeek-Harness-Desktop-Ultra/tree/main/plugins/dsh-plugin-ai-switch"
+      },
+      {
+        "name": "itchenshi/dsh-opencode-go-path",
+        "url": "https://github.com/itchenshi/dsh-opencode-go-path"
       },
       {
         "name": "itongxiaojun/dsh-openrouter-free-models",
@@ -113538,6 +115500,10 @@
       {
         "name": "Mars-Sea/dsh-commandcode-provider",
         "url": "https://github.com/Mars-Sea/dsh-commandcode-provider"
+      },
+      {
+        "name": "mia-wong1016/dsh-codex-plus",
+        "url": "https://github.com/mia-wong1016/dsh-codex-plus"
       },
       {
         "name": "mo-n/dsh-provider-qoder",
@@ -113800,6 +115766,10 @@
         "url": "https://github.com/wenzetan/dsh-llm-newapi"
       },
       {
+        "name": "whoiszzj/dsh-opencodego",
+        "url": "https://github.com/whoiszzj/dsh-opencodego"
+      },
+      {
         "name": "wjf1/dsh-commandcode",
         "url": "https://github.com/wjf1/dsh-commandcode"
       },
@@ -113920,6 +115890,10 @@
         "url": "https://github.com/zpis666/dsh-context-budget"
       },
       {
+        "name": "Ztyss/dsh-llm-provider",
+        "url": "https://github.com/Ztyss/dsh-llm-provider"
+      },
+      {
         "name": "AgentConnect/dsh-awiki",
         "url": "https://github.com/AgentConnect/dsh-awiki"
       },
@@ -113974,6 +115948,10 @@
       {
         "name": "sryimnoob123/dsh-global-prompt",
         "url": "https://github.com/sryimnoob123/dsh-global-prompt"
+      },
+      {
+        "name": "syyr1987/dsh-linghun",
+        "url": "https://github.com/syyr1987/dsh-linghun"
       },
       {
         "name": "Tkingxiao/I-am-Yuike",
@@ -114114,6 +116092,10 @@
       {
         "name": "bvcvb/dsh-baize-rules",
         "url": "https://github.com/bvcvb/dsh-baize-rules"
+      },
+      {
+        "name": "bvcvb/dsh-baize-session",
+        "url": "https://github.com/bvcvb/dsh-baize-session"
       },
       {
         "name": "CAI-MH/dsh-steer",
@@ -114360,6 +116342,10 @@
         "url": "https://github.com/Icstick/dsh-context-maid"
       },
       {
+        "name": "idoall/dsh-session-colors",
+        "url": "https://github.com/idoall/dsh-session-colors"
+      },
+      {
         "name": "ijry/DeepSeek-Harness-Desktop-Ultra#dsh-plugin-canvas",
         "url": "https://github.com/ijry/DeepSeek-Harness-Desktop-Ultra/tree/main/plugins/dsh-plugin-canvas"
       },
@@ -114374,6 +116360,10 @@
       {
         "name": "ishuowang/dsh-sideband",
         "url": "https://github.com/ishuowang/dsh-sideband"
+      },
+      {
+        "name": "itchenshi/dsh-gui-last-session",
+        "url": "https://github.com/itchenshi/dsh-gui-last-session"
       },
       {
         "name": "JanEickholt/dsh-asc",
@@ -114654,6 +116644,10 @@
       {
         "name": "que3sui/dsh-darwin#sentinel",
         "url": "https://github.com/que3sui/dsh-darwin/tree/main/packages/sentinel"
+      },
+      {
+        "name": "qvsix/dsh-antigravity-bridge",
+        "url": "https://github.com/qvsix/dsh-antigravity-bridge"
       },
       {
         "name": "qwert702/dsh-context-compressor",
@@ -115088,6 +117082,10 @@
         "url": "https://github.com/Asher-2000/dsh-memory-connect"
       },
       {
+        "name": "AskTheWay/dsh-auto-memory",
+        "url": "https://github.com/AskTheWay/dsh-auto-memory"
+      },
+      {
         "name": "AtinyFurina/dsh-memory-triage",
         "url": "https://github.com/AtinyFurina/dsh-memory-triage"
       },
@@ -115106,6 +117104,10 @@
       {
         "name": "BOWLUNA/dsh-zcode-scribe",
         "url": "https://github.com/BOWLUNA/dsh-zcode-scribe"
+      },
+      {
+        "name": "brunhildzhou/dsh-context-zip#dsh-context-zip",
+        "url": "https://github.com/brunhildzhou/dsh-context-zip/tree/main/dsh-context-zip"
       },
       {
         "name": "busabase/busabase-dsh-plugin",
@@ -115324,6 +117326,10 @@
         "url": "https://github.com/KLRSL/dsh-biomemory"
       },
       {
+        "name": "knighthongyu/dsh-handoff-compaction",
+        "url": "https://github.com/knighthongyu/dsh-handoff-compaction"
+      },
+      {
         "name": "lanyun077/dsh-project",
         "url": "https://github.com/lanyun077/dsh-project"
       },
@@ -115406,6 +117412,10 @@
       {
         "name": "memorylake-ai/memorylake-harness#dsh-plugin",
         "url": "https://github.com/memorylake-ai/memorylake-harness/tree/main/dsh-plugin"
+      },
+      {
+        "name": "mengxiaoxian/lookover#dsh-expmem",
+        "url": "https://github.com/mengxiaoxian/lookover/tree/main/dsh-expmem"
       },
       {
         "name": "meyaomiao/dsh-graphmemory",
@@ -115744,6 +117754,10 @@
         "url": "https://github.com/1Ecc/dsh-lenovo-toolkit"
       },
       {
+        "name": "1jiegejiayouxuewangan1/dsh-desktop-uia",
+        "url": "https://github.com/1jiegejiayouxuewangan1/dsh-desktop-uia"
+      },
+      {
         "name": "2286893544/feishu-dsh-plugin",
         "url": "https://github.com/2286893544/feishu-dsh-plugin"
       },
@@ -115900,6 +117914,10 @@
         "url": "https://github.com/bescriptkiddie/dsh-wechat-collector"
       },
       {
+        "name": "BetterZflyee/dsh-jev-adapter",
+        "url": "https://github.com/BetterZflyee/dsh-jev-adapter"
+      },
+      {
         "name": "bill277048-hash/DSH-guardian#dsh-guardian",
         "url": "https://github.com/bill277048-hash/DSH-guardian/tree/main/packages/dsh-guardian"
       },
@@ -116020,6 +118038,10 @@
         "url": "https://github.com/CREAIT-nl/dsh-plugins/tree/main/tool-disclosure"
       },
       {
+        "name": "ct-jaryn/dsh-plugin-baizhi-agent-toolkit",
+        "url": "https://github.com/ct-jaryn/dsh-plugin-baizhi-agent-toolkit"
+      },
+      {
         "name": "curtainsmall/dsh-electro-lab",
         "url": "https://github.com/curtainsmall/dsh-electro-lab"
       },
@@ -116048,7 +118070,7 @@
         "url": "https://github.com/dhicoc/dsh-codex-web-search-mcp"
       },
       {
-        "name": "mengzai/dsh-moneypal",
+        "name": "ding112/MoneyPal#dsh-moneypal",
         "url": "https://github.com/ding112/MoneyPal/tree/main/packages/dsh-moneypal"
       },
       {
@@ -117040,6 +119062,10 @@
         "url": "https://github.com/Q1hangL/dsh-ask-guard"
       },
       {
+        "name": "qianyuan-ltd/dsh-qianyuan",
+        "url": "https://github.com/qianyuan-ltd/dsh-qianyuan"
+      },
+      {
         "name": "qixin-ai-data/dsh-qixin-insight-mcp-oauth",
         "url": "https://github.com/qixin-ai-data/dsh-qixin-insight-mcp-oauth"
       },
@@ -117348,6 +119374,10 @@
         "url": "https://github.com/TritiumWang/dsh-universal-worldbook"
       },
       {
+        "name": "troytse/dsh-plugin-codegraph-project",
+        "url": "https://github.com/troytse/dsh-plugin-codegraph-project"
+      },
+      {
         "name": "trueRISCOacnt/maa-dsh-skill",
         "url": "https://github.com/trueRISCOacnt/maa-dsh-skill"
       },
@@ -117386,6 +119416,10 @@
       {
         "name": "Viger1/dsh-design",
         "url": "https://github.com/Viger1/dsh-design"
+      },
+      {
+        "name": "vikasranax/dsh-plugin-cats",
+        "url": "https://github.com/vikasranax/dsh-plugin-cats"
       },
       {
         "name": "Vncntvx/dsh-zotero",
@@ -117450,6 +119484,10 @@
       {
         "name": "wbin0001/dsh-comfyui-canvas",
         "url": "https://github.com/wbin0001/dsh-comfyui-canvas"
+      },
+      {
+        "name": "webkubor/dsh-env-inspector",
+        "url": "https://github.com/webkubor/dsh-env-inspector"
       },
       {
         "name": "weibaohui/dsh-webdav-server",
@@ -117632,7 +119670,7 @@
         "url": "https://github.com/YUEEEEY/dsh-desktop-tools"
       },
       {
-        "name": "yuioi666/dsh-plugin-model-capability",
+        "name": "yuioi666/dsh-conversation-nav-dots",
         "url": "https://github.com/yuioi666/dsh-conversation-nav-dots"
       },
       {
@@ -117856,6 +119894,10 @@
         "url": "https://github.com/173787247/dsh-wsl-obscura"
       },
       {
+        "name": "173787247/dsh-wsl-obsidian",
+        "url": "https://github.com/173787247/dsh-wsl-obsidian"
+      },
+      {
         "name": "173787247/dsh-wsl-open",
         "url": "https://github.com/173787247/dsh-wsl-open"
       },
@@ -117946,6 +119988,10 @@
       {
         "name": "A3Boy/dsh-web-tools",
         "url": "https://github.com/A3Boy/dsh-web-tools"
+      },
+      {
+        "name": "alllllinnrann/dsh-inapp-browser",
+        "url": "https://github.com/alllllinnrann/dsh-inapp-browser"
       },
       {
         "name": "ankye/dsh_use_browser#use-browser",
@@ -118514,6 +120560,10 @@
       {
         "name": "maxwell-feng/dsh-windows-ocr",
         "url": "https://github.com/maxwell-feng/dsh-windows-ocr"
+      },
+      {
+        "name": "mengxiaoxian/lookover#dsh-look",
+        "url": "https://github.com/mengxiaoxian/lookover/tree/main/dsh-look"
       },
       {
         "name": "MicroHEROX/dsh-unsloth-hands",
@@ -119124,6 +121174,10 @@
         "url": "https://github.com/7dgroup-ai/dsh-skill-7d-code-reviewer"
       },
       {
+        "name": "7starsseeker/dsh-fact-check",
+        "url": "https://github.com/7starsseeker/dsh-fact-check"
+      },
+      {
         "name": "863683348/dsh-starter-zh",
         "url": "https://github.com/863683348/dsh-starter-zh"
       },
@@ -119396,6 +121450,10 @@
         "url": "https://github.com/kobenfang/ListForm"
       },
       {
+        "name": "konglong87/dsh-skills-input",
+        "url": "https://github.com/konglong87/dsh-skills-input"
+      },
+      {
         "name": "kouyichi/dsh-plugins#dsh-learn",
         "url": "https://github.com/kouyichi/dsh-plugins/tree/main/dsh-learn"
       },
@@ -119588,6 +121646,10 @@
         "url": "https://github.com/vonweller/dsh-skillhub"
       },
       {
+        "name": "w2310670047-code/ai-eight-honors-eight-shames",
+        "url": "https://github.com/w2310670047-code/ai-eight-honors-eight-shames"
+      },
+      {
         "name": "warm-flame-core/new-project-init",
         "url": "https://github.com/warm-flame-core/new-project-init"
       },
@@ -119692,7 +121754,7 @@
         "url": "https://github.com/yanglaofish/dsh-skill-manager"
       },
       {
-        "name": "yinhcao/yinchao-ai-music",
+        "name": "yinhcao/yinchao-ai-music-skill",
         "url": "https://github.com/yinhcao/yinchao-ai-music-skill"
       },
       {
@@ -120048,7 +122110,7 @@
         "url": "https://github.com/Icstick/dsh-work-continuity"
       },
       {
-        "name": "iguowz/dsh-cortexx",
+        "name": "iguowz/dsh-cortex",
         "url": "https://github.com/iguowz/dsh-cortex"
       },
       {
@@ -120340,6 +122402,10 @@
         "url": "https://github.com/PiedPiper911/dsh-workflow-canvas"
       },
       {
+        "name": "PPawnsir/dsh-notes-plugin#dsh-notes-plugin",
+        "url": "https://github.com/PPawnsir/dsh-notes-plugin/tree/main/packages/dsh-notes-plugin"
+      },
+      {
         "name": "PPawnsir/task-board-plugin#dsh-agent-board",
         "url": "https://github.com/PPawnsir/task-board-plugin/tree/main/packages/dsh-agent-board"
       },
@@ -120390,6 +122456,10 @@
       {
         "name": "rocker2018-droid/dsh-longtask-orchestrator",
         "url": "https://github.com/rocker2018-droid/dsh-longtask-orchestrator"
+      },
+      {
+        "name": "RockingSisyphus/dsh-focus-supervisor#dsh-plugin",
+        "url": "https://github.com/RockingSisyphus/dsh-focus-supervisor/tree/main/dsh-plugin"
       },
       {
         "name": "sailoumili/novel-writer",
@@ -121320,6 +123390,10 @@
         "url": "https://github.com/lijiawei255/dsh-status-chime"
       },
       {
+        "name": "liujianqiao701/dsh-ask-notify",
+        "url": "https://github.com/liujianqiao701/dsh-ask-notify"
+      },
+      {
         "name": "lsq-dsh-plugins/dsh-windows-notifications",
         "url": "https://github.com/lsq-dsh-plugins/dsh-windows-notifications"
       },
@@ -121986,6 +124060,10 @@
       {
         "name": "haotian-lu-prog/dsh-update-all#plugin",
         "url": "https://github.com/haotian-lu-prog/dsh-update-all/tree/main/plugin"
+      },
+      {
+        "name": "harde1/dsh-xcodebuild",
+        "url": "https://github.com/harde1/dsh-xcodebuild"
       },
       {
         "name": "Harzva/dsh-control-plane",
@@ -123116,7 +125194,7 @@
         "url": "https://github.com/shuxue6662-a11y/dsh-risk-guard"
       },
       {
-        "name": "sjh9714/dsh-movein-permissions",
+        "name": "sjh9714/dsh-movein#plugin",
         "url": "https://github.com/sjh9714/dsh-movein/tree/main/plugin"
       },
       {
@@ -123306,6 +125384,10 @@
       {
         "name": "BotonJ/dsh-remote-link",
         "url": "https://github.com/BotonJ/dsh-remote-link"
+      },
+      {
+        "name": "btsd321/dsh-remote-explorer",
+        "url": "https://github.com/btsd321/dsh-remote-explorer"
       },
       {
         "name": "Buzzso/dsh-sev",
@@ -123514,6 +125596,10 @@
       {
         "name": "mrRisega/dsh-remote#dsh-remote-web",
         "url": "https://github.com/mrRisega/dsh-remote/tree/main/packages/dsh-remote-web"
+      },
+      {
+        "name": "MyPanda-Hash/CHENGXIAO",
+        "url": "https://github.com/MyPanda-Hash/CHENGXIAO"
       },
       {
         "name": "mzzsfy/dsh-plugin#dsh-auto-trust-all",
@@ -124486,13 +126572,6 @@
   ],
   "history": [
     {
-      "checkedAt": "2026-09-19T14:30:14.691Z",
-      "contentFingerprint": "6aec2085af104d16f2f7ddaab7053c3dcd4c0d2cc7e5c0b230604bec9f421257",
-      "upstreamCommit": "5706797a40590f2741ad7228003697ee3ee5ce10",
-      "status": "partial",
-      "summary": "66 new upstream commits; website home fingerprint changed; raw or website content fingerprint changed; metrics changed: stars 16248 -> 16259, forks 3077 -> 3088, pluginEntries 3933 -> 3995, websiteAdvertisedPluginEntries 3931 -> 3994, indexedPages 7912 -> 8038"
-    },
-    {
       "checkedAt": "2026-09-19T18:06:48.315Z",
       "contentFingerprint": "6aec2085af104d16f2f7ddaab7053c3dcd4c0d2cc7e5c0b230604bec9f421257",
       "upstreamCommit": "5706797a40590f2741ad7228003697ee3ee5ce10",
@@ -124652,6 +126731,13 @@
       "upstreamCommit": "7983709b6ebfca1d50d134f2c5c5f660308bd879",
       "status": "partial",
       "summary": "metrics changed: stars 16653 -> 16713, forks 3216 -> 3231"
+    },
+    {
+      "checkedAt": "2026-09-23T17:12:00.310Z",
+      "contentFingerprint": "3d145d2e046c0df7d9bb675045461202550e28c47fe5865d9a1f6574dfaa551f",
+      "upstreamCommit": "dc70baa046dbc202286171a5ac6e0f84fe2c0007",
+      "status": "partial",
+      "summary": "74 new upstream commits; raw or website content fingerprint changed; metrics changed: stars 16713 -> 16740, forks 3231 -> 3235, openPullRequests 25 -> 0, pluginEntries 4183 -> 4225"
     }
   ]
 }
