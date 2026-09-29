@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-29T02:02:44.572Z",
-  "sourceCommit": "0c213fc979a2813742c65e4328347cfd71b62ad7c30a74c2759895615927d531",
+  "updatedAt": "2026-09-29T08:39:09.596Z",
+  "sourceCommit": "2a411287ad05811f0966e7e1f7b6be7ba0d1b463e8b675664d8ccd4ed282c647",
   "source": {
     "repository": "Ericwong5021/deepseek-plugin-store",
     "registry": "registry/plugins",
@@ -419,7 +419,7 @@
       }
     ],
     "rankings": {
-      "generatedAt": "2026-09-29T02:02:44.572Z",
+      "generatedAt": "2026-09-29T08:39:09.596Z",
       "eligibleCount": 575,
       "popular": {
         "method": "current-github-stars",
@@ -758,7 +758,7 @@
           "huiliyi37-dsh-tianshu-tui": 64,
           "franksong2702-dsh-codex-connect": 60,
           "hsiangnianian-dsh-auto-continue": 58,
-          "nagi-ovo-dsh-ads": 53,
+          "nagi-ovo-dsh-ads": 54,
           "bugmaker2-dsh-plugin-template": 48,
           "titanwings-dsh-automation": 40,
           "laynechai-superpowers-dsh": 39,
@@ -892,7 +892,7 @@
           },
           "nagi-ovo-dsh-ads": {
             "from": "2026-08-29T14:32:34.143Z",
-            "to": "2026-09-28T22:06:57.930Z"
+            "to": "2026-09-29T08:39:09.596Z"
           },
           "bugmaker2-dsh-plugin-template": {
             "from": "2026-08-29T14:32:34.143Z",
@@ -22633,17 +22633,13 @@
       "observations": {
         "repository": "ccch1mneyyy/dsh-TUI",
         "github": {
-          "stars": 3732,
+          "stars": 3761,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-09-29T01:54:34Z",
-          "latestReleaseAt": "2026-09-26T20:23:50Z",
-          "capturedAt": "2026-09-29T02:02:44.572Z",
+          "lastPushAt": "2026-09-29T08:37:02Z",
+          "latestReleaseAt": "2026-09-29T04:57:14Z",
+          "capturedAt": "2026-09-29T08:39:09.596Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-09-09T14:39:15.921Z",
-              "stars": 2905
-            },
             {
               "capturedAt": "2026-09-09T18:40:46.598Z",
               "stars": 2908
@@ -22999,6 +22995,10 @@
             {
               "capturedAt": "2026-09-29T02:02:44.572Z",
               "stars": 3732
+            },
+            {
+              "capturedAt": "2026-09-29T08:39:09.596Z",
+              "stars": 3761
             }
           ]
         },
@@ -23009,7 +23009,7 @@
           "installSpec": "github:ccch1mneyyy/dsh-TUI",
           "readmeFound": true,
           "readmeGuidance": true,
-          "checkedAt": "2026-09-29T02:02:44.572Z"
+          "checkedAt": "2026-09-29T08:39:09.596Z"
         },
         "discovery": {
           "origins": [
@@ -23017,10 +23017,10 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-09-29T02:02:44.572Z"
+          "lastSeenAt": "2026-09-29T08:39:09.596Z"
         },
         "failures": [],
-        "lastSuccessfulAt": "2026-09-29T02:02:44.572Z"
+        "lastSuccessfulAt": "2026-09-29T08:39:09.596Z"
       },
       "editorial": {
         "editorPick": true,
@@ -87790,17 +87790,13 @@
       "observations": {
         "repository": "Nagi-ovo/dsh-ads",
         "github": {
-          "stars": 636,
+          "stars": 637,
           "license": "BSD-3-Clause",
           "archived": false,
           "lastPushAt": "2026-09-25T22:25:48Z",
           "latestReleaseAt": null,
-          "capturedAt": "2026-09-28T22:06:57.930Z",
+          "capturedAt": "2026-09-29T08:39:09.596Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-08-17T10:01:00.020Z",
-              "stars": 476
-            },
             {
               "capturedAt": "2026-08-17T11:44:14.110Z",
               "stars": 477
@@ -88156,6 +88152,10 @@
             {
               "capturedAt": "2026-09-28T22:06:57.930Z",
               "stars": 636
+            },
+            {
+              "capturedAt": "2026-09-29T08:39:09.596Z",
+              "stars": 637
             }
           ]
         },
@@ -88166,7 +88166,7 @@
           "installSpec": "github:Nagi-ovo/dsh-ads",
           "readmeFound": true,
           "readmeGuidance": true,
-          "checkedAt": "2026-09-28T22:06:57.930Z"
+          "checkedAt": "2026-09-29T08:39:09.596Z"
         },
         "discovery": {
           "origins": [
@@ -88174,10 +88174,10 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-09-28T22:06:57.930Z"
+          "lastSeenAt": "2026-09-29T08:39:09.596Z"
         },
         "failures": [],
-        "lastSuccessfulAt": "2026-09-28T22:06:57.930Z"
+        "lastSuccessfulAt": "2026-09-29T08:39:09.596Z"
       },
       "editorial": {
         "editorPick": true,
@@ -92029,17 +92029,13 @@
       "observations": {
         "repository": "omdsh-dev/DSH-better-sidebar",
         "github": {
-          "stars": 3866,
+          "stars": 3881,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-09-28T16:45:35Z",
           "latestReleaseAt": "2026-09-28T15:28:57Z",
-          "capturedAt": "2026-09-29T02:02:44.572Z",
+          "capturedAt": "2026-09-29T08:39:09.596Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-09-10T04:50:57.025Z",
-              "stars": 3470
-            },
             {
               "capturedAt": "2026-09-10T09:48:57.606Z",
               "stars": 3485
@@ -92395,6 +92391,10 @@
             {
               "capturedAt": "2026-09-29T02:02:44.572Z",
               "stars": 3866
+            },
+            {
+              "capturedAt": "2026-09-29T08:39:09.596Z",
+              "stars": 3881
             }
           ]
         },
@@ -92405,7 +92405,7 @@
           "installSpec": "github:omdsh-dev/DSH-better-sidebar",
           "readmeFound": true,
           "readmeGuidance": true,
-          "checkedAt": "2026-09-29T02:02:44.572Z"
+          "checkedAt": "2026-09-29T08:39:09.596Z"
         },
         "discovery": {
           "origins": [
@@ -92413,10 +92413,10 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-09-29T02:02:44.572Z"
+          "lastSeenAt": "2026-09-29T08:39:09.596Z"
         },
         "failures": [],
-        "lastSuccessfulAt": "2026-09-29T02:02:44.572Z"
+        "lastSuccessfulAt": "2026-09-29T08:39:09.596Z"
       },
       "editorial": {
         "editorPick": true,
@@ -118641,17 +118641,13 @@
       "observations": {
         "repository": "Small-tailqwq/dsh-deep-whale",
         "github": {
-          "stars": 2251,
+          "stars": 2263,
           "license": "NOASSERTION",
           "archived": false,
           "lastPushAt": "2026-09-28T15:53:20Z",
           "latestReleaseAt": "2026-09-25T08:47:07Z",
-          "capturedAt": "2026-09-28T22:06:57.930Z",
+          "capturedAt": "2026-09-29T08:39:09.596Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-09-05T09:08:20.537Z",
-              "stars": 1931
-            },
             {
               "capturedAt": "2026-09-05T16:07:09.624Z",
               "stars": 1933
@@ -119007,6 +119003,10 @@
             {
               "capturedAt": "2026-09-28T22:06:57.930Z",
               "stars": 2251
+            },
+            {
+              "capturedAt": "2026-09-29T08:39:09.596Z",
+              "stars": 2263
             }
           ]
         },
@@ -119017,7 +119017,7 @@
           "installSpec": "github:Small-tailqwq/dsh-deep-whale",
           "readmeFound": true,
           "readmeGuidance": true,
-          "checkedAt": "2026-09-28T22:06:57.930Z"
+          "checkedAt": "2026-09-29T08:39:09.596Z"
         },
         "discovery": {
           "origins": [
@@ -119025,10 +119025,10 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-09-28T22:06:57.930Z"
+          "lastSeenAt": "2026-09-29T08:39:09.596Z"
         },
         "failures": [],
-        "lastSuccessfulAt": "2026-09-28T22:06:57.930Z"
+        "lastSuccessfulAt": "2026-09-29T08:39:09.596Z"
       },
       "editorial": {
         "editorPick": true,
