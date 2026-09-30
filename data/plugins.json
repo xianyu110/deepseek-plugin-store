@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-30T06:48:48.817Z",
-  "sourceCommit": "21b558d20922325818ab3e61d300c37d09ee3971a419a067cfb38e1cc1b5815f",
+  "updatedAt": "2026-09-30T19:27:03.872Z",
+  "sourceCommit": "d77197e9a737e2bdfa41fda24d8958289b1f99608e2e0dc98defc428069470de",
   "source": {
     "provider": "registry-v2",
     "repository": "Ericwong5021/deepseek-plugin-store",
@@ -444,6 +444,57 @@
       }
     },
     {
+      "fullName": "omdsh-dev/DSH-better-sidebar",
+      "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
+      "description": "一个侧边栏的完整工作台，支持三方拓展注册新Tab页面，内置文件渲染编辑/终端/Git/子代理",
+      "stars": 3927,
+      "pushedAt": "2026-09-28T16:45:35Z",
+      "license": "MIT",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "dsh-better-sidebar",
+      "category": {
+        "id": "editor-picks",
+        "title": "编辑精选 / Editor Picks"
+      },
+      "addedAt": "2026-08-13",
+      "slug": "omdsh-dev-dsh-better-sidebar",
+      "name": "omdsh-dev/DSH-better-sidebar",
+      "summary": "一个侧边栏的完整工作台，支持三方拓展注册新Tab页面，内置文件渲染编辑/终端/Git/子代理",
+      "tags": [
+        "agent",
+        "file",
+        "layout",
+        "terminal"
+      ],
+      "repositoryUrl": "https://github.com/omdsh-dev/DSH-better-sidebar",
+      "installSpec": "github:omdsh-dev/DSH-better-sidebar",
+      "author": "omdsh-dev",
+      "featured": true,
+      "status": "active",
+      "source": {
+        "type": "editor-pick",
+        "origins": [
+          "editor-pick",
+          "github-topic"
+        ],
+        "file": "data/editor-picks.json",
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 3927,
+        "license": "MIT",
+        "lastPushAt": "2026-09-28T16:45:35Z",
+        "archived": false,
+        "capturedAt": "2026-09-30T19:27:03.872Z"
+      },
+      "compatibility": {
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "checkedAt": "2026-09-30T19:27:03.872Z"
+      }
+    },
+    {
       "fullName": "liustack/modlens",
       "url": "https://github.com/liustack/modlens",
       "description": "The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网第一个 DeepSeek Harness 视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。",
@@ -493,62 +544,11 @@
       }
     },
     {
-      "fullName": "omdsh-dev/DSH-better-sidebar",
-      "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
-      "description": "一个侧边栏的完整工作台，支持三方拓展注册新Tab页面，内置文件渲染编辑/终端/Git/子代理",
-      "stars": 3908,
-      "pushedAt": "2026-09-28T16:45:35Z",
-      "license": "MIT",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "dsh-better-sidebar",
-      "category": {
-        "id": "editor-picks",
-        "title": "编辑精选 / Editor Picks"
-      },
-      "addedAt": "2026-08-13",
-      "slug": "omdsh-dev-dsh-better-sidebar",
-      "name": "omdsh-dev/DSH-better-sidebar",
-      "summary": "一个侧边栏的完整工作台，支持三方拓展注册新Tab页面，内置文件渲染编辑/终端/Git/子代理",
-      "tags": [
-        "agent",
-        "file",
-        "layout",
-        "terminal"
-      ],
-      "repositoryUrl": "https://github.com/omdsh-dev/DSH-better-sidebar",
-      "installSpec": "github:omdsh-dev/DSH-better-sidebar",
-      "author": "omdsh-dev",
-      "featured": true,
-      "status": "active",
-      "source": {
-        "type": "editor-pick",
-        "origins": [
-          "editor-pick",
-          "github-topic"
-        ],
-        "file": "data/editor-picks.json",
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 3908,
-        "license": "MIT",
-        "lastPushAt": "2026-09-28T16:45:35Z",
-        "archived": false,
-        "capturedAt": "2026-09-30T06:48:48.817Z"
-      },
-      "compatibility": {
-        "manifestFound": true,
-        "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-09-30T06:48:48.817Z"
-      }
-    },
-    {
       "fullName": "ccch1mneyyy/dsh-TUI",
       "url": "https://github.com/ccch1mneyyy/dsh-TUI",
       "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
-      "stars": 3831,
-      "pushedAt": "2026-09-30T06:46:09Z",
+      "stars": 3874,
+      "pushedAt": "2026-09-30T19:20:54Z",
       "license": "MIT",
       "archived": false,
       "isPlugin": true,
@@ -581,16 +581,16 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 3831,
+        "stars": 3874,
         "license": "MIT",
-        "lastPushAt": "2026-09-30T06:46:09Z",
+        "lastPushAt": "2026-09-30T19:20:54Z",
         "archived": false,
-        "capturedAt": "2026-09-30T06:48:48.817Z"
+        "capturedAt": "2026-09-30T19:27:03.872Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-09-30T06:48:48.817Z"
+        "checkedAt": "2026-09-30T19:27:03.872Z"
       }
     },
     {
@@ -786,8 +786,8 @@
       "fullName": "Small-tailqwq/dsh-deep-whale",
       "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
       "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
-      "stars": 2297,
-      "pushedAt": "2026-09-30T04:33:57Z",
+      "stars": 2324,
+      "pushedAt": "2026-09-30T11:54:01Z",
       "license": "NOASSERTION",
       "archived": false,
       "isPlugin": true,
@@ -818,16 +818,16 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 2297,
+        "stars": 2324,
         "license": "NOASSERTION",
-        "lastPushAt": "2026-09-30T04:33:57Z",
+        "lastPushAt": "2026-09-30T11:54:01Z",
         "archived": false,
-        "capturedAt": "2026-09-30T06:48:48.817Z"
+        "capturedAt": "2026-09-30T19:27:03.872Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-09-30T06:48:48.817Z"
+        "checkedAt": "2026-09-30T19:27:03.872Z"
       }
     },
     {
@@ -1506,7 +1506,7 @@
       "fullName": "Nagi-ovo/dsh-ads",
       "url": "https://github.com/Nagi-ovo/dsh-ads",
       "description": "是兄弟就来蹬我！DSH Web UI 广告：2005 年中文站点风格的侧栏广告 / 对话内信息流 / 角落弹窗 + 一个真实热区比视觉小得多的关闭叉。素材全虚构，域名打码。",
-      "stars": 639,
+      "stars": 641,
       "pushedAt": "2026-09-29T13:34:29Z",
       "license": "BSD-3-Clause",
       "archived": false,
@@ -1539,16 +1539,16 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 639,
+        "stars": 641,
         "license": "BSD-3-Clause",
         "lastPushAt": "2026-09-29T13:34:29Z",
         "archived": false,
-        "capturedAt": "2026-09-30T06:48:48.817Z"
+        "capturedAt": "2026-09-30T19:27:03.872Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-09-30T06:48:48.817Z"
+        "checkedAt": "2026-09-30T19:27:03.872Z"
       }
     },
     {
