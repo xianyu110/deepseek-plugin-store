@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-30T00:32:41.680Z",
-  "sourceCommit": "c01a136a55f902c7a9a939e0844d231acc46b752e736efb7890665dd7c09dcff",
+  "updatedAt": "2026-09-30T06:48:48.817Z",
+  "sourceCommit": "21b558d20922325818ab3e61d300c37d09ee3971a419a067cfb38e1cc1b5815f",
   "source": {
     "repository": "Ericwong5021/deepseek-plugin-store",
     "registry": "registry/plugins",
@@ -419,7 +419,7 @@
       }
     ],
     "rankings": {
-      "generatedAt": "2026-09-30T00:32:41.680Z",
+      "generatedAt": "2026-09-30T06:48:48.817Z",
       "eligibleCount": 575,
       "popular": {
         "method": "current-github-stars",
@@ -656,8 +656,8 @@
           "huiliyi37-dsh-tianshu-tui",
           "franksong2702-dsh-codex-connect",
           "hsiangnianian-dsh-auto-continue",
-          "nagi-ovo-dsh-ads",
           "bugmaker2-dsh-plugin-template",
+          "nagi-ovo-dsh-ads",
           "titanwings-dsh-automation",
           "laynechai-superpowers-dsh",
           "fishquito7-dsh-skill-viewer",
@@ -758,8 +758,8 @@
           "huiliyi37-dsh-tianshu-tui": 64,
           "franksong2702-dsh-codex-connect": 60,
           "hsiangnianian-dsh-auto-continue": 58,
-          "nagi-ovo-dsh-ads": 55,
           "bugmaker2-dsh-plugin-template": 48,
+          "nagi-ovo-dsh-ads": 48,
           "titanwings-dsh-automation": 40,
           "laynechai-superpowers-dsh": 39,
           "fishquito7-dsh-skill-viewer": 27,
@@ -890,13 +890,13 @@
             "from": "2026-08-17T15:43:44.297Z",
             "to": "2026-09-08T18:45:35.146Z"
           },
-          "nagi-ovo-dsh-ads": {
-            "from": "2026-08-29T14:32:34.143Z",
-            "to": "2026-09-29T20:52:39.246Z"
-          },
           "bugmaker2-dsh-plugin-template": {
             "from": "2026-08-29T14:32:34.143Z",
             "to": "2026-09-08T18:45:35.146Z"
+          },
+          "nagi-ovo-dsh-ads": {
+            "from": "2026-08-31T05:44:14.995Z",
+            "to": "2026-09-30T06:48:48.817Z"
           },
           "titanwings-dsh-automation": {
             "from": "2026-08-17T15:43:44.297Z",
@@ -22633,17 +22633,13 @@
       "observations": {
         "repository": "ccch1mneyyy/dsh-TUI",
         "github": {
-          "stars": 3805,
+          "stars": 3831,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-09-30T00:32:03Z",
-          "latestReleaseAt": "2026-09-29T04:57:14Z",
-          "capturedAt": "2026-09-30T00:32:41.680Z",
+          "lastPushAt": "2026-09-30T06:46:09Z",
+          "latestReleaseAt": "2026-09-30T01:20:15Z",
+          "capturedAt": "2026-09-30T06:48:48.817Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-09-10T09:48:57.606Z",
-              "stars": 2925
-            },
             {
               "capturedAt": "2026-09-10T14:29:36.611Z",
               "stars": 2933
@@ -22999,6 +22995,10 @@
             {
               "capturedAt": "2026-09-30T00:32:41.680Z",
               "stars": 3805
+            },
+            {
+              "capturedAt": "2026-09-30T06:48:48.817Z",
+              "stars": 3831
             }
           ]
         },
@@ -23009,7 +23009,7 @@
           "installSpec": "github:ccch1mneyyy/dsh-TUI",
           "readmeFound": true,
           "readmeGuidance": true,
-          "checkedAt": "2026-09-30T00:32:41.680Z"
+          "checkedAt": "2026-09-30T06:48:48.817Z"
         },
         "discovery": {
           "origins": [
@@ -23017,10 +23017,10 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-09-30T00:32:41.680Z"
+          "lastSeenAt": "2026-09-30T06:48:48.817Z"
         },
         "failures": [],
-        "lastSuccessfulAt": "2026-09-30T00:32:41.680Z"
+        "lastSuccessfulAt": "2026-09-30T06:48:48.817Z"
       },
       "editorial": {
         "editorPick": true,
@@ -87790,17 +87790,13 @@
       "observations": {
         "repository": "Nagi-ovo/dsh-ads",
         "github": {
-          "stars": 638,
+          "stars": 639,
           "license": "BSD-3-Clause",
           "archived": false,
           "lastPushAt": "2026-09-29T13:34:29Z",
           "latestReleaseAt": null,
-          "capturedAt": "2026-09-29T20:52:39.246Z",
+          "capturedAt": "2026-09-30T06:48:48.817Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-08-17T13:09:34.682Z",
-              "stars": 479
-            },
             {
               "capturedAt": "2026-08-17T17:47:48.893Z",
               "stars": 480
@@ -88156,6 +88152,10 @@
             {
               "capturedAt": "2026-09-29T20:52:39.246Z",
               "stars": 638
+            },
+            {
+              "capturedAt": "2026-09-30T06:48:48.817Z",
+              "stars": 639
             }
           ]
         },
@@ -88166,7 +88166,7 @@
           "installSpec": "github:Nagi-ovo/dsh-ads",
           "readmeFound": true,
           "readmeGuidance": true,
-          "checkedAt": "2026-09-29T20:52:39.246Z"
+          "checkedAt": "2026-09-30T06:48:48.817Z"
         },
         "discovery": {
           "origins": [
@@ -88174,10 +88174,10 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-09-29T20:52:39.246Z"
+          "lastSeenAt": "2026-09-30T06:48:48.817Z"
         },
         "failures": [],
-        "lastSuccessfulAt": "2026-09-29T20:52:39.246Z"
+        "lastSuccessfulAt": "2026-09-30T06:48:48.817Z"
       },
       "editorial": {
         "editorPick": true,
@@ -92029,17 +92029,13 @@
       "observations": {
         "repository": "omdsh-dev/DSH-better-sidebar",
         "github": {
-          "stars": 3895,
+          "stars": 3908,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-09-28T16:45:35Z",
           "latestReleaseAt": "2026-09-28T15:28:57Z",
-          "capturedAt": "2026-09-29T20:52:39.246Z",
+          "capturedAt": "2026-09-30T06:48:48.817Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-09-10T18:31:34.284Z",
-              "stars": 3502
-            },
             {
               "capturedAt": "2026-09-11T04:48:01.536Z",
               "stars": 3508
@@ -92395,6 +92391,10 @@
             {
               "capturedAt": "2026-09-29T20:52:39.246Z",
               "stars": 3895
+            },
+            {
+              "capturedAt": "2026-09-30T06:48:48.817Z",
+              "stars": 3908
             }
           ]
         },
@@ -92405,7 +92405,7 @@
           "installSpec": "github:omdsh-dev/DSH-better-sidebar",
           "readmeFound": true,
           "readmeGuidance": true,
-          "checkedAt": "2026-09-29T20:52:39.246Z"
+          "checkedAt": "2026-09-30T06:48:48.817Z"
         },
         "discovery": {
           "origins": [
@@ -92413,10 +92413,10 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-09-29T20:52:39.246Z"
+          "lastSeenAt": "2026-09-30T06:48:48.817Z"
         },
         "failures": [],
-        "lastSuccessfulAt": "2026-09-29T20:52:39.246Z"
+        "lastSuccessfulAt": "2026-09-30T06:48:48.817Z"
       },
       "editorial": {
         "editorPick": true,
@@ -118645,17 +118645,13 @@
       "observations": {
         "repository": "Small-tailqwq/dsh-deep-whale",
         "github": {
-          "stars": 2279,
+          "stars": 2297,
           "license": "NOASSERTION",
           "archived": false,
-          "lastPushAt": "2026-09-29T10:15:14Z",
+          "lastPushAt": "2026-09-30T04:33:57Z",
           "latestReleaseAt": "2026-09-25T08:47:07Z",
-          "capturedAt": "2026-09-29T20:52:39.246Z",
+          "capturedAt": "2026-09-30T06:48:48.817Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-09-07T10:26:29.264Z",
-              "stars": 1955
-            },
             {
               "capturedAt": "2026-09-07T16:31:00.436Z",
               "stars": 1962
@@ -119011,6 +119007,10 @@
             {
               "capturedAt": "2026-09-29T20:52:39.246Z",
               "stars": 2279
+            },
+            {
+              "capturedAt": "2026-09-30T06:48:48.817Z",
+              "stars": 2297
             }
           ]
         },
@@ -119021,7 +119021,7 @@
           "installSpec": "github:Small-tailqwq/dsh-deep-whale",
           "readmeFound": true,
           "readmeGuidance": true,
-          "checkedAt": "2026-09-29T20:52:39.246Z"
+          "checkedAt": "2026-09-30T06:48:48.817Z"
         },
         "discovery": {
           "origins": [
@@ -119029,10 +119029,10 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-09-29T20:52:39.246Z"
+          "lastSeenAt": "2026-09-30T06:48:48.817Z"
         },
         "failures": [],
-        "lastSuccessfulAt": "2026-09-29T20:52:39.246Z"
+        "lastSuccessfulAt": "2026-09-30T06:48:48.817Z"
       },
       "editorial": {
         "editorPick": true,
@@ -158066,7 +158066,7 @@
     "total": 13913,
     "checked": 13873,
     "unchecked": 40,
-    "admissionReady": 10583,
+    "admissionReady": 10582,
     "hidden": 13913
   }
 }
