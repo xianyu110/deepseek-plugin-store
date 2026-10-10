@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T00:57:16.615Z",
-  "sourceCommit": "c8a241cc1a3b575467671e1caf8fa8cc6e09deee3e5edc0877b2eeead4d7cadf",
+  "updatedAt": "2026-10-10T07:14:30.859Z",
+  "sourceCommit": "202e0c5c9826af557088a49d4ee1f34ee5c2ff3acc4e35d8887efc82d353dbab",
   "source": {
     "provider": "registry-v2",
     "repository": "Ericwong5021/deepseek-plugin-store",
@@ -401,8 +401,8 @@
       "fullName": "ccch1mneyyy/dsh-TUI",
       "url": "https://github.com/ccch1mneyyy/dsh-TUI",
       "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
-      "stars": 4236,
-      "pushedAt": "2026-10-10T00:23:06Z",
+      "stars": 4246,
+      "pushedAt": "2026-10-10T06:47:27Z",
       "license": "MIT",
       "archived": false,
       "isPlugin": true,
@@ -435,23 +435,23 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 4236,
+        "stars": 4246,
         "license": "MIT",
-        "lastPushAt": "2026-10-10T00:23:06Z",
+        "lastPushAt": "2026-10-10T06:47:27Z",
         "archived": false,
-        "capturedAt": "2026-10-10T00:57:16.615Z"
+        "capturedAt": "2026-10-10T07:14:30.859Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-10-10T00:57:16.615Z"
+        "checkedAt": "2026-10-10T07:14:30.859Z"
       }
     },
     {
       "fullName": "omdsh-dev/DSH-better-sidebar",
       "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
       "description": "一个侧边栏的完整工作台，支持三方拓展注册新Tab页面，内置文件渲染编辑/终端/Git/子代理",
-      "stars": 4079,
+      "stars": 4087,
       "pushedAt": "2026-10-09T17:35:11Z",
       "license": "MIT",
       "archived": false,
@@ -486,16 +486,16 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 4079,
+        "stars": 4087,
         "license": "MIT",
         "lastPushAt": "2026-10-09T17:35:11Z",
         "archived": false,
-        "capturedAt": "2026-10-09T20:58:43.816Z"
+        "capturedAt": "2026-10-10T07:14:30.859Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-10-09T20:58:43.816Z"
+        "checkedAt": "2026-10-10T07:14:30.859Z"
       }
     },
     {
@@ -786,7 +786,7 @@
       "fullName": "Small-tailqwq/dsh-deep-whale",
       "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
       "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
-      "stars": 2491,
+      "stars": 2499,
       "pushedAt": "2026-10-04T13:54:34Z",
       "license": "NOASSERTION",
       "archived": false,
@@ -818,16 +818,16 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 2491,
+        "stars": 2499,
         "license": "NOASSERTION",
         "lastPushAt": "2026-10-04T13:54:34Z",
         "archived": false,
-        "capturedAt": "2026-10-09T20:58:43.816Z"
+        "capturedAt": "2026-10-10T07:14:30.859Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-10-09T20:58:43.816Z"
+        "checkedAt": "2026-10-10T07:14:30.859Z"
       }
     },
     {
@@ -1457,7 +1457,7 @@
       "fullName": "Nagi-ovo/dsh-ads",
       "url": "https://github.com/Nagi-ovo/dsh-ads",
       "description": "是兄弟就来蹬我！DSH Web UI 广告：2005 年中文站点风格的侧栏广告 / 对话内信息流 / 角落弹窗 + 一个真实热区比视觉小得多的关闭叉。素材全虚构，域名打码。",
-      "stars": 652,
+      "stars": 654,
       "pushedAt": "2026-09-29T13:34:29Z",
       "license": "BSD-3-Clause",
       "archived": false,
@@ -1490,16 +1490,16 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 652,
+        "stars": 654,
         "license": "BSD-3-Clause",
         "lastPushAt": "2026-09-29T13:34:29Z",
         "archived": false,
-        "capturedAt": "2026-10-08T16:34:57.551Z"
+        "capturedAt": "2026-10-10T07:14:30.859Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-10-08T16:34:57.551Z"
+        "checkedAt": "2026-10-10T07:14:30.859Z"
       }
     },
     {
@@ -8300,6 +8300,54 @@
       }
     },
     {
+      "fullName": "omdsh-dev/dsh-gomoku",
+      "url": "https://github.com/omdsh-dev/dsh-gomoku",
+      "description": "在DSH中与AI下五子棋，也可以让AI对局，看哪个AI棋力更强",
+      "stars": 31,
+      "pushedAt": "2026-10-03T15:03:59Z",
+      "license": "MIT",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "@yejiming/dsh-gomoku",
+      "category": {
+        "id": "editor-picks",
+        "title": "编辑精选 / Editor Picks"
+      },
+      "addedAt": "2026-08-13",
+      "slug": "omdsh-dev-dsh-gomoku",
+      "name": "omdsh-dev/dsh-gomoku",
+      "summary": "在DSH中与AI下五子棋，也可以让AI对局，看哪个AI棋力更强",
+      "tags": [
+        "editor-picks"
+      ],
+      "repositoryUrl": "https://github.com/omdsh-dev/dsh-gomoku",
+      "installSpec": "github:omdsh-dev/dsh-gomoku",
+      "author": "omdsh-dev",
+      "featured": true,
+      "status": "active",
+      "source": {
+        "type": "editor-pick",
+        "origins": [
+          "editor-pick",
+          "github-topic"
+        ],
+        "file": "data/editor-picks.json",
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 31,
+        "license": "MIT",
+        "lastPushAt": "2026-10-03T15:03:59Z",
+        "archived": false,
+        "capturedAt": "2026-10-10T07:14:30.859Z"
+      },
+      "compatibility": {
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "checkedAt": "2026-10-10T07:14:30.859Z"
+      }
+    },
+    {
       "fullName": "lhh010/dsh-ui-whale",
       "url": "https://github.com/lhh010/dsh-ui-whale",
       "description": "【求⭐】🐋DSH Web UI 全手绘像素鲸鱼伙伴插件：会话标题栏常驻，平时眨眼/偶尔摆尾/动胸鳍，思考运行时持续动起来，回合完成头顶喷水，点击还会冒爱心，不工作时还会偷懒睡觉，零核心改动。 【喜欢的话就点点star⭐吧~】",
@@ -8343,54 +8391,6 @@
         "manifestFound": false,
         "manifestPath": null,
         "checkedAt": "2026-08-14T10:30:21.295Z"
-      }
-    },
-    {
-      "fullName": "omdsh-dev/dsh-gomoku",
-      "url": "https://github.com/omdsh-dev/dsh-gomoku",
-      "description": "在DSH中与AI下五子棋，也可以让AI对局，看哪个AI棋力更强",
-      "stars": 30,
-      "pushedAt": "2026-10-03T15:03:59Z",
-      "license": "MIT",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "@yejiming/dsh-gomoku",
-      "category": {
-        "id": "editor-picks",
-        "title": "编辑精选 / Editor Picks"
-      },
-      "addedAt": "2026-08-13",
-      "slug": "omdsh-dev-dsh-gomoku",
-      "name": "omdsh-dev/dsh-gomoku",
-      "summary": "在DSH中与AI下五子棋，也可以让AI对局，看哪个AI棋力更强",
-      "tags": [
-        "editor-picks"
-      ],
-      "repositoryUrl": "https://github.com/omdsh-dev/dsh-gomoku",
-      "installSpec": "github:omdsh-dev/dsh-gomoku",
-      "author": "omdsh-dev",
-      "featured": true,
-      "status": "active",
-      "source": {
-        "type": "editor-pick",
-        "origins": [
-          "editor-pick",
-          "github-topic"
-        ],
-        "file": "data/editor-picks.json",
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 30,
-        "license": "MIT",
-        "lastPushAt": "2026-10-03T15:03:59Z",
-        "archived": false,
-        "capturedAt": "2026-10-09T02:15:19.586Z"
-      },
-      "compatibility": {
-        "manifestFound": true,
-        "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-10-09T02:15:19.586Z"
       }
     },
     {
