@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12T06:07:26.717Z",
-  "sourceCommit": "68b324036e89a7c43016f4fab586eac9c1a0faffa1265ed9483fa924b76886b1",
+  "updatedAt": "2026-10-12T15:39:29.727Z",
+  "sourceCommit": "0c4eb7f0d1aca93e81f273562cd6506dc9443bb21247714a9d8adf3140e0f431",
   "source": {
     "provider": "registry-v2",
     "repository": "Ericwong5021/deepseek-plugin-store",
@@ -401,8 +401,8 @@
       "fullName": "ccch1mneyyy/dsh-TUI",
       "url": "https://github.com/ccch1mneyyy/dsh-TUI",
       "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
-      "stars": 4302,
-      "pushedAt": "2026-10-12T05:56:34Z",
+      "stars": 4421,
+      "pushedAt": "2026-10-12T15:39:31Z",
       "license": "MIT",
       "archived": false,
       "isPlugin": true,
@@ -435,24 +435,24 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 4302,
+        "stars": 4421,
         "license": "MIT",
-        "lastPushAt": "2026-10-12T05:56:34Z",
+        "lastPushAt": "2026-10-12T15:39:31Z",
         "archived": false,
-        "capturedAt": "2026-10-12T06:07:26.717Z"
+        "capturedAt": "2026-10-12T15:39:29.727Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-10-12T06:07:26.717Z"
+        "checkedAt": "2026-10-12T15:39:29.727Z"
       }
     },
     {
       "fullName": "omdsh-dev/DSH-better-sidebar",
       "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
       "description": "一个侧边栏的完整工作台，支持三方拓展注册新Tab页面，内置文件渲染编辑/终端/Git/子代理",
-      "stars": 4117,
-      "pushedAt": "2026-10-11T18:00:53Z",
+      "stars": 4130,
+      "pushedAt": "2026-10-12T13:02:17Z",
       "license": "MIT",
       "archived": false,
       "isPlugin": true,
@@ -486,16 +486,16 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 4117,
+        "stars": 4130,
         "license": "MIT",
-        "lastPushAt": "2026-10-11T18:00:53Z",
+        "lastPushAt": "2026-10-12T13:02:17Z",
         "archived": false,
-        "capturedAt": "2026-10-12T06:07:26.717Z"
+        "capturedAt": "2026-10-12T15:39:29.727Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-10-12T06:07:26.717Z"
+        "checkedAt": "2026-10-12T15:39:29.727Z"
       }
     },
     {
@@ -786,8 +786,8 @@
       "fullName": "Small-tailqwq/dsh-deep-whale",
       "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
       "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
-      "stars": 2534,
-      "pushedAt": "2026-10-04T13:54:34Z",
+      "stars": 2546,
+      "pushedAt": "2026-10-12T11:35:43Z",
       "license": "NOASSERTION",
       "archived": false,
       "isPlugin": true,
@@ -818,16 +818,16 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 2534,
+        "stars": 2546,
         "license": "NOASSERTION",
-        "lastPushAt": "2026-10-04T13:54:34Z",
+        "lastPushAt": "2026-10-12T11:35:43Z",
         "archived": false,
-        "capturedAt": "2026-10-12T06:07:26.717Z"
+        "capturedAt": "2026-10-12T15:39:29.727Z"
       },
       "compatibility": {
         "manifestFound": false,
         "manifestPath": null,
-        "checkedAt": "2026-10-12T06:07:26.717Z"
+        "checkedAt": "2026-10-12T15:39:29.727Z"
       }
     },
     {
@@ -8254,6 +8254,54 @@
       }
     },
     {
+      "fullName": "omdsh-dev/dsh-gomoku",
+      "url": "https://github.com/omdsh-dev/dsh-gomoku",
+      "description": "在DSH中与AI下五子棋，也可以让AI对局，看哪个AI棋力更强",
+      "stars": 32,
+      "pushedAt": "2026-10-03T15:03:59Z",
+      "license": "MIT",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "@yejiming/dsh-gomoku",
+      "category": {
+        "id": "editor-picks",
+        "title": "编辑精选 / Editor Picks"
+      },
+      "addedAt": "2026-08-13",
+      "slug": "omdsh-dev-dsh-gomoku",
+      "name": "omdsh-dev/dsh-gomoku",
+      "summary": "在DSH中与AI下五子棋，也可以让AI对局，看哪个AI棋力更强",
+      "tags": [
+        "editor-picks"
+      ],
+      "repositoryUrl": "https://github.com/omdsh-dev/dsh-gomoku",
+      "installSpec": "github:omdsh-dev/dsh-gomoku",
+      "author": "omdsh-dev",
+      "featured": true,
+      "status": "active",
+      "source": {
+        "type": "editor-pick",
+        "origins": [
+          "editor-pick",
+          "github-topic"
+        ],
+        "file": "data/editor-picks.json",
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 32,
+        "license": "MIT",
+        "lastPushAt": "2026-10-03T15:03:59Z",
+        "archived": false,
+        "capturedAt": "2026-10-12T15:39:29.727Z"
+      },
+      "compatibility": {
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "checkedAt": "2026-10-12T15:39:29.727Z"
+      }
+    },
+    {
       "fullName": "yuukiLike/zeromd",
       "url": "https://github.com/yuukiLike/zeromd",
       "description": "Obsidian 零成本同步：iPhone ↔ Mac，GitHub 自动备份。本地优先 + 长期积累。｜Local First. Zero-cost Obsidian sync across iPhone, Mac & GitHub. Let knowledge grow over time.",
@@ -8297,54 +8345,6 @@
         "manifestFound": false,
         "manifestPath": null,
         "checkedAt": "2026-08-14T10:30:21.295Z"
-      }
-    },
-    {
-      "fullName": "omdsh-dev/dsh-gomoku",
-      "url": "https://github.com/omdsh-dev/dsh-gomoku",
-      "description": "在DSH中与AI下五子棋，也可以让AI对局，看哪个AI棋力更强",
-      "stars": 31,
-      "pushedAt": "2026-10-03T15:03:59Z",
-      "license": "MIT",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "@yejiming/dsh-gomoku",
-      "category": {
-        "id": "editor-picks",
-        "title": "编辑精选 / Editor Picks"
-      },
-      "addedAt": "2026-08-13",
-      "slug": "omdsh-dev-dsh-gomoku",
-      "name": "omdsh-dev/dsh-gomoku",
-      "summary": "在DSH中与AI下五子棋，也可以让AI对局，看哪个AI棋力更强",
-      "tags": [
-        "editor-picks"
-      ],
-      "repositoryUrl": "https://github.com/omdsh-dev/dsh-gomoku",
-      "installSpec": "github:omdsh-dev/dsh-gomoku",
-      "author": "omdsh-dev",
-      "featured": true,
-      "status": "active",
-      "source": {
-        "type": "editor-pick",
-        "origins": [
-          "editor-pick",
-          "github-topic"
-        ],
-        "file": "data/editor-picks.json",
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 31,
-        "license": "MIT",
-        "lastPushAt": "2026-10-03T15:03:59Z",
-        "archived": false,
-        "capturedAt": "2026-10-10T07:14:30.859Z"
-      },
-      "compatibility": {
-        "manifestFound": true,
-        "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-10-10T07:14:30.859Z"
       }
     },
     {
