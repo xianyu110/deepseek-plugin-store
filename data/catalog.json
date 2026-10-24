@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T11:12:32.306Z",
-  "sourceCommit": "8dbe9eca5f5cd0d20f5e517fb28c5e26ec5865cedf583b3aa682d68b04afa285",
+  "updatedAt": "2026-10-24T14:37:40.203Z",
+  "sourceCommit": "8a88803db2458ae3f79c1473cc4438ab942925f785047b5292962d6499f051af",
   "source": {
     "provider": "registry-v2",
     "repository": "Ericwong5021/deepseek-plugin-store",
@@ -353,8 +353,8 @@
       "fullName": "ccch1mneyyy/dsh-TUI",
       "url": "https://github.com/ccch1mneyyy/dsh-TUI",
       "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
-      "stars": 5572,
-      "pushedAt": "2026-10-24T10:59:50Z",
+      "stars": 5602,
+      "pushedAt": "2026-10-24T14:36:32Z",
       "license": "MIT",
       "archived": false,
       "isPlugin": true,
@@ -387,16 +387,16 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 5572,
+        "stars": 5602,
         "license": "MIT",
-        "lastPushAt": "2026-10-24T10:59:50Z",
+        "lastPushAt": "2026-10-24T14:36:32Z",
         "archived": false,
-        "capturedAt": "2026-10-24T11:12:32.306Z"
+        "capturedAt": "2026-10-24T14:37:40.203Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-10-24T11:12:32.306Z"
+        "checkedAt": "2026-10-24T14:37:40.203Z"
       }
     },
     {
@@ -451,7 +451,7 @@
       "fullName": "omdsh-dev/DSH-better-sidebar",
       "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
       "description": "一个侧边栏的完整工作台，支持三方拓展注册新Tab页面，内置文件渲染编辑/终端/Git/子代理",
-      "stars": 4500,
+      "stars": 4505,
       "pushedAt": "2026-10-24T04:32:34Z",
       "license": "MIT",
       "archived": false,
@@ -486,16 +486,16 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 4500,
+        "stars": 4505,
         "license": "MIT",
         "lastPushAt": "2026-10-24T04:32:34Z",
         "archived": false,
-        "capturedAt": "2026-10-24T11:12:32.306Z"
+        "capturedAt": "2026-10-24T14:37:40.203Z"
       },
       "compatibility": {
         "manifestFound": true,
         "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-10-24T11:12:32.306Z"
+        "checkedAt": "2026-10-24T14:37:40.203Z"
       }
     },
     {
@@ -736,6 +736,54 @@
       }
     },
     {
+      "fullName": "Small-tailqwq/dsh-deep-whale",
+      "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
+      "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+      "stars": 2832,
+      "pushedAt": "2026-10-23T09:44:26Z",
+      "license": "NOASSERTION",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": null,
+      "category": {
+        "id": "editor-picks",
+        "title": "编辑精选 / Editor Picks"
+      },
+      "addedAt": "2026-08-14",
+      "slug": "small-tailqwq-dsh-deep-whale",
+      "name": "Small-tailqwq/dsh-deep-whale",
+      "summary": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+      "tags": [
+        "theme"
+      ],
+      "repositoryUrl": "https://github.com/Small-tailqwq/dsh-deep-whale",
+      "installSpec": "github:Small-tailqwq/dsh-deep-whale",
+      "author": "Small-tailqwq",
+      "featured": true,
+      "status": "active",
+      "source": {
+        "type": "editor-pick",
+        "origins": [
+          "editor-pick",
+          "github-topic"
+        ],
+        "file": "data/editor-picks.json",
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 2832,
+        "license": "NOASSERTION",
+        "lastPushAt": "2026-10-23T09:44:26Z",
+        "archived": false,
+        "capturedAt": "2026-10-24T14:37:40.203Z"
+      },
+      "compatibility": {
+        "manifestFound": false,
+        "manifestPath": null,
+        "checkedAt": "2026-10-24T14:37:40.203Z"
+      }
+    },
+    {
       "fullName": "imsai-sh/zhuzhiliao",
       "url": "https://github.com/imsai-sh/zhuzhiliao",
       "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
@@ -780,54 +828,6 @@
         "manifestFound": false,
         "manifestPath": null,
         "checkedAt": "2026-08-14T10:30:21.295Z"
-      }
-    },
-    {
-      "fullName": "Small-tailqwq/dsh-deep-whale",
-      "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
-      "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
-      "stars": 2830,
-      "pushedAt": "2026-10-23T09:44:26Z",
-      "license": "NOASSERTION",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": null,
-      "category": {
-        "id": "editor-picks",
-        "title": "编辑精选 / Editor Picks"
-      },
-      "addedAt": "2026-08-14",
-      "slug": "small-tailqwq-dsh-deep-whale",
-      "name": "Small-tailqwq/dsh-deep-whale",
-      "summary": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
-      "tags": [
-        "theme"
-      ],
-      "repositoryUrl": "https://github.com/Small-tailqwq/dsh-deep-whale",
-      "installSpec": "github:Small-tailqwq/dsh-deep-whale",
-      "author": "Small-tailqwq",
-      "featured": true,
-      "status": "active",
-      "source": {
-        "type": "editor-pick",
-        "origins": [
-          "editor-pick",
-          "github-topic"
-        ],
-        "file": "data/editor-picks.json",
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 2830,
-        "license": "NOASSERTION",
-        "lastPushAt": "2026-10-23T09:44:26Z",
-        "archived": false,
-        "capturedAt": "2026-10-24T11:12:32.306Z"
-      },
-      "compatibility": {
-        "manifestFound": false,
-        "manifestPath": null,
-        "checkedAt": "2026-10-24T11:12:32.306Z"
       }
     },
     {
