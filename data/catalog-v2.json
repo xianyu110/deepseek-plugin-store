@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-30T21:33:17.647Z",
-  "sourceCommit": "84a76c41092728328f5f00d5039a1857eed4c5e37b9ee43ee27613b7853a1870",
+  "updatedAt": "2026-10-31T01:38:08.340Z",
+  "sourceCommit": "0dc588326c539995f6c4a051be4b78b8e778ec6845900a88f6425307bf03e871",
   "source": {
     "repository": "Ericwong5021/deepseek-plugin-store",
     "registry": "registry/plugins",
@@ -419,7 +419,7 @@
       }
     ],
     "rankings": {
-      "generatedAt": "2026-10-30T21:33:17.647Z",
+      "generatedAt": "2026-10-31T01:38:08.340Z",
       "eligibleCount": 575,
       "popular": {
         "method": "current-github-stars",
@@ -22030,17 +22030,13 @@
       "observations": {
         "repository": "ccch1mneyyy/dsh-TUI",
         "github": {
-          "stars": 6335,
+          "stars": 6348,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-10-30T21:10:14Z",
+          "lastPushAt": "2026-10-31T01:21:57Z",
           "latestReleaseAt": "2026-10-24T10:14:57Z",
-          "capturedAt": "2026-10-30T21:33:17.647Z",
+          "capturedAt": "2026-10-31T01:38:08.340Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-10-12T06:07:26.717Z",
-              "stars": 4302
-            },
             {
               "capturedAt": "2026-10-12T15:39:29.727Z",
               "stars": 4421
@@ -22396,6 +22392,10 @@
             {
               "capturedAt": "2026-10-30T21:33:17.647Z",
               "stars": 6335
+            },
+            {
+              "capturedAt": "2026-10-31T01:38:08.340Z",
+              "stars": 6348
             }
           ]
         },
@@ -22406,7 +22406,7 @@
           "installSpec": "github:ccch1mneyyy/dsh-TUI",
           "readmeFound": true,
           "readmeGuidance": true,
-          "checkedAt": "2026-10-30T21:33:17.647Z"
+          "checkedAt": "2026-10-31T01:38:08.340Z"
         },
         "discovery": {
           "origins": [
@@ -22414,10 +22414,10 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-10-30T21:33:17.647Z"
+          "lastSeenAt": "2026-10-31T01:38:08.340Z"
         },
         "failures": [],
-        "lastSuccessfulAt": "2026-10-30T21:33:17.647Z"
+        "lastSuccessfulAt": "2026-10-31T01:38:08.340Z"
       },
       "editorial": {
         "editorPick": true,
@@ -91426,17 +91426,13 @@
       "observations": {
         "repository": "omdsh-dev/DSH-better-sidebar",
         "github": {
-          "stars": 4759,
+          "stars": 4761,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-10-30T08:26:32Z",
           "latestReleaseAt": "2026-10-27T15:08:45Z",
-          "capturedAt": "2026-10-30T21:33:17.647Z",
+          "capturedAt": "2026-10-31T01:38:08.340Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-10-10T22:38:11.940Z",
-              "stars": 4095
-            },
             {
               "capturedAt": "2026-10-11T01:57:58.969Z",
               "stars": 4098
@@ -91792,6 +91788,10 @@
             {
               "capturedAt": "2026-10-30T21:33:17.647Z",
               "stars": 4759
+            },
+            {
+              "capturedAt": "2026-10-31T01:38:08.340Z",
+              "stars": 4761
             }
           ]
         },
@@ -91802,7 +91802,7 @@
           "installSpec": "github:omdsh-dev/DSH-better-sidebar",
           "readmeFound": true,
           "readmeGuidance": true,
-          "checkedAt": "2026-10-30T21:33:17.647Z"
+          "checkedAt": "2026-10-31T01:38:08.340Z"
         },
         "discovery": {
           "origins": [
@@ -91810,10 +91810,10 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-10-30T21:33:17.647Z"
+          "lastSeenAt": "2026-10-31T01:38:08.340Z"
         },
         "failures": [],
-        "lastSuccessfulAt": "2026-10-30T21:33:17.647Z"
+        "lastSuccessfulAt": "2026-10-31T01:38:08.340Z"
       },
       "editorial": {
         "editorPick": true,
@@ -157484,10 +157484,10 @@
     }
   ],
   "candidateSummary": {
-    "total": 16961,
-    "checked": 16921,
+    "total": 17134,
+    "checked": 17094,
     "unchecked": 40,
-    "admissionReady": 13554,
-    "hidden": 16961
+    "admissionReady": 13725,
+    "hidden": 17134
   }
 }
