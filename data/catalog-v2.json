@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-08T02:32:40.123Z",
-  "sourceCommit": "bc149751ee39c262682ca73cfcb5b8e269ce01498bbb3062b44ee49d356bfef8",
+  "updatedAt": "2026-11-08T10:31:24.672Z",
+  "sourceCommit": "d90e3ad20343a5022696f68bbad5f256796e4e1a018b6789280f119093d685f1",
   "source": {
     "repository": "Ericwong5021/deepseek-plugin-store",
     "registry": "registry/plugins",
@@ -419,7 +419,7 @@
       }
     ],
     "rankings": {
-      "generatedAt": "2026-11-08T02:32:40.123Z",
+      "generatedAt": "2026-11-08T10:31:24.672Z",
       "eligibleCount": 575,
       "popular": {
         "method": "current-github-stars",
@@ -23437,17 +23437,13 @@
       "observations": {
         "repository": "ccch1mneyyy/dsh-TUI",
         "github": {
-          "stars": 7164,
+          "stars": 7190,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-08T02:06:08Z",
+          "lastPushAt": "2026-11-08T09:56:35Z",
           "latestReleaseAt": "2026-11-01T03:37:37Z",
-          "capturedAt": "2026-11-08T02:32:40.123Z",
+          "capturedAt": "2026-11-08T10:31:24.672Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-10-18T14:38:56.915Z",
-              "stars": 4790
-            },
             {
               "capturedAt": "2026-10-18T18:10:56.402Z",
               "stars": 4802
@@ -23803,6 +23799,10 @@
             {
               "capturedAt": "2026-11-08T02:32:40.123Z",
               "stars": 7164
+            },
+            {
+              "capturedAt": "2026-11-08T10:31:24.672Z",
+              "stars": 7190
             }
           ]
         },
@@ -23821,7 +23821,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-08T02:32:40.123Z"
+          "lastSeenAt": "2026-11-08T10:31:24.672Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-11-03T02:56:42.794Z"
@@ -95117,17 +95117,13 @@
       "observations": {
         "repository": "omdsh-dev/DSH-better-sidebar",
         "github": {
-          "stars": 4985,
+          "stars": 4995,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-07T16:52:18Z",
+          "lastPushAt": "2026-11-08T07:59:04Z",
           "latestReleaseAt": "2026-10-27T15:08:45Z",
-          "capturedAt": "2026-11-08T02:32:40.123Z",
+          "capturedAt": "2026-11-08T10:31:24.672Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-10-17T22:25:00.738Z",
-              "stars": 4248
-            },
             {
               "capturedAt": "2026-10-18T01:09:17.814Z",
               "stars": 4250
@@ -95483,6 +95479,10 @@
             {
               "capturedAt": "2026-11-08T02:32:40.123Z",
               "stars": 4985
+            },
+            {
+              "capturedAt": "2026-11-08T10:31:24.672Z",
+              "stars": 4995
             }
           ]
         },
@@ -95501,7 +95501,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-08T02:32:40.123Z"
+          "lastSeenAt": "2026-11-08T10:31:24.672Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-11-03T02:56:42.794Z"
@@ -122701,17 +122701,13 @@
       "observations": {
         "repository": "Small-tailqwq/dsh-deep-whale",
         "github": {
-          "stars": 3063,
+          "stars": 3066,
           "license": "NOASSERTION",
           "archived": false,
-          "lastPushAt": "2026-11-06T14:47:47Z",
+          "lastPushAt": "2026-11-08T07:16:26Z",
           "latestReleaseAt": "2026-10-20T14:56:21Z",
-          "capturedAt": "2026-11-07T18:50:09.049Z",
+          "capturedAt": "2026-11-08T10:31:24.672Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-10-15T20:22:41.008Z",
-              "stars": 2620
-            },
             {
               "capturedAt": "2026-10-16T01:27:02.576Z",
               "stars": 2622
@@ -123067,6 +123063,10 @@
             {
               "capturedAt": "2026-11-07T18:50:09.049Z",
               "stars": 3063
+            },
+            {
+              "capturedAt": "2026-11-08T10:31:24.672Z",
+              "stars": 3066
             }
           ]
         },
@@ -123085,7 +123085,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-07T18:50:09.049Z"
+          "lastSeenAt": "2026-11-08T10:31:24.672Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-11-03T02:56:42.794Z"
@@ -163403,10 +163403,10 @@
     }
   ],
   "candidateSummary": {
-    "total": 28331,
-    "checked": 22031,
-    "unchecked": 6300,
-    "admissionReady": 17724,
-    "hidden": 28331
+    "total": 28332,
+    "checked": 22262,
+    "unchecked": 6070,
+    "admissionReady": 17916,
+    "hidden": 28332
   }
 }
