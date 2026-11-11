@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T23:28:39.104Z",
-  "sourceCommit": "5aa3692c795c3084a9a3197464d39ce4710654d86edc31bd5839d056273f1eca",
+  "updatedAt": "2026-11-11T06:39:37.044Z",
+  "sourceCommit": "5776ecd5c0e08b3183b31f6ff48357a4c8dfb7335a6e4b1c3fb8ee04adcc6cb4",
   "source": {
     "provider": "registry-v2",
     "repository": "Ericwong5021/deepseek-plugin-store",
@@ -390,6 +390,56 @@
       }
     },
     {
+      "fullName": "ccch1mneyyy/dsh-TUI",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
+      "stars": 7465,
+      "pushedAt": "2026-11-11T06:23:46Z",
+      "license": "MIT",
+      "archived": false,
+      "isPlugin": true,
+      "npmName": "@deepseek-harness-tui/dsh-tui",
+      "category": {
+        "id": "editor-picks",
+        "title": "编辑精选 / Editor Picks"
+      },
+      "addedAt": "2026-08-14",
+      "slug": "ccch1mneyyy-dsh-tui",
+      "name": "ccch1mneyyy/dsh-TUI",
+      "summary": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
+      "tags": [
+        "cli",
+        "context",
+        "terminal"
+      ],
+      "repositoryUrl": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "installSpec": "github:ccch1mneyyy/dsh-TUI",
+      "author": "ccch1mneyyy",
+      "featured": true,
+      "status": "active",
+      "source": {
+        "type": "editor-pick",
+        "origins": [
+          "editor-pick",
+          "github-topic"
+        ],
+        "file": "data/editor-picks.json",
+        "topic": "dsh-plugin"
+      },
+      "github": {
+        "stars": 7465,
+        "license": "MIT",
+        "lastPushAt": "2026-11-11T06:23:46Z",
+        "archived": false,
+        "capturedAt": "2026-11-11T06:39:37.044Z"
+      },
+      "compatibility": {
+        "manifestFound": true,
+        "manifestPath": "package.json:dsh.bundle",
+        "checkedAt": "2026-11-03T02:56:42.794Z"
+      }
+    },
+    {
       "fullName": "Devin-AXIS/iPolloWork",
       "url": "https://github.com/Devin-AXIS/iPolloWork",
       "description": "A next-generation, source-available AI workspace with a self-evolving agent runtime for editable code, design, presentations, websites, and video—a Codex alternative that integrates DeepSeek Harness for subagent delegation, combining iPolloWork’s complete AI workbench with DSH’s specialized agents and both plugin ecosystems in one workflow.",
@@ -435,56 +485,6 @@
         "manifestFound": false,
         "manifestPath": null,
         "checkedAt": "2026-09-05T18:21:55.810Z"
-      }
-    },
-    {
-      "fullName": "ccch1mneyyy/dsh-TUI",
-      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
-      "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
-      "stars": 7425,
-      "pushedAt": "2026-11-10T21:58:02Z",
-      "license": "MIT",
-      "archived": false,
-      "isPlugin": true,
-      "npmName": "@deepseek-harness-tui/dsh-tui",
-      "category": {
-        "id": "editor-picks",
-        "title": "编辑精选 / Editor Picks"
-      },
-      "addedAt": "2026-08-14",
-      "slug": "ccch1mneyyy-dsh-tui",
-      "name": "ccch1mneyyy/dsh-TUI",
-      "summary": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
-      "tags": [
-        "cli",
-        "context",
-        "terminal"
-      ],
-      "repositoryUrl": "https://github.com/ccch1mneyyy/dsh-TUI",
-      "installSpec": "github:ccch1mneyyy/dsh-TUI",
-      "author": "ccch1mneyyy",
-      "featured": true,
-      "status": "active",
-      "source": {
-        "type": "editor-pick",
-        "origins": [
-          "editor-pick",
-          "github-topic"
-        ],
-        "file": "data/editor-picks.json",
-        "topic": "dsh-plugin"
-      },
-      "github": {
-        "stars": 7425,
-        "license": "MIT",
-        "lastPushAt": "2026-11-10T21:58:02Z",
-        "archived": false,
-        "capturedAt": "2026-11-10T23:28:39.104Z"
-      },
-      "compatibility": {
-        "manifestFound": true,
-        "manifestPath": "package.json:dsh.bundle",
-        "checkedAt": "2026-11-03T02:56:42.794Z"
       }
     },
     {
@@ -544,7 +544,7 @@
       "fullName": "omdsh-dev/DSH-better-sidebar",
       "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
       "description": "一个侧边栏的完整工作台，支持三方拓展注册新Tab页面，内置文件渲染编辑/终端/Git/子代理",
-      "stars": 5057,
+      "stars": 5061,
       "pushedAt": "2026-11-09T04:13:07Z",
       "license": "MIT",
       "archived": false,
@@ -579,11 +579,11 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 5057,
+        "stars": 5061,
         "license": "MIT",
         "lastPushAt": "2026-11-09T04:13:07Z",
         "archived": false,
-        "capturedAt": "2026-11-10T23:28:39.104Z"
+        "capturedAt": "2026-11-11T06:39:37.044Z"
       },
       "compatibility": {
         "manifestFound": true,
@@ -833,7 +833,7 @@
       "fullName": "Small-tailqwq/dsh-deep-whale",
       "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
       "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
-      "stars": 3087,
+      "stars": 3090,
       "pushedAt": "2026-11-08T07:16:26Z",
       "license": "NOASSERTION",
       "archived": false,
@@ -865,11 +865,11 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 3087,
+        "stars": 3090,
         "license": "NOASSERTION",
         "lastPushAt": "2026-11-08T07:16:26Z",
         "archived": false,
-        "capturedAt": "2026-11-10T23:28:39.104Z"
+        "capturedAt": "2026-11-11T06:39:37.044Z"
       },
       "compatibility": {
         "manifestFound": false,
@@ -1743,7 +1743,7 @@
       "fullName": "Nagi-ovo/dsh-ads",
       "url": "https://github.com/Nagi-ovo/dsh-ads",
       "description": "是兄弟就来蹬我！DSH Web UI 广告：2005 年中文站点风格的侧栏广告 / 对话内信息流 / 角落弹窗 + 一个真实热区比视觉小得多的关闭叉。素材全虚构，域名打码。",
-      "stars": 716,
+      "stars": 717,
       "pushedAt": "2026-11-06T23:51:21Z",
       "license": "BSD-3-Clause",
       "archived": false,
@@ -1776,11 +1776,11 @@
         "topic": "dsh-plugin"
       },
       "github": {
-        "stars": 716,
+        "stars": 717,
         "license": "BSD-3-Clause",
         "lastPushAt": "2026-11-06T23:51:21Z",
         "archived": false,
-        "capturedAt": "2026-11-10T09:58:08.438Z"
+        "capturedAt": "2026-11-11T06:39:37.044Z"
       },
       "compatibility": {
         "manifestFound": true,
