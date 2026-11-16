@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-15T21:52:26.155Z",
-  "sourceCommit": "9a9ba17b1e1349866de6f2e648015f5d5d7d9fbc683e3ba3be6113edd5199def",
+  "updatedAt": "2026-11-16T02:13:51.959Z",
+  "sourceCommit": "8ed0d1e42621afb4293b1521806d94101808989f811d3b9be8c68bf2e9f62f8b",
   "source": {
     "repository": "Ericwong5021/deepseek-plugin-store",
     "registry": "registry/plugins",
@@ -419,7 +419,7 @@
       }
     ],
     "rankings": {
-      "generatedAt": "2026-11-15T21:52:26.155Z",
+      "generatedAt": "2026-11-16T02:13:51.959Z",
       "eligibleCount": 575,
       "popular": {
         "method": "current-github-stars",
@@ -537,6 +537,7 @@
         "method": "latest-github-push",
         "limit": 100,
         "items": [
+          "nagi-ovo-dsh-ads",
           "amethystluna-embedded-workbench",
           "cyanseek-dsh-landscape",
           "theyoungchen-dsh-plugin-market",
@@ -554,7 +555,6 @@
           "omdsh-dev-dsh-minigames",
           "lhh010-dsh-minigames",
           "perrylink-dsh-doublecheck",
-          "nagi-ovo-dsh-ads",
           "nagi-ovo-dsh-visualize",
           "starfie1d1272-dsh-builtin-toggles",
           "fly3366-deepjit",
@@ -23721,17 +23721,13 @@
       "observations": {
         "repository": "ccch1mneyyy/dsh-TUI",
         "github": {
-          "stars": 7757,
+          "stars": 7760,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-15T21:15:36Z",
+          "lastPushAt": "2026-11-16T01:43:53Z",
           "latestReleaseAt": "2026-11-01T03:37:37Z",
-          "capturedAt": "2026-11-15T21:52:26.155Z",
+          "capturedAt": "2026-11-16T02:13:51.959Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-10-24T05:58:37.553Z",
-              "stars": 5534
-            },
             {
               "capturedAt": "2026-10-24T11:12:32.306Z",
               "stars": 5572
@@ -24087,6 +24083,10 @@
             {
               "capturedAt": "2026-11-15T21:52:26.155Z",
               "stars": 7757
+            },
+            {
+              "capturedAt": "2026-11-16T02:13:51.959Z",
+              "stars": 7760
             }
           ]
         },
@@ -24105,7 +24105,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-15T21:52:26.155Z"
+          "lastSeenAt": "2026-11-16T02:13:51.959Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-11-03T02:56:42.794Z"
@@ -91625,9 +91625,9 @@
           "stars": 728,
           "license": "BSD-3-Clause",
           "archived": false,
-          "lastPushAt": "2026-11-13T16:04:37Z",
+          "lastPushAt": "2026-11-15T23:07:58Z",
           "latestReleaseAt": null,
-          "capturedAt": "2026-11-15T21:52:26.155Z",
+          "capturedAt": "2026-11-16T02:13:51.959Z",
           "starHistory": [
             {
               "capturedAt": "2026-09-22T05:06:14.272Z",
@@ -92006,7 +92006,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-15T21:52:26.155Z"
+          "lastSeenAt": "2026-11-16T02:13:51.959Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-11-02T20:49:57.945Z"
@@ -96125,17 +96125,13 @@
       "observations": {
         "repository": "omdsh-dev/DSH-better-sidebar",
         "github": {
-          "stars": 5181,
+          "stars": 5182,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-11-15T17:02:00Z",
           "latestReleaseAt": "2026-10-27T15:08:45Z",
-          "capturedAt": "2026-11-15T21:52:26.155Z",
+          "capturedAt": "2026-11-16T02:13:51.959Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-10-23T07:38:47.727Z",
-              "stars": 4457
-            },
             {
               "capturedAt": "2026-10-23T22:17:47.827Z",
               "stars": 4479
@@ -96491,6 +96487,10 @@
             {
               "capturedAt": "2026-11-15T21:52:26.155Z",
               "stars": 5181
+            },
+            {
+              "capturedAt": "2026-11-16T02:13:51.959Z",
+              "stars": 5182
             }
           ]
         },
@@ -96509,7 +96509,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-15T21:52:26.155Z"
+          "lastSeenAt": "2026-11-16T02:13:51.959Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-11-03T02:56:42.794Z"
@@ -165083,10 +165083,10 @@
     }
   ],
   "candidateSummary": {
-    "total": 31947,
-    "checked": 28098,
-    "unchecked": 3849,
-    "admissionReady": 23008,
-    "hidden": 31947
+    "total": 32060,
+    "checked": 28291,
+    "unchecked": 3769,
+    "admissionReady": 23170,
+    "hidden": 32060
   }
 }
