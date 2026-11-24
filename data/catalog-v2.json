@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-23T02:53:02.589Z",
-  "sourceCommit": "3090b977ffc6dc0f3c0856b3373b0b5a92d30c29d4e00ac4edf5c2872305d240",
+  "updatedAt": "2026-11-24T00:59:28.211Z",
+  "sourceCommit": "6ac4e0b0430f50ae156a9557bb9067a9b0ecf4b588dac4cef3881c0071f9eaef",
   "source": {
     "repository": "Ericwong5021/deepseek-plugin-store",
     "registry": "registry/plugins",
@@ -419,7 +419,7 @@
       }
     ],
     "rankings": {
-      "generatedAt": "2026-11-23T02:53:02.589Z",
+      "generatedAt": "2026-11-24T00:59:28.211Z",
       "eligibleCount": 575,
       "popular": {
         "method": "current-github-stars",
@@ -660,9 +660,9 @@
           "laynechai-superpowers-dsh",
           "anionex-dsh-computer-use",
           "ayase34-gal-view",
-          "nagi-ovo-dsh-ads",
           "akira399-dsh-godot-skill",
           "huiliyi37-dsh-tianshu-tui",
+          "nagi-ovo-dsh-ads",
           "zhenyu98-dsh-context-doctor",
           "anionex-dsh-turn-rewind",
           "perrylink-dsh-doublecheck",
@@ -762,9 +762,9 @@
           "laynechai-superpowers-dsh": 81,
           "anionex-dsh-computer-use": 69,
           "ayase34-gal-view": 62,
-          "nagi-ovo-dsh-ads": 53,
           "akira399-dsh-godot-skill": 49,
           "huiliyi37-dsh-tianshu-tui": 48,
+          "nagi-ovo-dsh-ads": 48,
           "zhenyu98-dsh-context-doctor": 44,
           "anionex-dsh-turn-rewind": 39,
           "perrylink-dsh-doublecheck": 36,
@@ -906,10 +906,6 @@
             "from": "2026-09-08T18:45:35.146Z",
             "to": "2026-11-17T22:27:56.708Z"
           },
-          "nagi-ovo-dsh-ads": {
-            "from": "2026-10-23T01:35:42.079Z",
-            "to": "2026-11-22T15:26:41.016Z"
-          },
           "akira399-dsh-godot-skill": {
             "from": "2026-09-08T18:45:35.146Z",
             "to": "2026-11-20T03:27:16.374Z"
@@ -917,6 +913,10 @@
           "huiliyi37-dsh-tianshu-tui": {
             "from": "2026-09-08T18:45:35.146Z",
             "to": "2026-11-20T03:27:16.374Z"
+          },
+          "nagi-ovo-dsh-ads": {
+            "from": "2026-10-24T18:12:52.128Z",
+            "to": "2026-11-22T15:26:41.016Z"
           },
           "zhenyu98-dsh-context-doctor": {
             "from": "2026-09-08T18:45:35.146Z",
@@ -23993,17 +23993,13 @@
       "observations": {
         "repository": "ccch1mneyyy/dsh-TUI",
         "github": {
-          "stars": 8115,
+          "stars": 8157,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-23T02:27:53Z",
+          "lastPushAt": "2026-11-24T00:57:29Z",
           "latestReleaseAt": "2026-11-01T03:37:37Z",
-          "capturedAt": "2026-11-23T02:53:02.589Z",
+          "capturedAt": "2026-11-24T00:59:28.211Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-10-27T05:14:11.050Z",
-              "stars": 5943
-            },
             {
               "capturedAt": "2026-10-27T10:39:54.261Z",
               "stars": 5970
@@ -24359,6 +24355,10 @@
             {
               "capturedAt": "2026-11-23T02:53:02.589Z",
               "stars": 8115
+            },
+            {
+              "capturedAt": "2026-11-24T00:59:28.211Z",
+              "stars": 8157
             }
           ]
         },
@@ -24377,7 +24377,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-23T02:53:02.589Z"
+          "lastSeenAt": "2026-11-24T00:59:28.211Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-11-03T02:56:42.794Z"
@@ -97053,17 +97053,13 @@
       "observations": {
         "repository": "omdsh-dev/DSH-better-sidebar",
         "github": {
-          "stars": 5285,
+          "stars": 5298,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-11-21T12:47:27Z",
           "latestReleaseAt": "2026-10-27T15:08:45Z",
-          "capturedAt": "2026-11-23T02:53:02.589Z",
+          "capturedAt": "2026-11-24T00:59:28.211Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-10-26T13:19:20.094Z",
-              "stars": 4571
-            },
             {
               "capturedAt": "2026-10-26T19:23:40.307Z",
               "stars": 4579
@@ -97419,6 +97415,10 @@
             {
               "capturedAt": "2026-11-23T02:53:02.589Z",
               "stars": 5285
+            },
+            {
+              "capturedAt": "2026-11-24T00:59:28.211Z",
+              "stars": 5298
             }
           ]
         },
@@ -97437,7 +97437,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-23T02:53:02.589Z"
+          "lastSeenAt": "2026-11-24T00:59:28.211Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-11-03T02:56:42.794Z"
@@ -125205,17 +125205,13 @@
       "observations": {
         "repository": "Small-tailqwq/dsh-deep-whale",
         "github": {
-          "stars": 3136,
+          "stars": 3141,
           "license": "NOASSERTION",
           "archived": false,
-          "lastPushAt": "2026-11-20T16:27:48Z",
+          "lastPushAt": "2026-11-23T13:15:21Z",
           "latestReleaseAt": "2026-10-20T14:56:21Z",
-          "capturedAt": "2026-11-22T21:53:00.485Z",
+          "capturedAt": "2026-11-24T00:59:28.211Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-10-21T22:25:38.551Z",
-              "stars": 2769
-            },
             {
               "capturedAt": "2026-10-22T01:35:18.397Z",
               "stars": 2771
@@ -125571,6 +125567,10 @@
             {
               "capturedAt": "2026-11-22T21:53:00.485Z",
               "stars": 3136
+            },
+            {
+              "capturedAt": "2026-11-24T00:59:28.211Z",
+              "stars": 3141
             }
           ]
         },
@@ -125589,7 +125589,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-22T21:53:00.485Z"
+          "lastSeenAt": "2026-11-24T00:59:28.211Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-11-03T02:56:42.794Z"
@@ -166755,10 +166755,10 @@
     }
   ],
   "candidateSummary": {
-    "total": 34663,
-    "checked": 32062,
-    "unchecked": 2601,
-    "admissionReady": 26447,
-    "hidden": 34663
+    "total": 34664,
+    "checked": 32225,
+    "unchecked": 2439,
+    "admissionReady": 26588,
+    "hidden": 34664
   }
 }
