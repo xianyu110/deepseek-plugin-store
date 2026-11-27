@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-27T02:15:51.073Z",
-  "sourceCommit": "539f8759699ac4f02bb00a5b5877fbce47fa2dfbf7ba09194c3c8434ed8d884a",
+  "updatedAt": "2026-11-27T20:01:01.069Z",
+  "sourceCommit": "cec74d400b0513c47e3d215af7b9c6257bb2d52d4e81bcce240c191d6beaceac",
   "source": {
     "repository": "Ericwong5021/deepseek-plugin-store",
     "registry": "registry/plugins",
@@ -419,7 +419,7 @@
       }
     ],
     "rankings": {
-      "generatedAt": "2026-11-27T02:15:51.073Z",
+      "generatedAt": "2026-11-27T20:01:01.069Z",
       "eligibleCount": 575,
       "popular": {
         "method": "current-github-stars",
@@ -438,8 +438,8 @@
           "huiliyi37-dsh-tianshu-tui",
           "awesome-dsh-plugin-dsh-find-plugin",
           "ayase34-gal-view",
-          "hsiangnianian-dsh-auto-continue",
           "aik358-dsh-auto-memory",
+          "hsiangnianian-dsh-auto-continue",
           "franksong2702-dsh-codex-connect",
           "laynechai-superpowers-dsh",
           "anionex-dsh-turn-rewind",
@@ -469,9 +469,9 @@
           "1475505-dsh-plugin-miliastra-toolbox",
           "amethystluna-embedded-workbench",
           "omdsh-dev-dsh-advisor",
+          "tqsy114514-dsh-ui-appearance",
           "dingyi222666-dsh-session-notification",
           "perrylink-dsh-github",
-          "tqsy114514-dsh-ui-appearance",
           "perrylink-dsh-checkpoint-rewind",
           "anweat-dsh-browser",
           "bill9109-dsh-web-ui-notify",
@@ -482,8 +482,8 @@
           "omdsh-dev-dsh-llm-fallbacks",
           "loserfox-distill",
           "lehhair-dsh-mobile",
-          "omdsh-dev-dsh-plugin-check",
           "fuhefei-dsh-sentinel",
+          "omdsh-dev-dsh-plugin-check",
           "xcnxnxnx-dsh-portable-tavern",
           "yyyyukari-dsh-plugin-workshop",
           "maxeaglet-dsh-bash-terminal",
@@ -537,24 +537,29 @@
         "method": "latest-github-push",
         "limit": 100,
         "items": [
-          "aik358-dsh-auto-memory",
+          "chnjames-dsh-plugin-market",
+          "starfie1d1272-dsh-builtin-toggles",
           "fly3366-deepjit",
           "dsh-market-dsh-market",
-          "luck9star-dsh-gateway-provider",
-          "chnjames-dsh-plugin-market",
+          "tqsy114514-dsh-ui-appearance",
           "theyoungchen-dsh-plugin-market",
-          "stardustlc666-dsh-email",
-          "omdsh-dev-dsh-llm-fallbacks",
-          "omdsh-dev-dsh-advisor",
+          "aik358-dsh-auto-memory",
           "omdsh-dev-dsh-minigames",
           "lhh010-dsh-minigames",
-          "luaphes-dsh-plugins-market",
           "bowenliang123-dsh-context",
-          "hsiangnianian-dsh-auto-continue",
-          "stardustlc666-dsh-slack",
+          "dingyi222666-dsh-session-notification",
+          "gezi-wen-sage-mem",
+          "stardustlc666-dsh-email",
+          "luaphes-dsh-plugins-market",
           "cyanseek-dsh-landscape",
           "nowledge-co-nowledge-mem-deepseek-harness",
-          "gezi-wen-sage-mem",
+          "xiaoyuyu6420-dsh-backup",
+          "luck9star-dsh-gateway-provider",
+          "amethystluna-logicprobe",
+          "omdsh-dev-dsh-llm-fallbacks",
+          "omdsh-dev-dsh-advisor",
+          "hsiangnianian-dsh-auto-continue",
+          "stardustlc666-dsh-slack",
           "liustack-modsearch",
           "stardustlc666-dsh-rss",
           "stardustlc666-dsh-calendar",
@@ -578,12 +583,10 @@
           "perrylink-dsh-github",
           "huiliyi37-dsh-tianshu-tui",
           "tecfancy-dsh-deeptutor",
-          "tqsy114514-dsh-ui-appearance",
           "anionex-dsh-computer-use",
           "anionex-dsh-vision-toolkit",
           "anionex-dsh-turn-rewind",
           "amethystluna-embedded-workbench",
-          "amethystluna-logicprobe",
           "crazyshout-dsh-ssh-remote",
           "addxing-conservative-code-edits",
           "omdsh-dev-dsh-sidechain",
@@ -601,16 +604,13 @@
           "sajoluo-dsh-trellis",
           "omdsh-dev-plugin-template",
           "tensorlakeai-dsh-tensorlake-sandbox",
-          "starfie1d1272-dsh-builtin-toggles",
           "dongsheng123132-dsh-lineage",
           "dongsheng123132-dsh-cost",
           "940842546-dsh-usage-billing",
           "yelebai-dsh-plugin-marketplace",
           "vlln-dsh-loop",
           "0lidaxiang-dsh-plugin-greet",
-          "dingyi222666-dsh-session-notification",
           "a903067276-rgb-dsh-file-mentions",
-          "xiaoyuyu6420-dsh-backup",
           "fountunt-dsh-session-cleaner",
           "blue-a11y-dsh-client-shortcuts",
           "leavestring-awesome-dsh-background-plugin",
@@ -664,8 +664,8 @@
           "akira399-dsh-godot-skill",
           "zhenyu98-dsh-context-doctor",
           "anionex-dsh-turn-rewind",
-          "nagi-ovo-dsh-ads",
           "perrylink-dsh-doublecheck",
+          "nagi-ovo-dsh-ads",
           "stardustlc666-dsh-email",
           "xiaoyuyu6420-dsh-backup",
           "anweat-dsh-web-search-pro",
@@ -695,11 +695,11 @@
           "moeblack-dsh-message-edit",
           "omdsh-dev-dsh-llm-fallbacks",
           "jyh20030112-dsh-visual-plugin",
+          "stardustlc666-dsh-calendar",
           "urzeye-dsh-outline",
           "bill9109-dsh-web-ui-notify",
           "jiao-xxx-dsh-auto-approve",
           "jorinyang-dsh-doctor",
-          "stardustlc666-dsh-calendar",
           "tonydua-dsh-web-search-exa",
           "a903067276-rgb-dsh-file-mentions",
           "inmny-dsh-git-bash",
@@ -748,28 +748,28 @@
           "lhmd-dsh-director-toolkit"
         ],
         "deltas": {
-          "dsh-market-dsh-market": 10140,
-          "bowenliang123-dsh-context": 4197,
-          "omdsh-dev-dsh-genui": 639,
-          "liustack-modsearch": 614,
-          "nwflower-dsh-chat-import": 190,
-          "aik358-dsh-auto-memory": 155,
+          "dsh-market-dsh-market": 10232,
+          "bowenliang123-dsh-context": 4225,
+          "omdsh-dev-dsh-genui": 641,
+          "liustack-modsearch": 616,
+          "nwflower-dsh-chat-import": 191,
+          "aik358-dsh-auto-memory": 157,
           "hsiangnianian-dsh-auto-continue": 129,
           "awesome-dsh-plugin-dsh-find-plugin": 117,
           "franksong2702-dsh-codex-connect": 99,
           "nagi-ovo-dsh-visualize": 92,
-          "anionex-dsh-vision-toolkit": 90,
+          "anionex-dsh-vision-toolkit": 88,
           "laynechai-superpowers-dsh": 86,
-          "anionex-dsh-computer-use": 72,
+          "anionex-dsh-computer-use": 73,
           "ayase34-gal-view": 64,
           "huiliyi37-dsh-tianshu-tui": 51,
           "akira399-dsh-godot-skill": 50,
           "zhenyu98-dsh-context-doctor": 46,
-          "anionex-dsh-turn-rewind": 41,
-          "nagi-ovo-dsh-ads": 39,
+          "anionex-dsh-turn-rewind": 45,
           "perrylink-dsh-doublecheck": 39,
+          "nagi-ovo-dsh-ads": 38,
           "stardustlc666-dsh-email": 38,
-          "xiaoyuyu6420-dsh-backup": 32,
+          "xiaoyuyu6420-dsh-backup": 34,
           "anweat-dsh-web-search-pro": 30,
           "perrylink-dsh-github": 29,
           "1475505-dsh-plugin-miliastra-toolbox": 28,
@@ -777,7 +777,7 @@
           "amethystluna-embedded-workbench": 27,
           "perrylink-dsh-lsp-actions": 26,
           "huanlinoto-dsh-plugin-better-sidebar-plugin-office": 24,
-          "tqsy114514-dsh-ui-appearance": 21,
+          "tqsy114514-dsh-ui-appearance": 22,
           "crazyshout-dsh-ssh-remote": 18,
           "perrylink-dsh-checkpoint-rewind": 18,
           "anweat-dsh-browser": 17,
@@ -797,11 +797,11 @@
           "moeblack-dsh-message-edit": 8,
           "omdsh-dev-dsh-llm-fallbacks": 8,
           "jyh20030112-dsh-visual-plugin": 7,
+          "stardustlc666-dsh-calendar": 7,
           "urzeye-dsh-outline": 7,
           "bill9109-dsh-web-ui-notify": 6,
           "jiao-xxx-dsh-auto-approve": 6,
           "jorinyang-dsh-doctor": 6,
-          "stardustlc666-dsh-calendar": 6,
           "tonydua-dsh-web-search-exa": 6,
           "a903067276-rgb-dsh-file-mentions": 5,
           "inmny-dsh-git-bash": 5,
@@ -852,27 +852,27 @@
         "windows": {
           "dsh-market-dsh-market": {
             "from": "2026-09-08T18:45:35.146Z",
-            "to": "2026-11-26T19:06:59.570Z"
+            "to": "2026-11-27T20:01:01.069Z"
           },
           "bowenliang123-dsh-context": {
             "from": "2026-09-08T18:45:35.146Z",
-            "to": "2026-11-26T19:06:59.570Z"
+            "to": "2026-11-27T20:01:01.069Z"
           },
           "omdsh-dev-dsh-genui": {
             "from": "2026-09-08T18:45:35.146Z",
-            "to": "2026-11-26T19:06:59.570Z"
+            "to": "2026-11-27T20:01:01.069Z"
           },
           "liustack-modsearch": {
             "from": "2026-09-08T18:45:35.146Z",
-            "to": "2026-11-26T19:06:59.570Z"
+            "to": "2026-11-27T20:01:01.069Z"
           },
           "nwflower-dsh-chat-import": {
             "from": "2026-09-08T18:45:35.146Z",
-            "to": "2026-11-26T19:06:59.570Z"
+            "to": "2026-11-27T20:01:01.069Z"
           },
           "aik358-dsh-auto-memory": {
             "from": "2026-09-08T18:45:35.146Z",
-            "to": "2026-11-26T19:06:59.570Z"
+            "to": "2026-11-27T20:01:01.069Z"
           },
           "hsiangnianian-dsh-auto-continue": {
             "from": "2026-09-08T18:45:35.146Z",
@@ -892,7 +892,7 @@
           },
           "anionex-dsh-vision-toolkit": {
             "from": "2026-09-08T18:45:35.146Z",
-            "to": "2026-11-26T19:06:59.570Z"
+            "to": "2026-11-27T20:01:01.069Z"
           },
           "laynechai-superpowers-dsh": {
             "from": "2026-09-08T18:45:35.146Z",
@@ -900,7 +900,7 @@
           },
           "anionex-dsh-computer-use": {
             "from": "2026-09-08T18:45:35.146Z",
-            "to": "2026-11-26T19:06:59.570Z"
+            "to": "2026-11-27T20:01:01.069Z"
           },
           "ayase34-gal-view": {
             "from": "2026-09-08T18:45:35.146Z",
@@ -920,15 +920,15 @@
           },
           "anionex-dsh-turn-rewind": {
             "from": "2026-09-08T18:45:35.146Z",
-            "to": "2026-11-26T19:06:59.570Z"
-          },
-          "nagi-ovo-dsh-ads": {
-            "from": "2026-10-27T21:22:09.296Z",
-            "to": "2026-11-26T19:06:59.570Z"
+            "to": "2026-11-27T20:01:01.069Z"
           },
           "perrylink-dsh-doublecheck": {
             "from": "2026-09-08T18:45:35.146Z",
             "to": "2026-11-26T19:06:59.570Z"
+          },
+          "nagi-ovo-dsh-ads": {
+            "from": "2026-10-28T06:53:39.503Z",
+            "to": "2026-11-27T20:01:01.069Z"
           },
           "stardustlc666-dsh-email": {
             "from": "2026-09-08T18:45:35.146Z",
@@ -936,7 +936,7 @@
           },
           "xiaoyuyu6420-dsh-backup": {
             "from": "2026-09-08T18:45:35.146Z",
-            "to": "2026-11-26T19:06:59.570Z"
+            "to": "2026-11-27T20:01:01.069Z"
           },
           "anweat-dsh-web-search-pro": {
             "from": "2026-09-08T18:45:35.146Z",
@@ -968,7 +968,7 @@
           },
           "tqsy114514-dsh-ui-appearance": {
             "from": "2026-09-08T18:45:35.146Z",
-            "to": "2026-11-26T19:06:59.570Z"
+            "to": "2026-11-27T20:01:01.069Z"
           },
           "crazyshout-dsh-ssh-remote": {
             "from": "2026-09-05T18:21:55.810Z",
@@ -1046,6 +1046,10 @@
             "from": "2026-09-08T18:45:35.146Z",
             "to": "2026-11-20T03:27:16.374Z"
           },
+          "stardustlc666-dsh-calendar": {
+            "from": "2026-08-16T14:11:14.437Z",
+            "to": "2026-11-27T20:01:01.069Z"
+          },
           "urzeye-dsh-outline": {
             "from": "2026-08-17T15:43:44.297Z",
             "to": "2026-11-13T22:41:41.331Z"
@@ -1061,10 +1065,6 @@
           "jorinyang-dsh-doctor": {
             "from": "2026-09-08T18:45:35.146Z",
             "to": "2026-11-11T22:03:24.822Z"
-          },
-          "stardustlc666-dsh-calendar": {
-            "from": "2026-08-16T14:11:14.437Z",
-            "to": "2026-11-26T19:06:59.570Z"
           },
           "tonydua-dsh-web-search-exa": {
             "from": "2026-09-08T18:45:35.146Z",
@@ -1308,12 +1308,12 @@
       "observations": {
         "repository": "01Virex/dsh-status-rotator",
         "github": {
-          "stars": 238,
+          "stars": 239,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-11-25T09:54:49Z",
           "latestReleaseAt": "2026-09-04T10:39:33Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -1378,6 +1378,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 238
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 239
             }
           ]
         },
@@ -1395,7 +1399,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T12:46:18.657Z"
@@ -2047,12 +2051,12 @@
       "observations": {
         "repository": "0xsline/awesome-deepseek-harness",
         "github": {
-          "stars": 1402,
+          "stars": 1407,
           "license": "CC0-1.0",
           "archived": false,
           "lastPushAt": "2026-11-06T07:27:30Z",
           "latestReleaseAt": null,
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -2129,6 +2133,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 1402
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 1407
             }
           ]
         },
@@ -2146,7 +2154,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T12:46:18.657Z"
@@ -7066,12 +7074,12 @@
       "observations": {
         "repository": "Aik358/dsh-auto-memory",
         "github": {
-          "stars": 209,
+          "stars": 211,
           "license": "BSD-3-Clause",
           "archived": false,
-          "lastPushAt": "2026-11-26T18:41:08Z",
+          "lastPushAt": "2026-11-27T14:45:29Z",
           "latestReleaseAt": null,
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -7140,6 +7148,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 209
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 211
             }
           ]
         },
@@ -7157,7 +7169,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T12:46:18.657Z"
@@ -8722,12 +8734,12 @@
       "observations": {
         "repository": "AlliotTech/deepseek-harness-docker",
         "github": {
-          "stars": 21,
+          "stars": 22,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-11-26T14:44:23Z",
           "latestReleaseAt": null,
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -8760,6 +8772,10 @@
             {
               "capturedAt": "2026-11-20T03:27:16.374Z",
               "stars": 21
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 22
             }
           ]
         },
@@ -8777,7 +8793,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T12:46:18.657Z"
@@ -9436,9 +9452,9 @@
           "stars": 5,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-20T11:53:44Z",
+          "lastPushAt": "2026-11-27T00:12:23Z",
           "latestReleaseAt": null,
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -9468,7 +9484,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T12:46:18.657Z"
@@ -10502,12 +10518,12 @@
       "observations": {
         "repository": "Anionex/agent-vision-toolkit",
         "github": {
-          "stars": 1269,
+          "stars": 1268,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-10-13T09:12:47Z",
           "latestReleaseAt": "2026-08-14T15:04:00Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -10576,6 +10592,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 1269
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 1268
             }
           ]
         },
@@ -10593,7 +10613,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T12:46:18.657Z"
@@ -10650,12 +10670,12 @@
       "observations": {
         "repository": "Anionex/dsh-computer-use",
         "github": {
-          "stars": 111,
+          "stars": 112,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-11-21T13:45:48Z",
           "latestReleaseAt": "2026-09-02T13:03:43Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -10724,6 +10744,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 111
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 112
             }
           ]
         },
@@ -10741,7 +10765,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T12:46:18.657Z"
@@ -10800,12 +10824,12 @@
       "observations": {
         "repository": "Anionex/dsh-turn-rewind",
         "github": {
-          "stars": 154,
+          "stars": 158,
           "license": "BSD-3-Clause",
           "archived": false,
           "lastPushAt": "2026-11-21T09:10:38Z",
           "latestReleaseAt": "2026-08-29T13:54:58Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -10870,6 +10894,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 154
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 158
             }
           ]
         },
@@ -10887,7 +10915,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T12:46:18.657Z"
@@ -10957,12 +10985,12 @@
       "observations": {
         "repository": "Anionex/dsh-vision-toolkit",
         "github": {
-          "stars": 951,
+          "stars": 949,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-11-21T10:08:49Z",
           "latestReleaseAt": "2026-08-31T16:30:20Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -11039,6 +11067,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 951
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 949
             }
           ]
         },
@@ -11056,7 +11088,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T12:46:18.657Z"
@@ -12228,9 +12260,9 @@
           "stars": 258,
           "license": "Apache-2.0",
           "archived": false,
-          "lastPushAt": "2026-11-26T14:56:09Z",
+          "lastPushAt": "2026-11-27T04:27:04Z",
           "latestReleaseAt": "2026-08-30T09:38:04Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -12300,7 +12332,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T12:46:18.657Z"
@@ -13478,12 +13510,12 @@
       "observations": {
         "repository": "awesome-dsh-plugin/awesome-dsh-plugin",
         "github": {
-          "stars": 25702,
+          "stars": 25780,
           "license": "CC0-1.0",
           "archived": false,
-          "lastPushAt": "2026-11-26T16:36:09Z",
+          "lastPushAt": "2026-11-27T19:46:25Z",
           "latestReleaseAt": null,
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -13564,6 +13596,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 25702
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 25780
             }
           ]
         },
@@ -13581,7 +13617,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T16:07:09.624Z"
@@ -15088,9 +15124,9 @@
           "stars": 198,
           "license": "CC0-1.0",
           "archived": false,
-          "lastPushAt": "2026-11-26T08:14:24Z",
+          "lastPushAt": "2026-11-27T08:28:07Z",
           "latestReleaseAt": null,
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -15164,7 +15200,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T16:07:09.624Z"
@@ -18297,9 +18333,9 @@
           "stars": 24,
           "license": "CC0-1.0",
           "archived": false,
-          "lastPushAt": "2026-11-26T16:01:59Z",
+          "lastPushAt": "2026-11-27T16:02:15Z",
           "latestReleaseAt": null,
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -18365,7 +18401,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T16:07:09.624Z"
@@ -20389,12 +20425,12 @@
       "observations": {
         "repository": "bowenliang123/dsh-context",
         "github": {
-          "stars": 5536,
+          "stars": 5564,
           "license": "Apache-2.0",
           "archived": false,
-          "lastPushAt": "2026-11-26T09:48:04Z",
+          "lastPushAt": "2026-11-27T14:12:15Z",
           "latestReleaseAt": "2026-09-05T13:07:30Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -20475,6 +20511,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 5536
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 5564
             }
           ]
         },
@@ -20492,7 +20532,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T16:07:09.624Z"
@@ -20750,9 +20790,9 @@
           "stars": 211,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T18:08:21Z",
+          "lastPushAt": "2026-11-27T19:29:15Z",
           "latestReleaseAt": "2026-08-19T16:49:54Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -20834,7 +20874,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T16:07:09.624Z"
@@ -21670,9 +21710,9 @@
           "stars": 74,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T17:14:19Z",
+          "lastPushAt": "2026-11-27T19:56:17Z",
           "latestReleaseAt": "2026-09-03T17:25:29Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -21738,7 +21778,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T16:07:09.624Z"
@@ -23275,12 +23315,12 @@
       "observations": {
         "repository": "CanglongCl/dsh-web-review",
         "github": {
-          "stars": 33,
+          "stars": 34,
           "license": null,
           "archived": false,
           "lastPushAt": "2026-09-05T04:06:06Z",
           "latestReleaseAt": "2026-09-05T04:08:59Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -23313,6 +23353,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 33
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 34
             }
           ]
         },
@@ -23330,7 +23374,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T16:07:09.624Z"
@@ -23887,9 +23931,9 @@
           "stars": 6,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-18T01:11:19Z",
+          "lastPushAt": "2026-11-27T07:09:38Z",
           "latestReleaseAt": "2026-09-03T16:46:45Z",
-          "capturedAt": "2026-11-20T03:27:16.374Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -23927,7 +23971,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-20T03:27:16.374Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T16:07:09.624Z"
@@ -23990,9 +24034,9 @@
           "stars": 10,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T17:39:18Z",
+          "lastPushAt": "2026-11-27T18:22:16Z",
           "latestReleaseAt": null,
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -24046,7 +24090,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T16:07:09.624Z"
@@ -24109,17 +24153,13 @@
       "observations": {
         "repository": "ccch1mneyyy/dsh-TUI",
         "github": {
-          "stars": 8319,
+          "stars": 8360,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-27T02:15:50Z",
+          "lastPushAt": "2026-11-27T18:58:40Z",
           "latestReleaseAt": "2026-11-01T03:37:37Z",
-          "capturedAt": "2026-11-27T02:15:51.073Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-10-28T19:38:00.972Z",
-              "stars": 6092
-            },
             {
               "capturedAt": "2026-10-29T00:02:58.371Z",
               "stars": 6098
@@ -24475,6 +24515,10 @@
             {
               "capturedAt": "2026-11-27T02:15:51.073Z",
               "stars": 8319
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 8360
             }
           ]
         },
@@ -24493,7 +24537,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-27T02:15:51.073Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-11-03T02:56:42.794Z"
@@ -27600,9 +27644,9 @@
           "stars": 7,
           "license": null,
           "archived": false,
-          "lastPushAt": "2026-11-26T13:51:45Z",
+          "lastPushAt": "2026-11-27T19:27:41Z",
           "latestReleaseAt": null,
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -27636,7 +27680,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T18:21:55.810Z"
@@ -29401,9 +29445,9 @@
           "stars": 4,
           "license": null,
           "archived": false,
-          "lastPushAt": "2026-11-26T13:30:46Z",
+          "lastPushAt": "2026-11-27T13:18:29Z",
           "latestReleaseAt": null,
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -29437,7 +29481,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T18:21:55.810Z"
@@ -30401,12 +30445,12 @@
       "observations": {
         "repository": "crafter-station/petdex",
         "github": {
-          "stars": 4381,
+          "stars": 4383,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-22T04:19:23Z",
+          "lastPushAt": "2026-11-27T06:53:08Z",
           "latestReleaseAt": "2026-08-30T06:19:16Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -30483,6 +30527,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 4381
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 4383
             }
           ]
         },
@@ -30500,7 +30548,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T18:21:55.810Z"
@@ -31755,12 +31803,12 @@
       "observations": {
         "repository": "csyangwen/dsh-memory-evolve",
         "github": {
-          "stars": 907,
+          "stars": 913,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-10-29T14:45:44Z",
           "latestReleaseAt": null,
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -31841,6 +31889,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 907
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 913
             }
           ]
         },
@@ -31858,7 +31910,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T18:21:55.810Z"
@@ -32396,9 +32448,9 @@
           "stars": 7,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T08:13:08Z",
+          "lastPushAt": "2026-11-27T08:25:36Z",
           "latestReleaseAt": null,
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -32440,7 +32492,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T18:21:55.810Z"
@@ -34505,12 +34557,12 @@
       "observations": {
         "repository": "deepseek-ai/deepseek-harness",
         "github": {
-          "stars": 287563,
+          "stars": 288019,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-11-22T11:00:05Z",
           "latestReleaseAt": null,
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -34591,6 +34643,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 287563
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 288019
             }
           ]
         },
@@ -34608,7 +34664,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T18:21:55.810Z"
@@ -35132,12 +35188,12 @@
       "observations": {
         "repository": "Devin-AXIS/iPolloWork",
         "github": {
-          "stars": 7539,
+          "stars": 7540,
           "license": "NOASSERTION",
           "archived": false,
-          "lastPushAt": "2026-11-26T11:47:01Z",
+          "lastPushAt": "2026-11-27T11:31:51Z",
           "latestReleaseAt": "2026-08-31T11:58:09Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -35214,6 +35270,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 7539
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 7540
             }
           ]
         },
@@ -35231,7 +35291,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T18:21:55.810Z"
@@ -36178,9 +36238,9 @@
           "stars": 35,
           "license": null,
           "archived": false,
-          "lastPushAt": "2026-11-11T01:31:33Z",
+          "lastPushAt": "2026-11-27T12:56:06Z",
           "latestReleaseAt": "2026-09-02T13:57:05Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -36242,7 +36302,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T18:21:55.810Z"
@@ -40738,12 +40798,12 @@
       "observations": {
         "repository": "dsh-market/dsh-market",
         "github": {
-          "stars": 13577,
+          "stars": 13669,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T16:50:51Z",
+          "lastPushAt": "2026-11-27T16:46:42Z",
           "latestReleaseAt": "2026-09-05T15:22:35Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -40824,6 +40884,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 13577
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 13669
             }
           ]
         },
@@ -40841,7 +40905,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T18:21:55.810Z"
@@ -40905,9 +40969,9 @@
           "stars": 2,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T08:23:29Z",
+          "lastPushAt": "2026-11-27T08:38:15Z",
           "latestReleaseAt": null,
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -40937,7 +41001,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T18:21:55.810Z"
@@ -41095,12 +41159,12 @@
       "observations": {
         "repository": "dsh-tui/dsh-tui",
         "github": {
-          "stars": 49,
+          "stars": 48,
           "license": "NOASSERTION",
           "archived": false,
           "lastPushAt": "2026-08-14T02:42:10Z",
           "latestReleaseAt": null,
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -41145,6 +41209,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 49
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 48
             }
           ]
         },
@@ -41162,7 +41230,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T18:21:55.810Z"
@@ -42530,12 +42598,12 @@
       "observations": {
         "repository": "Electricitysheep/dsh-handbook",
         "github": {
-          "stars": 1029,
+          "stars": 1034,
           "license": null,
           "archived": false,
           "lastPushAt": "2026-11-04T12:55:07Z",
           "latestReleaseAt": "2026-08-14T11:16:11Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -42616,6 +42684,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 1029
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 1034
             }
           ]
         },
@@ -42633,7 +42705,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T18:21:55.810Z"
@@ -44808,12 +44880,12 @@
       "observations": {
         "repository": "fakechris/dsh-harness-ops",
         "github": {
-          "stars": 17,
+          "stars": 16,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-10-30T07:38:44Z",
           "latestReleaseAt": "2026-08-13T09:52:29Z",
-          "capturedAt": "2026-11-10T17:55:33.683Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -44834,6 +44906,10 @@
             {
               "capturedAt": "2026-11-10T17:55:33.683Z",
               "stars": 17
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 16
             }
           ]
         },
@@ -44851,7 +44927,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-10T17:55:33.683Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T18:21:55.810Z"
@@ -47354,9 +47430,9 @@
           "stars": 1,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T17:30:18Z",
+          "lastPushAt": "2026-11-27T17:35:53Z",
           "latestReleaseAt": "2026-08-13T19:21:26Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -47386,7 +47462,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T18:21:55.810Z"
@@ -47553,12 +47629,12 @@
       "observations": {
         "repository": "flymysql/dsh-remote",
         "github": {
-          "stars": 361,
+          "stars": 363,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T16:40:48Z",
+          "lastPushAt": "2026-11-27T17:12:41Z",
           "latestReleaseAt": "2026-08-31T04:48:51Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -47631,6 +47707,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 361
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 363
             }
           ]
         },
@@ -47648,7 +47728,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T18:21:55.810Z"
@@ -48112,12 +48192,12 @@
       "observations": {
         "repository": "foryourhealth111-pixel/Vibe-Skills",
         "github": {
-          "stars": 3852,
+          "stars": 3855,
           "license": "Apache-2.0",
           "archived": false,
           "lastPushAt": "2026-11-09T07:33:42Z",
           "latestReleaseAt": "2026-08-31T14:26:19Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -48186,6 +48266,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 3852
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 3855
             }
           ]
         },
@@ -48203,7 +48287,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-09-05T18:21:55.810Z"
@@ -49699,9 +49783,9 @@
           "stars": 33,
           "license": "Apache-2.0",
           "archived": false,
-          "lastPushAt": "2026-11-26T06:24:24Z",
+          "lastPushAt": "2026-11-27T12:08:14Z",
           "latestReleaseAt": null,
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -49755,7 +49839,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-21T13:14:52.241Z"
@@ -51679,8 +51763,8 @@
           "stars": 6,
           "license": null,
           "archived": false,
-          "lastPushAt": "2026-11-24T15:43:22Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T02:13:39Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -51704,7 +51788,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -52500,11 +52584,11 @@
       "observations": {
         "repository": "Han-1413141/dsh-cost-meter",
         "github": {
-          "stars": 757,
+          "stars": 764,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-11-26T13:28:00Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -52565,6 +52649,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 757
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 764
             }
           ]
         },
@@ -52580,7 +52668,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -54098,8 +54186,8 @@
           "stars": 3,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T18:37:56Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T13:40:48Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -54131,7 +54219,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -54191,11 +54279,11 @@
       "observations": {
         "repository": "hccccc01333/dsh-excel-chat",
         "github": {
-          "stars": 14,
+          "stars": 15,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-11-23T01:54:09Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -54224,6 +54312,10 @@
             {
               "capturedAt": "2026-11-20T03:27:16.374Z",
               "stars": 14
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 15
             }
           ]
         },
@@ -54239,7 +54331,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -55832,11 +55924,11 @@
       "observations": {
         "repository": "hikariming/dshfind",
         "github": {
-          "stars": 410,
+          "stars": 411,
           "license": null,
           "archived": false,
-          "lastPushAt": "2026-11-26T11:35:42Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T11:36:31Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -55905,6 +55997,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 410
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 411
             }
           ]
         },
@@ -55920,7 +56016,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -57272,8 +57368,8 @@
           "stars": 1,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T08:32:32Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T08:45:38Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -57305,7 +57401,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -60404,11 +60500,11 @@
       "observations": {
         "repository": "hyqhyq3/dsh-mcp-manager",
         "github": {
-          "stars": 32,
+          "stars": 33,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-11-20T18:35:01Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -60437,6 +60533,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 32
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 33
             }
           ]
         },
@@ -60452,7 +60552,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -68777,11 +68877,11 @@
       "observations": {
         "repository": "kejixiaoliang/awesome-dsh-plugins",
         "github": {
-          "stars": 86,
+          "stars": 87,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T11:37:47Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T15:43:26Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -68834,6 +68934,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 86
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 87
             }
           ]
         },
@@ -68849,7 +68953,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -69189,11 +69293,11 @@
       "observations": {
         "repository": "kelai141/dsh-mobile-apk",
         "github": {
-          "stars": 1146,
+          "stars": 1148,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T16:13:06Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T12:33:55Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -69262,6 +69366,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 1146
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 1148
             }
           ]
         },
@@ -69277,7 +69385,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -71510,8 +71618,8 @@
           "stars": 0,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T13:52:51Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T03:53:00Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -71531,7 +71639,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -72715,11 +72823,11 @@
       "observations": {
         "repository": "LaplaceYoung/dsh-qq2006",
         "github": {
-          "stars": 32,
+          "stars": 33,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-08-27T17:59:55Z",
-          "capturedAt": "2026-11-03T10:59:31.258Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -72740,6 +72848,10 @@
             {
               "capturedAt": "2026-11-03T10:59:31.258Z",
               "stars": 32
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 33
             }
           ]
         },
@@ -72755,7 +72867,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-03T10:59:31.258Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -75457,8 +75569,8 @@
           "stars": 38,
           "license": "BSD-3-Clause",
           "archived": false,
-          "lastPushAt": "2026-11-26T10:36:12Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T14:19:06Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -75498,7 +75610,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -76325,11 +76437,11 @@
       "observations": {
         "repository": "libukai/awesome-deepseek-harness",
         "github": {
-          "stars": 386,
+          "stars": 388,
           "license": null,
           "archived": false,
           "lastPushAt": "2026-09-12T05:53:00Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -76394,6 +76506,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 386
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 388
             }
           ]
         },
@@ -76409,7 +76525,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -76752,8 +76868,8 @@
           "stars": 104,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T13:57:32Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T13:55:09Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -76809,7 +76925,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -77516,11 +77632,11 @@
       "observations": {
         "repository": "linhay/harmony-next.skills",
         "github": {
-          "stars": 375,
+          "stars": 376,
           "license": null,
           "archived": false,
           "lastPushAt": "2026-11-07T01:49:50Z",
-          "capturedAt": "2026-11-20T03:27:16.374Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -77565,6 +77681,10 @@
             {
               "capturedAt": "2026-11-20T03:27:16.374Z",
               "stars": 375
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 376
             }
           ]
         },
@@ -77580,7 +77700,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-20T03:27:16.374Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -78565,11 +78685,11 @@
       "observations": {
         "repository": "liustack/modlens",
         "github": {
-          "stars": 5091,
+          "stars": 5101,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-11-25T19:14:12Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -78638,6 +78758,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 5091
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 5101
             }
           ]
         },
@@ -78653,7 +78777,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -78716,11 +78840,11 @@
       "observations": {
         "repository": "liustack/modsearch",
         "github": {
-          "stars": 1047,
+          "stars": 1049,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-11-25T19:12:24Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -78785,6 +78909,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 1047
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 1049
             }
           ]
         },
@@ -78800,7 +78928,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -82196,8 +82324,8 @@
           "stars": 3,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T10:13:14Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T10:18:58Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -82225,7 +82353,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -82380,8 +82508,8 @@
           "stars": 8,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T14:53:26Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T00:43:00Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -82417,7 +82545,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -83531,8 +83659,8 @@
           "stars": 7,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T09:31:08Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T09:40:49Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -83560,7 +83688,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -84288,11 +84416,11 @@
       "observations": {
         "repository": "lzszq/dsh-scholar",
         "github": {
-          "stars": 62,
+          "stars": 63,
           "license": "BSD-3-Clause",
           "archived": false,
           "lastPushAt": "2026-09-09T21:48:25Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -84329,6 +84457,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 62
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 63
             }
           ]
         },
@@ -84344,7 +84476,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -88869,11 +89001,11 @@
       "observations": {
         "repository": "mnemon-dev/mnemon",
         "github": {
-          "stars": 748,
+          "stars": 750,
           "license": "Apache-2.0",
           "archived": false,
           "lastPushAt": "2026-11-23T13:11:19Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -88930,6 +89062,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 748
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 750
             }
           ]
         },
@@ -88945,7 +89081,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -91299,11 +91435,11 @@
       "observations": {
         "repository": "morluto/leantoken",
         "github": {
-          "stars": 179,
+          "stars": 180,
           "license": "Apache-2.0",
           "archived": false,
           "lastPushAt": "2026-11-23T09:03:27Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -91360,6 +91496,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 179
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 180
             }
           ]
         },
@@ -91375,7 +91515,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -91432,11 +91572,11 @@
       "observations": {
         "repository": "morluto/rea",
         "github": {
-          "stars": 479561,
+          "stars": 480944,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T18:50:55Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T19:57:03Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -91505,6 +91645,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 479561
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 480944
             }
           ]
         },
@@ -91520,7 +91664,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -92413,11 +92557,11 @@
       "observations": {
         "repository": "multica-ai/dsh-multica-runtime",
         "github": {
-          "stars": 88,
+          "stars": 89,
           "license": null,
           "archived": false,
           "lastPushAt": "2026-10-22T07:52:39Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -92454,6 +92598,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 88
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 89
             }
           ]
         },
@@ -92469,7 +92617,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -92906,17 +93054,13 @@
       "observations": {
         "repository": "Nagi-ovo/dsh-ads",
         "github": {
-          "stars": 736,
+          "stars": 737,
           "license": "BSD-3-Clause",
           "archived": false,
           "lastPushAt": "2026-11-15T23:07:58Z",
           "latestReleaseAt": null,
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-09-30T19:27:03.872Z",
-              "stars": 641
-            },
             {
               "capturedAt": "2026-10-01T06:05:40.007Z",
               "stars": 642
@@ -93272,6 +93416,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 736
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 737
             }
           ]
         },
@@ -93290,7 +93438,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-11-02T20:49:57.945Z"
@@ -93346,11 +93494,11 @@
       "observations": {
         "repository": "Nagi-ovo/dsh-find-plugins",
         "github": {
-          "stars": 183,
+          "stars": 182,
           "license": "BSD-3-Clause",
           "archived": false,
           "lastPushAt": "2026-08-15T15:58:22Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -93383,6 +93531,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 183
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 182
             }
           ]
         },
@@ -93398,7 +93550,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -93801,11 +93953,11 @@
       "observations": {
         "repository": "NanmiCoder/dsh-agent-teams",
         "github": {
-          "stars": 3109,
+          "stars": 3116,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-11-18T17:49:56Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -93874,6 +94026,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 3109
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 3116
             }
           ]
         },
@@ -93889,7 +94045,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -94232,11 +94388,11 @@
       "observations": {
         "repository": "nexu-io/open-design",
         "github": {
-          "stars": 109659,
+          "stars": 109826,
           "license": "Apache-2.0",
           "archived": false,
-          "lastPushAt": "2026-11-26T18:05:14Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T18:04:56Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -94305,6 +94461,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 109659
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 109826
             }
           ]
         },
@@ -94320,7 +94480,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -95903,8 +96063,8 @@
           "stars": 9,
           "license": null,
           "archived": false,
-          "lastPushAt": "2026-11-26T07:14:46Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T07:59:52Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -95940,7 +96100,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -96199,11 +96359,11 @@
       "observations": {
         "repository": "Nwflower/dsh-chat-import",
         "github": {
-          "stars": 331,
+          "stars": 332,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-11-23T12:30:57Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -96264,6 +96424,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 331
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 332
             }
           ]
         },
@@ -96279,7 +96443,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -96614,15 +96778,19 @@
       "observations": {
         "repository": "octoparse/agent-skills",
         "github": {
-          "stars": 4,
+          "stars": 5,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-08-12T09:21:38Z",
-          "capturedAt": "2026-08-14T10:30:21.295Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
               "stars": 4
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 5
             }
           ]
         },
@@ -96638,7 +96806,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-08-14T10:30:21.295Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -97517,17 +97685,13 @@
       "observations": {
         "repository": "omdsh-dev/DSH-better-sidebar",
         "github": {
-          "stars": 5352,
+          "stars": 5360,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T16:22:11Z",
+          "lastPushAt": "2026-11-27T13:45:45Z",
           "latestReleaseAt": "2026-10-27T15:08:45Z",
-          "capturedAt": "2026-11-27T02:15:51.073Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-10-27T21:22:09.296Z",
-              "stars": 4640
-            },
             {
               "capturedAt": "2026-10-28T00:33:43.608Z",
               "stars": 4641
@@ -97883,6 +98047,10 @@
             {
               "capturedAt": "2026-11-27T02:15:51.073Z",
               "stars": 5352
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 5360
             }
           ]
         },
@@ -97901,7 +98069,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-27T02:15:51.073Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-11-03T02:56:42.794Z"
@@ -99252,11 +99420,11 @@
       "observations": {
         "repository": "omdsh-dev/dsh-genui",
         "github": {
-          "stars": 1067,
+          "stars": 1069,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-11-25T10:36:19Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -99321,6 +99489,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 1067
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 1069
             }
           ]
         },
@@ -99336,7 +99508,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -100462,8 +100634,8 @@
           "stars": 7,
           "license": "BSD-3-Clause",
           "archived": false,
-          "lastPushAt": "2026-11-26T10:36:24Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T14:19:20Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -100503,7 +100675,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -100565,11 +100737,11 @@
       "observations": {
         "repository": "omdsh-dev/dsh-mnemon",
         "github": {
-          "stars": 1133,
+          "stars": 1152,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-11-26T18:39:14Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -100638,6 +100810,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 1133
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 1152
             }
           ]
         },
@@ -100653,7 +100829,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -101301,11 +101477,11 @@
       "observations": {
         "repository": "omdsh-dev/dsh-plugin-check",
         "github": {
-          "stars": 26,
+          "stars": 25,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-09-10T06:31:04Z",
-          "capturedAt": "2026-11-03T10:59:31.258Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -101326,6 +101502,10 @@
             {
               "capturedAt": "2026-11-03T10:59:31.258Z",
               "stars": 26
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 25
             }
           ]
         },
@@ -101341,7 +101521,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-03T10:59:31.258Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -106728,8 +106908,8 @@
           "stars": 2,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-21T07:55:07Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T15:51:46Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -106753,7 +106933,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -109288,11 +109468,11 @@
       "observations": {
         "repository": "PerryLink/dsh-mcp-panel",
         "github": {
-          "stars": 100,
+          "stars": 101,
           "license": "Apache-2.0",
           "archived": false,
           "lastPushAt": "2026-11-24T11:22:23Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -109341,6 +109521,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 100
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 101
             }
           ]
         },
@@ -109356,7 +109540,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -111114,11 +111298,11 @@
       "observations": {
         "repository": "PicGo/PicGo-Core",
         "github": {
-          "stars": 997,
+          "stars": 996,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-10-19T12:29:51Z",
-          "capturedAt": "2026-11-20T03:27:16.374Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -111155,6 +111339,10 @@
             {
               "capturedAt": "2026-11-20T03:27:16.374Z",
               "stars": 997
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 996
             }
           ]
         },
@@ -111170,7 +111358,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-20T03:27:16.374Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -112574,11 +112762,11 @@
       "observations": {
         "repository": "pulseaiclub/phi",
         "github": {
-          "stars": 1011,
+          "stars": 1012,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T16:18:56Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T16:42:30Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -112635,6 +112823,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 1011
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 1012
             }
           ]
         },
@@ -112650,7 +112842,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -112884,11 +113076,11 @@
       "observations": {
         "repository": "QCYTSN/dsh-dafeiyu",
         "github": {
-          "stars": 632,
+          "stars": 635,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-10-29T07:19:09Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -112953,6 +113145,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 632
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 635
             }
           ]
         },
@@ -112968,7 +113164,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -117641,9 +117837,9 @@
         "github": {
           "stars": 1,
           "license": "MIT",
-          "archived": false,
+          "archived": true,
           "lastPushAt": "2026-08-13T18:17:33Z",
-          "capturedAt": "2026-11-03T10:59:31.258Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -117671,7 +117867,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-03T10:59:31.258Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -117731,8 +117927,8 @@
           "stars": 0,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T11:19:51Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T11:14:43Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -117756,7 +117952,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -123037,8 +123233,8 @@
           "stars": 110,
           "license": null,
           "archived": false,
-          "lastPushAt": "2026-11-26T08:47:45Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T08:15:27Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -123082,7 +123278,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -125817,17 +126013,13 @@
       "observations": {
         "repository": "Small-tailqwq/dsh-deep-whale",
         "github": {
-          "stars": 3151,
+          "stars": 3156,
           "license": "NOASSERTION",
           "archived": false,
-          "lastPushAt": "2026-11-26T08:29:37Z",
+          "lastPushAt": "2026-11-27T15:29:29Z",
           "latestReleaseAt": "2026-10-20T14:56:21Z",
-          "capturedAt": "2026-11-27T02:15:51.073Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-10-23T07:38:47.727Z",
-              "stars": 2801
-            },
             {
               "capturedAt": "2026-10-23T22:17:47.827Z",
               "stars": 2818
@@ -126183,6 +126375,10 @@
             {
               "capturedAt": "2026-11-27T02:15:51.073Z",
               "stars": 3151
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 3156
             }
           ]
         },
@@ -126201,7 +126397,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-27T02:15:51.073Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-11-03T02:56:42.794Z"
@@ -127371,11 +127567,11 @@
       "observations": {
         "repository": "sorsama/deepseek-harness-mobile",
         "github": {
-          "stars": 374,
+          "stars": 376,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T18:39:40Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T19:30:04Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -127444,6 +127640,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 374
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 376
             }
           ]
         },
@@ -127459,7 +127659,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -128460,11 +128660,11 @@
       "observations": {
         "repository": "STARDUSTLC666/dsh-calendar",
         "github": {
-          "stars": 9,
+          "stars": 10,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-11-25T18:41:39Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -128489,6 +128689,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 9
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 10
             }
           ]
         },
@@ -128504,7 +128708,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -128671,8 +128875,8 @@
           "stars": 52,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T11:38:32Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T11:21:20Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -128736,7 +128940,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -128897,11 +129101,11 @@
       "observations": {
         "repository": "STARDUSTLC666/dsh-slack",
         "github": {
-          "stars": 3,
+          "stars": 4,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-11-26T08:21:35Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -128914,6 +129118,10 @@
             {
               "capturedAt": "2026-11-03T10:59:31.258Z",
               "stars": 3
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 4
             }
           ]
         },
@@ -128929,7 +129137,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -128988,9 +129196,9 @@
         "github": {
           "stars": 7,
           "license": "MIT",
-          "archived": false,
-          "lastPushAt": "2026-11-13T15:54:21Z",
-          "capturedAt": "2026-11-13T22:41:41.331Z",
+          "archived": true,
+          "lastPushAt": "2026-11-27T18:22:01Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -129022,7 +129230,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-13T22:41:41.331Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -131937,8 +132145,8 @@
           "stars": 286,
           "license": "Apache-2.0",
           "archived": false,
-          "lastPushAt": "2026-11-26T14:56:13Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T07:31:51Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -132018,7 +132226,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -132382,11 +132590,11 @@
       "observations": {
         "repository": "techysy/deepseek-harness-fnos",
         "github": {
-          "stars": 94,
+          "stars": 93,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-11-19T00:35:15Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -132431,6 +132639,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 94
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 93
             }
           ]
         },
@@ -132446,7 +132658,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -132592,11 +132804,11 @@
       "observations": {
         "repository": "TencentCloud/tencentmeeting-cli",
         "github": {
-          "stars": 256,
+          "stars": 259,
           "license": "NOASSERTION",
           "archived": false,
-          "lastPushAt": "2026-11-23T15:51:09Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T08:58:22Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -132641,6 +132853,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 256
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 259
             }
           ]
         },
@@ -132656,7 +132872,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -132813,11 +133029,11 @@
       "observations": {
         "repository": "text2future/flowix",
         "github": {
-          "stars": 519,
+          "stars": 521,
           "license": "AGPL-3.0",
           "archived": false,
-          "lastPushAt": "2026-11-26T16:40:33Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T19:44:54Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -132874,6 +133090,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 519
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 521
             }
           ]
         },
@@ -132889,7 +133109,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -133342,8 +133562,8 @@
           "stars": 4,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T13:27:36Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T15:53:22Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -133371,7 +133591,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -133601,11 +133821,11 @@
       "observations": {
         "repository": "THU-MAIC/dsh-openmaic",
         "github": {
-          "stars": 137,
+          "stars": 138,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-08-13T13:27:52Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -133662,6 +133882,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 137
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 138
             }
           ]
         },
@@ -133677,7 +133901,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -135913,11 +136137,11 @@
       "observations": {
         "repository": "TQSY114514/dsh-ui-appearance",
         "github": {
-          "stars": 35,
+          "stars": 36,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-21T15:38:29Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T16:36:07Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -135958,6 +136182,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 35
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 36
             }
           ]
         },
@@ -135973,7 +136201,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -136688,11 +136916,11 @@
       "observations": {
         "repository": "tt-a1i/archify",
         "github": {
-          "stars": 100499,
+          "stars": 100914,
           "license": "Apache-2.0",
           "archived": false,
-          "lastPushAt": "2026-11-26T01:45:04Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T17:04:57Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -136761,6 +136989,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 100499
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 100914
             }
           ]
         },
@@ -136776,7 +137008,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -138106,11 +138338,11 @@
       "observations": {
         "repository": "Tyan66666/billion-context-dsh",
         "github": {
-          "stars": 172,
+          "stars": 173,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-11-10T06:43:52Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -138155,6 +138387,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 172
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 173
             }
           ]
         },
@@ -138170,7 +138406,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -138326,8 +138562,8 @@
           "stars": 2,
           "license": null,
           "archived": false,
-          "lastPushAt": "2026-11-25T21:53:10Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-26T21:51:57Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -138351,7 +138587,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -141301,8 +141537,8 @@
           "stars": 10,
           "license": "NOASSERTION",
           "archived": false,
-          "lastPushAt": "2026-11-26T12:44:38Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T12:35:03Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -141338,7 +141574,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -141849,8 +142085,8 @@
           "stars": 57,
           "license": "NOASSERTION",
           "archived": false,
-          "lastPushAt": "2026-11-24T08:44:00Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T01:00:49Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -141910,7 +142146,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -144704,8 +144940,8 @@
           "stars": 13,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-25T13:18:25Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T12:52:00Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -144737,7 +144973,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -145008,11 +145244,11 @@
       "observations": {
         "repository": "whiteguo233/OpenBiliClaw",
         "github": {
-          "stars": 3812,
+          "stars": 3834,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-11-26T09:21:56Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -145081,6 +145317,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 3812
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 3834
             }
           ]
         },
@@ -145096,7 +145336,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -145647,8 +145887,8 @@
           "stars": 69,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T15:19:55Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T19:02:19Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -145700,7 +145940,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -147002,8 +147242,8 @@
           "stars": 3,
           "license": null,
           "archived": false,
-          "lastPushAt": "2026-11-26T16:59:36Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T19:47:56Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -147031,7 +147271,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -147098,8 +147338,8 @@
           "stars": 110,
           "license": "Apache-2.0",
           "archived": false,
-          "lastPushAt": "2026-11-26T07:43:25Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T15:42:28Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -147155,7 +147395,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -147664,11 +147904,11 @@
       "observations": {
         "repository": "WSL043/dsh-codex-subscription",
         "github": {
-          "stars": 544,
+          "stars": 548,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T18:21:26Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T19:50:14Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -147737,6 +147977,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 544
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 548
             }
           ]
         },
@@ -147752,7 +147996,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -150902,11 +151146,11 @@
       "observations": {
         "repository": "xiaoyuyu6420/dsh-backup",
         "github": {
-          "stars": 49,
+          "stars": 51,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-10T02:43:29Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T07:40:20Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -150947,6 +151191,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 49
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 51
             }
           ]
         },
@@ -150962,7 +151210,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -153121,11 +153369,11 @@
       "observations": {
         "repository": "xyTom/coding-tools-mcp",
         "github": {
-          "stars": 1227,
+          "stars": 1228,
           "license": "Apache-2.0",
           "archived": false,
           "lastPushAt": "2026-10-29T03:14:08Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -153174,6 +153422,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 1227
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 1228
             }
           ]
         },
@@ -153189,7 +153441,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -154541,8 +154793,8 @@
           "stars": 192,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T04:49:12Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T00:59:05Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -154602,7 +154854,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -155032,11 +155284,11 @@
       "observations": {
         "repository": "yejiming/MuseAI",
         "github": {
-          "stars": 722,
+          "stars": 719,
           "license": null,
           "archived": false,
           "lastPushAt": "2026-11-04T05:53:15Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -155097,6 +155349,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 722
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 719
             }
           ]
         },
@@ -155112,7 +155368,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -156104,11 +156360,11 @@
       "observations": {
         "repository": "yjh051108/dsh-super-injector",
         "github": {
-          "stars": 166,
+          "stars": 165,
           "license": null,
           "archived": false,
           "lastPushAt": "2026-10-16T21:29:43Z",
-          "capturedAt": "2026-11-16T09:52:30.788Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -156137,6 +156393,10 @@
             {
               "capturedAt": "2026-11-16T09:52:30.788Z",
               "stars": 166
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 165
             }
           ]
         },
@@ -156152,7 +156412,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-16T09:52:30.788Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -157836,11 +158096,11 @@
       "observations": {
         "repository": "ysr666/dsh-vision-router",
         "github": {
-          "stars": 1304,
+          "stars": 1305,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T16:20:58Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T17:08:56Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -157909,6 +158169,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 1304
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 1305
             }
           ]
         },
@@ -157924,7 +158188,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -161275,8 +161539,8 @@
           "stars": 73,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-26T15:47:08Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T19:42:48Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -161316,7 +161580,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -162216,11 +162480,11 @@
       "observations": {
         "repository": "zenx0x/allinluna",
         "github": {
-          "stars": 65,
+          "stars": 66,
           "license": "Apache-2.0",
           "archived": false,
           "lastPushAt": "2026-09-01T13:24:30Z",
-          "capturedAt": "2026-11-03T10:59:31.258Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -162241,6 +162505,10 @@
             {
               "capturedAt": "2026-11-03T10:59:31.258Z",
               "stars": 65
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 66
             }
           ]
         },
@@ -162256,7 +162524,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-03T10:59:31.258Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -164268,11 +164536,11 @@
       "observations": {
         "repository": "zhoushoujianwork/easyeda-agent",
         "github": {
-          "stars": 1231,
+          "stars": 1249,
           "license": "NOASSERTION",
           "archived": false,
-          "lastPushAt": "2026-11-26T16:51:14Z",
-          "capturedAt": "2026-11-26T19:06:59.570Z",
+          "lastPushAt": "2026-11-27T14:36:58Z",
+          "capturedAt": "2026-11-27T20:01:01.069Z",
           "starHistory": [
             {
               "capturedAt": "2026-08-14T10:30:21.295Z",
@@ -164333,6 +164601,10 @@
             {
               "capturedAt": "2026-11-26T19:06:59.570Z",
               "stars": 1231
+            },
+            {
+              "capturedAt": "2026-11-27T20:01:01.069Z",
+              "stars": 1249
             }
           ]
         },
@@ -164348,7 +164620,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-26T19:06:59.570Z"
+          "lastSeenAt": "2026-11-27T20:01:01.069Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-08-14T10:30:21.295Z"
@@ -167551,10 +167823,10 @@
     }
   ],
   "candidateSummary": {
-    "total": 36815,
-    "checked": 33162,
-    "unchecked": 3653,
-    "admissionReady": 27388,
-    "hidden": 36815
+    "total": 37144,
+    "checked": 33401,
+    "unchecked": 3743,
+    "admissionReady": 27594,
+    "hidden": 37144
   }
 }
