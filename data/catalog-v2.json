@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-28T02:46:05.252Z",
-  "sourceCommit": "171be501b728c5b9613b8aea634e6b86237185c1e3fe4efb022c72857b28a681",
+  "updatedAt": "2026-11-28T11:56:56.548Z",
+  "sourceCommit": "27a32e19fa46f3624506e408e1ff701fb7fd3c79c3acdc458d19b33d8f85ae61",
   "source": {
     "repository": "Ericwong5021/deepseek-plugin-store",
     "registry": "registry/plugins",
@@ -419,7 +419,7 @@
       }
     ],
     "rankings": {
-      "generatedAt": "2026-11-28T02:46:05.252Z",
+      "generatedAt": "2026-11-28T11:56:56.548Z",
       "eligibleCount": 575,
       "popular": {
         "method": "current-github-stars",
@@ -24153,17 +24153,13 @@
       "observations": {
         "repository": "ccch1mneyyy/dsh-TUI",
         "github": {
-          "stars": 8366,
+          "stars": 8374,
           "license": "MIT",
           "archived": false,
-          "lastPushAt": "2026-11-28T02:01:50Z",
+          "lastPushAt": "2026-11-28T11:29:16Z",
           "latestReleaseAt": "2026-11-01T03:37:37Z",
-          "capturedAt": "2026-11-28T02:46:05.252Z",
+          "capturedAt": "2026-11-28T11:56:56.548Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-10-29T05:56:32.128Z",
-              "stars": 6135
-            },
             {
               "capturedAt": "2026-10-29T13:14:12.996Z",
               "stars": 6171
@@ -24519,6 +24515,10 @@
             {
               "capturedAt": "2026-11-28T02:46:05.252Z",
               "stars": 8366
+            },
+            {
+              "capturedAt": "2026-11-28T11:56:56.548Z",
+              "stars": 8374
             }
           ]
         },
@@ -24537,7 +24537,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-14T00:00:00Z",
-          "lastSeenAt": "2026-11-28T02:46:05.252Z"
+          "lastSeenAt": "2026-11-28T11:56:56.548Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-11-03T02:56:42.794Z"
@@ -97685,17 +97685,13 @@
       "observations": {
         "repository": "omdsh-dev/DSH-better-sidebar",
         "github": {
-          "stars": 5362,
+          "stars": 5366,
           "license": "MIT",
           "archived": false,
           "lastPushAt": "2026-11-27T13:45:45Z",
           "latestReleaseAt": "2026-10-27T15:08:45Z",
-          "capturedAt": "2026-11-28T02:46:05.252Z",
+          "capturedAt": "2026-11-28T11:56:56.548Z",
           "starHistory": [
-            {
-              "capturedAt": "2026-10-28T06:53:39.503Z",
-              "stars": 4655
-            },
             {
               "capturedAt": "2026-10-28T19:38:00.972Z",
               "stars": 4693
@@ -98051,6 +98047,10 @@
             {
               "capturedAt": "2026-11-28T02:46:05.252Z",
               "stars": 5362
+            },
+            {
+              "capturedAt": "2026-11-28T11:56:56.548Z",
+              "stars": 5366
             }
           ]
         },
@@ -98069,7 +98069,7 @@
             "github-topic"
           ],
           "firstSeenAt": "2026-08-13T00:00:00Z",
-          "lastSeenAt": "2026-11-28T02:46:05.252Z"
+          "lastSeenAt": "2026-11-28T11:56:56.548Z"
         },
         "failures": [],
         "lastSuccessfulAt": "2026-11-03T02:56:42.794Z"
@@ -167824,9 +167824,9 @@
   ],
   "candidateSummary": {
     "total": 37155,
-    "checked": 33637,
-    "unchecked": 3518,
-    "admissionReady": 27804,
+    "checked": 33873,
+    "unchecked": 3282,
+    "admissionReady": 28017,
     "hidden": 37155
   }
 }
